@@ -1,3 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" catchup="default" catchup-days="3" catchup-source="rtsp://124.75.34.37/PLTV/88888888/224/3221226112/00000100000000060000000000037556_0.smil?playseek={utc:YmdHMS}-{utcend:YmdHMS}" group-title="上海地方台",东方卫视HD
 http://192.168.12.254:58888/udp/239.45.3.146:5140
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" catchup="default" catchup-days="3" catchup-source="rtsp://124.75.34.37/PLTV/88888888/224/3221226233/10000100000000060000000000813435_0.smil?playseek={utc:YmdHMS}-{utcend:YmdHMS}" group-title="上海地方台",新闻综合HD
+http://192.168.12.254:58888/udp/239.45.3.209:5140
