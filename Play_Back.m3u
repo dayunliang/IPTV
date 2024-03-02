@@ -32,7 +32,7 @@ rtsp://124.75.34.37/PLTV/88888888/224/0/3221225478/00000000010t.smil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",MAX极速汽车
 rtsp://124.75.34.37/PLTV/88888888/224/3221226292/10000100000000060000000001678743_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",上海教育
-rtsp://124.75.34.37/PLTV/88888888/224/3221226088/00000100000000060000000000007667_0.smil
+http://192.168.12.254:58888/rtp/239.45.0.13:5140
 #EXTINF:-1 tvg-id="" tvg-name="东方财经" tvg-logo="" group-title="上海",东方财经
 http://192.168.12.254:58888/rtp/239.45.0.17:5140#http://192.168.12.254:58888/rtp/239.45.1.119:5140
 #EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海",七彩戏剧HD
