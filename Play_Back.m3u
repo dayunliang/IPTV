@@ -28,7 +28,7 @@ http://192.168.12.254:58888/rtp/239.45.3.134:5140
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
 http://192.168.12.254:58888/rtp/239.45.3.132:5140
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
-http://192.168.12.254:58888/rtp/239.45.3.131:5140
+rtsp://124.75.34.37/PLTV/88888888/224/0/3221225478/00000000010t.smil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MAX极速汽车
 http://192.168.12.254:58888/rtp/239.45.3.49:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",上海教育
