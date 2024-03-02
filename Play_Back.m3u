@@ -13,17 +13,17 @@ rtsp://124.75.34.37/PLTV/88888888/224/3221226220/1000010000000006000000000052206
 rtsp://124.75.34.37/PLTV/88888888/224/3221226368/10000100000000060000000000813433_0_mdn_1.smil
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育频道
 rtsp://124.75.34.37/PLTV/88888888/224/3221226234/10000100000000060000000000813434_0.smil
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="卫视",哈哈炫动
-http://192.168.12.254:58888/rtp/239.45.1.55:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",上视外语频道
-http://192.168.12.254:58888/rtp/239.45.1.127:5140
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海",哈哈炫动
+rtsp://124.75.34.37/PLTV/88888888/224/3221226077/00000100000000060000000000000293_0.smil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",上视外语频道
+rtsp://124.75.34.37/PLTV/88888888/224/3221226097/00000100000000060000000000007696_0.smil
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",上海都市剧场
-http://192.168.12.254:58888/rtp/239.45.3.136:5140
+rtsp://124.75.34.37/PLTV/88888888/224/3221226249/10000100000000060000000001005951_0.smil
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场
 http://192.168.12.254:58888/rtp/239.45.3.196:5140
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",全纪实
 http://192.168.12.254:58888/rtp/239.45.3.135:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动漫秀场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",动漫秀场
 http://192.168.12.254:58888/rtp/239.45.3.134:5140
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
 http://192.168.12.254:58888/rtp/239.45.3.132:5140
