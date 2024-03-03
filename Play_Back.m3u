@@ -34,43 +34,44 @@ rtsp://124.75.34.37/PLTV/88888888/224/3221226292/1000010000000006000000000167874
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",上海教育
 http://192.168.12.254:58888/udp/239.45.0.13:5140
 #EXTINF:-1 tvg-id="" tvg-name="东方财经" tvg-logo="" group-title="上海",东方财经
-http://192.168.12.254:58888/rtp/239.45.0.17:5140#http://192.168.12.254:58888/rtp/239.45.1.119:5140
+http://192.168.12.254:58888/udp/239.45.0.17:5140
 #EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海",七彩戏剧HD
-http://192.168.12.254:58888/rtp/239.45.0.16:5140#http://192.168.12.254:58888/rtp/239.45.3.61:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",法治天地
-http://192.168.12.254:58888/rtp/239.45.1.46:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浦东频道
+http://192.168.12.254:58888/udp/239.45.0.16:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",法治天地
+http://192.168.12.254:58888/udp/239.45.1.46:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",浦东频道
 http://192.168.12.254:58888/rtp/239.45.3.248:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",崇明电视
-http://192.168.12.254:58888/rtp/239.45.1.54:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",嘉定频道
-http://192.168.12.254:58888/rtp/239.45.3.185:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",金色学堂
-http://192.168.12.254:58888/rtp/239.45.1.118:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",健康人生
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",崇明电视
+http://192.168.12.254:58888/udp/239.45.1.54:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",嘉定频道
+http://192.168.12.254:58888/udp/239.45.3.185:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",金色学堂
+http://192.168.12.254:58888/udp/239.45.1.118:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",健康人生
 http://192.168.12.254:58888/rtp/239.45.3.214:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百事通超级体育
-http://192.168.12.254:58888/rtp/239.45.3.139:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百事通4K电影
-http://192.168.12.254:58888/rtp/239.45.1.42:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百事通4K纪实
-http://192.168.12.254:58888/rtp/239.45.1.10:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百事通4K儿童
-http://192.168.12.254:58888/rtp/239.45.1.1:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",家庭理财HD
-http://192.168.12.254:58888/rtp/239.45.0.14:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新冠病毒
-http://192.168.12.254:58888/rtp/239.45.3.235:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",百事通超级体育
+http://192.168.12.254:58888/udp/239.45.3.139:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",百事通4K电影
+http://192.168.12.254:58888/udp/239.45.1.42:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",百事通4K纪实
+http://192.168.12.254:58888/udp/239.45.1.10:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",百事通4K儿童
+http://192.168.12.254:58888/udp/239.45.1.1:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",家庭理财HD
+http://192.168.12.254:58888/udp/239.45.0.14:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",新冠病毒
+http://192.168.12.254:58888/udp/239.45.3.235:5140
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓
-http://192.168.12.254:58888/rtp/239.45.3.12:5140
+http://192.168.12.254:58888/udp/239.45.3.12:5140
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",茶频道
-http://192.168.12.254:58888/rtp/239.45.3.18:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",足球频道
+http://192.168.12.254:58888/udp/239.45.3.18:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",足球频道
 http://192.168.12.254:58888/rtp/239.45.3.22:5140
 #EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",财富天下
-http://192.168.12.254:58888/rtp/239.45.0.7:5140
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
-http://192.168.12.254:58888/rtp/239.45.3.145:5140
+http://192.168.12.254:58888/udp/239.45.0.7:5140
+#EXTINF:-1 tvg-id="1" tvg-name="央视一台" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",央视一台
+#http://192.168.12.254:58888/rtp/239.45.3.145:5140
+rtsp://124.75.34.37/PLTV/88888888/224/3221226102/00000100000000060000000000009784_0.smil
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
 http://192.168.12.254:58888/rtp/239.45.0.1:5140
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
