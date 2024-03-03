@@ -106,7 +106,7 @@ http://192.168.12.254:58888/udp/239.45.0.12:5140#http://192.168.12.254:58888/rtp
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://192.168.12.254:58888/udp/239.45.3.52:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
-http://192.168.12.254:58888/rtp/239.45.1.194:5140#http://192.168.12.254:58888/rtp/239.45.3.33:5140
+http://192.168.12.254:58888/udp/239.45.1.194:5140#http://192.168.12.254:58888/rtp/239.45.3.33:5140
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",中国教育1台
 http://192.168.12.254:58888/rtp/239.45.1.125:5140
 #EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",中国教育2台
