@@ -29,43 +29,43 @@ http://192.168.12.254:58888/udp/239.45.3.134:5140
 http://192.168.12.254:58888/udp/239.45.3.132:5140
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
 http://192.168.12.254:58888/udp/239.45.3.131:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MAX极速汽车
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",MAX极速汽车
 http://192.168.12.254:58888/udp/239.45.3.49:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",上海教育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",上海教育
 http://192.168.12.254:58888/udp/239.45.0.13:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东方财经HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",东方财经HD
 http://192.168.12.254:58888/udp/239.45.0.17:5140#http://192.168.12.254:58888/udp/239.45.1.119:5140
 #EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海",七彩戏剧HD
 http://192.168.12.254:58888/udp/239.45.0.16:5140#http://192.168.12.254:58888/udp/239.45.3.61:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",法治天地
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",法治天地
 http://192.168.12.254:58888/udp/239.45.1.46:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浦东频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",浦东频道
 http://192.168.12.254:58888/udp/239.45.3.248:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",崇明电视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",崇明电视
 http://192.168.12.254:58888/udp/239.45.1.54:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",嘉定频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",嘉定频道
 http://192.168.12.254:58888/udp/239.45.3.185:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",金色学堂
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",金色学堂
 http://192.168.12.254:58888/udp/239.45.1.118:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",健康人生
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",健康人生
 http://192.168.12.254:58888/udp/239.45.3.214:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百事通超级体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",百事通超级体育
 http://192.168.12.254:58888/udp/239.45.3.139:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百事通4K电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",百事通4K电影
 http://192.168.12.254:58888/udp/239.45.1.42:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百事通4K纪实
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",百事通4K纪实
 http://192.168.12.254:58888/udp/239.45.1.10:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",百事通4K儿童
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",百事通4K儿童
 http://192.168.12.254:58888/udp/239.45.1.1:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",家庭理财HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",家庭理财HD
 http://192.168.12.254:58888/udp/239.45.0.14:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新冠病毒
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",新冠病毒
 http://192.168.12.254:58888/udp/239.45.3.235:5140
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓
 http://192.168.12.254:58888/udp/239.45.3.12:5140
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",茶频道
 http://192.168.12.254:58888/udp/239.45.3.18:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",足球频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",足球频道
 http://192.168.12.254:58888/udp/239.45.3.22:5140
 #EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",财富天下
 http://192.168.12.254:58888/udp/239.45.0.7:5140
@@ -113,19 +113,19 @@ http://192.168.12.254:58888/udp/239.45.0.12:5140#http://192.168.12.254:58888/udp
 http://192.168.12.254:58888/udp/239.45.3.52:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
 http://192.168.12.254:58888/udp/239.45.1.194:5140#http://192.168.12.254:58888/udp/239.45.3.33:5140
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",中国教育1台
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视",中国教育1台
 http://192.168.12.254:58888/udp/239.45.1.125:5140
-#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",中国教育2台
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="央视",中国教育2台
 http://192.168.12.254:58888/udp/239.45.1.52:5140
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",中国教育4台
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="央视",中国教育4台
 http://192.168.12.254:58888/udp/239.45.1.50:5140
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",中国教育4台HD
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="央视",中国教育4台HD
 http://192.168.12.254:58888/udp/239.45.0.21:5140
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://192.168.12.254:58888/udp/239.45.3.178:5140
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://192.168.12.254:58888/udp/239.45.3.177:5140
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://192.168.12.254:58888/udp/239.45.3.228:5140#http://192.168.12.254:58888/udp/239.45.3.233:5140
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://192.168.12.254:58888/udp/239.45.3.229:5140
@@ -199,65 +199,65 @@ http://192.168.12.254:58888/udp/239.45.1.48:5140
 http://192.168.12.254:58888/udp/239.45.0.8:5140
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京纪实
 http://192.168.12.254:58888/udp/239.45.1.14:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国天气
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",中国天气
 http://192.168.12.254:58888/udp/239.45.1.47:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",陶瓷
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",陶瓷
 http://192.168.12.254:58888/udp/239.45.3.50:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",空中课堂一年级
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育",空中课堂一年级
 http://192.168.12.254:58888/udp/239.45.1.28:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",空中课堂二年级
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育",空中课堂二年级
 http://192.168.12.254:58888/udp/239.45.1.73:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",空中课堂三年级
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育",空中课堂三年级
 http://192.168.12.254:58888/udp/239.45.1.75:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",空中课堂四年级
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育",空中课堂四年级
 http://192.168.12.254:58888/udp/239.45.1.72:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",空中课堂五年级
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育",空中课堂五年级
 http://192.168.12.254:58888/udp/239.45.1.32:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",空中课堂六年级
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育",空中课堂六年级
 http://192.168.12.254:58888/udp/239.45.1.33:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",空中课堂七年级
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育",空中课堂七年级
 http://192.168.12.254:58888/udp/239.45.1.34:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",空中课堂八年级
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育",空中课堂八年级
 http://192.168.12.254:58888/udp/239.45.1.35:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",空中课堂九年级
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育",空中课堂九年级
 http://192.168.12.254:58888/udp/239.45.1.36:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",空中课堂高一年级
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育",空中课堂高一年级
 http://192.168.12.254:58888/udp/239.45.1.37:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",空中课堂高三年级
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育",空中课堂高三年级
 http://192.168.12.254:58888/udp/239.45.1.39:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",空中课堂高二年级
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="教育",空中课堂高二年级
 http://192.168.12.254:58888/udp/239.45.1.38:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东方购物直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",东方购物直播
 http://192.168.12.254:58888/udp/239.45.3.74:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",大购物优选
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",大购物优选
 http://192.168.12.254:58888/udp/239.45.3.75:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东方购物优选
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",东方购物优选
 http://192.168.12.254:58888/udp/239.45.1.111:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东方购物-3HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",东方购物-3HD
 http://192.168.12.254:58888/udp/239.45.3.207:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东方购物-4HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",东方购物-4HD
 http://192.168.12.254:58888/udp/239.45.3.208:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东方购物-5HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",东方购物-5HD
 http://192.168.12.254:58888/udp/239.45.3.253:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",聚鲨环球精选
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",聚鲨环球精选
 http://192.168.12.254:58888/udp/239.45.3.123:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",央广购物
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",央广购物
 http://192.168.12.254:58888/udp/239.45.3.213:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",家家购物
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",家家购物
 http://192.168.12.254:58888/udp/239.45.3.179:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",快乐购物
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",快乐购物
 http://192.168.12.254:58888/udp/239.45.1.53:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",优购物
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",优购物
 http://192.168.12.254:58888/udp/239.45.1.114:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",好享购物
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",好享购物
 http://192.168.12.254:58888/udp/239.45.1.253:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中央购物
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",中央购物
 http://192.168.12.254:58888/udp/239.45.3.79:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",家有购物
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",家有购物
 http://192.168.12.254:58888/udp/239.45.1.43:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",风尚购物
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",风尚购物
 http://192.168.12.254:58888/udp/239.45.1.27:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中视购物
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",中视购物
 http://192.168.12.254:58888/udp/239.45.1.56:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",大恩好物
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="购物",大恩好物
 http://192.168.12.254:58888/udp/239.45.1.57:5140
