@@ -1,4 +1,3 @@
 #EXTM3U
 #EXTINF:000 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="上海地方台",纪实人文HD
-http://192.168.12.222:4022/udp/239.45.3.209:5140
 rtsp://124.75.34.37/PLTV/88888888/224/3221226233/10000100000000060000000000813435_0.smil
