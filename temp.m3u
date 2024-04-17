@@ -1,3 +1,4 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" catchup="default" catchup-days="3" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}" group-title="上海地方台",新闻综合HD
 rtsp://124.75.34.37/PLTV/88888888/224/3221226233/10000100000000060000000000813435_0.smil
+http://192.168.12.222:4022/udp/239.45.3.209:5140
