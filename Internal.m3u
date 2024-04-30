@@ -29,7 +29,7 @@ http://192.168.12.222:4022/udp/239.45.3.134:5140
 http://192.168.12.222:4022/udp/239.45.3.132:5140
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
 http://192.168.12.222:4022/udp/239.45.3.131:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",MAX极速汽车
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/MAX极速汽车.png" group-title="上海",MAX极速汽车
 http://192.168.12.222:4022/udp/239.45.3.49:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",上海教育
 http://192.168.12.222:4022/udp/239.45.0.13:5140
