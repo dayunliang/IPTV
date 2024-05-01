@@ -23,7 +23,7 @@ http://192.168.12.222:4022/udp/239.45.3.136:5140
 http://192.168.12.222:4022/udp/239.45.3.196:5140
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",全纪实
 http://192.168.12.222:4022/udp/239.45.3.135:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",动漫秀场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="上海",动漫秀场
 http://192.168.12.222:4022/udp/239.45.3.134:5140
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
 http://192.168.12.222:4022/udp/239.45.3.132:5140
@@ -37,27 +37,21 @@ http://192.168.12.222:4022/udp/239.45.0.13:5140
 http://192.168.12.222:4022/udp/239.45.0.17:5140#http://192.168.12.222:4022/udp/239.45.1.119:5140
 #EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海",七彩戏剧HD
 http://192.168.12.222:4022/udp/239.45.0.16:5140#http://192.168.12.222:4022/udp/239.45.3.61:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",法治天地
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="上海",法治天地
 http://192.168.12.222:4022/udp/239.45.1.46:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",浦东频道
-http://192.168.12.222:4022/udp/239.45.3.248:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",崇明电视
-http://192.168.12.222:4022/udp/239.45.1.54:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",嘉定频道
 http://192.168.12.222:4022/udp/239.45.3.185:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",金色学堂
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="上海",金色学堂
 http://192.168.12.222:4022/udp/239.45.1.118:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",健康人生
-http://192.168.12.222:4022/udp/239.45.3.214:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",百事通超级体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/百事通.png" group-title="上海",百事通超级体育
 http://192.168.12.222:4022/udp/239.45.3.139:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",百事通4K电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/百事通.png" group-title="上海",百事通4K电影
 http://192.168.12.222:4022/udp/239.45.1.42:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",百事通4K纪实
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/百事通.png" group-title="上海",百事通4K纪实
 http://192.168.12.222:4022/udp/239.45.1.10:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",百事通4K儿童
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/百事通.png" group-title="上海",百事通4K儿童
 http://192.168.12.222:4022/udp/239.45.1.1:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",家庭理财HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/家庭理财.png" group-title="上海",家庭理财HD
 http://192.168.12.222:4022/udp/239.45.0.14:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",新冠病毒
 http://192.168.12.222:4022/udp/239.45.3.235:5140
@@ -65,7 +59,7 @@ http://192.168.12.222:4022/udp/239.45.3.235:5140
 http://192.168.12.222:4022/udp/239.45.3.12:5140
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",茶频道
 http://192.168.12.222:4022/udp/239.45.3.18:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",足球频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/足球频道.png" group-title="地方",足球频道
 http://192.168.12.222:4022/udp/239.45.3.22:5140
 #EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",财富天下
 http://192.168.12.222:4022/udp/239.45.0.7:5140
@@ -121,7 +115,7 @@ http://192.168.12.222:4022/udp/239.45.3.228:5140#http://192.168.12.222:4022/udp/
 http://192.168.12.222:4022/udp/239.45.3.229:5140
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://192.168.12.222:4022/udp/239.45.3.230:5140
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
 http://192.168.12.222:4022/udp/239.45.3.231:5140
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://192.168.12.222:4022/udp/239.45.3.232:5140
@@ -191,7 +185,7 @@ http://192.168.12.222:4022/udp/239.45.0.8:5140
 http://192.168.12.222:4022/udp/239.45.1.14:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="央视",中国天气
 http://192.168.12.222:4022/udp/239.45.1.47:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",陶瓷
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/陶瓷.png" group-title="央视",陶瓷
 http://192.168.12.222:4022/udp/239.45.3.50:5140
 
 #EXTINF:-1 tvg-id="25" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png" catchup="default" catchup-days="3" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}" group-title="港澳台",凤凰卫视资讯台
