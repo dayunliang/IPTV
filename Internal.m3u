@@ -55,6 +55,7 @@ http://192.168.12.222:4022/udp/239.45.1.1:5140
 http://192.168.12.222:4022/udp/239.45.0.14:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dayunliang/IPTV/main/Covid-19.jpeg" group-title="上海",新冠病毒
 http://192.168.12.222:4022/udp/239.45.3.235:5140
+
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓
 http://192.168.12.222:4022/udp/239.45.3.12:5140
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",茶频道
@@ -63,6 +64,13 @@ http://192.168.12.222:4022/udp/239.45.3.18:5140
 http://192.168.12.222:4022/udp/239.45.3.22:5140
 #EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",财富天下
 http://192.168.12.222:4022/udp/239.45.0.7:5140
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实
+http://192.168.12.222:4022/udp/239.45.1.45:5140
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
+http://192.168.12.222:4022/udp/239.45.1.48:5140
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方",北京纪实
+http://192.168.12.222:4022/udp/239.45.1.14:5140
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://192.168.12.222:4022/udp/239.45.3.145:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
@@ -105,6 +113,11 @@ http://192.168.12.222:4022/udp/239.45.1.125:5140
 http://192.168.12.222:4022/udp/239.45.1.52:5140
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="央视",中国教育4台HD
 http://192.168.12.222:4022/udp/239.45.0.21:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="央视",中国天气
+http://192.168.12.222:4022/udp/239.45.1.47:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/陶瓷.png" group-title="央视",陶瓷
+http://192.168.12.222:4022/udp/239.45.3.50:5140
+
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://192.168.12.222:4022/udp/239.45.3.178:5140
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
@@ -175,18 +188,8 @@ http://192.168.12.222:4022/udp/239.45.1.82:5140
 http://192.168.12.222:4022/udp/239.45.1.251:5140
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
 http://192.168.12.222:4022/udp/239.45.3.233:5140
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实
-http://192.168.12.222:4022/udp/239.45.1.45:5140
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
-http://192.168.12.222:4022/udp/239.45.1.48:5140
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",卡酷动画
 http://192.168.12.222:4022/udp/239.45.0.8:5140
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方",北京纪实
-http://192.168.12.222:4022/udp/239.45.1.14:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="央视",中国天气
-http://192.168.12.222:4022/udp/239.45.1.47:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/陶瓷.png" group-title="央视",陶瓷
-http://192.168.12.222:4022/udp/239.45.3.50:5140
 
 #EXTINF:-1 tvg-id="" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png" catchup="default" catchup-days="3" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}" group-title="港澳台",凤凰卫视资讯台
 https://edge2.laotv.la/live/PhoenixNews/index.m3u8
