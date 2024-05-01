@@ -53,7 +53,7 @@ http://192.168.12.222:4022/udp/239.45.1.10:5140
 http://192.168.12.222:4022/udp/239.45.1.1:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/家庭理财.png" group-title="上海",家庭理财HD
 http://192.168.12.222:4022/udp/239.45.0.14:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",新冠病毒
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dayunliang/IPTV/main/Covid-19.jpeg" group-title="上海",新冠病毒
 http://192.168.12.222:4022/udp/239.45.3.235:5140
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓
 http://192.168.12.222:4022/udp/239.45.3.12:5140
