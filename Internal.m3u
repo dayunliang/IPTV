@@ -39,7 +39,7 @@ http://192.168.12.222:4022/udp/239.45.0.17:5140#http://192.168.12.222:4022/udp/2
 http://192.168.12.222:4022/udp/239.45.0.16:5140#http://192.168.12.222:4022/udp/239.45.3.61:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="上海",法治天地
 http://192.168.12.222:4022/udp/239.45.1.46:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/dayunliang/IPTV/blob/main/JDTV.jpeg" group-title="上海",嘉定频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dayunliang/IPTV/main/JDTV.jpeg" group-title="上海",嘉定频道
 http://192.168.12.222:4022/udp/239.45.3.185:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="上海",金色学堂
 http://192.168.12.222:4022/udp/239.45.1.118:5140
