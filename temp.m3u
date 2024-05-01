@@ -5,7 +5,7 @@ http://192.168.12.222:4022/udp/239.45.3.209:5140
 http://192.168.12.222:4022/udp/239.45.3.146:5140
 
 #EXTINF:-1 tvg-id="" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯台
-https://edge2.laotv.la/live/PhoenixNews/index.m3u8
+https://edge1.laotv.la/live/PhoenixNews/sc-gaFECQ/v1_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台",凤凰卫视中文台
 https://edge2.laotv.la/live/PhxChinese/sc-gaFECQ/v1_index.m3u8
 #EXTINF:-1 tvg-id="25" tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="港澳台",TVBS新闻台
