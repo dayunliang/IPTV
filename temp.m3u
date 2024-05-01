@@ -3,9 +3,12 @@
 http://192.168.12.222:4022/udp/239.45.3.209:5140
 #EXTINF:-1 tvg-id="25" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" catchup="default" catchup-days="3" catchup-source="rtsp://124.75.34.37/PLTV/88888888/224/3221226112/00000100000000060000000000037556_0.smil&playseek={utc:YmdHMS}-{utcend:YmdHMS}" group-title="卫视",东方卫视
 http://192.168.12.222:4022/udp/239.45.3.146:5140
+
 #EXTINF:-1 tvg-id="" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯台
 https://edge2.laotv.la/live/PhoenixNews/index.m3u8
-#EXTINF:-1 tvg-id="25" tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="卫视",TVBS新闻台
+#EXTINF:-1 tvg-id="" tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台",凤凰卫视中文台
+https://edge2.laotv.la/live/PhxChinese/sc-gaFECQ/v1_index.m3u8
+#EXTINF:-1 tvg-id="25" tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="港澳台",TVBS新闻台
 https://4gtvfreepc-mozai.4gtv.tv/ltkRjb6qIRI5CgZU2_KmnFWNe0YQJCE6tBcvfYdwvyY%3d/index.m3u8?token=52MS1vkA85_gUuO-TcFfNw&expires=1714559734&token1=dLN6nurgTs9QQWkLRHWaAw&expires1=1714559734&refer=NDkxMTViN2YtMDExNS00MmQ3LWEwYWEtZTVhNzM5YjA2NTZl&y=0
-#EXTINF:-1 tvg-id="25" tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="卫视",中天新闻台
+#EXTINF:-1 tvg-id="25" tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="港澳台",中天新闻台
 https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv009/4gtv-live-mid/4gtv-4gtv009-avc1_3000000=8-mp4a_136000_zho=7.m3u8?token=yJ9QE5ptDMj80TVn9I6IJQ&expires=1714587874&token1=iV208etwKd_QO-bTFBnITg&expires1=1714587874
