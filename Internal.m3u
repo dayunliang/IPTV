@@ -191,7 +191,7 @@ http://192.168.12.222:4022/udp/239.45.3.233:5140
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",卡酷动画
 http://192.168.12.222:4022/udp/239.45.0.8:5140
 
-#EXTINF:-1 tvg-id="" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png" catchup="default" catchup-days="3" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}" group-title="港澳台",凤凰卫视资讯台
+#EXTINF:-1 tvg-id="" tvg-name="资讯台" tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png" catchup="default" catchup-days="3" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}" group-title="凤凰卫视",资讯台
 https://edge2.laotv.la/live/PhoenixNews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台",凤凰卫视中文台
+#EXTINF:-1 tvg-id="" tvg-name="中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="凤凰卫视",中文台
 https://edge2.laotv.la/live/PhxChinese/sc-gaFECQ/v1_index.m3u8
