@@ -1,0 +1,27 @@
+name: Merge YT_TV EPG
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'     # 每 6 小时自动执行（UTC 时间）
+  workflow_dispatch:          # 支持手动点击触发
+
+jobs:
+  merge_epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Run YT_TV.sh script
+        run: |
+          chmod +x YT_TV.sh
+          ./YT_TV.sh
+
+      - name: Commit and push updated YT_TV.xml
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add YT_TV.xml
+          git commit -m "🤖 Auto update YT_TV.xml from YT_TV.sh" || echo "No changes"
+          git push
