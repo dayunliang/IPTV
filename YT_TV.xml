@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><tv>
-<tv date="20250622190735 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410355/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410355&amp;date=20250622&amp;timezone=None">
+<tv date="20250622211441 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410355/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410355&amp;date=20250622&amp;timezone=None">
   <channel id="410355">
     <display-name lang="Hong Kong">鳳凰衛視資訊台</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/29/20250129074347363304_81" />
@@ -644,7 +644,7 @@
     <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
     <date>2025-06-24</date>
   </programme>
-<tv date="20250622203227 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20250622&amp;timezone=None">
+<tv date="20250622224447 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20250622&amp;timezone=None">
   <channel id="370177">
     <display-name lang="Taiwan">中天新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110909545808_36.png" />
@@ -894,7 +894,7 @@
     <desc />
     <date>2025-06-24</date>
   </programme>
-<tv date="20250622203227 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20250622&amp;timezone=None">
+<tv date="20250622224448 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20250622&amp;timezone=None">
   <channel id="369244">
     <display-name lang="Taiwan">TVBS 新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151638634532_69.jpg" />
@@ -1079,7 +1079,7 @@
     <desc>播報最即時完整新聞。</desc>
     <date>2025-06-23</date>
   </programme>
-<tv date="20250622203228 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370183/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370183&amp;date=20250622&amp;timezone=None">
+<tv date="20250622224448 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370183/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370183&amp;date=20250622&amp;timezone=None">
   <channel id="370183">
     <display-name lang="Taiwan">TVBS</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110950648129_24.png" />
@@ -1329,7 +1329,7 @@
     <desc />
     <date>2025-06-24</date>
   </programme>
-<tv date="20250622203228 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20250622&amp;timezone=None">
+<tv date="20250622224449 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20250622&amp;timezone=None">
   <channel id="369248">
     <display-name lang="Taiwan">東森新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151543561986_68.jpg" />
@@ -1559,7 +1559,7 @@
     <desc>為觀眾播報最新、最即時的晨間新聞</desc>
     <date>2025-06-23</date>
   </programme>
-<tv date="20250622203229 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20250622&amp;timezone=None">
+<tv date="20250622224449 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20250622&amp;timezone=None">
   <channel id="370173">
     <display-name lang="Taiwan">三立新聞iNEWS</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110842913601_69.png" />
@@ -1794,7 +1794,7 @@
     <desc />
     <date>2025-06-24</date>
   </programme>
-<tv date="20250622203229 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20250622&amp;timezone=None">
+<tv date="20250622224449 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20250622&amp;timezone=None">
   <channel id="370172">
     <display-name lang="Taiwan">民視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110836326598_60.png" />
@@ -2059,7 +2059,7 @@
     <desc />
     <date>2025-06-24</date>
   </programme>
-<tv date="20250622203230 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369324/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369324&amp;date=20250622&amp;timezone=None">
+<tv date="20250622224450 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369324/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369324&amp;date=20250622&amp;timezone=None">
   <channel id="369324">
     <display-name lang="Taiwan">中視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611154201936621_80.jpg" />
@@ -2309,7 +2309,7 @@
     <desc>每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞</desc>
     <date>2025-06-24</date>
   </programme>
-<tv date="20250622203230 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/415097/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=415097&amp;date=20250622&amp;timezone=None">
+<tv date="20250622224450 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/415097/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=415097&amp;date=20250622&amp;timezone=None">
   <channel id="415097">
     <display-name lang="China">台湾电视台</display-name>
     <icon src="" />
@@ -2359,7 +2359,7 @@
     <desc />
     <date>2025-06-22</date>
   </programme>
-<tv date="20250622203231 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369318/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369318&amp;date=20250622&amp;timezone=None">
+<tv date="20250622224451 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369318/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369318&amp;date=20250622&amp;timezone=None">
   <channel id="369318">
     <display-name lang="Taiwan">鏡電視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611152458262909_79.jpg" />
@@ -2614,7 +2614,7 @@
     <desc>我們最關心的，就是台灣各種大小事，內容涵蓋政經、生活、國際等多元面向，在早上七點和八點兩個小時，透過螢幕傳送到您眼前。</desc>
     <date>2025-06-23</date>
   </programme>
-<tv date="20250622203232 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370171/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370171&amp;date=20250622&amp;timezone=None">
+<tv date="20250622224451 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370171/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370171&amp;date=20250622&amp;timezone=None">
   <channel id="370171">
     <display-name lang="Taiwan">華視新聞</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110829650925_83.png" />
@@ -2849,7 +2849,7 @@
     <desc />
     <date>2025-06-24</date>
   </programme>
-<tv date="20250622203232 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335029/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335029&amp;date=20250622&amp;timezone=None">
+<tv date="20250622224452 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335029/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335029&amp;date=20250622&amp;timezone=None">
   <channel id="335029">
     <display-name lang="Taiwan">寰宇新聞HD</display-name>
     <icon src="" />
@@ -3099,5 +3099,1930 @@
     <desc />
     <date>2025-06-23</date>
   </programme>
-<!-- generated at 2025-06-22 12:32:32 UTC -->
+<tv date="20250622222609 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369749/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369749&amp;date=20250622&amp;timezone=None">
+  <channel id="369749">
+    <display-name lang="Singapore">CNN International (HD)</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="369749" start="20250622000000 +0000" stop="20250622003000 +0000">
+    <title lang="zh">World Sport: Saturday, June 21, 2025 5pm ET</title>
+    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622003000 +0000" stop="20250622010000 +0000">
+    <title lang="zh">Elite Escapes: Bodrum</title>
+    <desc>The once sleepy fishing village of Bodrum, home to some of the most exclusive hotels in Turkey, has become an internationally renowned destination for the rich, famous and glamorous.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622010000 +0000" stop="20250622020000 +0000">
+    <title lang="zh">The Whole Story with Anderson Cooper: The Simril(l)s: A Family in Black and White</title>
+    <desc>Sara Sidner shares a powerful portrait of a multi-racial Southern family that confronts and explores its painful shared history and comes together in spite of it. United, they consider how they can serve as a blueprint for racial healing.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622020000 +0000" stop="20250622023000 +0000">
+    <title lang="zh">Inside Africa: The Future of Food</title>
+    <desc>Introducing the innovators and entrepreneurs looking to combat food insecurity and change what we eat in Africa.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622023000 +0000" stop="20250622030000 +0000">
+    <title lang="zh">African Voices Playmakers: MLS African Footballers</title>
+    <desc>Congolese striker Christian Benteke, DC United captain; Senegalese striker Jamal Thiare of Atlanta United; Seattle Sounders' Cameroonian defender Nouhou Tolo.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622030000 +0000" stop="20250622033000 +0000">
+    <title lang="zh">African Voices Changemakers: Rotimi and Vanessa Mdee</title>
+    <desc>Larry Madowo sits down with Nigerian-American star Rotimi and Tanzanian pop sensation Vanessa Mdee in their first-ever joint interview.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622033000 +0000" stop="20250622034500 +0000">
+    <title lang="zh">Marketplace Europe: The Tech Revolutionizing Healthcare In Europe</title>
+    <desc>How cutting-edge medical technologies have become big business across the continent with London-based logistics company Apian and Dutch conglomerate Philips.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622034500 +0000" stop="20250622040000 +0000">
+    <title lang="zh">Marketplace Asia: AI &amp; Robotics in Asia</title>
+    <desc>On the ground at Auto China with some of the key industry players; a rare look inside the factory of Zeekr, an EV spinoff of one of China's largest car brands, Geely.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622040000 +0000" stop="20250622043000 +0000">
+    <title lang="zh">CNN Newsroom: Sunday, June 22, 2025 12am ET</title>
+    <desc>Live context and clarity to the day's top stories from around the world.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622043000 +0000" stop="20250622050000 +0000">
+    <title lang="zh">World Sport: Saturday, June 21, 2025 5pm ET</title>
+    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622050000 +0000" stop="20250622053000 +0000">
+    <title lang="zh">CNN Newsroom: Sunday, June 22, 2025 1am ET</title>
+    <desc>Live context and clarity to the day's top stories from around the world.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622053000 +0000" stop="20250622060000 +0000">
+    <title lang="zh">Inside Africa: The Future of Food</title>
+    <desc>Introducing the innovators and entrepreneurs looking to combat food insecurity and change what we eat in Africa.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622060000 +0000" stop="20250622063000 +0000">
+    <title lang="zh">CNN Newsroom: Sunday, June 22, 2025 2am ET</title>
+    <desc>Live context and clarity to the day's top stories from around the world.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622063000 +0000" stop="20250622064500 +0000">
+    <title lang="zh">Marketplace Europe: The Tech Revolutionizing Healthcare In Europe</title>
+    <desc>How cutting-edge medical technologies have become big business across the continent with London-based logistics company Apian and Dutch conglomerate Philips.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622064500 +0000" stop="20250622070000 +0000">
+    <title lang="zh">Marketplace Asia: AI &amp; Robotics in Asia</title>
+    <desc>On the ground at Auto China with some of the key industry players; a rare look inside the factory of Zeekr, an EV spinoff of one of China's largest car brands, Geely.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622070000 +0000" stop="20250622073000 +0000">
+    <title lang="zh">CNN Newsroom: Sunday, June 22, 2025 3am ET</title>
+    <desc>Live context and clarity to the day's top stories from around the world.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622073000 +0000" stop="20250622080000 +0000">
+    <title lang="zh">Elite Escapes: Bodrum</title>
+    <desc>The once sleepy fishing village of Bodrum, home to some of the most exclusive hotels in Turkey, has become an internationally renowned destination for the rich, famous and glamorous.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622080000 +0000" stop="20250622090000 +0000">
+    <title lang="zh">CNN Newsroom: Sunday, June 22, 2025 4am ET</title>
+    <desc>Live context and clarity to the day's top stories from around the world.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622090000 +0000" stop="20250622100000 +0000">
+    <title lang="zh">CNN Newsroom: Sunday, June 22, 2025 5am ET</title>
+    <desc>Live context and clarity to the day's top stories from around the world.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622100000 +0000" stop="20250622103000 +0000">
+    <title lang="zh">Call to Earth: Searching for Super Coral</title>
+    <desc>After the Great Barrier Reef experienced its 7th mass bleaching event in 2024, a marine biologist believes the world's toughest corals can help save areas of the dying reef.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622103000 +0000" stop="20250622110000 +0000">
+    <title lang="zh">Inside Africa: The Future of Food</title>
+    <desc>Introducing the innovators and entrepreneurs looking to combat food insecurity and change what we eat in Africa.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622110000 +0000" stop="20250622120000 +0000">
+    <title lang="zh">CNN This Morning Weekend: Sunday, June 22, 2025 7AM</title>
+    <desc>Start your day with Victor Blackwell bringing you the latest headlines and analysis.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622120000 +0000" stop="20250622130000 +0000">
+    <title lang="zh">Inside Politics: Sunday, June 22, 2025 8AM</title>
+    <desc>Manu Raju leads an in-depth conversation on the week's most important political storylines, with a diverse set of analysts and news-making interviews.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622130000 +0000" stop="20250622140000 +0000">
+    <title lang="zh">State of the Union: Sunday, June 22, 2025 9AM</title>
+    <desc>Jake Tapper and Dana Bash bring together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622140000 +0000" stop="20250622150000 +0000">
+    <title lang="zh">Fareed Zakaria GPS: Sunday, June 22, 2025 10AM</title>
+    <desc>Fareed Zakaria brings viewers his insights and analysis, and interviews world leaders, artists, scientists, business leaders, global affairs analysts and other cultural observers for the 'Global Public Square.'.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622150000 +0000" stop="20250622160000 +0000">
+    <title lang="zh">Inside Politics: Sunday, June 22, 2025 8AM</title>
+    <desc>Manu Raju leads an in-depth conversation on the week's most important political storylines, with a diverse set of analysts and news-making interviews.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622160000 +0000" stop="20250622163000 +0000">
+    <title lang="zh">World Sport: Sunday, June 22, 2025 12pm ET</title>
+    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622163000 +0000" stop="20250622170000 +0000">
+    <title lang="zh">Inside Africa: The Future of Food</title>
+    <desc>Introducing the innovators and entrepreneurs looking to combat food insecurity and change what we eat in Africa.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622170000 +0000" stop="20250622173000 +0000">
+    <title lang="zh">African Voices Playmakers: MLS African Footballers</title>
+    <desc>Congolese striker Christian Benteke, DC United captain; Senegalese striker Jamal Thiare of Atlanta United; Seattle Sounders' Cameroonian defender Nouhou Tolo.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622173000 +0000" stop="20250622180000 +0000">
+    <title lang="zh">Connecting Africa: Cote d'Ivoire Economy</title>
+    <desc>As Cote d'Ivoire cements its position as a regional trade and business hub, Abidjan Port plays a vital role in driving intra-African commerce across the West African region.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622180000 +0000" stop="20250622190000 +0000">
+    <title lang="zh">CNN Newsroom (CNN/US): Sunday, June 22, 2025 2PM</title>
+    <desc>Updates of the latest news from around the world.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622190000 +0000" stop="20250622200000 +0000">
+    <title lang="zh">CNN Newsroom (CNN/US): Sunday, June 22, 2025 3PM</title>
+    <desc>Updates of the latest news from around the world.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622200000 +0000" stop="20250622210000 +0000">
+    <title lang="zh">CNN Newsroom (CNN/US): Sunday, June 22, 2025 4PM</title>
+    <desc>Updates of the latest news from around the world.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622210000 +0000" stop="20250622213000 +0000">
+    <title lang="zh">World Sport: Sunday, June 22, 2025 5pm ET</title>
+    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622213000 +0000" stop="20250622220000 +0000">
+    <title lang="zh">Inside Africa: Cape Flora (Part 2)</title>
+    <desc>We follow renowned garden designer Leon Kluge as he prepares to represent South Africa at the RHS Chelsea Flower Show and the stories of those bringing the fynbos biome to life.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622220000 +0000" stop="20250622230000 +0000">
+    <title lang="zh">CNN Newsroom (CNN/US): Sunday, June 22, 2025 6PM</title>
+    <desc>Updates of the latest news from around the world.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250622230000 +0000" stop="20250623000000 +0000">
+    <title lang="zh">CNN Newsroom (CNN/US): Sunday, June 22, 2025 7PM</title>
+    <desc>Updates of the latest news from around the world.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369749" start="20250623000000 +0000" stop="20250623010000 +0000">
+    <title lang="zh">CNN Newsroom (CNN/US): Sunday, June 22, 2025 8PM</title>
+    <desc>Updates of the latest news from around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623010000 +0000" stop="20250623020000 +0000">
+    <title lang="zh">Fareed Zakaria GPS: Sunday, June 22, 2025 10AM</title>
+    <desc>Fareed Zakaria brings viewers his insights and analysis, and interviews world leaders, artists, scientists, business leaders, global affairs analysts and other cultural observers for the 'Global Public Square.'.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623020000 +0000" stop="20250623023000 +0000">
+    <title lang="zh">African Voices Playmakers: MLS African Footballers</title>
+    <desc>Congolese striker Christian Benteke, DC United captain; Senegalese striker Jamal Thiare of Atlanta United; Seattle Sounders' Cameroonian defender Nouhou Tolo.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623023000 +0000" stop="20250623024500 +0000">
+    <title lang="zh">Marketplace Europe: The Tech Revolutionizing Healthcare In Europe</title>
+    <desc>How cutting-edge medical technologies have become big business across the continent with London-based logistics company Apian and Dutch conglomerate Philips.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623024500 +0000" stop="20250623030000 +0000">
+    <title lang="zh">Marketplace Asia: AI &amp; Robotics in Asia</title>
+    <desc>On the ground at Auto China with some of the key industry players; a rare look inside the factory of Zeekr, an EV spinoff of one of China's largest car brands, Geely.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623030000 +0000" stop="20250623033000 +0000">
+    <title lang="zh">Inside Africa: Cape Flora (Part 2)</title>
+    <desc>We follow renowned garden designer Leon Kluge as he prepares to represent South Africa at the RHS Chelsea Flower Show and the stories of those bringing the fynbos biome to life.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623033000 +0000" stop="20250623040000 +0000">
+    <title lang="zh">Inside Africa: The Future of Food</title>
+    <desc>Introducing the innovators and entrepreneurs looking to combat food insecurity and change what we eat in Africa.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623040000 +0000" stop="20250623044500 +0000">
+    <title lang="zh">CNN Newsroom: Monday, June 23, 2025 12am ET</title>
+    <desc>Live context and clarity to the day's top stories from around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623044500 +0000" stop="20250623050000 +0000">
+    <title lang="zh">World Sport: Monday, June 23, 2025 1245am ET</title>
+    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623050000 +0000" stop="20250623060000 +0000">
+    <title lang="zh">CNN Newsroom: Monday, June 23, 2025 1am ET</title>
+    <desc>Live context and clarity to the day's top stories from around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623060000 +0000" stop="20250623064500 +0000">
+    <title lang="zh">CNN Newsroom: Monday, June 23, 2025 2am ET</title>
+    <desc>Live context and clarity to the day's top stories from around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623064500 +0000" stop="20250623070000 +0000">
+    <title lang="zh">World Sport: Monday, June 23, 2025 1245am ET</title>
+    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623070000 +0000" stop="20250623080000 +0000">
+    <title lang="zh">CNN Newsroom: Monday, June 23, 2025 3am ET</title>
+    <desc>Live context and clarity to the day's top stories from around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623080000 +0000" stop="20250623090000 +0000">
+    <title lang="zh">The Amanpour Hour: Saturday, June 21, 2025 11AM</title>
+    <desc>Christiane Amanpour, CNN's chief international anchor, brings valuable insight to the biggest global and domestic news stories of the week.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623090000 +0000" stop="20250623100000 +0000">
+    <title lang="zh">Early Start: Monday, June 23, 2025 5am ET</title>
+    <desc>Start your day with all the information you need. This hour gives you the stories that will shape the next 24. On the agenda: U.S. politics and global affairs, what to expect in the business world, and key cultural and sporting events.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623100000 +0000" stop="20250623110000 +0000">
+    <title lang="zh">CNN This Morning: Monday, June 23, 2025 6AM</title>
+    <desc>Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623110000 +0000" stop="20250623120000 +0000">
+    <title lang="zh">CNN News Central: Monday, June 23, 2025 7AM</title>
+    <desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623120000 +0000" stop="20250623123000 +0000">
+    <title lang="zh">CNN News Central: Monday, June 23, 2025 8AM</title>
+    <desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623123000 +0000" stop="20250623130000 +0000">
+    <title lang="zh">World Sport: Monday, June 23, 2025 830am ET</title>
+    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623130000 +0000" stop="20250623134500 +0000">
+    <title lang="zh">Connect the World: Monday, June 23, 2025 9am ET</title>
+    <desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623134500 +0000" stop="20250623140000 +0000">
+    <title lang="zh">World Sport: Monday, June 23, 2025 945am ET</title>
+    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623140000 +0000" stop="20250623150000 +0000">
+    <title lang="zh">Connect the World: Monday, June 23, 2025 10am ET</title>
+    <desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623150000 +0000" stop="20250623160000 +0000">
+    <title lang="zh">One World: Monday, June 23, 2025 11am ET</title>
+    <desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623160000 +0000" stop="20250623170000 +0000">
+    <title lang="zh">One World: Monday, June 23, 2025 12pm ET</title>
+    <desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623170000 +0000" stop="20250623180000 +0000">
+    <title lang="zh">Amanpour: Monday, June 23, 2025 1pm ET</title>
+    <desc>Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623180000 +0000" stop="20250623190000 +0000">
+    <title lang="zh">Isa Soares Tonight: Monday, June 23, 2025 2pm ET</title>
+    <desc>Isa Soares deep dives into today's top stories with insightful conversations and reports from around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623190000 +0000" stop="20250623200000 +0000">
+    <title lang="zh">What We Know with Max Foster: Monday, June 23, 2025 3pm ET</title>
+    <desc>Max Foster has a definitive roundup of the day's top stories, giving you the urgent need-to-know context, plus a deeper dive into the questions sparking debate around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623200000 +0000" stop="20250623210000 +0000">
+    <title lang="zh">Quest Means Business: Monday, June 23, 2025 4pm ET</title>
+    <desc>Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623210000 +0000" stop="20250623213000 +0000">
+    <title lang="zh">The Lead: Monday, June 23, 2025 5PM</title>
+    <desc>Jake Tapper covers all the day's top stories around the country and the globe, from politics to money, sports to popular culture.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623213000 +0000" stop="20250623220000 +0000">
+    <title lang="zh">World Sport: Monday, June 23, 2025 530pm ET</title>
+    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623220000 +0000" stop="20250623230000 +0000">
+    <title lang="zh">The Brief with Jim Sciutto: Monday, June 23, 2025 6pm ET</title>
+    <desc>The best of CNN's reporting from correspondents across the world, to guide global audiences through the fast-paced news cycle with insight, analysis and hard-hitting interviews.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250623230000 +0000" stop="20250624000000 +0000">
+    <title lang="zh">Erin Burnett OutFront: Monday, June 23, 2025 7PM</title>
+    <desc>Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369749" start="20250624000000 +0000" stop="20250625000000 +0000">
+    <title lang="zh">Anderson Cooper 360: Monday, June 23, 2025 8PM</title>
+    <desc>Anderson Cooper takes you beyond the headlines with in-depth reporting and investigations.</desc>
+    <date>2025-06-24</date>
+  </programme>
+<tv date="20250622224452 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403819/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403819&amp;date=20250622&amp;timezone=None">
+  <channel id="403819">
+    <display-name lang="US">CNN</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="403819" start="20250622000000 +0000" stop="20250622010000 +0000">
+    <title lang="zh">Real Time With Bill Maher</title>
+    <desc>Bill Maher welcomes a panel of three guests from diverse parts of the political spectrum for a discussion on events.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="403819" start="20250622010000 +0000" stop="20250622020000 +0000">
+    <title lang="zh">CNN Special Program</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="403819" start="20250622020000 +0000" stop="20250622030000 +0000">
+    <title lang="zh">CNN Special Program</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="403819" start="20250622030000 +0000" stop="20250622040000 +0000">
+    <title lang="zh">Real Time With Bill Maher</title>
+    <desc>Bill Maher welcomes a panel of three guests from diverse parts of the political spectrum for a discussion on events.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="403819" start="20250622040000 +0000" stop="20250622050000 +0000">
+    <title lang="zh">CNN Special Program</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="403819" start="20250622050000 +0000" stop="20250622060000 +0000">
+    <title lang="zh">CNN Special Program</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="403819" start="20250622060000 +0000" stop="20250622070000 +0000">
+    <title lang="zh">CNN Special Program</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="403819" start="20250622070000 +0000" stop="20250622080000 +0000">
+    <title lang="zh">CNN Special Program</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="403819" start="20250622080000 +0000" stop="20250622090000 +0000">
+    <title lang="zh">CNN Newsroom Live</title>
+    <desc>The latest news from around the world.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="403819" start="20250622090000 +0000" stop="20250622100000 +0000">
+    <title lang="zh">CNN Newsroom Live</title>
+    <desc>The latest news from around the world.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="403819" start="20250622100000 +0000" stop="20250622110000 +0000">
+    <title lang="zh">CNN This Morning Weekend</title>
+    <desc>Stories from across the world and refreshing conversations with Victor Blackwell.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="403819" start="20250622110000 +0000" stop="20250622120000 +0000">
+    <title lang="zh">CNN This Morning Weekend</title>
+    <desc>Stories from across the world and refreshing conversations with Victor Blackwell.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="403819" start="20250622120000 +0000" stop="20250622130000 +0000">
+    <title lang="zh">Inside Politics With Manu Raju</title>
+    <desc>Manu Raju leads an in-depth conversation on the week's most important political storylines, with a diverse set of analysts and news-making interviews.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="403819" start="20250622130000 +0000" stop="20250622140000 +0000">
+    <title lang="zh">State of the Union With Jake Tapper and Dana Bash</title>
+    <desc>Jake Tapper and Dana Bash bring together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="403819" start="20250622140000 +0000" stop="20250622150000 +0000">
+    <title lang="zh">Fareed Zakaria GPS</title>
+    <desc>Insights, analysis and interviews to world leaders, artists, scientists, business leaders, global affairs analysts, and other cultural observers.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="403819" start="20250622150000 +0000" stop="20250622160000 +0000">
+    <title lang="zh">Inside Politics With Manu Raju</title>
+    <desc>Manu Raju leads an in-depth conversation on the week's most important political storylines, with a diverse set of analysts and news-making interviews.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="403819" start="20250622160000 +0000" stop="20250622170000 +0000">
+    <title lang="zh">State of the Union With Jake Tapper and Dana Bash</title>
+    <desc>Jake Tapper and Dana Bash bring together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="403819" start="20250622170000 +0000" stop="20250622180000 +0000">
+    <title lang="zh">Fareed Zakaria GPS</title>
+    <desc>Insights, analysis and interviews to world leaders, artists, scientists, business leaders, global affairs analysts, and other cultural observers.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="403819" start="20250622180000 +0000" stop="20250622190000 +0000">
+    <title lang="zh">CNN Newsroom With Fredricka Whitfield</title>
+    <desc>The latest news and information from around the world with Fredricka Whitfield.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="403819" start="20250622190000 +0000" stop="20250622200000 +0000">
+    <title lang="zh">CNN Newsroom With Fredricka Whitfield</title>
+    <desc>The latest news and information from around the world with Fredricka Whitfield.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="403819" start="20250622200000 +0000" stop="20250622210000 +0000">
+    <title lang="zh">CNN Newsroom With Fredricka Whitfield</title>
+    <desc>The latest news and information from around the world with Fredricka Whitfield.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="403819" start="20250622210000 +0000" stop="20250622220000 +0000">
+    <title lang="zh">CNN Newsroom</title>
+    <desc>Updates of news from around the world.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="403819" start="20250622220000 +0000" stop="20250622230000 +0000">
+    <title lang="zh">CNN Newsroom</title>
+    <desc>Updates of news from around the world.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="403819" start="20250622230000 +0000" stop="20250623000000 +0000">
+    <title lang="zh">CNN Newsroom</title>
+    <desc>Updates of news from around the world.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="403819" start="20250623000000 +0000" stop="20250623010000 +0000">
+    <title lang="zh">CNN Newsroom</title>
+    <desc>Updates of news from around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403819" start="20250623010000 +0000" stop="20250623020000 +0000">
+    <title lang="zh">Eva Longoria: Searching for Spain</title>
+    <desc>After making Marbella her home, Eva Longoria celebrates with family and friends, enjoying the city's vibrant dishes and local flavors.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403819" start="20250623020000 +0000" stop="20250623030000 +0000">
+    <title lang="zh">Eva Longoria: Searching for Spain</title>
+    <desc>Eva Longoria uncovers how Spain's cuisine transformed from humble beginnings to become a global culinary sensation in just one generation.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403819" start="20250623030000 +0000" stop="20250623040000 +0000">
+    <title lang="zh">To Be Announced</title>
+    <desc>Programming to be announced.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403819" start="20250623040000 +0000" stop="20250623050000 +0000">
+    <title lang="zh">Eva Longoria: Searching for Spain</title>
+    <desc>After making Marbella her home, Eva Longoria celebrates with family and friends, enjoying the city's vibrant dishes and local flavors.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403819" start="20250623050000 +0000" stop="20250623060000 +0000">
+    <title lang="zh">Eva Longoria: Searching for Spain</title>
+    <desc>Eva Longoria uncovers how Spain's cuisine transformed from humble beginnings to become a global culinary sensation in just one generation.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403819" start="20250623060000 +0000" stop="20250623070000 +0000">
+    <title lang="zh">CNN Newsroom Live</title>
+    <desc>The latest news from around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403819" start="20250623070000 +0000" stop="20250623080000 +0000">
+    <title lang="zh">CNN Newsroom Live</title>
+    <desc>The latest news from around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403819" start="20250623080000 +0000" stop="20250623090000 +0000">
+    <title lang="zh">Live: Early Start With Rahel Solomon</title>
+    <desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403819" start="20250623090000 +0000" stop="20250623100000 +0000">
+    <title lang="zh">Live: Early Start With Rahel Solomon</title>
+    <desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403819" start="20250623100000 +0000" stop="20250623110000 +0000">
+    <title lang="zh">Live: CNN This Morning</title>
+    <desc>Stories from across the world and refreshing conversations with Audie Cornish.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403819" start="20250623110000 +0000" stop="20250623120000 +0000">
+    <title lang="zh">Live: CNN News Central</title>
+    <desc>The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403819" start="20250623120000 +0000" stop="20250623130000 +0000">
+    <title lang="zh">Live: CNN News Central</title>
+    <desc>The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403819" start="20250623130000 +0000" stop="20250623140000 +0000">
+    <title lang="zh">Live: CNN News Central</title>
+    <desc>The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403819" start="20250623140000 +0000" stop="20250623150000 +0000">
+    <title lang="zh">Live: The Situation Room</title>
+    <desc>Wolf Blitzer and Pamela Brown are in the command center for breaking news, politics and extraordinary reports from around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403819" start="20250623150000 +0000" stop="20250623160000 +0000">
+    <title lang="zh">Live: The Situation Room</title>
+    <desc>Wolf Blitzer and Pamela Brown are in the command center for breaking news, politics and extraordinary reports from around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403819" start="20250623160000 +0000" stop="20250623170000 +0000">
+    <title lang="zh">Live: Inside Politics With Dana Bash</title>
+    <desc>Top political stories researched by top reporters.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403819" start="20250623170000 +0000" stop="20250623180000 +0000">
+    <title lang="zh">Live: CNN News Central</title>
+    <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403819" start="20250623180000 +0000" stop="20250623190000 +0000">
+    <title lang="zh">Live: CNN News Central</title>
+    <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403819" start="20250623190000 +0000" stop="20250623200000 +0000">
+    <title lang="zh">Live: CNN News Central</title>
+    <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403819" start="20250623200000 +0000" stop="20250623210000 +0000">
+    <title lang="zh">Live: The Arena With Kasie Hunt</title>
+    <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403819" start="20250623210000 +0000" stop="20250623220000 +0000">
+    <title lang="zh">Live: The Lead With Jake Tapper</title>
+    <desc>Covering all the day's top stories around the country and the globe, from politics to money, sports to popular culture.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403819" start="20250623220000 +0000" stop="20250623230000 +0000">
+    <title lang="zh">Live: The Lead With Jake Tapper</title>
+    <desc>Covering all the day's top stories around the country and the globe, from politics to money, sports to popular culture.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403819" start="20250623230000 +0000" stop="20250624000000 +0000">
+    <title lang="zh">Live: Erin Burnett OutFront</title>
+    <desc>Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="403819" start="20250624000000 +0000" stop="20250625000000 +0000">
+    <title lang="zh">Live: Anderson Cooper 360</title>
+    <desc>Anderson Cooper takes viewers beyond the headlines with in-depth reporting and investigations.</desc>
+    <date>2025-06-24</date>
+  </programme>
+<tv date="20250622224453 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/412098/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=412098&amp;date=20250622&amp;timezone=None">
+  <channel id="412098">
+    <display-name lang="Singapore">BBC World News HD</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042100424424_78.png" />
+  </channel>
+  <programme channel="412098" start="20250622000000 +0000" stop="20250622003000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622003000 +0000" stop="20250622010000 +0000">
+    <title lang="zh">Tribeca Festival</title>
+    <desc>Talking Movies reports from New York's Tribeca Festival and sits down with Tribeca Co-Founder, and acting legend, Robert De Niro.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622010000 +0000" stop="20250622013000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622013000 +0000" stop="20250622020000 +0000">
+    <title lang="zh">Unspun World with John Simpson</title>
+    <desc>Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor John Simpson.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622020000 +0000" stop="20250622023000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622023000 +0000" stop="20250622030000 +0000">
+    <title lang="zh">The Security Brief</title>
+    <desc>Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622030000 +0000" stop="20250622033000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622033000 +0000" stop="20250622040000 +0000">
+    <title lang="zh">Heatwaves: The New Normal?</title>
+    <desc>How hot is too hot? From heat labs to firefighting helicopter pilots and wineries, we look at how extreme heat impacts people and environments in the UK.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622040000 +0000" stop="20250622043000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622043000 +0000" stop="20250622050000 +0000">
+    <title lang="zh">Tech Now</title>
+    <desc>Tech Now revisits the team's top AI stories, from testing out the fast-developing AI in our phones to exploring the growing area of digital clones.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622050000 +0000" stop="20250622053000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622053000 +0000" stop="20250622060000 +0000">
+    <title lang="zh">Talking Business</title>
+    <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622060000 +0000" stop="20250622063000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622063000 +0000" stop="20250622070000 +0000">
+    <title lang="zh">The Travel Show</title>
+    <desc>Qasa Alom continues his journey on the Maya Train, the brand-new line that connects the towns, villages and historic sites of Mexico's Yucatan peninsula.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622070000 +0000" stop="20250622073000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622073000 +0000" stop="20250622080000 +0000">
+    <title lang="zh">Tribeca Festival</title>
+    <desc>Talking Movies reports from New York's Tribeca Festival and sits down with Tribeca Co-Founder, and acting legend, Robert De Niro.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622080000 +0000" stop="20250622090000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622090000 +0000" stop="20250622093000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622093000 +0000" stop="20250622100000 +0000">
+    <title lang="zh">Malaysia</title>
+    <desc>Jonny Dymond chairs a diverse panel fielding questions from a passionate audience in Kuala Lumpur, as they critique their own laws on freedom of speech.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622100000 +0000" stop="20250622103000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622103000 +0000" stop="20250622110000 +0000">
+    <title lang="zh">The President's Path</title>
+    <desc>Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622110000 +0000" stop="20250622113000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622113000 +0000" stop="20250622120000 +0000">
+    <title lang="zh">The Media Show</title>
+    <desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622120000 +0000" stop="20250622123000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622123000 +0000" stop="20250622130000 +0000">
+    <title lang="zh">The Travel Show</title>
+    <desc>Qasa Alom continues his journey on the Maya Train, the brand-new line that connects the towns, villages and historic sites of Mexico's Yucatan peninsula.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622130000 +0000" stop="20250622133000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622133000 +0000" stop="20250622140000 +0000">
+    <title lang="zh">Tech Now</title>
+    <desc>Tech Now revisits the team's top AI stories, from testing out the fast-developing AI in our phones to exploring the growing area of digital clones.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622140000 +0000" stop="20250622143000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622143000 +0000" stop="20250622150000 +0000">
+    <title lang="zh">The Art of Tea</title>
+    <desc>Historian Alastair Sooke discovers how tea in China has been transformed over centuries into an important social institution, and how it continues to be an essential part of Chinese culture today.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622150000 +0000" stop="20250622153000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622153000 +0000" stop="20250622160000 +0000">
+    <title lang="zh">Heatwaves: The New Normal?</title>
+    <desc>How hot is too hot? From heat labs to firefighting helicopter pilots and wineries, we look at how extreme heat impacts people and environments in the UK.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622160000 +0000" stop="20250622170000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622170000 +0000" stop="20250622173000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622173000 +0000" stop="20250622180000 +0000">
+    <title lang="zh">Talking Business</title>
+    <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622180000 +0000" stop="20250622183000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622183000 +0000" stop="20250622190000 +0000">
+    <title lang="zh">Malaysia</title>
+    <desc>Jonny Dymond chairs a diverse panel fielding questions from a passionate audience in Kuala Lumpur, as they critique their own laws on freedom of speech.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622190000 +0000" stop="20250622193000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622193000 +0000" stop="20250622200000 +0000">
+    <title lang="zh">Tribeca Festival</title>
+    <desc>Talking Movies reports from New York's Tribeca Festival and sits down with Tribeca Co-Founder, and acting legend, Robert De Niro.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622200000 +0000" stop="20250622210000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622210000 +0000" stop="20250622213000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622213000 +0000" stop="20250622220000 +0000">
+    <title lang="zh">The Art of Tea</title>
+    <desc>Historian Alastair Sooke discovers how tea in China has been transformed over centuries into an important social institution, and how it continues to be an essential part of Chinese culture today.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622220000 +0000" stop="20250622223000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622223000 +0000" stop="20250622230000 +0000">
+    <title lang="zh">Malaysia</title>
+    <desc>Jonny Dymond chairs a diverse panel fielding questions from a passionate audience in Kuala Lumpur, as they critique their own laws on freedom of speech.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622230000 +0000" stop="20250622233000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250622233000 +0000" stop="20250623000000 +0000">
+    <title lang="zh">Heatwaves: The New Normal?</title>
+    <desc>How hot is too hot? From heat labs to firefighting helicopter pilots and wineries, we look at how extreme heat impacts people and environments in the UK.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="412098" start="20250623000000 +0000" stop="20250623003000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623003000 +0000" stop="20250623010000 +0000">
+    <title lang="zh">The Security Brief</title>
+    <desc>Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623010000 +0000" stop="20250623013000 +0000">
+    <title lang="zh">Newsday</title>
+    <desc>Live from Singapore, the latest international news from the BBC.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623013000 +0000" stop="20250623020000 +0000">
+    <title lang="zh">Ukrainecast</title>
+    <desc>In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623020000 +0000" stop="20250623023000 +0000">
+    <title lang="zh">Newsday</title>
+    <desc>Live from Singapore, the latest international news from the BBC.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623023000 +0000" stop="20250623030000 +0000">
+    <title lang="zh">Tech Now</title>
+    <desc>Tech Now revisits the team's top AI stories, from testing out the fast-developing AI in our phones to exploring the growing area of digital clones.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623030000 +0000" stop="20250623033000 +0000">
+    <title lang="zh">Newsday</title>
+    <desc>Live from Singapore, the latest international news from the BBC.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623033000 +0000" stop="20250623040000 +0000">
+    <title lang="zh">Talking Business</title>
+    <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623040000 +0000" stop="20250623043000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623043000 +0000" stop="20250623050000 +0000">
+    <title lang="zh">Business Today</title>
+    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623050000 +0000" stop="20250623053000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623053000 +0000" stop="20250623060000 +0000">
+    <title lang="zh">Business Today</title>
+    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623060000 +0000" stop="20250623063000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623063000 +0000" stop="20250623070000 +0000">
+    <title lang="zh">Business Today</title>
+    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623070000 +0000" stop="20250623073000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623073000 +0000" stop="20250623080000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623080000 +0000" stop="20250623083000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623083000 +0000" stop="20250623090000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623090000 +0000" stop="20250623093000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623093000 +0000" stop="20250623100000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623100000 +0000" stop="20250623103000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623103000 +0000" stop="20250623104500 +0000">
+    <title lang="zh">Business Today</title>
+    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623104500 +0000" stop="20250623110000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623110000 +0000" stop="20250623113000 +0000">
+    <title lang="zh">BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623113000 +0000" stop="20250623120000 +0000">
+    <title lang="zh">BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623120000 +0000" stop="20250623123000 +0000">
+    <title lang="zh">BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623123000 +0000" stop="20250623130000 +0000">
+    <title lang="zh">BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623130000 +0000" stop="20250623133000 +0000">
+    <title lang="zh">BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623133000 +0000" stop="20250623134500 +0000">
+    <title lang="zh">Business Today - NYSE Opening Bell</title>
+    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from New York and around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623134500 +0000" stop="20250623140000 +0000">
+    <title lang="zh">BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623140000 +0000" stop="20250623143000 +0000">
+    <title lang="zh">Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623143000 +0000" stop="20250623150000 +0000">
+    <title lang="zh">Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623150000 +0000" stop="20250623153000 +0000">
+    <title lang="zh">Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623153000 +0000" stop="20250623154500 +0000">
+    <title lang="zh">Business Today</title>
+    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623154500 +0000" stop="20250623160000 +0000">
+    <title lang="zh">Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623160000 +0000" stop="20250623163000 +0000">
+    <title lang="zh">Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623163000 +0000" stop="20250623170000 +0000">
+    <title lang="zh">Focus on Africa</title>
+    <desc>The biggest African and international stories from the BBC.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623170000 +0000" stop="20250623173000 +0000">
+    <title lang="zh">The World Today with Maryam Moshiri</title>
+    <desc>Watch the best of the BBC's journalism from around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623173000 +0000" stop="20250623180000 +0000">
+    <title lang="zh">The World Today with Maryam Moshiri</title>
+    <desc>Watch the best of the BBC's journalism from around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623180000 +0000" stop="20250623183000 +0000">
+    <title lang="zh">The World Today with Maryam Moshiri</title>
+    <desc>Watch the best of the BBC's journalism from around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623183000 +0000" stop="20250623190000 +0000">
+    <title lang="zh">The World Today with Maryam Moshiri</title>
+    <desc>Watch the best of the BBC's journalism from around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623190000 +0000" stop="20250623193000 +0000">
+    <title lang="zh">The Context</title>
+    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623193000 +0000" stop="20250623200000 +0000">
+    <title lang="zh">The Context</title>
+    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623200000 +0000" stop="20250623203000 +0000">
+    <title lang="zh">The Context</title>
+    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623203000 +0000" stop="20250623210000 +0000">
+    <title lang="zh">The Context</title>
+    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623210000 +0000" stop="20250623213000 +0000">
+    <title lang="zh">BBC World News America</title>
+    <desc>In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623213000 +0000" stop="20250623220000 +0000">
+    <title lang="zh">Newsnight</title>
+    <desc>Insights and global interviews on the crucial news stories of the day.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623220000 +0000" stop="20250623230000 +0000">
+    <title lang="zh">BBC World News America</title>
+    <desc>In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623230000 +0000" stop="20250623233000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250623233000 +0000" stop="20250624000000 +0000">
+    <title lang="zh">Newscast</title>
+    <desc>Lighthearted discussion of the day's news.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="412098" start="20250624000000 +0000" stop="20250625000000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-06-24</date>
+  </programme>
+<tv date="20250622224453 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405729/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405729&amp;date=20250622&amp;timezone=None">
+  <channel id="405729">
+    <display-name lang="US">BBC World News North America (BBCWN)</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="405729" start="20250622000000 +0000" stop="20250622003000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622003000 +0000" stop="20250622010000 +0000">
+    <title lang="zh">Talking Movies</title>
+    <desc>Tom Brook presents the latest updates from the film industry, reviews recently released movies and interviews prominent actors.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622010000 +0000" stop="20250622013000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622013000 +0000" stop="20250622020000 +0000">
+    <title lang="zh">This Week's World</title>
+    <desc>Global news.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622020000 +0000" stop="20250622023000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622023000 +0000" stop="20250622030000 +0000">
+    <title lang="zh">The Security Brief</title>
+    <desc>Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622030000 +0000" stop="20250622033000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622033000 +0000" stop="20250622040000 +0000">
+    <title lang="zh">Heatwaves: The New Normal?</title>
+    <desc>From heat labs to firefighting helicopter pilots and wineries, a look into how extreme heat impacts people and environments in the UK.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622040000 +0000" stop="20250622043000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622043000 +0000" stop="20250622050000 +0000">
+    <title lang="zh">Tech Now</title>
+    <desc>Tech Now explores the latest innovations and technologies shaping our lives.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622050000 +0000" stop="20250622053000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622053000 +0000" stop="20250622060000 +0000">
+    <title lang="zh">Talking Business</title>
+    <desc>The host sits down with experts to shed light on various issues from the business world and interviews them on the latest innovations in technology.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622060000 +0000" stop="20250622063000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622063000 +0000" stop="20250622070000 +0000">
+    <title lang="zh">The Travel Show</title>
+    <desc>Exploring new destinations around the globe and uncovering hidden sides to some of the world's favorite holiday hotspots.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622070000 +0000" stop="20250622073000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622073000 +0000" stop="20250622080000 +0000">
+    <title lang="zh">Talking Movies</title>
+    <desc>Tom Brook presents the latest updates from the film industry, reviews recently released movies and interviews prominent actors.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622080000 +0000" stop="20250622090000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622090000 +0000" stop="20250622093000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622093000 +0000" stop="20250622100000 +0000">
+    <title lang="zh">World Questions</title>
+    <desc>Justin Rowlatt invites members of the public to put forward their questions and discuss issues impacting the world.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622100000 +0000" stop="20250622103000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622103000 +0000" stop="20250622110000 +0000">
+    <title lang="zh">The President's Path</title>
+    <desc>Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the U.S. presidency.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622110000 +0000" stop="20250622113000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622113000 +0000" stop="20250622120000 +0000">
+    <title lang="zh">The Media Show</title>
+    <desc>Journalists shed light on global affairs and analyze the ways media organizations present controversial topics and social issues.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622120000 +0000" stop="20250622123000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622123000 +0000" stop="20250622130000 +0000">
+    <title lang="zh">The Travel Show</title>
+    <desc>Exploring new destinations around the globe and uncovering hidden sides to some of the world's favorite holiday hotspots.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622130000 +0000" stop="20250622133000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622133000 +0000" stop="20250622140000 +0000">
+    <title lang="zh">Tech Now</title>
+    <desc>Tech Now explores the latest innovations and technologies shaping our lives.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622140000 +0000" stop="20250622143000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622143000 +0000" stop="20250622150000 +0000">
+    <title lang="zh">China's Greatest Treasures</title>
+    <desc>Historian Alastair Sooke discovers how tea in China has been transformed over centuries into an important social institution, and how it continues to be an essential part of Chinese culture today.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622150000 +0000" stop="20250622153000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622153000 +0000" stop="20250622160000 +0000">
+    <title lang="zh">Heatwaves: The New Normal?</title>
+    <desc>From heat labs to firefighting helicopter pilots and wineries, a look into how extreme heat impacts people and environments in the UK.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622160000 +0000" stop="20250622170000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622170000 +0000" stop="20250622173000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622173000 +0000" stop="20250622180000 +0000">
+    <title lang="zh">Talking Business</title>
+    <desc>The host sits down with experts to shed light on various issues from the business world and interviews them on the latest innovations in technology.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622180000 +0000" stop="20250622183000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622183000 +0000" stop="20250622190000 +0000">
+    <title lang="zh">World Questions</title>
+    <desc>Justin Rowlatt invites members of the public to put forward their questions and discuss issues impacting the world.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622190000 +0000" stop="20250622193000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622193000 +0000" stop="20250622200000 +0000">
+    <title lang="zh">Talking Movies</title>
+    <desc>Tom Brook presents the latest updates from the film industry, reviews recently released movies and interviews prominent actors.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622200000 +0000" stop="20250622210000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622210000 +0000" stop="20250622213000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622213000 +0000" stop="20250622220000 +0000">
+    <title lang="zh">China's Greatest Treasures</title>
+    <desc>Historian Alastair Sooke discovers how tea in China has been transformed over centuries into an important social institution, and how it continues to be an essential part of Chinese culture today.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622220000 +0000" stop="20250622223000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622223000 +0000" stop="20250622230000 +0000">
+    <title lang="zh">World Questions</title>
+    <desc>Justin Rowlatt invites members of the public to put forward their questions and discuss issues impacting the world.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622230000 +0000" stop="20250622233000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250622233000 +0000" stop="20250623000000 +0000">
+    <title lang="zh">Heatwaves: The New Normal?</title>
+    <desc>From heat labs to firefighting helicopter pilots and wineries, a look into how extreme heat impacts people and environments in the UK.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="405729" start="20250623000000 +0000" stop="20250623003000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623003000 +0000" stop="20250623010000 +0000">
+    <title lang="zh">The Security Brief</title>
+    <desc>Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623010000 +0000" stop="20250623013000 +0000">
+    <title lang="zh">Newsday</title>
+    <desc>International news from London and Singapore.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623013000 +0000" stop="20250623020000 +0000">
+    <title lang="zh">Ukrainecast</title>
+    <desc>The anchors provide the latest updates, interviews and analyses focused on Ukraine's situation amid the Russian invasion.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623020000 +0000" stop="20250623023000 +0000">
+    <title lang="zh">Newsday</title>
+    <desc>International news from London and Singapore.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623023000 +0000" stop="20250623030000 +0000">
+    <title lang="zh">Tech Now</title>
+    <desc>Tech Now explores the latest innovations and technologies shaping our lives.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623030000 +0000" stop="20250623033000 +0000">
+    <title lang="zh">Newsday</title>
+    <desc>International news from London and Singapore.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623033000 +0000" stop="20250623040000 +0000">
+    <title lang="zh">Talking Business</title>
+    <desc>The host sits down with experts to shed light on various issues from the business world and interviews them on the latest innovations in technology.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623040000 +0000" stop="20250623043000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623043000 +0000" stop="20250623050000 +0000">
+    <title lang="zh">Business Today</title>
+    <desc>Bringing the latest business news and up to date informed analysis from London and around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623050000 +0000" stop="20250623053000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623053000 +0000" stop="20250623055500 +0000">
+    <title lang="zh">Business Today</title>
+    <desc>Bringing the latest business news and up to date informed analysis from London and around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623055500 +0000" stop="20250623060000 +0000">
+    <title lang="zh">Tech Now</title>
+    <desc>Tech Now explores the latest innovations and technologies shaping our lives.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623060000 +0000" stop="20250623063000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623063000 +0000" stop="20250623065500 +0000">
+    <title lang="zh">Business Today</title>
+    <desc>Bringing the latest business news and up to date informed analysis from London and around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623065500 +0000" stop="20250623070000 +0000">
+    <title lang="zh">Discovering the World's Table</title>
+    <desc>Experts embark on a culinary journey to shed light on international food scenes and provide insights into the region's most interesting delicacies.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623070000 +0000" stop="20250623073000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623073000 +0000" stop="20250623080000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623080000 +0000" stop="20250623083000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623083000 +0000" stop="20250623085500 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623085500 +0000" stop="20250623090000 +0000">
+    <title lang="zh">Tech Now</title>
+    <desc>Tech Now explores the latest innovations and technologies shaping our lives.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623090000 +0000" stop="20250623093000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623093000 +0000" stop="20250623100000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623100000 +0000" stop="20250623103000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623103000 +0000" stop="20250623104500 +0000">
+    <title lang="zh">Business Today</title>
+    <desc>Bringing the latest business news and up to date informed analysis from London and around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623104500 +0000" stop="20250623105500 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623105500 +0000" stop="20250623110000 +0000">
+    <title lang="zh">Discovering the World's Table</title>
+    <desc>Experts embark on a culinary journey to shed light on international food scenes and provide insights into the region's most interesting delicacies.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623110000 +0000" stop="20250623113000 +0000">
+    <title lang="zh">BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623113000 +0000" stop="20250623120000 +0000">
+    <title lang="zh">BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623120000 +0000" stop="20250623123000 +0000">
+    <title lang="zh">BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623123000 +0000" stop="20250623125500 +0000">
+    <title lang="zh">BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623125500 +0000" stop="20250623130000 +0000">
+    <title lang="zh">Tech Now</title>
+    <desc>Tech Now explores the latest innovations and technologies shaping our lives.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623130000 +0000" stop="20250623133000 +0000">
+    <title lang="zh">BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623133000 +0000" stop="20250623134500 +0000">
+    <title lang="zh">Business Today USA</title>
+    <desc>The latest business news and up-to-date informed analysis from New York and around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623134500 +0000" stop="20250623140000 +0000">
+    <title lang="zh">BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623140000 +0000" stop="20250623143000 +0000">
+    <title lang="zh">Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623143000 +0000" stop="20250623150000 +0000">
+    <title lang="zh">Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623150000 +0000" stop="20250623153000 +0000">
+    <title lang="zh">Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623153000 +0000" stop="20250623154500 +0000">
+    <title lang="zh">Business Today</title>
+    <desc>Bringing the latest business news and up to date informed analysis from London and around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623154500 +0000" stop="20250623155500 +0000">
+    <title lang="zh">Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623155500 +0000" stop="20250623160000 +0000">
+    <title lang="zh">Discovering the World's Table</title>
+    <desc>Experts embark on a culinary journey to shed light on international food scenes and provide insights into the region's most interesting delicacies.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623160000 +0000" stop="20250623163000 +0000">
+    <title lang="zh">Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623163000 +0000" stop="20250623170000 +0000">
+    <title lang="zh">Focus on Africa</title>
+    <desc>The anchors deliver the latest stories and developments on a wide range of topics from all over Africa and around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623170000 +0000" stop="20250623173000 +0000">
+    <title lang="zh">The World Today with Maryam Moshiri</title>
+    <desc>Maryam Moshiri delivers the latest stories from around the world and interviews prominent figures to analyze various issues from multiple perspectives.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623173000 +0000" stop="20250623180000 +0000">
+    <title lang="zh">The World Today with Maryam Moshiri</title>
+    <desc>Maryam Moshiri delivers the latest stories from around the world and interviews prominent figures to analyze various issues from multiple perspectives.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623180000 +0000" stop="20250623183000 +0000">
+    <title lang="zh">The World Today with Maryam Moshiri</title>
+    <desc>Maryam Moshiri delivers the latest stories from around the world and interviews prominent figures to analyze various issues from multiple perspectives.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623183000 +0000" stop="20250623185500 +0000">
+    <title lang="zh">The World Today with Maryam Moshiri</title>
+    <desc>Maryam Moshiri delivers the latest stories from around the world and interviews prominent figures to analyze various issues from multiple perspectives.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623185500 +0000" stop="20250623190000 +0000">
+    <title lang="zh">Tech Now</title>
+    <desc>Tech Now explores the latest innovations and technologies shaping our lives.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623190000 +0000" stop="20250623193000 +0000">
+    <title lang="zh">The Context</title>
+    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623193000 +0000" stop="20250623200000 +0000">
+    <title lang="zh">The Context</title>
+    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623200000 +0000" stop="20250623203000 +0000">
+    <title lang="zh">The Context</title>
+    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623203000 +0000" stop="20250623205500 +0000">
+    <title lang="zh">The Context</title>
+    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day, along with news-making interviews and analysis from BBC correspondents around the globe.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623205500 +0000" stop="20250623210000 +0000">
+    <title lang="zh">Discovering the World's Table</title>
+    <desc>Experts embark on a culinary journey to shed light on international food scenes and provide insights into the region's most interesting delicacies.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623210000 +0000" stop="20250623213000 +0000">
+    <title lang="zh">BBC World News America</title>
+    <desc>The hosts shed light on political, economic and social issues in the United States and other notable events across the globe.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623213000 +0000" stop="20250623220000 +0000">
+    <title lang="zh">Newsnight</title>
+    <desc>Comprehensive coverage of today's important national and international news stories.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623220000 +0000" stop="20250623230000 +0000">
+    <title lang="zh">BBC World News America</title>
+    <desc>The hosts shed light on political, economic and social issues in the United States and other notable events across the globe.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623230000 +0000" stop="20250623233000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250623233000 +0000" stop="20250624000000 +0000">
+    <title lang="zh">Newscast</title>
+    <desc>Political coverage and analysis with the Brexitcast team.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="405729" start="20250624000000 +0000" stop="20250625000000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
+    <date>2025-06-24</date>
+  </programme>
+<tv date="20250622210009 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410308/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410308&amp;date=20250622&amp;timezone=None">
+  <channel id="410308">
+    <display-name lang="Hong Kong">Bloomberg Television</display-name>
+    <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128173252754492_70" />
+  </channel>
+  <programme channel="410308" start="20250622000000 +0000" stop="20250622003000 +0000">
+    <title lang="zh">Bloomberg Studio 1.0</title>
+    <desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622003000 +0000" stop="20250622010000 +0000">
+    <title lang="zh">Leaders With Lacqua</title>
+    <desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622010000 +0000" stop="20250622013000 +0000">
+    <title lang="zh">Leaders With Lacqua</title>
+    <desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622013000 +0000" stop="20250622020000 +0000">
+    <title lang="zh">Leaders With Lacqua</title>
+    <desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622020000 +0000" stop="20250622023000 +0000">
+    <title lang="zh">Bloomberg Wealth With David Rubenstein</title>
+    <desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622023000 +0000" stop="20250622030000 +0000">
+    <title lang="zh">Bloomberg Wealth With David Rubenstein</title>
+    <desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622030000 +0000" stop="20250622033000 +0000">
+    <title lang="zh">Bloomberg Studio 1.0</title>
+    <desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622033000 +0000" stop="20250622040000 +0000">
+    <title lang="zh">Bloomberg Studio 1.0</title>
+    <desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622040000 +0000" stop="20250622043000 +0000">
+    <title lang="zh">Athlete | Empire: Alex Rodriguez</title>
+    <desc>Former baseball pro Alex Rodriguez quietly built a real estate empire over 20 years. Now, after retiring from baseball, he's accelerating his transformation from former athlete to investor and owner.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622043000 +0000" stop="20250622050000 +0000">
+    <title lang="zh">Bloomberg Studio 1.0</title>
+    <desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622050000 +0000" stop="20250622060000 +0000">
+    <title lang="zh">Bloomberg Wall Street Week</title>
+    <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622060000 +0000" stop="20250622063000 +0000">
+    <title lang="zh">Leaders With Lacqua</title>
+    <desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622063000 +0000" stop="20250622070000 +0000">
+    <title lang="zh">Worldwide Business With Kathy Ireland</title>
+    <desc>Kathy Ireland, founder and CEO of her own billion-dollar brand, meets corporate leaders who offer the latest in corporate advancements, expert advice and brand strategies.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622070000 +0000" stop="20250622073000 +0000">
+    <title lang="zh">Athlete | Empire: Alex Rodriguez</title>
+    <desc>Former baseball pro Alex Rodriguez quietly built a real estate empire over 20 years. Now, after retiring from baseball, he's accelerating his transformation from former athlete to investor and owner.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622073000 +0000" stop="20250622080000 +0000">
+    <title lang="zh">Bloomberg Studio 1.0</title>
+    <desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622080000 +0000" stop="20250622083000 +0000">
+    <title lang="zh">Bloomberg Studio 1.0</title>
+    <desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622083000 +0000" stop="20250622090000 +0000">
+    <title lang="zh">Bloomberg Studio 1.0</title>
+    <desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622090000 +0000" stop="20250622100000 +0000">
+    <title lang="zh">Bloomberg Wall Street Week</title>
+    <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622100000 +0000" stop="20250622103000 +0000">
+    <title lang="zh">Leaders With Lacqua</title>
+    <desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622103000 +0000" stop="20250622110000 +0000">
+    <title lang="zh">Bloomberg Wealth With David Rubenstein</title>
+    <desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622110000 +0000" stop="20250622113000 +0000">
+    <title lang="zh">Bloomberg Green</title>
+    <desc>Climate change is the defining story of our time. Bloomberg Green brings you the news, science, and data to understand it in full. Hosted by Kailey Leinz.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622113000 +0000" stop="20250622120000 +0000">
+    <title lang="zh">Leaders With Lacqua</title>
+    <desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622120000 +0000" stop="20250622123000 +0000">
+    <title lang="zh">Athlete | Empire: Alex Rodriguez</title>
+    <desc>Former baseball pro Alex Rodriguez quietly built a real estate empire over 20 years. Now, after retiring from baseball, he's accelerating his transformation from former athlete to investor and owner.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622123000 +0000" stop="20250622130000 +0000">
+    <title lang="zh">Bloomberg Studio 1.0</title>
+    <desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622130000 +0000" stop="20250622133000 +0000">
+    <title lang="zh">Leaders With Lacqua</title>
+    <desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622133000 +0000" stop="20250622140000 +0000">
+    <title lang="zh">Leaders With Lacqua</title>
+    <desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622140000 +0000" stop="20250622150000 +0000">
+    <title lang="zh">Bloomberg Wall Street Week</title>
+    <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622150000 +0000" stop="20250622153000 +0000">
+    <title lang="zh">The David Rubenstein Show</title>
+    <desc>Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622153000 +0000" stop="20250622160000 +0000">
+    <title lang="zh">Bloomberg Green</title>
+    <desc>Climate change is the defining story of our time. Bloomberg Green brings you the news, science, and data to understand it in full. Hosted by Kailey Leinz.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622160000 +0000" stop="20250622163000 +0000">
+    <title lang="zh">Bloomberg Wealth With David Rubenstein</title>
+    <desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622163000 +0000" stop="20250622170000 +0000">
+    <title lang="zh">Leaders With Lacqua</title>
+    <desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622170000 +0000" stop="20250622180000 +0000">
+    <title lang="zh">Bloomberg Wall Street Week</title>
+    <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622180000 +0000" stop="20250622183000 +0000">
+    <title lang="zh">Leaders With Lacqua</title>
+    <desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622183000 +0000" stop="20250622190000 +0000">
+    <title lang="zh">Leaders With Lacqua</title>
+    <desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622190000 +0000" stop="20250622193000 +0000">
+    <title lang="zh">The David Rubenstein Show</title>
+    <desc>Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622193000 +0000" stop="20250622200000 +0000">
+    <title lang="zh">Bloomberg Studio 1.0</title>
+    <desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622200000 +0000" stop="20250622203000 +0000">
+    <title lang="zh">Leaders With Lacqua</title>
+    <desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622203000 +0000" stop="20250622210000 +0000">
+    <title lang="zh">Bloomberg Wealth With David Rubenstein</title>
+    <desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622210000 +0000" stop="20250622220000 +0000">
+    <title lang="zh">Bloomberg Wall Street Week</title>
+    <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622220000 +0000" stop="20250622230000 +0000">
+    <title lang="zh">Bloomberg Daybreak: Australia</title>
+    <desc>From New York and Sydney, the latest news impacting markets, business and finance around the world.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250622230000 +0000" stop="20250623000000 +0000">
+    <title lang="zh">Bloomberg Daybreak: Asia</title>
+    <desc>From New York and Hong Kong, the essential stories from the close of the US markets to the open of trading across Asia.</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="410308" start="20250623010000 +0000" stop="20250623020000 +0000">
+    <title lang="zh">Bloomberg Markets: China Open</title>
+    <desc>The definitive guide to the markets in Hong Kong and on the mainland. Rishaad Salamat, David Ingles, Tom Mackenzie and Yvonne Man bring you the latest analysis to get you ready for the trading day.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="410308" start="20250623020000 +0000" stop="20250623040000 +0000">
+    <title lang="zh">Bloomberg Markets: Asia</title>
+    <desc>From Hong Kong, the most important global business and breaking markets news information as it happens.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="410308" start="20250623040000 +0000" stop="20250623060000 +0000">
+    <title lang="zh">Bloomberg Daybreak: Middle East</title>
+    <desc>From Dubai, connecting Asian markets to the European opens - this show focuses on global macro issues with a Middle Eastern context.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="410308" start="20250623060000 +0000" stop="20250623070000 +0000">
+    <title lang="zh">Bloomberg Daybreak: Europe</title>
+    <desc>Live from London, we catch you up with overnight markets news from the US and Asia. Plus, we'll tell you what matters for investors in Europe, giving you insight before trading begins.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="410308" start="20250623070000 +0000" stop="20250623080000 +0000">
+    <title lang="zh">Bloomberg Markets: Europe</title>
+    <desc>Anchored by Anna Edwards and Mark Cudmore, a fast-paced show of news and analysis, building towards the drama and excitement of the start of trading across the Continent.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="410308" start="20250623080000 +0000" stop="20250623090000 +0000">
+    <title lang="zh">Bloomberg Markets: European Open</title>
+    <desc>Kick-start the trading day with Francine Lacqua and Tom Mackenzie from London bringing you news that no investor in Europe can afford to miss.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="410308" start="20250623090000 +0000" stop="20250623100000 +0000">
+    <title lang="zh">Bloomberg Surveillance: Early Edition</title>
+    <desc>With Francine Lacqua from London, bringing insight on global markets and the top business stories of the day.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="410308" start="20250623100000 +0000" stop="20250623110000 +0000">
+    <title lang="zh">Bloomberg Surveillance: Early Edition</title>
+    <desc>With Anna Edwards, Matt Miller, and Kailey Leinz from London, Berlin and New York, bringing insight on markets and the top stories of the day.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="410308" start="20250623110000 +0000" stop="20250623120000 +0000">
+    <title lang="zh">Bloomberg Surveillance</title>
+    <desc>Daily conversations with leaders and decision makers from Wall Street to Washington and beyond. Hosted by Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="410308" start="20250623120000 +0000" stop="20250623140000 +0000">
+    <title lang="zh">Bloomberg Surveillance</title>
+    <desc>Daily conversations with leaders and decision makers from Wall Street to Washington and beyond. Hosted by Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="410308" start="20250623140000 +0000" stop="20250623150000 +0000">
+    <title lang="zh">Bloomberg: The Open</title>
+    <desc>Jonathan Ferro hosts this programme showcasing the most insightful and informative Bloomberg charts to help position a global audience for the trading day.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="410308" start="20250623150000 +0000" stop="20250623160000 +0000">
+    <title lang="zh">Bloomberg Markets: Americas</title>
+    <desc>From New York, the most important global business and breaking markets news and information as it happens.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="410308" start="20250623160000 +0000" stop="20250623170000 +0000">
+    <title lang="zh">Bloomberg Markets: European Close</title>
+    <desc>Analysing the major market moving stories across the day in Europe, hearing from the biggest newsmakers, and showcasing the unrivalled expertise of Bloomberg News.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="410308" start="20250623170000 +0000" stop="20250623180000 +0000">
+    <title lang="zh">Bloomberg: Balance Of Power</title>
+    <desc>Bloomberg Balance of Power focuses on politics and policies on Capitol Hill, in President Trump's administration, the federal agencies and the courts.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="410308" start="20250623180000 +0000" stop="20250623183000 +0000">
+    <title lang="zh">Bloomberg Markets</title>
+    <desc>Bloomberg Markets is focused on bringing you the most important global business and breaking markets news and information as it happens.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="410308" start="20250623183000 +0000" stop="20250623190000 +0000">
+    <title lang="zh">Bloomberg Markets</title>
+    <desc>Bloomberg Markets is focused on bringing you the most important global business and breaking markets news and information as it happens.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="410308" start="20250623190000 +0000" stop="20250623213000 +0000">
+    <title lang="zh">Bloomberg Markets: The Close</title>
+    <desc>Romaine Bostick, Alix Steel and Scarlet Fu break down the day's top stories and trading action around the close.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="410308" start="20250623213000 +0000" stop="20250623220000 +0000">
+    <title lang="zh">Bloomberg Markets: What'd You Miss?</title>
+    <desc>Bloomberg TV's flagship markets programme, providing key insights, analysis and context at the market close. It's a highly intelligent look at the markets that misses nothing.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="410308" start="20250623220000 +0000" stop="20250623230000 +0000">
+    <title lang="zh">Bloomberg Daybreak: Australia</title>
+    <desc>From New York and Sydney, the latest news impacting markets, business and finance around the world.</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="410308" start="20250623230000 +0000" stop="20250624000000 +0000">
+    <title lang="zh">Bloomberg Daybreak: Asia</title>
+    <desc>From New York and Hong Kong, the essential stories from the close of the US markets to the open of trading across Asia.</desc>
+    <date>2025-06-23</date>
+  </programme>
+<!-- generated at 2025-06-22 14:44:54 UTC -->
 </tv>
