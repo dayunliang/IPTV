@@ -1,629 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><tv>
-<tv date="20250622165020 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369682/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369682&amp;date=20250622&amp;timezone=None">
-  <channel id="369682">
-    <display-name lang="Malaysia">Phoenix Info News HD</display-name>
-    <icon src="" />
-  </channel>
-  <programme channel="369682" start="20250622000300 +0000" stop="20250622005800 +0000">
-    <title lang="zh">Phoenix Morning Express</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622005800 +0000" stop="20250622010300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622010300 +0000" stop="20250622013000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622013000 +0000" stop="20250622013300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622013300 +0000" stop="20250622020300 +0000">
-    <title lang="zh">Talk With World Leaders</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622020300 +0000" stop="20250622030000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622030000 +0000" stop="20250622030300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622030300 +0000" stop="20250622034800 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622034800 +0000" stop="20250622040300 +0000">
-    <title lang="zh">My Hong Kong Story</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622040300 +0000" stop="20250622050000 +0000">
-    <title lang="zh">Phoenix Midday Express</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622050000 +0000" stop="20250622050300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622050300 +0000" stop="20250622053000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622053000 +0000" stop="20250622053300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622053300 +0000" stop="20250622060300 +0000">
-    <title lang="zh">Dreamscapes, Architectural Wonders</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622060300 +0000" stop="20250622063000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622063000 +0000" stop="20250622063300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622063300 +0000" stop="20250622070300 +0000">
-    <title lang="zh">Talk With World Leaders</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622070300 +0000" stop="20250622080000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622080000 +0000" stop="20250622080300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622080300 +0000" stop="20250622083000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622083000 +0000" stop="20250622083300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622083300 +0000" stop="20250622090300 +0000">
-    <title lang="zh">Mainland Q&amp;A</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622090300 +0000" stop="20250622091800 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622091800 +0000" stop="20250622100300 +0000">
-    <title lang="zh">China Financial Intelligence</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622100300 +0000" stop="20250622103000 +0000">
-    <title lang="zh">Phoenix Focus</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622103000 +0000" stop="20250622103300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622103300 +0000" stop="20250622110300 +0000">
-    <title lang="zh">News Talk</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622110300 +0000" stop="20250622111600 +0000">
-    <title lang="zh">China News Live</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622111600 +0000" stop="20250622111800 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622111800 +0000" stop="20250622120300 +0000">
-    <title lang="zh">News Times</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622120300 +0000" stop="20250622123000 +0000">
-    <title lang="zh">Phoenix Focus</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622123000 +0000" stop="20250622123300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622123300 +0000" stop="20250622130300 +0000">
-    <title lang="zh">Hong Kong Perspectives</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622130300 +0000" stop="20250622135800 +0000">
-    <title lang="zh">Phoenix Evening Express</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622135800 +0000" stop="20250622140300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622140300 +0000" stop="20250622143000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622143000 +0000" stop="20250622143300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622143300 +0000" stop="20250622150300 +0000">
-    <title lang="zh">News Talk</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622150300 +0000" stop="20250622151800 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622151800 +0000" stop="20250622153300 +0000">
-    <title lang="zh">My Hong Kong Story</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622153300 +0000" stop="20250622163000 +0000">
-    <title lang="zh">Mainland Q&amp;A</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622163000 +0000" stop="20250622163300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622163300 +0000" stop="20250622170300 +0000">
-    <title lang="zh">News Talk</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622170300 +0000" stop="20250622173000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622173000 +0000" stop="20250622173300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622173300 +0000" stop="20250622181800 +0000">
-    <title lang="zh">News Times</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622181800 +0000" stop="20250622190300 +0000">
-    <title lang="zh">China Financial Intelligence</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622190300 +0000" stop="20250622193000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622193000 +0000" stop="20250622193300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622193300 +0000" stop="20250622200000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622200000 +0000" stop="20250622200300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622200300 +0000" stop="20250622203000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622203000 +0000" stop="20250622203300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622203300 +0000" stop="20250622210000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622210000 +0000" stop="20250622210300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622210300 +0000" stop="20250622213000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622213000 +0000" stop="20250622213300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622213300 +0000" stop="20250622220300 +0000">
-    <title lang="zh">News Talk</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622220300 +0000" stop="20250622223000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622223000 +0000" stop="20250622223300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622223300 +0000" stop="20250622230300 +0000">
-    <title lang="zh">Hong Kong Perspectives</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250622230300 +0000" stop="20250623000000 +0000">
-    <title lang="zh">Phoenix Morning Express</title>
-    <desc />
-    <date>2025-06-22</date>
-  </programme>
-  <programme channel="369682" start="20250623000000 +0000" stop="20250623000300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623000300 +0000" stop="20250623010000 +0000">
-    <title lang="zh">Phoenix Morning Express</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623010000 +0000" stop="20250623010300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623010300 +0000" stop="20250623011800 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623011800 +0000" stop="20250623020300 +0000">
-    <title lang="zh">News Times</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623020300 +0000" stop="20250623030000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623030000 +0000" stop="20250623030300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623030300 +0000" stop="20250623033000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623033000 +0000" stop="20250623033300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623033300 +0000" stop="20250623040300 +0000">
-    <title lang="zh">Mainland Q&amp;A</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623040300 +0000" stop="20250623045800 +0000">
-    <title lang="zh">Phoenix Midday Express</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623045800 +0000" stop="20250623050300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623050300 +0000" stop="20250623053000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623053000 +0000" stop="20250623053300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623053300 +0000" stop="20250623060300 +0000">
-    <title lang="zh">Fact Check on News</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623060300 +0000" stop="20250623063000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623063000 +0000" stop="20250623063300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623063300 +0000" stop="20250623070000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623070000 +0000" stop="20250623070300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623070300 +0000" stop="20250623080000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623080000 +0000" stop="20250623080300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623080300 +0000" stop="20250623090000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623090000 +0000" stop="20250623090300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623090300 +0000" stop="20250623093000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623093000 +0000" stop="20250623093300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623093300 +0000" stop="20250623100300 +0000">
-    <title lang="zh">Financial Journal</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623100300 +0000" stop="20250623103000 +0000">
-    <title lang="zh">Phoenix Focus</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623103000 +0000" stop="20250623103300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623103300 +0000" stop="20250623110300 +0000">
-    <title lang="zh">News Talk</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623110300 +0000" stop="20250623120000 +0000">
-    <title lang="zh">China News Live</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623120000 +0000" stop="20250623120300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623120300 +0000" stop="20250623123000 +0000">
-    <title lang="zh">Phoenix Focus</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623123000 +0000" stop="20250623123300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623123300 +0000" stop="20250623130300 +0000">
-    <title lang="zh">Phoenix Financial Daily Report</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623130300 +0000" stop="20250623135800 +0000">
-    <title lang="zh">Phoenix Evening Express</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623135800 +0000" stop="20250623140300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623140300 +0000" stop="20250623143300 +0000">
-    <title lang="zh">Chief Editor's Time</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623143300 +0000" stop="20250623150300 +0000">
-    <title lang="zh">News Talk</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623150300 +0000" stop="20250623153000 +0000">
-    <title lang="zh">Phoenix Focus</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623153000 +0000" stop="20250623153300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623153300 +0000" stop="20250623170000 +0000">
-    <title lang="zh">Chief Editor's Time</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623170000 +0000" stop="20250623170300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623170300 +0000" stop="20250623173000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623173000 +0000" stop="20250623173300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623173300 +0000" stop="20250623180300 +0000">
-    <title lang="zh">Financial Journal</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623180300 +0000" stop="20250623183000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623183000 +0000" stop="20250623183300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623183300 +0000" stop="20250623190300 +0000">
-    <title lang="zh">Phoenix Financial Daily Report</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623190300 +0000" stop="20250623193000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623193000 +0000" stop="20250623193300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623193300 +0000" stop="20250623200300 +0000">
-    <title lang="zh">Chief Editor's Time</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623200300 +0000" stop="20250623203000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623203000 +0000" stop="20250623203300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623203300 +0000" stop="20250623210000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623210000 +0000" stop="20250623210300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623210300 +0000" stop="20250623213000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623213000 +0000" stop="20250623213300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623213300 +0000" stop="20250623220300 +0000">
-    <title lang="zh">News Talk</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623220300 +0000" stop="20250623223000 +0000">
-    <title lang="zh">News on the Hour</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623223000 +0000" stop="20250623223300 +0000">
-    <title lang="zh">Phoenix Weather Forecast</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623223300 +0000" stop="20250623230300 +0000">
-    <title lang="zh">Zoom in</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
-  <programme channel="369682" start="20250623230300 +0000" stop="20250624000000 +0000">
-    <title lang="zh">Phoenix Morning Express</title>
-    <desc />
-    <date>2025-06-23</date>
-  </programme>
 <tv date="20250622165021 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410355/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410355&amp;date=20250622&amp;timezone=None">
   <channel id="410355">
     <display-name lang="Hong Kong">鳳凰衛視資訊台</display-name>
@@ -1269,7 +644,2210 @@
     <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
     <date>2025-06-24</date>
   </programme>
-<tv date="20250622165021 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/123456/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=123456&amp;date=20250622&amp;timezone=None" />
-<tv date="20250622165022 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/234567/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=234567&amp;date=20250622&amp;timezone=None" />
-<tv date="20250622165023 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/345678/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=345678&amp;date=20250622&amp;timezone=None" />
+<tv date="20250622154415 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20250622&amp;timezone=None">
+  <channel id="370177">
+    <display-name lang="Taiwan">中天新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110909545808_36.png" />
+  </channel>
+  <programme channel="370177" start="20250622000000 +0000" stop="20250622010000 +0000">
+    <title lang="zh">08中天晨報</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370177" start="20250622010000 +0000" stop="20250622020000 +0000">
+    <title lang="zh">09中天新聞</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370177" start="20250622020000 +0000" stop="20250622030000 +0000">
+    <title lang="zh">10中天新聞</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370177" start="20250622030000 +0000" stop="20250622040000 +0000">
+    <title lang="zh">11中天新聞</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370177" start="20250622040000 +0000" stop="20250622050000 +0000">
+    <title lang="zh">12午間新聞</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370177" start="20250622050000 +0000" stop="20250622060000 +0000">
+    <title lang="zh">13午間新聞</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370177" start="20250622060000 +0000" stop="20250622070000 +0000">
+    <title lang="zh">14大新聞大爆卦周末版</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370177" start="20250622070000 +0000" stop="20250622080000 +0000">
+    <title lang="zh">15大新聞大爆卦周末版</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370177" start="20250622080000 +0000" stop="20250622090000 +0000">
+    <title lang="zh">cti talk網路論壇</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370177" start="20250622090000 +0000" stop="20250622100000 +0000">
+    <title lang="zh">17中天新聞</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370177" start="20250622100000 +0000" stop="20250622110000 +0000">
+    <title lang="zh">18中天辣晚報</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370177" start="20250622110000 +0000" stop="20250622120000 +0000">
+    <title lang="zh">19中天辣晚報</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370177" start="20250622120000 +0000" stop="20250622130000 +0000">
+    <title lang="zh">20中天新聞</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370177" start="20250622130000 +0000" stop="20250622140000 +0000">
+    <title lang="zh">21國際直球對決</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370177" start="20250622140000 +0000" stop="20250622150000 +0000">
+    <title lang="zh">22國際直球對決</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370177" start="20250622150000 +0000" stop="20250622160000 +0000">
+    <title lang="zh">琴謙天下事</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370177" start="20250622160000 +0000" stop="20250622170000 +0000">
+    <title lang="zh">18中天辣晚報</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370177" start="20250622170000 +0000" stop="20250622180000 +0000">
+    <title lang="zh">19中天辣晚報</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370177" start="20250622180000 +0000" stop="20250622190000 +0000">
+    <title lang="zh">20中天新聞</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370177" start="20250622190000 +0000" stop="20250622200000 +0000">
+    <title lang="zh">21國際直球對決</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370177" start="20250622200000 +0000" stop="20250622210000 +0000">
+    <title lang="zh">22國際直球對決</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370177" start="20250622210000 +0000" stop="20250622220000 +0000">
+    <title lang="zh">琴謙天下事</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370177" start="20250622220000 +0000" stop="20250622230000 +0000">
+    <title lang="zh">06中天晨報</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370177" start="20250622230000 +0000" stop="20250623000000 +0000">
+    <title lang="zh">07中天晨報</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370177" start="20250623000000 +0000" stop="20250623010000 +0000">
+    <title lang="zh">08中天晨報</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370177" start="20250623010000 +0000" stop="20250623020000 +0000">
+    <title lang="zh">09中天新聞</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370177" start="20250623020000 +0000" stop="20250623030000 +0000">
+    <title lang="zh">10中天新聞</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370177" start="20250623030000 +0000" stop="20250623040000 +0000">
+    <title lang="zh">11中天新聞</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370177" start="20250623040000 +0000" stop="20250623050000 +0000">
+    <title lang="zh">12午間新聞</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370177" start="20250623050000 +0000" stop="20250623060000 +0000">
+    <title lang="zh">13午間新聞</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370177" start="20250623060000 +0000" stop="20250623070000 +0000">
+    <title lang="zh">14大新聞大爆卦</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370177" start="20250623070000 +0000" stop="20250623080000 +0000">
+    <title lang="zh">15大新聞大爆卦</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370177" start="20250623080000 +0000" stop="20250623090000 +0000">
+    <title lang="zh">16中天新聞</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370177" start="20250623090000 +0000" stop="20250623100000 +0000">
+    <title lang="zh">17中天新聞</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370177" start="20250623100000 +0000" stop="20250623110000 +0000">
+    <title lang="zh">18中天辣晚報</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370177" start="20250623110000 +0000" stop="20250623120000 +0000">
+    <title lang="zh">19中天辣晚報</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370177" start="20250623120000 +0000" stop="20250623130000 +0000">
+    <title lang="zh">20頭條開講</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370177" start="20250623130000 +0000" stop="20250623140000 +0000">
+    <title lang="zh">21頭條開講</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370177" start="20250623140000 +0000" stop="20250623150000 +0000">
+    <title lang="zh">22中天SUPER夜線</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370177" start="20250623150000 +0000" stop="20250623160000 +0000">
+    <title lang="zh">23全球大視野</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370177" start="20250623160000 +0000" stop="20250623170000 +0000">
+    <title lang="zh">18中天辣晚報</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370177" start="20250623170000 +0000" stop="20250623180000 +0000">
+    <title lang="zh">19中天辣晚報</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370177" start="20250623180000 +0000" stop="20250623190000 +0000">
+    <title lang="zh">20頭條開講</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370177" start="20250623190000 +0000" stop="20250623200000 +0000">
+    <title lang="zh">21頭條開講</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370177" start="20250623200000 +0000" stop="20250623210000 +0000">
+    <title lang="zh">22中天SUPER夜線</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370177" start="20250623210000 +0000" stop="20250623220000 +0000">
+    <title lang="zh">23全球大視野</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370177" start="20250623220000 +0000" stop="20250623230000 +0000">
+    <title lang="zh">06中天晨報</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370177" start="20250623230000 +0000" stop="20250624000000 +0000">
+    <title lang="zh">07中天晨報</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370177" start="20250624000000 +0000" stop="20250625000000 +0000">
+    <title lang="zh">08中天晨報</title>
+    <desc />
+    <date>2025-06-24</date>
+  </programme>
+<tv date="20250622172055 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20250622&amp;timezone=None">
+  <channel id="369244">
+    <display-name lang="Taiwan">TVBS 新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151638634532_69.jpg" />
+  </channel>
+  <programme channel="369244" start="20250622010000 +0000" stop="20250622020000 +0000">
+    <title lang="zh">上午9點新聞</title>
+    <desc>播報最即時完整新聞。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369244" start="20250622020000 +0000" stop="20250622030000 +0000">
+    <title lang="zh">上午10點新聞</title>
+    <desc>TVBS NEWS 從早到晚，最即時完整新聞不間斷。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369244" start="20250622030000 +0000" stop="20250622040000 +0000">
+    <title lang="zh">上午11點新聞</title>
+    <desc>TVBS NEWS 從早到晚，最即時完整新聞不間斷。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369244" start="20250622040000 +0000" stop="20250622060000 +0000">
+    <title lang="zh">午間12.13新聞</title>
+    <desc>播報最即時完整新聞。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369244" start="20250622060000 +0000" stop="20250622070000 +0000">
+    <title lang="zh">1400說新聞</title>
+    <desc>1400說新聞</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369244" start="20250622070000 +0000" stop="20250622080000 +0000">
+    <title lang="zh">1500整點新聞</title>
+    <desc>TVBS NEWS 從早到晚，最即時完整新聞不間斷。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369244" start="20250622080000 +0000" stop="20250622090000 +0000">
+    <title lang="zh">16整點新聞</title>
+    <desc>TVBS NEWS 從早到晚，最即時完整新聞不間斷。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369244" start="20250622090000 +0000" stop="20250622100000 +0000">
+    <title lang="zh">17整點新聞</title>
+    <desc>TVBS NEWS 從早到晚，最即時完整新聞不間斷。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369244" start="20250622100000 +0000" stop="20250622120000 +0000">
+    <title lang="zh">晩間6 7點新聞</title>
+    <desc>?間6 7點新聞</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369244" start="20250622120000 +0000" stop="20250622130000 +0000">
+    <title lang="zh">晚間8點新聞</title>
+    <desc>播報最即時完整新聞。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369244" start="20250622130000 +0000" stop="20250622140000 +0000">
+    <title lang="zh">九點熱話題</title>
+    <desc>帶您一同來關心全世界的新聞，帶您深入了解國內外大事。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369244" start="20250622140000 +0000" stop="20250622150000 +0000">
+    <title lang="zh">一步一腳印發現新台灣:901</title>
+    <desc>節目連年獲金鐘肯定。讓主持人帶著我們沿著鐵軌公路，找尋台灣新精神，並串起新台灣的故事。透過費心的採訪日記，加上攝影師精心構圖的畫面，其中有感人溫馨的片段，也有輕鬆歡樂的情節，讓節目帶領觀眾一起仔細看看我們的故鄉-台灣的人事物。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369244" start="20250622150000 +0000" stop="20250622170000 +0000">
+    <title lang="zh">新聞夜視界</title>
+    <desc>服務夜貓族的觀眾朋友，開闢的「新聞夜視界」，針對夜貓族設計的話題單元，每天報導最HITO的人事物，提供有深度的報導與觀點。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369244" start="20250622170000 +0000" stop="20250622180000 +0000">
+    <title lang="zh">九點熱話題</title>
+    <desc>帶您一同來關心全世界的新聞，帶您深入了解國內外大事。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369244" start="20250622180000 +0000" stop="20250622200000 +0000">
+    <title lang="zh">新聞夜視界</title>
+    <desc>服務夜貓族的觀眾朋友，開闢的「新聞夜視界」，針對夜貓族設計的話題單元，每天報導最HITO的人事物，提供有深度的報導與觀點。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369244" start="20250622200000 +0000" stop="20250622210000 +0000">
+    <title lang="zh">一步一腳印發現新台灣:901</title>
+    <desc>節目連年獲金鐘肯定。讓主持人帶著我們沿著鐵軌公路，找尋台灣新精神，並串起新台灣的故事。透過費心的採訪日記，加上攝影師精心構圖的畫面，其中有感人溫馨的片段，也有輕鬆歡樂的情節，讓節目帶領觀眾一起仔細看看我們的故鄉-台灣的人事物。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369244" start="20250622210000 +0000" stop="20250622220000 +0000">
+    <title lang="zh">九點熱話題</title>
+    <desc>帶您一同來關心全世界的新聞，帶您深入了解國內外大事。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369244" start="20250622220000 +0000" stop="20250623000000 +0000">
+    <title lang="zh">早安台灣</title>
+    <desc>播報最即時完整新聞。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369244" start="20250623010000 +0000" stop="20250623020000 +0000">
+    <title lang="zh">上午9點新聞</title>
+    <desc>播報最即時完整新聞。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369244" start="20250623020000 +0000" stop="20250623030000 +0000">
+    <title lang="zh">上午10點新聞</title>
+    <desc>TVBS NEWS 從早到晚，最即時完整新聞不間斷。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369244" start="20250623030000 +0000" stop="20250623040000 +0000">
+    <title lang="zh">上午11點新聞</title>
+    <desc>TVBS NEWS 從早到晚，最即時完整新聞不間斷。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369244" start="20250623040000 +0000" stop="20250623060000 +0000">
+    <title lang="zh">午間12.13新聞</title>
+    <desc>播報最即時完整新聞。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369244" start="20250623060000 +0000" stop="20250623070000 +0000">
+    <title lang="zh">1400說新聞</title>
+    <desc>1400說新聞</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369244" start="20250623070000 +0000" stop="20250623080000 +0000">
+    <title lang="zh">1500整點新聞</title>
+    <desc>TVBS NEWS 從早到晚，最即時完整新聞不間斷。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369244" start="20250623080000 +0000" stop="20250623090000 +0000">
+    <title lang="zh">16整點新聞</title>
+    <desc>TVBS NEWS 從早到晚，最即時完整新聞不間斷。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369244" start="20250623090000 +0000" stop="20250623100000 +0000">
+    <title lang="zh">17整點新聞</title>
+    <desc>TVBS NEWS 從早到晚，最即時完整新聞不間斷。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369244" start="20250623100000 +0000" stop="20250623120000 +0000">
+    <title lang="zh">晩間6 7點新聞</title>
+    <desc>?間6 7點新聞</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369244" start="20250623120000 +0000" stop="20250623130000 +0000">
+    <title lang="zh">最前線新聞</title>
+    <desc>TVBS NEWS 從早到晚，最即時完整新聞不間斷。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369244" start="20250623130000 +0000" stop="20250623140000 +0000">
+    <title lang="zh">九點熱話題</title>
+    <desc>帶您一同來關心全世界的新聞，帶您深入了解國內外大事。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369244" start="20250623140000 +0000" stop="20250623150000 +0000">
+    <title lang="zh">十點不一樣</title>
+    <desc>視野因為角度而改變，帶您深入了解國內外大事。帶您一同來關心全世界的新聞，節目並多次榮獲卓越新聞獎的優質肯定。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369244" start="20250623150000 +0000" stop="20250623170000 +0000">
+    <title lang="zh">新聞夜視界</title>
+    <desc>服務夜貓族的觀眾朋友，開闢的「新聞夜視界」，針對夜貓族設計的話題單元，每天報導最HITO的人事物，提供有深度的報導與觀點。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369244" start="20250623170000 +0000" stop="20250623180000 +0000">
+    <title lang="zh">十點不一樣</title>
+    <desc>視野因為角度而改變，帶您深入了解國內外大事。帶您一同來關心全世界的新聞，節目並多次榮獲卓越新聞獎的優質肯定。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369244" start="20250623180000 +0000" stop="20250623200000 +0000">
+    <title lang="zh">新聞夜視界</title>
+    <desc>服務夜貓族的觀眾朋友，開闢的「新聞夜視界」，針對夜貓族設計的話題單元，每天報導最HITO的人事物，提供有深度的報導與觀點。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369244" start="20250623200000 +0000" stop="20250623210000 +0000">
+    <title lang="zh">九點熱話題</title>
+    <desc>帶您一同來關心全世界的新聞，帶您深入了解國內外大事。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369244" start="20250623210000 +0000" stop="20250623220000 +0000">
+    <title lang="zh">十點不一樣</title>
+    <desc>視野因為角度而改變，帶您深入了解國內外大事。帶您一同來關心全世界的新聞，節目並多次榮獲卓越新聞獎的優質肯定。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369244" start="20250623220000 +0000" stop="20250624000000 +0000">
+    <title lang="zh">早安台灣</title>
+    <desc>播報最即時完整新聞。</desc>
+    <date>2025-06-23</date>
+  </programme>
+<tv date="20250622172055 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370183/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370183&amp;date=20250622&amp;timezone=None">
+  <channel id="370183">
+    <display-name lang="Taiwan">TVBS</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110950648129_24.png" />
+  </channel>
+  <programme channel="370183" start="20250622000000 +0000" stop="20250622010000 +0000">
+    <title lang="zh">健康2.0</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370183" start="20250622010000 +0000" stop="20250622020000 +0000">
+    <title lang="zh">T觀點</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370183" start="20250622020000 +0000" stop="20250622030000 +0000">
+    <title lang="zh">TVBS看板人物</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370183" start="20250622030000 +0000" stop="20250622040000 +0000">
+    <title lang="zh">TVBS文茜的世界周報</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370183" start="20250622040000 +0000" stop="20250622050000 +0000">
+    <title lang="zh">TVBS文茜的世界周報</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370183" start="20250622050000 +0000" stop="20250622060000 +0000">
+    <title lang="zh">健康2.0</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370183" start="20250622060000 +0000" stop="20250622070000 +0000">
+    <title lang="zh">新聞大白話特報</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370183" start="20250622070000 +0000" stop="20250622080000 +0000">
+    <title lang="zh">新聞大白話特報</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370183" start="20250622080000 +0000" stop="20250622090000 +0000">
+    <title lang="zh">新聞大白話特報</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370183" start="20250622090000 +0000" stop="20250622100000 +0000">
+    <title lang="zh">新聞大白話特報</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370183" start="20250622100000 +0000" stop="20250622110000 +0000">
+    <title lang="zh">健康2.0</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370183" start="20250622110000 +0000" stop="20250622120000 +0000">
+    <title lang="zh">TVBS戰情室</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370183" start="20250622120000 +0000" stop="20250622130000 +0000">
+    <title lang="zh">TVBS戰情室</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370183" start="20250622130000 +0000" stop="20250622140000 +0000">
+    <title lang="zh">TVBS文茜的世界周報</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370183" start="20250622140000 +0000" stop="20250622150000 +0000">
+    <title lang="zh">TVBS文茜的世界財經周報</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370183" start="20250622150000 +0000" stop="20250622160000 +0000">
+    <title lang="zh">金臨天下</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370183" start="20250622160000 +0000" stop="20250622170000 +0000">
+    <title lang="zh">新聞大白話特報1500</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370183" start="20250622170000 +0000" stop="20250622180000 +0000">
+    <title lang="zh">TVBS文茜的世界周報</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370183" start="20250622180000 +0000" stop="20250622190000 +0000">
+    <title lang="zh">TVBS文茜的世界財經周報</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370183" start="20250622190000 +0000" stop="20250622200000 +0000">
+    <title lang="zh">TVBS戰情室</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370183" start="20250622200000 +0000" stop="20250622210000 +0000">
+    <title lang="zh">TVBS戰情室</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370183" start="20250622210000 +0000" stop="20250622220000 +0000">
+    <title lang="zh">新聞大白話特報1600</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370183" start="20250622220000 +0000" stop="20250622230000 +0000">
+    <title lang="zh">TVBS文茜的世界周報</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370183" start="20250622230000 +0000" stop="20250623000000 +0000">
+    <title lang="zh">TVBS文茜的世界財經周報</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370183" start="20250623000000 +0000" stop="20250623010000 +0000">
+    <title lang="zh">健康2.0</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370183" start="20250623010000 +0000" stop="20250623020000 +0000">
+    <title lang="zh">地球黃金線</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370183" start="20250623020000 +0000" stop="20250623030000 +0000">
+    <title lang="zh">金臨天下</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370183" start="20250623030000 +0000" stop="20250623040000 +0000">
+    <title lang="zh">FOCUS國際話題</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370183" start="20250623040000 +0000" stop="20250623050000 +0000">
+    <title lang="zh">FOCUS世界新聞</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370183" start="20250623050000 +0000" stop="20250623060000 +0000">
+    <title lang="zh">FOCUS世界新聞</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370183" start="20250623060000 +0000" stop="20250623070000 +0000">
+    <title lang="zh">新聞大白話</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370183" start="20250623070000 +0000" stop="20250623080000 +0000">
+    <title lang="zh">新聞大白話</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370183" start="20250623080000 +0000" stop="20250623090000 +0000">
+    <title lang="zh">新聞大白話</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370183" start="20250623090000 +0000" stop="20250623100000 +0000">
+    <title lang="zh">新聞大白話</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370183" start="20250623100000 +0000" stop="20250623110000 +0000">
+    <title lang="zh">國民大會</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370183" start="20250623110000 +0000" stop="20250623120000 +0000">
+    <title lang="zh">FOCUS全球新聞</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370183" start="20250623120000 +0000" stop="20250623130000 +0000">
+    <title lang="zh">少康戰情室</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370183" start="20250623130000 +0000" stop="20250623140000 +0000">
+    <title lang="zh">少康戰情室</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370183" start="20250623140000 +0000" stop="20250623150000 +0000">
+    <title lang="zh">地球黃金線</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370183" start="20250623150000 +0000" stop="20250623160000 +0000">
+    <title lang="zh">金臨天下</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370183" start="20250623160000 +0000" stop="20250623170000 +0000">
+    <title lang="zh">國民大會</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370183" start="20250623170000 +0000" stop="20250623180000 +0000">
+    <title lang="zh">地球黃金線</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370183" start="20250623180000 +0000" stop="20250623190000 +0000">
+    <title lang="zh">FOCUS全球新聞</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370183" start="20250623190000 +0000" stop="20250623200000 +0000">
+    <title lang="zh">少康戰情室</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370183" start="20250623200000 +0000" stop="20250623210000 +0000">
+    <title lang="zh">FOCUS國際話題</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370183" start="20250623210000 +0000" stop="20250623220000 +0000">
+    <title lang="zh">FOCUS世界新聞</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370183" start="20250623220000 +0000" stop="20250623230000 +0000">
+    <title lang="zh">FOCUS世界新聞</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370183" start="20250623230000 +0000" stop="20250624000000 +0000">
+    <title lang="zh">FOCUS全球新聞</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370183" start="20250624000000 +0000" stop="20250625000000 +0000">
+    <title lang="zh">健康2.0</title>
+    <desc />
+    <date>2025-06-24</date>
+  </programme>
+<tv date="20250622172056 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20250622&amp;timezone=None">
+  <channel id="369248">
+    <display-name lang="Taiwan">東森新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151543561986_68.jpg" />
+  </channel>
+  <programme channel="369248" start="20250622010000 +0000" stop="20250622020000 +0000">
+    <title lang="zh">東森新聞</title>
+    <desc>帶給觀眾全亞洲最即時的社會、政治與財經資訊。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369248" start="20250622020000 +0000" stop="20250622030000 +0000">
+    <title lang="zh">東森午安新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369248" start="20250622030000 +0000" stop="20250622040000 +0000">
+    <title lang="zh">東森午安新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369248" start="20250622040000 +0000" stop="20250622050000 +0000">
+    <title lang="zh">東森午安新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369248" start="20250622050000 +0000" stop="20250622060000 +0000">
+    <title lang="zh">東森午安新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369248" start="20250622060000 +0000" stop="20250622070000 +0000">
+    <title lang="zh">東森午安新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369248" start="20250622070000 +0000" stop="20250622073000 +0000">
+    <title lang="zh">海峽拚經濟</title>
+    <desc>針對兩岸經濟發展議題進行討論，每集皆有探討的主題，深入探討大陸對台灣可能造成的經濟效應以及影響</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369248" start="20250622073000 +0000" stop="20250622080000 +0000">
+    <title lang="zh">聚焦新視界</title>
+    <desc>【聚焦全世界】是榮獲七座電視金鐘獎的自然生態與人文紀錄片，是國內少有具深度廣度與國際觀的優質節目，節目團隊走遍全球七大洲，60餘國，從嚴酷的南北極到非洲叢林，從中東戰地到深海大堡礁，內容含括人文紀實、紀錄自然奇景與瀕危物種，旨在喚起人類對地球生態與世人的關懷</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369248" start="20250622080000 +0000" stop="20250622090000 +0000">
+    <title lang="zh">東森晚間新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369248" start="20250622090000 +0000" stop="20250622100000 +0000">
+    <title lang="zh">東森晚間新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369248" start="20250622100000 +0000" stop="20250622110000 +0000">
+    <title lang="zh">東森晚間新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369248" start="20250622110000 +0000" stop="20250622120000 +0000">
+    <title lang="zh">東森晚間新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369248" start="20250622120000 +0000" stop="20250622130000 +0000">
+    <title lang="zh">東森世界日報</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369248" start="20250622130000 +0000" stop="20250622140000 +0000">
+    <title lang="zh">東森世界日報</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369248" start="20250622140000 +0000" stop="20250622150000 +0000">
+    <title lang="zh">東森夜線新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369248" start="20250622150000 +0000" stop="20250622160000 +0000">
+    <title lang="zh">台灣啟示錄</title>
+    <desc>由東森主播主持，為您統整介紹台灣社會近年來重大案件與名人佚事的始末，以及相關的新聞分析與報導。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369248" start="20250622160000 +0000" stop="20250622170000 +0000">
+    <title lang="zh">東森夜線新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369248" start="20250622170000 +0000" stop="20250622180000 +0000">
+    <title lang="zh">東森晚間新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369248" start="20250622180000 +0000" stop="20250622190000 +0000">
+    <title lang="zh">東森晚間新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369248" start="20250622190000 +0000" stop="20250622200000 +0000">
+    <title lang="zh">東森世界日報</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369248" start="20250622200000 +0000" stop="20250622210000 +0000">
+    <title lang="zh">東森世界日報</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369248" start="20250622210000 +0000" stop="20250622220000 +0000">
+    <title lang="zh">東森夜線新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369248" start="20250622220000 +0000" stop="20250623000000 +0000">
+    <title lang="zh">Hello台灣</title>
+    <desc>為觀眾播報最新、最即時的晨間新聞</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369248" start="20250623010000 +0000" stop="20250623020000 +0000">
+    <title lang="zh">東森新聞</title>
+    <desc>帶給觀眾全亞洲最即時的社會、政治與財經資訊。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369248" start="20250623020000 +0000" stop="20250623030000 +0000">
+    <title lang="zh">東森午安新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369248" start="20250623030000 +0000" stop="20250623040000 +0000">
+    <title lang="zh">東森午安新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369248" start="20250623040000 +0000" stop="20250623050000 +0000">
+    <title lang="zh">東森午安新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369248" start="20250623050000 +0000" stop="20250623060000 +0000">
+    <title lang="zh">東森午安新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369248" start="20250623060000 +0000" stop="20250623070000 +0000">
+    <title lang="zh">東森午安新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369248" start="20250623070000 +0000" stop="20250623080000 +0000">
+    <title lang="zh">東森大社會</title>
+    <desc>介紹台灣社會重大案件與名人佚事的始末</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369248" start="20250623080000 +0000" stop="20250623090000 +0000">
+    <title lang="zh">東森晚間新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369248" start="20250623090000 +0000" stop="20250623100000 +0000">
+    <title lang="zh">東森晚間新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369248" start="20250623100000 +0000" stop="20250623110000 +0000">
+    <title lang="zh">東森晚間新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369248" start="20250623110000 +0000" stop="20250623120000 +0000">
+    <title lang="zh">東森晚間新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369248" start="20250623120000 +0000" stop="20250623130000 +0000">
+    <title lang="zh">東森世界日報</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369248" start="20250623130000 +0000" stop="20250623140000 +0000">
+    <title lang="zh">東森世界日報</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369248" start="20250623140000 +0000" stop="20250623150000 +0000">
+    <title lang="zh">關鍵時刻</title>
+    <desc>為一政論綜合性節目，節目中邀請來賓名嘴們一同探討最新相關新聞議題與千奇百怪的事件，並為您深入剖析不同觀點。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369248" start="20250623150000 +0000" stop="20250623160000 +0000">
+    <title lang="zh">關鍵時刻</title>
+    <desc>為一政論綜合性節目，節目中邀請來賓名嘴們一同探討最新相關新聞議題與千奇百怪的事件，並為您深入剖析不同觀點。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369248" start="20250623160000 +0000" stop="20250623170000 +0000">
+    <title lang="zh">東森夜線新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369248" start="20250623170000 +0000" stop="20250623180000 +0000">
+    <title lang="zh">東森晚間新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369248" start="20250623180000 +0000" stop="20250623190000 +0000">
+    <title lang="zh">東森晚間新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369248" start="20250623190000 +0000" stop="20250623200000 +0000">
+    <title lang="zh">東森世界日報</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369248" start="20250623200000 +0000" stop="20250623210000 +0000">
+    <title lang="zh">東森世界日報</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369248" start="20250623210000 +0000" stop="20250623220000 +0000">
+    <title lang="zh">東森夜線新聞</title>
+    <desc>以公正客觀的角度，為全國觀眾播報最新、最準確的新聞。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369248" start="20250623220000 +0000" stop="20250624000000 +0000">
+    <title lang="zh">Hello台灣</title>
+    <desc>為觀眾播報最新、最即時的晨間新聞</desc>
+    <date>2025-06-23</date>
+  </programme>
+<tv date="20250622172056 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20250622&amp;timezone=None">
+  <channel id="370173">
+    <display-name lang="Taiwan">三立新聞iNEWS</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110842913601_69.png" />
+  </channel>
+  <programme channel="370173" start="20250622000000 +0000" stop="20250622010000 +0000">
+    <title lang="zh">Catch大錢潮(重)(普)(N)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370173" start="20250622010000 +0000" stop="20250622020000 +0000">
+    <title lang="zh">全球新食力(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370173" start="20250622020000 +0000" stop="20250622030000 +0000">
+    <title lang="zh">我們一家人 閃耀新家園(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370173" start="20250622030000 +0000" stop="20250622040000 +0000">
+    <title lang="zh">iNEWS1100整點新聞(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370173" start="20250622040000 +0000" stop="20250622050000 +0000">
+    <title lang="zh">iNEWS財經午報(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370173" start="20250622050000 +0000" stop="20250622060000 +0000">
+    <title lang="zh">好宅敲敲門(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370173" start="20250622060000 +0000" stop="20250622070000 +0000">
+    <title lang="zh">醫點不誇張(重)(普)(N)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370173" start="20250622070000 +0000" stop="20250622080000 +0000">
+    <title lang="zh">吃貨請跟上(重)(普)(N)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370173" start="20250622080000 +0000" stop="20250622090000 +0000">
+    <title lang="zh">話時代人物(重)(普)(N)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370173" start="20250622090000 +0000" stop="20250622100000 +0000">
+    <title lang="zh">iNEWS財經晚報(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370173" start="20250622100000 +0000" stop="20250622120000 +0000">
+    <title lang="zh">1819錢進大頭條(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370173" start="20250622120000 +0000" stop="20250622130000 +0000">
+    <title lang="zh">360大世界(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370173" start="20250622130000 +0000" stop="20250622140000 +0000">
+    <title lang="zh">Catch大錢潮(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370173" start="20250622140000 +0000" stop="20250622150000 +0000">
+    <title lang="zh">台灣新思路(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370173" start="20250622150000 +0000" stop="20250622160000 +0000">
+    <title lang="zh">驚爆新聞線(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370173" start="20250622160000 +0000" stop="20250622170000 +0000">
+    <title lang="zh">驚爆新聞線(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370173" start="20250622170000 +0000" stop="20250622180000 +0000">
+    <title lang="zh">Catch大錢潮(重)(普)(N)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370173" start="20250622180000 +0000" stop="20250622190000 +0000">
+    <title lang="zh">台灣新思路(重)(普)(N)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370173" start="20250622190000 +0000" stop="20250622200000 +0000">
+    <title lang="zh">好宅敲敲門(重)(普)(N)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370173" start="20250622200000 +0000" stop="20250622210000 +0000">
+    <title lang="zh">1819錢進大頭條(重)(普)(N)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370173" start="20250622210000 +0000" stop="20250622220000 +0000">
+    <title lang="zh">1819錢進大頭條(重)(普)(N)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370173" start="20250622220000 +0000" stop="20250622230000 +0000">
+    <title lang="zh">360大世界(重)(普)(N)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370173" start="20250622230000 +0000" stop="20250623000000 +0000">
+    <title lang="zh">iNEWS財經早報(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370173" start="20250623000000 +0000" stop="20250623010000 +0000">
+    <title lang="zh">iNEWS財經早報(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370173" start="20250623010000 +0000" stop="20250623015500 +0000">
+    <title lang="zh">iNEWS0900整點新聞(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370173" start="20250623015500 +0000" stop="20250623025500 +0000">
+    <title lang="zh">iNEWS1000整點新聞(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370173" start="20250623025500 +0000" stop="20250623035500 +0000">
+    <title lang="zh">iNEWS1100整點新聞(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370173" start="20250623035500 +0000" stop="20250623060000 +0000">
+    <title lang="zh">iNEWS財經午報(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370173" start="20250623060000 +0000" stop="20250623063000 +0000">
+    <title lang="zh">台股大贏家(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370173" start="20250623063000 +0000" stop="20250623070000 +0000">
+    <title lang="zh">iNEWS1430整點新聞(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370173" start="20250623070000 +0000" stop="20250623073000 +0000">
+    <title lang="zh">iNEWS1500整點新聞(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370173" start="20250623073000 +0000" stop="20250623080000 +0000">
+    <title lang="zh">前進關鍵碼(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370173" start="20250623080000 +0000" stop="20250623090000 +0000">
+    <title lang="zh">醫點不誇張(重)(普)(N)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370173" start="20250623090000 +0000" stop="20250623095500 +0000">
+    <title lang="zh">1700iNEWS整點新聞(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370173" start="20250623095500 +0000" stop="20250623115500 +0000">
+    <title lang="zh">1819錢進大頭條(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370173" start="20250623115500 +0000" stop="20250623123000 +0000">
+    <title lang="zh">iNEWS大世界(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370173" start="20250623123000 +0000" stop="20250623130000 +0000">
+    <title lang="zh">全民i彩券(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370173" start="20250623130000 +0000" stop="20250623150000 +0000">
+    <title lang="zh">關我什麼事(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370173" start="20250623150000 +0000" stop="20250623160000 +0000">
+    <title lang="zh">2300iNEWS財經夜世界(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370173" start="20250623160000 +0000" stop="20250623180000 +0000">
+    <title lang="zh">關我什麼事(重)(普)(N)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370173" start="20250623180000 +0000" stop="20250623190000 +0000">
+    <title lang="zh">2300iNEWS財經夜世界(重)(普)(N)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370173" start="20250623190000 +0000" stop="20250623210000 +0000">
+    <title lang="zh">1819錢進大頭條(重)(普)(N)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370173" start="20250623210000 +0000" stop="20250623220000 +0000">
+    <title lang="zh">關我什麼事2200(重)(普)(N)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370173" start="20250623220000 +0000" stop="20250623230000 +0000">
+    <title lang="zh">2300iNEWS財經夜世界(重)(普)(N)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370173" start="20250623230000 +0000" stop="20250624000000 +0000">
+    <title lang="zh">iNEWS財經早報(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370173" start="20250624000000 +0000" stop="20250625000000 +0000">
+    <title lang="zh">iNEWS財經早報(首)(普)(N)</title>
+    <desc />
+    <date>2025-06-24</date>
+  </programme>
+<tv date="20250622172056 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20250622&amp;timezone=None">
+  <channel id="370172">
+    <display-name lang="Taiwan">民視新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110836326598_60.png" />
+  </channel>
+  <programme channel="370172" start="20250622000000 +0000" stop="20250622003000 +0000">
+    <title lang="zh">民視八點晨間新聞【普】</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370172" start="20250622003000 +0000" stop="20250622010000 +0000">
+    <title lang="zh">國際早報【普】</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370172" start="20250622010000 +0000" stop="20250622015600 +0000">
+    <title lang="zh">民視九點新聞【普】</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370172" start="20250622015600 +0000" stop="20250622020000 +0000">
+    <title lang="zh">飛閱文學地景XI【普】(E24)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370172" start="20250622020000 +0000" stop="20250622030000 +0000">
+    <title lang="zh">民視十點新聞【普】</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370172" start="20250622030000 +0000" stop="20250622034500 +0000">
+    <title lang="zh">決策者【普】(E165)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370172" start="20250622034500 +0000" stop="20250622060000 +0000">
+    <title lang="zh">民視午間新聞【普】</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370172" start="20250622060000 +0000" stop="20250622065600 +0000">
+    <title lang="zh">民視二點新聞【普】</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370172" start="20250622065600 +0000" stop="20250622070000 +0000">
+    <title lang="zh">飛閱文學地景XI【普】(E24)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370172" start="20250622070000 +0000" stop="20250622080000 +0000">
+    <title lang="zh">科學再發現【普】(E51)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370172" start="20250622080000 +0000" stop="20250622090000 +0000">
+    <title lang="zh">財經週日趴【普】(E302)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370172" start="20250622090000 +0000" stop="20250622095500 +0000">
+    <title lang="zh">民視五點新聞【普】</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370172" start="20250622095500 +0000" stop="20250622104500 +0000">
+    <title lang="zh">民視晚間新聞【普】</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370172" start="20250622104500 +0000" stop="20250622115500 +0000">
+    <title lang="zh">民視晚間新聞【普】</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370172" start="20250622115500 +0000" stop="20250622130000 +0000">
+    <title lang="zh">台灣演義【普】(E738)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370172" start="20250622130000 +0000" stop="20250622140000 +0000">
+    <title lang="zh">民視全球新聞【普】</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370172" start="20250622140000 +0000" stop="20250622153000 +0000">
+    <title lang="zh">挑戰新聞【普】(E1663)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370172" start="20250622153000 +0000" stop="20250622163000 +0000">
+    <title lang="zh">民視午夜新聞【普】</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370172" start="20250622163000 +0000" stop="20250622173000 +0000">
+    <title lang="zh">台灣演義【普】(E738)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370172" start="20250622173000 +0000" stop="20250622180000 +0000">
+    <title lang="zh">民視午夜新聞【普】</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370172" start="20250622180000 +0000" stop="20250622190000 +0000">
+    <title lang="zh">民視異言堂【普】(E1366)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370172" start="20250622190000 +0000" stop="20250622200000 +0000">
+    <title lang="zh">民視午夜新聞【普】</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370172" start="20250622200000 +0000" stop="20250622210000 +0000">
+    <title lang="zh">民視全球新聞【普】</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370172" start="20250622210000 +0000" stop="20250622220000 +0000">
+    <title lang="zh">民視午夜新聞【普】</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370172" start="20250622220000 +0000" stop="20250622230000 +0000">
+    <title lang="zh">民視六點晨間新聞【普】</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370172" start="20250622230000 +0000" stop="20250623000000 +0000">
+    <title lang="zh">民視七點晨間新聞【普】</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370172" start="20250623000000 +0000" stop="20250623003000 +0000">
+    <title lang="zh">民視八點晨間新聞【普】</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370172" start="20250623003000 +0000" stop="20250623010000 +0000">
+    <title lang="zh">國際早報【普】</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370172" start="20250623010000 +0000" stop="20250623020000 +0000">
+    <title lang="zh">民視九點新聞【普】</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370172" start="20250623020000 +0000" stop="20250623025600 +0000">
+    <title lang="zh">民視十點新聞【普】</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370172" start="20250623025600 +0000" stop="20250623030000 +0000">
+    <title lang="zh">飛閱文學地景XI【普】(E24)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370172" start="20250623030000 +0000" stop="20250623035000 +0000">
+    <title lang="zh">民視十一點新聞【普】</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370172" start="20250623035000 +0000" stop="20250623055000 +0000">
+    <title lang="zh">民視午間新聞【普】</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370172" start="20250623055000 +0000" stop="20250623080000 +0000">
+    <title lang="zh">全國第一勇【普】(E721)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370172" start="20250623080000 +0000" stop="20250623083000 +0000">
+    <title lang="zh">民視四點新聞【普】</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370172" start="20250623083000 +0000" stop="20250623090000 +0000">
+    <title lang="zh">民視國際新聞【普】</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370172" start="20250623090000 +0000" stop="20250623095500 +0000">
+    <title lang="zh">民視五點新聞【普】</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370172" start="20250623095500 +0000" stop="20250623102500 +0000">
+    <title lang="zh">民視晚間新聞【普】</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370172" start="20250623102500 +0000" stop="20250623115500 +0000">
+    <title lang="zh">民視晚間新聞【普】</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370172" start="20250623115500 +0000" stop="20250623124000 +0000">
+    <title lang="zh">台灣最前線【普】(E2215)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370172" start="20250623124000 +0000" stop="20250623134500 +0000">
+    <title lang="zh">台灣最前線【普】(E2215)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370172" start="20250623134500 +0000" stop="20250623153000 +0000">
+    <title lang="zh">台灣向前行【普】(E1792)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370172" start="20250623153000 +0000" stop="20250623170000 +0000">
+    <title lang="zh">民視午夜新聞【普】</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370172" start="20250623170000 +0000" stop="20250623173000 +0000">
+    <title lang="zh">民視英語新聞【普】</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370172" start="20250623173000 +0000" stop="20250623183000 +0000">
+    <title lang="zh">台灣看世界【普】</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370172" start="20250623183000 +0000" stop="20250623193000 +0000">
+    <title lang="zh">民視晚間新聞【普】</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370172" start="20250623193000 +0000" stop="20250623201500 +0000">
+    <title lang="zh">台灣最前線【普】(E2215)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370172" start="20250623201500 +0000" stop="20250623213000 +0000">
+    <title lang="zh">台灣最前線【普】(E2215)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370172" start="20250623213000 +0000" stop="20250623220000 +0000">
+    <title lang="zh">民視午夜新聞【普】</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370172" start="20250623220000 +0000" stop="20250623230000 +0000">
+    <title lang="zh">民視六點晨間新聞【普】</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370172" start="20250623230000 +0000" stop="20250624000000 +0000">
+    <title lang="zh">民視七點晨間新聞【普】</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370172" start="20250624000000 +0000" stop="20250625000000 +0000">
+    <title lang="zh">民視八點晨間新聞【普】</title>
+    <desc />
+    <date>2025-06-24</date>
+  </programme>
+<tv date="20250622172057 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369324/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369324&amp;date=20250622&amp;timezone=None">
+  <channel id="369324">
+    <display-name lang="Taiwan">中視新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611154201936621_80.jpg" />
+  </channel>
+  <programme channel="369324" start="20250622000000 +0000" stop="20250622010000 +0000">
+    <title lang="zh">整點新聞</title>
+    <desc>每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369324" start="20250622010000 +0000" stop="20250622020000 +0000">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369324" start="20250622020000 +0000" stop="20250622030000 +0000">
+    <title lang="zh">60分鐘</title>
+    <desc>時事議題面面觀全方位深度聚焦60分鐘將為您檢視政策、把關權益…</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369324" start="20250622030000 +0000" stop="20250622035800 +0000">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369324" start="20250622035800 +0000" stop="20250622050000 +0000">
+    <title lang="zh">中視午間新聞</title>
+    <desc>「中視午間新聞」每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞，並提供最新股市收盤價格。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369324" start="20250622050000 +0000" stop="20250622060000 +0000">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369324" start="20250622060000 +0000" stop="20250622070000 +0000">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369324" start="20250622070000 +0000" stop="20250622080000 +0000">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369324" start="20250622080000 +0000" stop="20250622090000 +0000">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369324" start="20250622090000 +0000" stop="20250622100000 +0000">
+    <title lang="zh">60分鐘</title>
+    <desc>時事議題面面觀全方位深度聚焦60分鐘將為您檢視政策、把關權益…</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369324" start="20250622100000 +0000" stop="20250622105700 +0000">
+    <title lang="zh">中視新聞全球報導6點搶先報</title>
+    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369324" start="20250622105700 +0000" stop="20250622120000 +0000">
+    <title lang="zh">中視新聞全球報導</title>
+    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369324" start="20250622120000 +0000" stop="20250622130000 +0000">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369324" start="20250622130000 +0000" stop="20250622140000 +0000">
+    <title lang="zh">整點新聞</title>
+    <desc>每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369324" start="20250622140000 +0000" stop="20250622150000 +0000">
+    <title lang="zh">中視新聞全球報導</title>
+    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369324" start="20250622150000 +0000" stop="20250622160000 +0000">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369324" start="20250622160000 +0000" stop="20250622170000 +0000">
+    <title lang="zh">整點新聞</title>
+    <desc>每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369324" start="20250622170000 +0000" stop="20250622180000 +0000">
+    <title lang="zh">中視新聞全球報導6點搶先報</title>
+    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369324" start="20250622180000 +0000" stop="20250622190000 +0000">
+    <title lang="zh">中視新聞全球報導</title>
+    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369324" start="20250622190000 +0000" stop="20250622200000 +0000">
+    <title lang="zh">中視新聞全球報導6點搶先報</title>
+    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369324" start="20250622200000 +0000" stop="20250622210000 +0000">
+    <title lang="zh">整點新聞</title>
+    <desc>每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369324" start="20250622210000 +0000" stop="20250622220000 +0000">
+    <title lang="zh">中視新聞全球報導6點搶先報</title>
+    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369324" start="20250622220000 +0000" stop="20250622230000 +0000">
+    <title lang="zh">中視新聞全球報導</title>
+    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369324" start="20250622230000 +0000" stop="20250623000000 +0000">
+    <title lang="zh">中視早安新聞</title>
+    <desc>「中視早安新聞」每天早上以最客觀的角度，最專業的主播，為觀眾報導充分且詳實的新聞、氣象和交通路況資訊。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369324" start="20250623000000 +0000" stop="20250623010000 +0000">
+    <title lang="zh">整點新聞</title>
+    <desc>每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369324" start="20250623010000 +0000" stop="20250623020000 +0000">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369324" start="20250623020000 +0000" stop="20250623030000 +0000">
+    <title lang="zh">庶民大頭家</title>
+    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369324" start="20250623030000 +0000" stop="20250623035800 +0000">
+    <title lang="zh">庶民大頭家</title>
+    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369324" start="20250623035800 +0000" stop="20250623050000 +0000">
+    <title lang="zh">中視午間新聞</title>
+    <desc>「中視午間新聞」每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞，並提供最新股市收盤價格。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369324" start="20250623050000 +0000" stop="20250623060000 +0000">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369324" start="20250623060000 +0000" stop="20250623070000 +0000">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369324" start="20250623070000 +0000" stop="20250623080000 +0000">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369324" start="20250623080000 +0000" stop="20250623090000 +0000">
+    <title lang="zh">庶民大頭家</title>
+    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369324" start="20250623090000 +0000" stop="20250623100000 +0000">
+    <title lang="zh">庶民大頭家</title>
+    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369324" start="20250623100000 +0000" stop="20250623105800 +0000">
+    <title lang="zh">中視新聞全球報導6點搶先報</title>
+    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369324" start="20250623105800 +0000" stop="20250623120000 +0000">
+    <title lang="zh">中視新聞全球報導</title>
+    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369324" start="20250623120000 +0000" stop="20250623130000 +0000">
+    <title lang="zh">庶民大頭家</title>
+    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369324" start="20250623130000 +0000" stop="20250623140000 +0000">
+    <title lang="zh">庶民大頭家</title>
+    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369324" start="20250623140000 +0000" stop="20250623150000 +0000">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369324" start="20250623150000 +0000" stop="20250623160000 +0000">
+    <title lang="zh">中視新聞全球報導</title>
+    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369324" start="20250623160000 +0000" stop="20250623170000 +0000">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369324" start="20250623170000 +0000" stop="20250623180000 +0000">
+    <title lang="zh">庶民大頭家</title>
+    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369324" start="20250623180000 +0000" stop="20250623190000 +0000">
+    <title lang="zh">庶民大頭家</title>
+    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369324" start="20250623190000 +0000" stop="20250623200000 +0000">
+    <title lang="zh">中視新聞全球報導</title>
+    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369324" start="20250623200000 +0000" stop="20250623210000 +0000">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369324" start="20250623210000 +0000" stop="20250623220000 +0000">
+    <title lang="zh">中視新聞全球報導6點搶先報</title>
+    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369324" start="20250623220000 +0000" stop="20250623230000 +0000">
+    <title lang="zh">中視新聞全球報導</title>
+    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369324" start="20250623230000 +0000" stop="20250624000000 +0000">
+    <title lang="zh">中視早安新聞</title>
+    <desc>「中視早安新聞」每天早上以最客觀的角度，最專業的主播，為觀眾報導充分且詳實的新聞、氣象和交通路況資訊。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369324" start="20250624000000 +0000" stop="20250625000000 +0000">
+    <title lang="zh">整點新聞</title>
+    <desc>每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞</desc>
+    <date>2025-06-24</date>
+  </programme>
+<tv date="20250622172057 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/415097/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=415097&amp;date=20250622&amp;timezone=None">
+  <channel id="415097">
+    <display-name lang="China">台湾电视台</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="415097" start="20250622003000 +0000" stop="20250622013000 +0000">
+    <title lang="zh"> 探索科学危机解码(0001)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="415097" start="20250622013000 +0000" stop="20250622033000 +0000">
+    <title lang="zh"> ＮＥＷＳ金探号(0469)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="415097" start="20250622033000 +0000" stop="20250622045800 +0000">
+    <title lang="zh"> 生活情报通(0353)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="415097" start="20250622045800 +0000" stop="20250622070000 +0000">
+    <title lang="zh"> 午安您好－台视新闻(0384)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="415097" start="20250622070000 +0000" stop="20250622090000 +0000">
+    <title lang="zh"> 益起看世界(0243)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="415097" start="20250622090000 +0000" stop="20250622100000 +0000">
+    <title lang="zh"> 探索科学危机解码(0001)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="415097" start="20250622100000 +0000" stop="20250622115700 +0000">
+    <title lang="zh"> ＮＥＷＳ金探号(0469)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="415097" start="20250622115700 +0000" stop="20250622140000 +0000">
+    <title lang="zh"> 台视晚间新闻(0830)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="415097" start="20250622140000 +0000" stop="20250623000000 +0000">
+    <title lang="zh"> 台湾名人堂0332</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+<tv date="20250622172058 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369318/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369318&amp;date=20250622&amp;timezone=None">
+  <channel id="369318">
+    <display-name lang="Taiwan">鏡電視新聞台</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611152458262909_79.jpg" />
+  </channel>
+  <programme channel="369318" start="20250622010000 +0000" stop="20250622013000 +0000">
+    <title lang="zh">誰來演戲</title>
+    <desc>《誰來演戲》由演員納豆擔任主持人，透過「演員面對演員」的對話形式，深入演員的生命經驗，了解他如何轉譯生活養分，形成自己獨特的表演語言與風格。也透過「一齣好戲」的單元設計，令你不僅只是「聽」，還能「看」見到底什麼是表演。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369318" start="20250622013000 +0000" stop="20250622020000 +0000">
+    <title lang="zh">靠鏡看中國</title>
+    <desc>「中國時事百科」影像版，每週30分鐘幫你畫重點，拆解中國最新議題和現象，不泛泛而談，不拘泥形式，以即時、確實的資訊，帶領觀眾進入中國社會場景，邀請台商台幹、中外媒體、學者專家，剖析中國政經現況，帶您從不同的視角，看懂現代中國。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369318" start="20250622020000 +0000" stop="20250622030000 +0000">
+    <title lang="zh">鏡新聞調查報告</title>
+    <desc>我們直視爭議議題，對你我關心的國內外重要新聞事件，深入調查剖析。雖然真相往往得來不易，但我們會像剝洋蔥般，為你所關心的議題抽絲剝繭。重磅內容，由最精銳資深的專題團隊製作，針對重大議題，邀請焦點人物，親上火線，不讓官員迴避，不忽略最底層聲音。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369318" start="20250622030000 +0000" stop="20250622035500 +0000">
+    <title lang="zh">1100整點新聞</title>
+    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369318" start="20250622035500 +0000" stop="20250622060000 +0000">
+    <title lang="zh">午間新聞</title>
+    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369318" start="20250622060000 +0000" stop="20250622070000 +0000">
+    <title lang="zh">台語報萬事</title>
+    <desc>〈台語報萬事〉希望以本土語言為媒介，帶領閱聽人關注國際要聞、科技新知、流行趨勢等時下最熱門的議題。讓觀眾在吸收新資訊的同時，能夠與在地語言拉近距離，讓台語更加貼近生活。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369318" start="20250622070000 +0000" stop="20250622073000 +0000">
+    <title lang="zh">全球聊天室</title>
+    <desc>最熱門的國際話題，獨特前瞻的觀點，第一線的現場觀察；從台灣放眼全球，讓世界看見台灣。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369318" start="20250622073000 +0000" stop="20250622080000 +0000">
+    <title lang="zh">全球聊天室</title>
+    <desc>最熱門的國際話題，獨特前瞻的觀點，第一線的現場觀察；從台灣放眼全球，讓世界看見台灣。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369318" start="20250622080000 +0000" stop="20250622083000 +0000">
+    <title lang="zh">藝術正發聲</title>
+    <desc>《藝術正發聲》為《文藝賦格》的延伸藝文訪談節目，每週鎖定近期重要展覽、演出、播映、出版等藝文活動，邀請藝術家、創作者與主持人陳璽鈞進行深度訪談，分享作品寓意、探索美學脈絡、傾吐創作歷程之外，透過鏡頭開箱展演現場，發掘你所不知道的幕後趣事，提供多元豐富的藝文訊息，轉譯精彩繽紛的價值理念，以輕鬆卻帶入觀點的基調，讓大眾的生活更貼近藝術脈動。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369318" start="20250622083000 +0000" stop="20250622090000 +0000">
+    <title lang="zh">文藝賦格</title>
+    <desc>《文藝賦格》融合在地與全球，開拓多元豐富的文化景觀。如同音樂「賦格」一般的創作形式，眾聲雲集，成就臺灣文藝的合唱。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369318" start="20250622090000 +0000" stop="20250622100000 +0000">
+    <title lang="zh">1700整點新聞</title>
+    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369318" start="20250622100000 +0000" stop="20250622120000 +0000">
+    <title lang="zh">晚間新聞</title>
+    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369318" start="20250622120000 +0000" stop="20250622130000 +0000">
+    <title lang="zh">鏡新聞調查報告</title>
+    <desc>我們直視爭議議題，對你我關心的國內外重要新聞事件，深入調查剖析。雖然真相往往得來不易，但我們會像剝洋蔥般，為你所關心的議題抽絲剝繭。重磅內容，由最精銳資深的專題團隊製作，針對重大議題，邀請焦點人物，親上火線，不讓官員迴避，不忽略最底層聲音。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369318" start="20250622130000 +0000" stop="20250622133000 +0000">
+    <title lang="zh">另一種注目</title>
+    <desc>《另一種注目》是一個具文化精神的紀實節目，從各種人物故事切入，以嶄新的視野與獨特的觀點，探索台灣社會文化的現象與脈絡，為這個時代留下紀錄。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369318" start="20250622133000 +0000" stop="20250622140000 +0000">
+    <title lang="zh">少年新聞週記</title>
+    <desc>這是一個專門為12-17歲青少年，以及關心青少年的家長老師、「重要他人」精心規劃的節目。團隊會從青少年視角選材，提供能夠協助大家增加未來關鍵競爭力的內容。每週除了固定會幫大家科普整理國內外重要大事；也會邀訪會為青少年帶來正向力量的重量級大學長大學姊分享來時路；更會聆聽青少年心中的心理學習困擾，並邀請專家學者共同解決。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369318" start="20250622140000 +0000" stop="20250622150000 +0000">
+    <title lang="zh">財富新鏡界</title>
+    <desc>財富新鏡界，Fund眼全世界。理財是打造美好生活的手段，從生涯自我實現、成家立業、購屋買房到退休樂活，通通都需要財富的支持。隨著全球金融市場一體化，理財也邁入新的境界，《財富新鏡界》帶你放眼世界，以專業視角，強化全齡財商。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369318" start="20250622150000 +0000" stop="20250622153000 +0000">
+    <title lang="zh">誰來演戲之傳奇巨星</title>
+    <desc>誰來演戲之傳奇巨星系列，將透過知名好萊塢演員的成長歷程，揭示他們如何從默默無聞的新人蛻變成影壇巨星。在充滿挑戰和挫折的道路上，他們如何堅持與努力不懈地追逐著自己的夢想，並成為我們這一代的經典？</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369318" start="20250622153000 +0000" stop="20250622160000 +0000">
+    <title lang="zh">另一種注目</title>
+    <desc>《另一種注目》是一個具文化精神的紀實節目，從各種人物故事切入，以嶄新的視野與獨特的觀點，探索台灣社會文化的現象與脈絡，為這個時代留下紀錄。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369318" start="20250622160000 +0000" stop="20250622170000 +0000">
+    <title lang="zh">鏡新聞調查報告</title>
+    <desc>我們直視爭議議題，對你我關心的國內外重要新聞事件，深入調查剖析。雖然真相往往得來不易，但我們會像剝洋蔥般，為你所關心的議題抽絲剝繭。重磅內容，由最精銳資深的專題團隊製作，針對重大議題，邀請焦點人物，親上火線，不讓官員迴避，不忽略最底層聲音。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369318" start="20250622170000 +0000" stop="20250622180000 +0000">
+    <title lang="zh">財富新鏡界</title>
+    <desc>財富新鏡界，Fund眼全世界。理財是打造美好生活的手段，從生涯自我實現、成家立業、購屋買房到退休樂活，通通都需要財富的支持。隨著全球金融市場一體化，理財也邁入新的境界，《財富新鏡界》帶你放眼世界，以專業視角，強化全齡財商。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369318" start="20250622180000 +0000" stop="20250622190000 +0000">
+    <title lang="zh">鏡新聞調查報告</title>
+    <desc>我們直視爭議議題，對你我關心的國內外重要新聞事件，深入調查剖析。雖然真相往往得來不易，但我們會像剝洋蔥般，為你所關心的議題抽絲剝繭。重磅內容，由最精銳資深的專題團隊製作，針對重大議題，邀請焦點人物，親上火線，不讓官員迴避，不忽略最底層聲音。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369318" start="20250622190000 +0000" stop="20250622193000 +0000">
+    <title lang="zh">少年新聞週記</title>
+    <desc>這是一個專門為12-17歲青少年，以及關心青少年的家長老師、「重要他人」精心規劃的節目。團隊會從青少年視角選材，提供能夠協助大家增加未來關鍵競爭力的內容。每週除了固定會幫大家科普整理國內外重要大事；也會邀訪會為青少年帶來正向力量的重量級大學長大學姊分享來時路；更會聆聽青少年心中的心理學習困擾，並邀請專家學者共同解決。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369318" start="20250622193000 +0000" stop="20250622200000 +0000">
+    <title lang="zh">另一種注目</title>
+    <desc>《另一種注目》是一個具文化精神的紀實節目，從各種人物故事切入，以嶄新的視野與獨特的觀點，探索台灣社會文化的現象與脈絡，為這個時代留下紀錄。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369318" start="20250622200000 +0000" stop="20250622203000 +0000">
+    <title lang="zh">另一種注目</title>
+    <desc>《另一種注目》是一個具文化精神的紀實節目，從各種人物故事切入，以嶄新的視野與獨特的觀點，探索台灣社會文化的現象與脈絡，為這個時代留下紀錄。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369318" start="20250622203000 +0000" stop="20250622210000 +0000">
+    <title lang="zh">少年新聞週記</title>
+    <desc>這是一個專門為12-17歲青少年，以及關心青少年的家長老師、「重要他人」精心規劃的節目。團隊會從青少年視角選材，提供能夠協助大家增加未來關鍵競爭力的內容。每週除了固定會幫大家科普整理國內外重要大事；也會邀訪會為青少年帶來正向力量的重量級大學長大學姊分享來時路；更會聆聽青少年心中的心理學習困擾，並邀請專家學者共同解決。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369318" start="20250622210000 +0000" stop="20250622220000 +0000">
+    <title lang="zh">台語報萬事</title>
+    <desc>〈台語報萬事〉希望以本土語言為媒介，帶領閱聽人關注國際要聞、科技新知、流行趨勢等時下最熱門的議題。讓觀眾在吸收新資訊的同時，能夠與在地語言拉近距離，讓台語更加貼近生活。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369318" start="20250622220000 +0000" stop="20250622230000 +0000">
+    <title lang="zh">財富新鏡界</title>
+    <desc>財富新鏡界，Fund眼全世界。理財是打造美好生活的手段，從生涯自我實現、成家立業、購屋買房到退休樂活，通通都需要財富的支持。隨著全球金融市場一體化，理財也邁入新的境界，《財富新鏡界》帶你放眼世界，以專業視角，強化全齡財商。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369318" start="20250622230000 +0000" stop="20250623000000 +0000">
+    <title lang="zh">早安進行式</title>
+    <desc>我們最關心的，就是台灣各種大小事，內容涵蓋政經、生活、國際等多元面向，在早上七點和八點兩個小時，透過螢幕傳送到您眼前。</desc>
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="369318" start="20250623010000 +0000" stop="20250623013000 +0000">
+    <title lang="zh">0900整點新聞</title>
+    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369318" start="20250623013000 +0000" stop="20250623020000 +0000">
+    <title lang="zh">生活鏡行式</title>
+    <desc>「生活」包羅萬象，食衣住行、醫療健康、旅遊新玩法。破除迷思，所有民眾關心的生活話題，深度訪談分析！</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369318" start="20250623020000 +0000" stop="20250623030000 +0000">
+    <title lang="zh">1000整點新聞</title>
+    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369318" start="20250623030000 +0000" stop="20250623035500 +0000">
+    <title lang="zh">1100整點新聞</title>
+    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369318" start="20250623035500 +0000" stop="20250623060000 +0000">
+    <title lang="zh">午間新聞</title>
+    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369318" start="20250623060000 +0000" stop="20250623070000 +0000">
+    <title lang="zh">1400台語新聞</title>
+    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369318" start="20250623070000 +0000" stop="20250623073000 +0000">
+    <title lang="zh">另一種注目</title>
+    <desc>《另一種注目》是一個具文化精神的紀實節目，從各種人物故事切入，以嶄新的視野與獨特的觀點，探索台灣社會文化的現象與脈絡，為這個時代留下紀錄。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369318" start="20250623073000 +0000" stop="20250623080000 +0000">
+    <title lang="zh">生活鏡行式</title>
+    <desc>「生活」包羅萬象，食衣住行、醫療健康、旅遊新玩法。破除迷思，所有民眾關心的生活話題，深度訪談分析！</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369318" start="20250623080000 +0000" stop="20250623090000 +0000">
+    <title lang="zh">1600整點新聞手語</title>
+    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369318" start="20250623090000 +0000" stop="20250623100000 +0000">
+    <title lang="zh">1700整點新聞</title>
+    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369318" start="20250623100000 +0000" stop="20250623120000 +0000">
+    <title lang="zh">晚間新聞</title>
+    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369318" start="20250623120000 +0000" stop="20250623133000 +0000">
+    <title lang="zh">鏡新聞調查報告</title>
+    <desc>我們直視爭議議題，對你我關心的國內外重要新聞事件，深入調查剖析。雖然真相往往得來不易，但我們會像剝洋蔥般，為你所關心的議題抽絲剝繭。重磅內容，由最精銳資深的專題團隊製作，針對重大議題，邀請焦點人物，親上火線，不讓官員迴避，不忽略最底層聲音。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369318" start="20250623133000 +0000" stop="20250623140000 +0000">
+    <title lang="zh">鏡轉全球</title>
+    <desc>與世界同步，關心你的財富。站在台灣投資人的角度，放眼國際金融市場，提供好看、好懂、好用的國際財經新聞和理財資訊。陪伴觀眾一起，觀測全球市場的風險與機會，掌握影響財富變化的國際脈動。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369318" start="20250623140000 +0000" stop="20250623143000 +0000">
+    <title lang="zh">全球聊天室</title>
+    <desc>最熱門的國際話題，獨特前瞻的觀點，第一線的現場觀察；從台灣放眼全球，讓世界看見台灣。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369318" start="20250623143000 +0000" stop="20250623160000 +0000">
+    <title lang="zh">夜間新聞</title>
+    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369318" start="20250623160000 +0000" stop="20250623173000 +0000">
+    <title lang="zh">鏡新聞調查報告</title>
+    <desc>我們直視爭議議題，對你我關心的國內外重要新聞事件，深入調查剖析。雖然真相往往得來不易，但我們會像剝洋蔥般，為你所關心的議題抽絲剝繭。重磅內容，由最精銳資深的專題團隊製作，針對重大議題，邀請焦點人物，親上火線，不讓官員迴避，不忽略最底層聲音。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369318" start="20250623173000 +0000" stop="20250623190000 +0000">
+    <title lang="zh">夜間新聞</title>
+    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369318" start="20250623190000 +0000" stop="20250623200000 +0000">
+    <title lang="zh">1600整點新聞手語</title>
+    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369318" start="20250623200000 +0000" stop="20250623210000 +0000">
+    <title lang="zh">1400台語新聞</title>
+    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369318" start="20250623210000 +0000" stop="20250623213000 +0000">
+    <title lang="zh">全球聊天室</title>
+    <desc>最熱門的國際話題，獨特前瞻的觀點，第一線的現場觀察；從台灣放眼全球，讓世界看見台灣。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369318" start="20250623213000 +0000" stop="20250623230000 +0000">
+    <title lang="zh">夜間新聞</title>
+    <desc>鏡電視新聞台，帶領台灣觀眾開啟不一樣的新聞視野！百分之百自製、專業團隊全天候製播足量優質的即時要聞、全球國際、世界財經、藝術人文、深度報導、地方行腳、少年週記等內容，帶來更寬廣的面向、更多元的觀點，是海內外華人觀眾同步連結寶島台灣，掌握全球脈動嶄新的選擇。</desc>
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="369318" start="20250623230000 +0000" stop="20250624000000 +0000">
+    <title lang="zh">早安進行式</title>
+    <desc>我們最關心的，就是台灣各種大小事，內容涵蓋政經、生活、國際等多元面向，在早上七點和八點兩個小時，透過螢幕傳送到您眼前。</desc>
+    <date>2025-06-23</date>
+  </programme>
+<tv date="20250622172058 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370171/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370171&amp;date=20250622&amp;timezone=None">
+  <channel id="370171">
+    <display-name lang="Taiwan">華視新聞</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110829650925_83.png" />
+  </channel>
+  <programme channel="370171" start="20250622000000 +0000" stop="20250622010000 +0000">
+    <title lang="zh">GOOD Morning台灣</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370171" start="20250622010000 +0000" stop="20250622020000 +0000">
+    <title lang="zh">華視0900整點新聞</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370171" start="20250622020000 +0000" stop="20250622030000 +0000">
+    <title lang="zh">華視1000新聞搶先報</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370171" start="20250622030000 +0000" stop="20250622035900 +0000">
+    <title lang="zh">華視1100新聞搶先報</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370171" start="20250622035900 +0000" stop="20250622045500 +0000">
+    <title lang="zh">華視午間新聞</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370171" start="20250622045500 +0000" stop="20250622060000 +0000">
+    <title lang="zh">華視1300午間新聞</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370171" start="20250622060000 +0000" stop="20250622070000 +0000">
+    <title lang="zh">華視1400整點新聞</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370171" start="20250622070000 +0000" stop="20250622080000 +0000">
+    <title lang="zh">三國演議</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370171" start="20250622080000 +0000" stop="20250622090000 +0000">
+    <title lang="zh">華視1600整點新聞</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370171" start="20250622090000 +0000" stop="20250622110000 +0000">
+    <title lang="zh">華視新聞晚報</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370171" start="20250622110000 +0000" stop="20250622120000 +0000">
+    <title lang="zh">華視晚間新聞</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370171" start="20250622120000 +0000" stop="20250622130000 +0000">
+    <title lang="zh">新聞高峰會</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370171" start="20250622130000 +0000" stop="20250622140000 +0000">
+    <title lang="zh">國際線，出發！</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370171" start="20250622140000 +0000" stop="20250622150000 +0000">
+    <title lang="zh">華視2200夜間新聞</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370171" start="20250622150000 +0000" stop="20250622160000 +0000">
+    <title lang="zh">華視夜間新聞</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370171" start="20250622160000 +0000" stop="20250622170000 +0000">
+    <title lang="zh">華視2400夜間新聞</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370171" start="20250622170000 +0000" stop="20250622180000 +0000">
+    <title lang="zh">華視夜間新聞</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370171" start="20250622180000 +0000" stop="20250622190000 +0000">
+    <title lang="zh">華視2400夜間新聞</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370171" start="20250622190000 +0000" stop="20250622200000 +0000">
+    <title lang="zh">新聞高峰會</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370171" start="20250622200000 +0000" stop="20250622210000 +0000">
+    <title lang="zh">華視2400夜間新聞</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370171" start="20250622210000 +0000" stop="20250622220000 +0000">
+    <title lang="zh">華視夜間新聞</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370171" start="20250622220000 +0000" stop="20250622230000 +0000">
+    <title lang="zh">華視2400夜間新聞</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370171" start="20250622230000 +0000" stop="20250623000000 +0000">
+    <title lang="zh">GOOD Morning台灣</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="370171" start="20250623000000 +0000" stop="20250623010000 +0000">
+    <title lang="zh">GOOD Morning台灣</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370171" start="20250623010000 +0000" stop="20250623020000 +0000">
+    <title lang="zh">華視0900整點新聞</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370171" start="20250623020000 +0000" stop="20250623030000 +0000">
+    <title lang="zh">華視1000新聞搶先報</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370171" start="20250623030000 +0000" stop="20250623035800 +0000">
+    <title lang="zh">華視1100新聞搶先報</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370171" start="20250623035800 +0000" stop="20250623050000 +0000">
+    <title lang="zh">華視午間新聞</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370171" start="20250623050000 +0000" stop="20250623060000 +0000">
+    <title lang="zh">華視1300午間新聞</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370171" start="20250623060000 +0000" stop="20250623070000 +0000">
+    <title lang="zh">華視1400整點新聞</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370171" start="20250623070000 +0000" stop="20250623080000 +0000">
+    <title lang="zh">華視1500整點新聞</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370171" start="20250623080000 +0000" stop="20250623085300 +0000">
+    <title lang="zh">華視在地新聞</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370171" start="20250623085300 +0000" stop="20250623120000 +0000">
+    <title lang="zh">華視新聞晚報</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370171" start="20250623120000 +0000" stop="20250623130000 +0000">
+    <title lang="zh">華視2000整點新聞</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370171" start="20250623130000 +0000" stop="20250623140000 +0000">
+    <title lang="zh">World News 9</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370171" start="20250623140000 +0000" stop="20250623150000 +0000">
+    <title lang="zh">52政經點</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370171" start="20250623150000 +0000" stop="20250623155500 +0000">
+    <title lang="zh">華視夜間新聞</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370171" start="20250623155500 +0000" stop="20250623170000 +0000">
+    <title lang="zh">華視2400夜間新聞</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370171" start="20250623170000 +0000" stop="20250623180000 +0000">
+    <title lang="zh">World News 9</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370171" start="20250623180000 +0000" stop="20250623190000 +0000">
+    <title lang="zh">華視2400夜間新聞</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370171" start="20250623190000 +0000" stop="20250623200000 +0000">
+    <title lang="zh">World News 9</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370171" start="20250623200000 +0000" stop="20250623210000 +0000">
+    <title lang="zh">華視2400夜間新聞</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370171" start="20250623210000 +0000" stop="20250623220000 +0000">
+    <title lang="zh">World News 9</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370171" start="20250623220000 +0000" stop="20250623230000 +0000">
+    <title lang="zh">華視2400夜間新聞</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370171" start="20250623230000 +0000" stop="20250624000000 +0000">
+    <title lang="zh">GOOD Morning台灣</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="370171" start="20250624000000 +0000" stop="20250625000000 +0000">
+    <title lang="zh">GOOD Morning台灣</title>
+    <desc />
+    <date>2025-06-24</date>
+  </programme>
+<!-- generated at 2025-06-22 09:24:19 UTC -->
 </tv>
