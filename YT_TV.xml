@@ -2849,5 +2849,255 @@
     <desc />
     <date>2025-06-24</date>
   </programme>
-<!-- generated at 2025-06-22 09:24:19 UTC -->
+<tv date="20250622180348 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335029/20250622.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335029&amp;date=20250622&amp;timezone=None">
+  <channel id="335029">
+    <display-name lang="Taiwan">寰宇新聞HD</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="335029" start="20250622005500 +0000" stop="20250622015500 +0000">
+    <title lang="zh">寰宇全球早報(普)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="335029" start="20250622015500 +0000" stop="20250622025500 +0000">
+    <title lang="zh">寰宇全球現場(普)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="335029" start="20250622025500 +0000" stop="20250622035500 +0000">
+    <title lang="zh">寰宇全球現場(普)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="335029" start="20250622035500 +0000" stop="20250622045500 +0000">
+    <title lang="zh">寰宇全球現場(普)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="335029" start="20250622045500 +0000" stop="20250622055500 +0000">
+    <title lang="zh">寰宇全球現場(普)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="335029" start="20250622055500 +0000" stop="20250622065500 +0000">
+    <title lang="zh">寰宇整點新聞(普)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="335029" start="20250622065500 +0000" stop="20250622075500 +0000">
+    <title lang="zh">寰宇整點新聞(普)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="335029" start="20250622075500 +0000" stop="20250622085500 +0000">
+    <title lang="zh">寰宇全球新聞(普)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="335029" start="20250622085500 +0000" stop="20250622095500 +0000">
+    <title lang="zh">寰宇全球新聞(普)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="335029" start="20250622095500 +0000" stop="20250622105500 +0000">
+    <title lang="zh">寰宇全球新聞(普)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="335029" start="20250622105500 +0000" stop="20250622115500 +0000">
+    <title lang="zh">寰宇全球新聞(普)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="335029" start="20250622115500 +0000" stop="20250622122500 +0000">
+    <title lang="zh">寰宇世界通(普)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="335029" start="20250622122500 +0000" stop="20250622125500 +0000">
+    <title lang="zh">寰宇整點新聞(普)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="335029" start="20250622125500 +0000" stop="20250622135500 +0000">
+    <title lang="zh">寰宇世界通(普)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="335029" start="20250622135500 +0000" stop="20250622145500 +0000">
+    <title lang="zh">寰宇世界通(普)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="335029" start="20250622145500 +0000" stop="20250622155500 +0000">
+    <title lang="zh">寰宇世界通(普)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="335029" start="20250622155500 +0000" stop="20250622165500 +0000">
+    <title lang="zh">寰宇世界通(普)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="335029" start="20250622165500 +0000" stop="20250622175500 +0000">
+    <title lang="zh">寰宇世界通(普)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="335029" start="20250622175500 +0000" stop="20250622185500 +0000">
+    <title lang="zh">寰宇世界通(普)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="335029" start="20250622185500 +0000" stop="20250622195500 +0000">
+    <title lang="zh">寰宇世界通(普)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="335029" start="20250622195500 +0000" stop="20250622205500 +0000">
+    <title lang="zh">寰宇世界通(普)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="335029" start="20250622205500 +0000" stop="20250622215500 +0000">
+    <title lang="zh">寰宇全球新聞(普)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="335029" start="20250622215500 +0000" stop="20250622225500 +0000">
+    <title lang="zh">寰宇全球新聞(普)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="335029" start="20250622225500 +0000" stop="20250622235500 +0000">
+    <title lang="zh">寰宇全球早報(普)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="335029" start="20250622235500 +0000" stop="20250623000000 +0000">
+    <title lang="zh">寰宇全球早報(普)</title>
+    <desc />
+    <date>2025-06-22</date>
+  </programme>
+  <programme channel="335029" start="20250623005500 +0000" stop="20250623015500 +0000">
+    <title lang="zh">寰宇全球早報(普)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="335029" start="20250623015500 +0000" stop="20250623025500 +0000">
+    <title lang="zh">寰宇全球現場(普)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="335029" start="20250623025500 +0000" stop="20250623035500 +0000">
+    <title lang="zh">寰宇全球現場(普)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="335029" start="20250623035500 +0000" stop="20250623045500 +0000">
+    <title lang="zh">寰宇全球現場(普)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="335029" start="20250623045500 +0000" stop="20250623055500 +0000">
+    <title lang="zh">寰宇全球現場(普)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="335029" start="20250623055500 +0000" stop="20250623065500 +0000">
+    <title lang="zh">寰宇整點新聞(普)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="335029" start="20250623065500 +0000" stop="20250623075500 +0000">
+    <title lang="zh">寰宇整點新聞(普)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="335029" start="20250623075500 +0000" stop="20250623085500 +0000">
+    <title lang="zh">寰宇全球新聞(普)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="335029" start="20250623085500 +0000" stop="20250623095500 +0000">
+    <title lang="zh">寰宇全球新聞(普)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="335029" start="20250623095500 +0000" stop="20250623105500 +0000">
+    <title lang="zh">寰宇全球新聞(普)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="335029" start="20250623105500 +0000" stop="20250623115500 +0000">
+    <title lang="zh">寰宇全球新聞(普)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="335029" start="20250623115500 +0000" stop="20250623125500 +0000">
+    <title lang="zh">寰宇世界通(普)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="335029" start="20250623125500 +0000" stop="20250623135500 +0000">
+    <title lang="zh">寰宇世界通(普)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="335029" start="20250623135500 +0000" stop="20250623145500 +0000">
+    <title lang="zh">寰宇世界通(普)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="335029" start="20250623145500 +0000" stop="20250623155500 +0000">
+    <title lang="zh">寰宇世界通(普)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="335029" start="20250623155500 +0000" stop="20250623165500 +0000">
+    <title lang="zh">寰宇世界通(普)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="335029" start="20250623165500 +0000" stop="20250623175500 +0000">
+    <title lang="zh">寰宇世界通(普)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="335029" start="20250623175500 +0000" stop="20250623185500 +0000">
+    <title lang="zh">寰宇世界通(普)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="335029" start="20250623185500 +0000" stop="20250623195500 +0000">
+    <title lang="zh">寰宇世界通(普)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="335029" start="20250623195500 +0000" stop="20250623205500 +0000">
+    <title lang="zh">寰宇世界通(普)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="335029" start="20250623205500 +0000" stop="20250623215500 +0000">
+    <title lang="zh">寰宇全球新聞(普)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="335029" start="20250623215500 +0000" stop="20250623225500 +0000">
+    <title lang="zh">寰宇全球新聞(普)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="335029" start="20250623225500 +0000" stop="20250623235500 +0000">
+    <title lang="zh">寰宇全球早報(普)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+  <programme channel="335029" start="20250623235500 +0000" stop="20250624000000 +0000">
+    <title lang="zh">寰宇全球早報(普)</title>
+    <desc />
+    <date>2025-06-23</date>
+  </programme>
+<!-- generated at 2025-06-22 10:03:49 UTC -->
 </tv>
