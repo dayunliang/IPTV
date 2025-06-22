@@ -1,0 +1,25 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml.gz"
+#EXTINF:-1 tvg-id="410355" group-title="" tvg-logo="https://yt3.googleusercontent.com/SAQEpJHK7DAeaaRuZ5nPLF-RY6zIx27Bm4pl3mTRI2RScY5QRoa7mMvOugTTEb1FZ04mZavz-lk=s160-c-k-c0x00ffffff-no-rj", 凤凰卫视资讯 Phoenix TV
+https://api.m3use.projectmoose.xyz/m3u/teaRDrop/YT_TV/67fded24eadb6c7348636943.m3u8?uid=teaRDrop&pkey=HcHmas
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://yt3.googleusercontent.com/IrPD-qWFtgEr0kplk7RvA5HWJz3BLzg8mBMh9bz2lNvRSE_YgCErB7dheHcQohExnC_VCdCKnA=s160-c-k-c0x00ffffff-no-rj", TVBS新聞台 (TVBS News)
+https://api.m3use.projectmoose.xyz/m3u/teaRDrop/YT_TV/67fcaf6b1f384f5aaf6b03d1.m3u8?uid=teaRDrop&pkey=HcHmas
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://yt3.googleusercontent.com/auwloE4N6u45dO3cmFfKamv4Q-WlM-b505lcAfp5tep9JGSkpN4DVGjeRb42NsBW48aKcKdM7g=s160-c-k-c0x00ffffff-no-rj", 民视新闻 (Formosa TV News)
+https://api.m3use.projectmoose.xyz/m3u/teaRDrop/YT_TV/67fcb3a5fd569a4e6330ebad.m3u8?uid=teaRDrop&pkey=HcHmas
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://yt3.ggpht.com/IrPD-qWFtgEr0kplk7RvA5HWJz3BLzg8mBMh9bz2lNvRSE_YgCErB7dheHcQohExnC_VCdCKnA=s48-c-k-c0x00ffffff-no-rj", TVBS News
+https://api.m3use.projectmoose.xyz/m3u/teaRDrop/YT_TV/67fe7c20119ff75ea5075370.m3u8?uid=teaRDrop&pkey=HcHmas
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/EBC_News_logo_20150706.jpg/800px-EBC_News_logo_20150706.jpg", 東森新聞 (Taiwan EBC News)
+https://api.m3use.projectmoose.xyz/m3u/teaRDrop/YT_TV/67fe81137bf548390e19c9fe.m3u8?uid=teaRDrop&pkey=HcHmas
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://yt3.googleusercontent.com/JHGOtJJKnAOvjibRIW_LoqCBuZhnEZsdrLeJIR67wcsVyVsWtLyEItVLHVT72dv1LJXl3LdSFg=s160-c-k-c0x00ffffff-no-rj", 三立新聞 (Taiwan SET News)
+https://api.m3use.projectmoose.xyz/m3u/teaRDrop/YT_TV/6809cd9ce1f522d01a8a84a0.m3u8?uid=teaRDrop&pkey=HcHmas
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://yt3.ggpht.com/mB1JCW04o1h4tzcaaInwMGRc9-0JfHof2uBGhRLmz95YmSy6_gYH-6K6rYywLgAWFt3z-zV1Eg=s48-c-k-c0x00ffffff-no-rj", 鏡新聞 (mnews Taiwan)
+https://api.m3use.projectmoose.xyz/m3u/teaRDrop/YT_TV/680bb5415bda46552a55a1bd.m3u8?uid=teaRDrop&pkey=HcHmas
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://yt3.googleusercontent.com/PM3TxF4xoOxg61J78UfvXHmVd_Ul2WlsV5eCOIvmqO51vZrDRmRS0wPbPMutsGDGhRnEV6vARw=s160-c-k-c0x00ffffff-no-rj", TVBS Talk
+https://api.m3use.projectmoose.xyz/m3u/teaRDrop/YT_TV/68107d525bda46552a55a1df.m3u8?uid=teaRDrop&pkey=HcHmas
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://yt3.googleusercontent.com/bNiPVeUS2UrnSYACw9l-MmxLPus732f22CycYL5El6Z5pgH865m0jEfqcxNNFsXEKPPt0wWc=s160-c-k-c0x00ffffff-no-rj", 華視新聞 (CTS News - CH52)
+https://api.m3use.projectmoose.xyz/m3u/teaRDrop/YT_TV/6815ccfcfd6ad5aac2cdf44e.m3u8?uid=teaRDrop&pkey=HcHmas
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://yt3.googleusercontent.com/KcqMSY_tjSx4sHUtCQJfsxINiI7QVshxcERJgcy3VfNzMbcC8NE8ghC2DEkhrlsxF94LL_NA=s160-c-k-c0x00ffffff-no-rj", 中視新聞 (CTV News)
+https://api.m3use.projectmoose.xyz/m3u/teaRDrop/YT_TV/6815d3068cf97102856b2d7e.m3u8?uid=teaRDrop&pkey=HcHmas
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://yt3.ggpht.com/7PGt2KNBgi9Yj0EATq91tUIHl-xGBJX7mUOkt-iMTMjOuzwMBZjxhTj-YIxru3syWqyuZM3FrQ=s48-c-k-c0x00ffffff-no-rj", 台視新聞 (Taiwan TTV News)
+https://api.m3use.projectmoose.xyz/m3u/teaRDrop/YT_TV/681b7493ec230c991e409481.m3u8?uid=teaRDrop&pkey=HcHmas
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/7a1b6a2dedfeca00002fa6cb91216c30376d83c9/tv/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB%E5%8F%B0.png", 中天新闻台
+https://api.m3use.projectmoose.xyz/m3u/teaRDrop/YT_TV/68206353efe94a7a0f860213.m3u8?uid=teaRDrop&pkey=HcHmas
