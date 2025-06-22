@@ -1,13 +1,13 @@
 #!/bin/bash
 set -e
 
-# 你要合并的频道 ID
-CHANNEL_IDS=(410355 370177 369244 369244 370183 369248 370173 370172 369324 415097 369318 370171)
+# 合并的频道 ID（已去重）
+CHANNEL_IDS=(410355 370177 369244 370183 369248 370173 370172 369324 415097 369318 370171)
 
 # 输出文件名
 OUTPUT_FILE="YT_TV.xml"
 
-# 开始生成 XMLTV 文件
+echo "🛠️ 开始生成 $OUTPUT_FILE ..."
 echo '<?xml version="1.0" encoding="UTF-8"?><tv>' > "$OUTPUT_FILE"
 
 for id in "${CHANNEL_IDS[@]}"; do
@@ -16,5 +16,7 @@ for id in "${CHANNEL_IDS[@]}"; do
     | grep -v '?xml' | grep -v '<tv>' | grep -v '</tv>' >> "$OUTPUT_FILE"
 done
 
+echo '<!-- generated at '"$(date -u '+%Y-%m-%d %H:%M:%S UTC')" '-->' >> "$OUTPUT_FILE"
 echo '</tv>' >> "$OUTPUT_FILE"
+
 echo "✅ 完成：已生成 $OUTPUT_FILE"
