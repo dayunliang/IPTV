@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="410355" group-title="" tvg-logo="https://yt3.googleusercontent.com/SAQEpJHK7DAeaaRuZ5nPLF-RY6zIx27Bm4pl3mTRI2RScY5QRoa7mMvOugTTEb1FZ04mZavz-lk=s160-c-k-c0x00ffffff-no-rj", 凤凰卫视资讯 Phoenix TV
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://yt3.googleusercontent.com/SAQEpJHK7DAeaaRuZ5nPLF-RY6zIx27Bm4pl3mTRI2RScY5QRoa7mMvOugTTEb1FZ04mZavz-lk=s160-c-k-c0x00ffffff-no-rj", 凤凰卫视资讯 Phoenix TV
 https://api.m3use.projectmoose.xyz/m3u/teaRDrop/YT_TV/67fded24eadb6c7348636943.m3u8?uid=teaRDrop&pkey=HcHmas
 #EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://yt3.googleusercontent.com/IrPD-qWFtgEr0kplk7RvA5HWJz3BLzg8mBMh9bz2lNvRSE_YgCErB7dheHcQohExnC_VCdCKnA=s160-c-k-c0x00ffffff-no-rj", TVBS新聞台 (TVBS News)
 https://api.m3use.projectmoose.xyz/m3u/teaRDrop/YT_TV/67fcaf6b1f384f5aaf6b03d1.m3u8?uid=teaRDrop&pkey=HcHmas
