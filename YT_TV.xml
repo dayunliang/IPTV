@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><tv>
-<tv date="20250712090514 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410355/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410355&amp;date=20250712&amp;timezone=None">
+<tv date="20250712130039 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410355/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410355&amp;date=20250712&amp;timezone=None">
   <channel id="410355">
     <display-name lang="Hong Kong">鳳凰衛視資訊台</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/29/20250129074347363304_81" />
@@ -669,7 +669,7 @@
     <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
     <date>2025-07-14</date>
   </programme>
-<tv date="20250712093724 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20250712&amp;timezone=None">
+<tv date="20250712131515 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20250712&amp;timezone=None">
   <channel id="370177">
     <display-name lang="Taiwan">中天新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110909545808_36.png" />
@@ -919,7 +919,7 @@
     <desc />
     <date>2025-07-14</date>
   </programme>
-<tv date="20250712093725 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20250712&amp;timezone=None">
+<tv date="20250712142505 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20250712&amp;timezone=None">
   <channel id="369244">
     <display-name lang="Taiwan">TVBS 新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151638634532_69.jpg" />
@@ -1104,7 +1104,7 @@
     <desc>播報最即時完整新聞。</desc>
     <date>2025-07-13</date>
   </programme>
-<tv date="20250712081038 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370183/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370183&amp;date=20250712&amp;timezone=None">
+<tv date="20250712140333 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370183/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370183&amp;date=20250712&amp;timezone=None">
   <channel id="370183">
     <display-name lang="Taiwan">TVBS</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110950648129_24.png" />
@@ -1354,7 +1354,7 @@
     <desc />
     <date>2025-07-14</date>
   </programme>
-<tv date="20250712093726 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20250712&amp;timezone=None">
+<tv date="20250712124305 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20250712&amp;timezone=None">
   <channel id="369248">
     <display-name lang="Taiwan">東森新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151543561986_68.jpg" />
@@ -1584,7 +1584,7 @@
     <desc>為觀眾播報最新、最即時的晨間新聞</desc>
     <date>2025-07-13</date>
   </programme>
-<tv date="20250712093727 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20250712&amp;timezone=None">
+<tv date="20250712131514 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20250712&amp;timezone=None">
   <channel id="370173">
     <display-name lang="Taiwan">三立新聞iNEWS</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110842913601_69.png" />
@@ -1829,7 +1829,7 @@
     <desc />
     <date>2025-07-14</date>
   </programme>
-<tv date="20250712093727 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20250712&amp;timezone=None">
+<tv date="20250712135626 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20250712&amp;timezone=None">
   <channel id="370172">
     <display-name lang="Taiwan">民視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110836326598_60.png" />
@@ -2089,7 +2089,7 @@
     <desc />
     <date>2025-07-14</date>
   </programme>
-<tv date="20250712093728 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369324/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369324&amp;date=20250712&amp;timezone=None">
+<tv date="20250712142507 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369324/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369324&amp;date=20250712&amp;timezone=None">
   <channel id="369324">
     <display-name lang="Taiwan">中視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611154201936621_80.jpg" />
@@ -2339,7 +2339,7 @@
     <desc>每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞</desc>
     <date>2025-07-14</date>
   </programme>
-<tv date="20250712093728 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/415097/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=415097&amp;date=20250712&amp;timezone=None">
+<tv date="20250712142507 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/415097/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=415097&amp;date=20250712&amp;timezone=None">
   <channel id="415097">
     <display-name lang="China">台湾电视台</display-name>
     <icon src="" />
@@ -2389,7 +2389,7 @@
     <desc />
     <date>2025-07-12</date>
   </programme>
-<tv date="20250712093729 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369318/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369318&amp;date=20250712&amp;timezone=None">
+<tv date="20250712142508 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369318/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369318&amp;date=20250712&amp;timezone=None">
   <channel id="369318">
     <display-name lang="Taiwan">鏡電視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611152458262909_79.jpg" />
@@ -2649,7 +2649,7 @@
     <desc>我們最關心的，就是台灣各種大小事，內容涵蓋政經、生活、國際等多元面向，在早上七點和八點兩個小時，透過螢幕傳送到您眼前。</desc>
     <date>2025-07-13</date>
   </programme>
-<tv date="20250712093730 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370171/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370171&amp;date=20250712&amp;timezone=None">
+<tv date="20250712131538 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370171/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370171&amp;date=20250712&amp;timezone=None">
   <channel id="370171">
     <display-name lang="Taiwan">華視新聞</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110829650925_83.png" />
@@ -2904,7 +2904,7 @@
     <desc />
     <date>2025-07-14</date>
   </programme>
-<tv date="20250712090507 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335029/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335029&amp;date=20250712&amp;timezone=None">
+<tv date="20250712130032 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335029/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335029&amp;date=20250712&amp;timezone=None">
   <channel id="335029">
     <display-name lang="Taiwan">寰宇新聞HD</display-name>
     <icon src="" />
@@ -3149,7 +3149,7 @@
     <desc />
     <date>2025-07-13</date>
   </programme>
-<tv date="20250712093731 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369749/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369749&amp;date=20250712&amp;timezone=None">
+<tv date="20250712142509 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369749/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369749&amp;date=20250712&amp;timezone=None">
   <channel id="369749">
     <display-name lang="Singapore">CNN International (HD)</display-name>
     <icon src="" />
@@ -3519,7 +3519,7 @@
     <desc>Updates of the latest news from around the world.</desc>
     <date>2025-07-14</date>
   </programme>
-<tv date="20250712081001 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403819/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403819&amp;date=20250712&amp;timezone=None">
+<tv date="20250712141001 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403819/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403819&amp;date=20250712&amp;timezone=None">
   <channel id="403819">
     <display-name lang="US">CNN</display-name>
     <icon src="" />
@@ -3769,261 +3769,11 @@
     <desc />
     <date>2025-07-14</date>
   </programme>
-<tv date="20250712074127 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/412098/20250711.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=412098&amp;date=20250711&amp;timezone=None">
+<tv date="20250712140045 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/412098/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=412098&amp;date=20250712&amp;timezone=None">
   <channel id="412098">
     <display-name lang="Singapore">BBC World News HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042100424424_78.png" />
   </channel>
-  <programme channel="412098" start="20250711000000 +0000" stop="20250711003000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711003000 +0000" stop="20250711010000 +0000">
-    <title lang="zh">The Media Show</title>
-    <desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711010000 +0000" stop="20250711013000 +0000">
-    <title lang="zh">Newsday</title>
-    <desc>Live from Singapore, the latest international news from the BBC.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711013000 +0000" stop="20250711020000 +0000">
-    <title lang="zh">Tech Now</title>
-    <desc>Ione Wells explores how tech is helping Chile's kidnapped children trace their birth families. Alasdair Keane meets the Rotterdam startup producing a greener alternative to cement.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711020000 +0000" stop="20250711023000 +0000">
-    <title lang="zh">Newsday</title>
-    <desc>Live from Singapore, the latest international news from the BBC.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711023000 +0000" stop="20250711030000 +0000">
-    <title lang="zh">Talking Business</title>
-    <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711030000 +0000" stop="20250711033000 +0000">
-    <title lang="zh">Newsday</title>
-    <desc>Live from Singapore, the latest international news from the BBC.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711033000 +0000" stop="20250711040000 +0000">
-    <title lang="zh">Inside the US Military Transgender Ban</title>
-    <desc>President Trump has fulfilled campaign promises to ban transgender troops from the US military. This film follows two transgender officers as the policy took effect.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711040000 +0000" stop="20250711043000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711043000 +0000" stop="20250711050000 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711050000 +0000" stop="20250711053000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711053000 +0000" stop="20250711060000 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711060000 +0000" stop="20250711063000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711063000 +0000" stop="20250711070000 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711070000 +0000" stop="20250711073000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711073000 +0000" stop="20250711080000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711080000 +0000" stop="20250711083000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711083000 +0000" stop="20250711090000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711090000 +0000" stop="20250711093000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711093000 +0000" stop="20250711100000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711100000 +0000" stop="20250711103000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711103000 +0000" stop="20250711104500 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711104500 +0000" stop="20250711110000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711110000 +0000" stop="20250711113000 +0000">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711113000 +0000" stop="20250711120000 +0000">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711120000 +0000" stop="20250711123000 +0000">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711123000 +0000" stop="20250711130000 +0000">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711130000 +0000" stop="20250711133000 +0000">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711133000 +0000" stop="20250711134500 +0000">
-    <title lang="zh">Business Today - NYSE Opening Bell</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from New York and around the world.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711134500 +0000" stop="20250711140000 +0000">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711140000 +0000" stop="20250711143000 +0000">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711143000 +0000" stop="20250711150000 +0000">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711150000 +0000" stop="20250711153000 +0000">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711153000 +0000" stop="20250711160000 +0000">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711160000 +0000" stop="20250711163000 +0000">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711163000 +0000" stop="20250711170000 +0000">
-    <title lang="zh">Focus on Africa</title>
-    <desc>The biggest African and international stories from the BBC.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711170000 +0000" stop="20250711173000 +0000">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711173000 +0000" stop="20250711180000 +0000">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711180000 +0000" stop="20250711183000 +0000">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711183000 +0000" stop="20250711190000 +0000">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711190000 +0000" stop="20250711193000 +0000">
-    <title lang="zh">The Context</title>
-    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711193000 +0000" stop="20250711200000 +0000">
-    <title lang="zh">The Context</title>
-    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711200000 +0000" stop="20250711203000 +0000">
-    <title lang="zh">The Context</title>
-    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711203000 +0000" stop="20250711210000 +0000">
-    <title lang="zh">The Context</title>
-    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711210000 +0000" stop="20250711213000 +0000">
-    <title lang="zh">BBC World News America</title>
-    <desc>In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711213000 +0000" stop="20250711220000 +0000">
-    <title lang="zh">Newsnight</title>
-    <desc>Insights and global interviews on the crucial news stories of the day.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711220000 +0000" stop="20250711223000 +0000">
-    <title lang="zh">BBC World News America</title>
-    <desc>In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711223000 +0000" stop="20250711230000 +0000">
-    <title lang="zh">The President's Path</title>
-    <desc>Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711230000 +0000" stop="20250711233000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-07-11</date>
-  </programme>
-  <programme channel="412098" start="20250711233000 +0000" stop="20250712000000 +0000">
-    <title lang="zh">Talking Business</title>
-    <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
-    <date>2025-07-11</date>
-  </programme>
   <programme channel="412098" start="20250712000000 +0000" stop="20250712003000 +0000">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
@@ -4244,12 +3994,237 @@
     <desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
     <date>2025-07-12</date>
   </programme>
-  <programme channel="412098" start="20250713000000 +0000" stop="20250714000000 +0000">
+  <programme channel="412098" start="20250713000000 +0000" stop="20250713003000 +0000">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-07-13</date>
   </programme>
-<tv date="20250712081002 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405729/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405729&amp;date=20250712&amp;timezone=None">
+  <programme channel="412098" start="20250713003000 +0000" stop="20250713010000 +0000">
+    <title lang="zh">Backstage With Shakira</title>
+    <desc>With exclusive access we go back, under and on stage with Shakira as she brings her blockbuster stadium show to Miami, the place she calls home.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713010000 +0000" stop="20250713013000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713013000 +0000" stop="20250713020000 +0000">
+    <title lang="zh">Ukrainecast</title>
+    <desc>In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713020000 +0000" stop="20250713023000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713023000 +0000" stop="20250713030000 +0000">
+    <title lang="zh">The Security Brief</title>
+    <desc>Former Senior Officer in the British Military Mikey Kay unpacks global conflicts and security threats, offering clear, compelling analysis of the events and decisions shaping today's uncertain world.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713030000 +0000" stop="20250713033000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713033000 +0000" stop="20250713040000 +0000">
+    <title lang="zh">Where Will All My Rubbish Go?</title>
+    <desc>Kevin Keane investigates how ready Scotland is to embrace a less environmentally-damaging means of dealing with rubbish.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713040000 +0000" stop="20250713043000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713043000 +0000" stop="20250713050000 +0000">
+    <title lang="zh">Tech Now</title>
+    <desc>Jacqui Wakefield investigates boxing and the AI being developed to detect concussion amongst fighters; Andrew Rogers meets the competitors preparing for the Esports World Cup.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713050000 +0000" stop="20250713053000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713053000 +0000" stop="20250713060000 +0000">
+    <title lang="zh">Talking Business</title>
+    <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713060000 +0000" stop="20250713063000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713063000 +0000" stop="20250713070000 +0000">
+    <title lang="zh">Selma and the South: Alabama</title>
+    <desc>Sixty years on from the famous march for equal voting rights in Selma, Reece Parkinson travels through America's Deep South to discover how the civil rights movement is remembered and its impact.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713070000 +0000" stop="20250713073000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713073000 +0000" stop="20250713080000 +0000">
+    <title lang="zh">Where Will All My Rubbish Go?</title>
+    <desc>Kevin Keane investigates how ready Scotland is to embrace a less environmentally-damaging means of dealing with rubbish.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713080000 +0000" stop="20250713090000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713090000 +0000" stop="20250713093000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713093000 +0000" stop="20250713100000 +0000">
+    <title lang="zh">Backstage With Shakira</title>
+    <desc>With exclusive access we go back, under and on stage with Shakira as she brings her blockbuster stadium show to Miami, the place she calls home.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713100000 +0000" stop="20250713103000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713103000 +0000" stop="20250713110000 +0000">
+    <title lang="zh">The President's Path</title>
+    <desc>Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713110000 +0000" stop="20250713113000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713113000 +0000" stop="20250713120000 +0000">
+    <title lang="zh">The Media Show</title>
+    <desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713120000 +0000" stop="20250713123000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713123000 +0000" stop="20250713130000 +0000">
+    <title lang="zh">Selma and the South: Alabama</title>
+    <desc>Sixty years on from the famous march for equal voting rights in Selma, Reece Parkinson travels through America's Deep South to discover how the civil rights movement is remembered and its impact.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713130000 +0000" stop="20250713133000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713133000 +0000" stop="20250713140000 +0000">
+    <title lang="zh">Tech Now</title>
+    <desc>Jacqui Wakefield investigates boxing and the AI being developed to detect concussion amongst fighters; Andrew Rogers meets the competitors preparing for the Esports World Cup.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713140000 +0000" stop="20250713143000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713143000 +0000" stop="20250713150000 +0000">
+    <title lang="zh">Uzbekistan: The Succulent Steppes</title>
+    <desc>Food writer Nick Kwek takes a gastronomic journey through Uzbekistan, a country steeped in Silk Road legacy and rapidly transforming.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713150000 +0000" stop="20250713153000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713153000 +0000" stop="20250713160000 +0000">
+    <title lang="zh">Where Will All My Rubbish Go?</title>
+    <desc>Kevin Keane investigates how ready Scotland is to embrace a less environmentally-damaging means of dealing with rubbish.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713160000 +0000" stop="20250713170000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713170000 +0000" stop="20250713173000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713173000 +0000" stop="20250713180000 +0000">
+    <title lang="zh">Talking Business</title>
+    <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713180000 +0000" stop="20250713183000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713183000 +0000" stop="20250713190000 +0000">
+    <title lang="zh">Backstage With Shakira</title>
+    <desc>With exclusive access we go back, under and on stage with Shakira as she brings her blockbuster stadium show to Miami, the place she calls home.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713190000 +0000" stop="20250713193000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713193000 +0000" stop="20250713200000 +0000">
+    <title lang="zh">Game Changers</title>
+    <desc>The Spirit of Yachting focusses on the participation of Martine Grael, Hannah Mills and other female sailors in key positions within SailGP.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713200000 +0000" stop="20250713210000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713210000 +0000" stop="20250713213000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713213000 +0000" stop="20250713220000 +0000">
+    <title lang="zh">Uzbekistan: The Succulent Steppes</title>
+    <desc>Food writer Nick Kwek takes a gastronomic journey through Uzbekistan, a country steeped in Silk Road legacy and rapidly transforming.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713220000 +0000" stop="20250713223000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713223000 +0000" stop="20250713230000 +0000">
+    <title lang="zh">Backstage With Shakira</title>
+    <desc>With exclusive access we go back, under and on stage with Shakira as she brings her blockbuster stadium show to Miami, the place she calls home.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713230000 +0000" stop="20250713233000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250713233000 +0000" stop="20250714000000 +0000">
+    <title lang="zh">Where Will All My Rubbish Go?</title>
+    <desc>Kevin Keane investigates how ready Scotland is to embrace a less environmentally-damaging means of dealing with rubbish.</desc>
+    <date>2025-07-13</date>
+  </programme>
+  <programme channel="412098" start="20250714000000 +0000" stop="20250715000000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-07-14</date>
+  </programme>
+<tv date="20250712141002 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405729/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405729&amp;date=20250712&amp;timezone=None">
   <channel id="405729">
     <display-name lang="US">BBC World News North America (BBCWN)</display-name>
     <icon src="" />
@@ -4704,7 +4679,7 @@
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
     <date>2025-07-14</date>
   </programme>
-<tv date="20250712090008 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410308/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410308&amp;date=20250712&amp;timezone=None">
+<tv date="20250712142510 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410308/20250712.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410308&amp;date=20250712&amp;timezone=None">
   <channel id="410308">
     <display-name lang="Hong Kong">Bloomberg Television</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128173252754492_70" />
@@ -5129,5 +5104,5 @@
     <desc>From New York and Hong Kong, the essential stories from the close of the US markets to the open of trading across Asia.</desc>
     <date>2025-07-13</date>
   </programme>
-<!-- generated at 2025-07-12 01:37:32 UTC -->
+<!-- generated at 2025-07-12 06:25:10 UTC -->
 </tv>
