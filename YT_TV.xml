@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><tv>
-<tv date="20250716090527 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410355/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410355&amp;date=20250716&amp;timezone=None">
+<tv date="20250716142748 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410355/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410355&amp;date=20250716&amp;timezone=None">
   <channel id="410355">
     <display-name lang="Hong Kong">鳳凰衛視資訊台</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/29/20250129074347363304_81" />
@@ -639,131 +639,11 @@
     <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
     <date>2025-07-18</date>
   </programme>
-<tv date="20250716070640 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20250715.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20250715&amp;timezone=None">
+<tv date="20250716131137 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20250716&amp;timezone=None">
   <channel id="370177">
     <display-name lang="Taiwan">中天新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110909545808_36.png" />
   </channel>
-  <programme channel="370177" start="20250715000000 +0000" stop="20250715010000 +0000">
-    <title lang="zh">08中天晨報</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="370177" start="20250715010000 +0000" stop="20250715020000 +0000">
-    <title lang="zh">09中天新聞</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="370177" start="20250715020000 +0000" stop="20250715030000 +0000">
-    <title lang="zh">10中天新聞</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="370177" start="20250715030000 +0000" stop="20250715040000 +0000">
-    <title lang="zh">11中天新聞</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="370177" start="20250715040000 +0000" stop="20250715050000 +0000">
-    <title lang="zh">12午間新聞</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="370177" start="20250715050000 +0000" stop="20250715060000 +0000">
-    <title lang="zh">13午間新聞</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="370177" start="20250715060000 +0000" stop="20250715070000 +0000">
-    <title lang="zh">14大新聞大爆卦</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="370177" start="20250715070000 +0000" stop="20250715080000 +0000">
-    <title lang="zh">15大新聞大爆卦</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="370177" start="20250715080000 +0000" stop="20250715090000 +0000">
-    <title lang="zh">16中天新聞</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="370177" start="20250715090000 +0000" stop="20250715100000 +0000">
-    <title lang="zh">17中天新聞</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="370177" start="20250715100000 +0000" stop="20250715110000 +0000">
-    <title lang="zh">18中天辣晚報</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="370177" start="20250715110000 +0000" stop="20250715120000 +0000">
-    <title lang="zh">19中天辣晚報</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="370177" start="20250715120000 +0000" stop="20250715130000 +0000">
-    <title lang="zh">20頭條開講</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="370177" start="20250715130000 +0000" stop="20250715140000 +0000">
-    <title lang="zh">21頭條開講</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="370177" start="20250715140000 +0000" stop="20250715150000 +0000">
-    <title lang="zh">22中天SUPER夜線</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="370177" start="20250715150000 +0000" stop="20250715160000 +0000">
-    <title lang="zh">23全球大視野</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="370177" start="20250715160000 +0000" stop="20250715170000 +0000">
-    <title lang="zh">18中天辣晚報</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="370177" start="20250715170000 +0000" stop="20250715180000 +0000">
-    <title lang="zh">19中天辣晚報</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="370177" start="20250715180000 +0000" stop="20250715190000 +0000">
-    <title lang="zh">20頭條開講</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="370177" start="20250715190000 +0000" stop="20250715200000 +0000">
-    <title lang="zh">21頭條開講</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="370177" start="20250715200000 +0000" stop="20250715210000 +0000">
-    <title lang="zh">22中天SUPER夜線</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="370177" start="20250715210000 +0000" stop="20250715220000 +0000">
-    <title lang="zh">23全球大視野</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="370177" start="20250715220000 +0000" stop="20250715230000 +0000">
-    <title lang="zh">06中天晨報</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="370177" start="20250715230000 +0000" stop="20250716000000 +0000">
-    <title lang="zh">07中天晨報</title>
-    <desc />
-    <date>2025-07-15</date>
-  </programme>
   <programme channel="370177" start="20250716000000 +0000" stop="20250716010000 +0000">
     <title lang="zh">08中天晨報</title>
     <desc />
@@ -884,12 +764,132 @@
     <desc />
     <date>2025-07-16</date>
   </programme>
-  <programme channel="370177" start="20250717000000 +0000" stop="20250718000000 +0000">
+  <programme channel="370177" start="20250717000000 +0000" stop="20250717010000 +0000">
     <title lang="zh">08中天晨報</title>
     <desc />
     <date>2025-07-17</date>
   </programme>
-<tv date="20250716092819 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20250716&amp;timezone=None">
+  <programme channel="370177" start="20250717010000 +0000" stop="20250717020000 +0000">
+    <title lang="zh">09中天新聞</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="370177" start="20250717020000 +0000" stop="20250717030000 +0000">
+    <title lang="zh">10中天新聞</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="370177" start="20250717030000 +0000" stop="20250717040000 +0000">
+    <title lang="zh">11中天新聞</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="370177" start="20250717040000 +0000" stop="20250717050000 +0000">
+    <title lang="zh">12午間新聞</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="370177" start="20250717050000 +0000" stop="20250717060000 +0000">
+    <title lang="zh">13午間新聞</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="370177" start="20250717060000 +0000" stop="20250717070000 +0000">
+    <title lang="zh">14大新聞大爆卦</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="370177" start="20250717070000 +0000" stop="20250717080000 +0000">
+    <title lang="zh">15大新聞大爆卦</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="370177" start="20250717080000 +0000" stop="20250717090000 +0000">
+    <title lang="zh">16中天新聞</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="370177" start="20250717090000 +0000" stop="20250717100000 +0000">
+    <title lang="zh">17中天新聞</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="370177" start="20250717100000 +0000" stop="20250717110000 +0000">
+    <title lang="zh">18中天辣晚報</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="370177" start="20250717110000 +0000" stop="20250717120000 +0000">
+    <title lang="zh">19中天辣晚報</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="370177" start="20250717120000 +0000" stop="20250717130000 +0000">
+    <title lang="zh">20頭條開講</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="370177" start="20250717130000 +0000" stop="20250717140000 +0000">
+    <title lang="zh">21頭條開講</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="370177" start="20250717140000 +0000" stop="20250717150000 +0000">
+    <title lang="zh">22中天SUPER夜線</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="370177" start="20250717150000 +0000" stop="20250717160000 +0000">
+    <title lang="zh">23全球大視野</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="370177" start="20250717160000 +0000" stop="20250717170000 +0000">
+    <title lang="zh">18中天辣晚報</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="370177" start="20250717170000 +0000" stop="20250717180000 +0000">
+    <title lang="zh">19中天辣晚報</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="370177" start="20250717180000 +0000" stop="20250717190000 +0000">
+    <title lang="zh">20頭條開講</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="370177" start="20250717190000 +0000" stop="20250717200000 +0000">
+    <title lang="zh">21頭條開講</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="370177" start="20250717200000 +0000" stop="20250717210000 +0000">
+    <title lang="zh">22中天SUPER夜線</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="370177" start="20250717210000 +0000" stop="20250717220000 +0000">
+    <title lang="zh">23全球大視野</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="370177" start="20250717220000 +0000" stop="20250717230000 +0000">
+    <title lang="zh">06中天晨報</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="370177" start="20250717230000 +0000" stop="20250718000000 +0000">
+    <title lang="zh">07中天晨報</title>
+    <desc />
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="370177" start="20250718000000 +0000" stop="20250719000000 +0000">
+    <title lang="zh">08中天晨報</title>
+    <desc />
+    <date>2025-07-18</date>
+  </programme>
+<tv date="20250716142751 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20250716&amp;timezone=None">
   <channel id="369244">
     <display-name lang="Taiwan">TVBS 新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151638634532_69.jpg" />
@@ -1074,7 +1074,7 @@
     <desc>播報最即時完整新聞。</desc>
     <date>2025-07-17</date>
   </programme>
-<tv date="20250716081256 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370183/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370183&amp;date=20250716&amp;timezone=None">
+<tv date="20250716140431 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370183/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370183&amp;date=20250716&amp;timezone=None">
   <channel id="370183">
     <display-name lang="Taiwan">TVBS</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110950648129_24.png" />
@@ -1324,7 +1324,7 @@
     <desc />
     <date>2025-07-18</date>
   </programme>
-<tv date="20250716092819 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20250716&amp;timezone=None">
+<tv date="20250716142753 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20250716&amp;timezone=None">
   <channel id="369248">
     <display-name lang="Taiwan">東森新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151543561986_68.jpg" />
@@ -1549,7 +1549,7 @@
     <desc>為觀眾播報最新、最即時的晨間新聞</desc>
     <date>2025-07-17</date>
   </programme>
-<tv date="20250716092820 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20250716&amp;timezone=None">
+<tv date="20250716142608 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20250716&amp;timezone=None">
   <channel id="370173">
     <display-name lang="Taiwan">三立新聞iNEWS</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110842913601_69.png" />
@@ -1769,7 +1769,7 @@
     <desc />
     <date>2025-07-18</date>
   </programme>
-<tv date="20250716081914 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20250716&amp;timezone=None">
+<tv date="20250716121952 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20250716&amp;timezone=None">
   <channel id="370172">
     <display-name lang="Taiwan">民視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110836326598_60.png" />
@@ -2024,131 +2024,11 @@
     <desc />
     <date>2025-07-18</date>
   </programme>
-<tv date="20250716070640 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369324/20250715.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369324&amp;date=20250715&amp;timezone=None">
+<tv date="20250716122014 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369324/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369324&amp;date=20250716&amp;timezone=None">
   <channel id="369324">
     <display-name lang="Taiwan">中視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611154201936621_80.jpg" />
   </channel>
-  <programme channel="369324" start="20250715000000 +0000" stop="20250715010000 +0000">
-    <title lang="zh">整點新聞</title>
-    <desc>每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369324" start="20250715010000 +0000" stop="20250715020000 +0000">
-    <title lang="zh">即時新聞現場</title>
-    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369324" start="20250715020000 +0000" stop="20250715030000 +0000">
-    <title lang="zh">庶民大頭家</title>
-    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369324" start="20250715030000 +0000" stop="20250715035800 +0000">
-    <title lang="zh">庶民大頭家</title>
-    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369324" start="20250715035800 +0000" stop="20250715050000 +0000">
-    <title lang="zh">中視午間新聞</title>
-    <desc>「中視午間新聞」每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞，並提供最新股市收盤價格。</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369324" start="20250715050000 +0000" stop="20250715060000 +0000">
-    <title lang="zh">即時新聞現場</title>
-    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369324" start="20250715060000 +0000" stop="20250715070000 +0000">
-    <title lang="zh">即時新聞現場</title>
-    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369324" start="20250715070000 +0000" stop="20250715080000 +0000">
-    <title lang="zh">即時新聞現場</title>
-    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369324" start="20250715080000 +0000" stop="20250715090000 +0000">
-    <title lang="zh">庶民大頭家</title>
-    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369324" start="20250715090000 +0000" stop="20250715100000 +0000">
-    <title lang="zh">庶民大頭家</title>
-    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369324" start="20250715100000 +0000" stop="20250715105800 +0000">
-    <title lang="zh">中視新聞全球報導6點搶先報</title>
-    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369324" start="20250715105800 +0000" stop="20250715120000 +0000">
-    <title lang="zh">中視新聞全球報導</title>
-    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369324" start="20250715120000 +0000" stop="20250715130000 +0000">
-    <title lang="zh">庶民大頭家</title>
-    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369324" start="20250715130000 +0000" stop="20250715140000 +0000">
-    <title lang="zh">庶民大頭家</title>
-    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369324" start="20250715140000 +0000" stop="20250715150000 +0000">
-    <title lang="zh">即時新聞現場</title>
-    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369324" start="20250715150000 +0000" stop="20250715160000 +0000">
-    <title lang="zh">中視新聞全球報導</title>
-    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369324" start="20250715160000 +0000" stop="20250715170000 +0000">
-    <title lang="zh">即時新聞現場</title>
-    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369324" start="20250715170000 +0000" stop="20250715180000 +0000">
-    <title lang="zh">庶民大頭家</title>
-    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369324" start="20250715180000 +0000" stop="20250715190000 +0000">
-    <title lang="zh">庶民大頭家</title>
-    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369324" start="20250715190000 +0000" stop="20250715200000 +0000">
-    <title lang="zh">中視新聞全球報導</title>
-    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369324" start="20250715200000 +0000" stop="20250715210000 +0000">
-    <title lang="zh">即時新聞現場</title>
-    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369324" start="20250715210000 +0000" stop="20250715220000 +0000">
-    <title lang="zh">中視新聞全球報導6點搶先報</title>
-    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369324" start="20250715220000 +0000" stop="20250715230000 +0000">
-    <title lang="zh">中視新聞全球報導</title>
-    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369324" start="20250715230000 +0000" stop="20250716000000 +0000">
-    <title lang="zh">中視早安新聞</title>
-    <desc>「中視早安新聞」每天早上以最客觀的角度，最專業的主播，為觀眾報導充分且詳實的新聞、氣象和交通路況資訊。</desc>
-    <date>2025-07-15</date>
-  </programme>
   <programme channel="369324" start="20250716000000 +0000" stop="20250716010000 +0000">
     <title lang="zh">整點新聞</title>
     <desc>每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞</desc>
@@ -2269,17 +2149,137 @@
     <desc>「中視早安新聞」每天早上以最客觀的角度，最專業的主播，為觀眾報導充分且詳實的新聞、氣象和交通路況資訊。</desc>
     <date>2025-07-16</date>
   </programme>
-  <programme channel="369324" start="20250717000000 +0000" stop="20250718000000 +0000">
+  <programme channel="369324" start="20250717000000 +0000" stop="20250717010000 +0000">
     <title lang="zh">整點新聞</title>
     <desc>每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞</desc>
     <date>2025-07-17</date>
   </programme>
-<tv date="20250716092820 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/415097/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=415097&amp;date=20250716&amp;timezone=None">
+  <programme channel="369324" start="20250717010000 +0000" stop="20250717020000 +0000">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369324" start="20250717020000 +0000" stop="20250717030000 +0000">
+    <title lang="zh">庶民大頭家</title>
+    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369324" start="20250717030000 +0000" stop="20250717035800 +0000">
+    <title lang="zh">庶民大頭家</title>
+    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369324" start="20250717035800 +0000" stop="20250717050000 +0000">
+    <title lang="zh">中視午間新聞</title>
+    <desc>「中視午間新聞」每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞，並提供最新股市收盤價格。</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369324" start="20250717050000 +0000" stop="20250717060000 +0000">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369324" start="20250717060000 +0000" stop="20250717070000 +0000">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369324" start="20250717070000 +0000" stop="20250717080000 +0000">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369324" start="20250717080000 +0000" stop="20250717090000 +0000">
+    <title lang="zh">庶民大頭家</title>
+    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369324" start="20250717090000 +0000" stop="20250717100000 +0000">
+    <title lang="zh">庶民大頭家</title>
+    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369324" start="20250717100000 +0000" stop="20250717105800 +0000">
+    <title lang="zh">中視新聞全球報導6點搶先報</title>
+    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369324" start="20250717105800 +0000" stop="20250717120000 +0000">
+    <title lang="zh">中視新聞全球報導</title>
+    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369324" start="20250717120000 +0000" stop="20250717130000 +0000">
+    <title lang="zh">庶民大頭家</title>
+    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369324" start="20250717130000 +0000" stop="20250717140000 +0000">
+    <title lang="zh">庶民大頭家</title>
+    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369324" start="20250717140000 +0000" stop="20250717150000 +0000">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369324" start="20250717150000 +0000" stop="20250717160000 +0000">
+    <title lang="zh">中視新聞全球報導</title>
+    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369324" start="20250717160000 +0000" stop="20250717170000 +0000">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369324" start="20250717170000 +0000" stop="20250717180000 +0000">
+    <title lang="zh">庶民大頭家</title>
+    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369324" start="20250717180000 +0000" stop="20250717190000 +0000">
+    <title lang="zh">庶民大頭家</title>
+    <desc>每日帶給你超勁爆話題討論，歡迎庶民朋友們大家一同來發聲，關心時政、了解生活中的大小事。</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369324" start="20250717190000 +0000" stop="20250717200000 +0000">
+    <title lang="zh">中視新聞全球報導</title>
+    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369324" start="20250717200000 +0000" stop="20250717210000 +0000">
+    <title lang="zh">即時新聞現場</title>
+    <desc>即時新聞現場..提供全面及時的新聞資訊</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369324" start="20250717210000 +0000" stop="20250717220000 +0000">
+    <title lang="zh">中視新聞全球報導6點搶先報</title>
+    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369324" start="20250717220000 +0000" stop="20250717230000 +0000">
+    <title lang="zh">中視新聞全球報導</title>
+    <desc>全球新聞提供全面及時的新聞資訊，內容包括世界各地最新新聞報導，時尚、健康資訊，圖片及趣聞軼事和娛樂八卦，讓您不出門即知天下事。</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369324" start="20250717230000 +0000" stop="20250718000000 +0000">
+    <title lang="zh">中視早安新聞</title>
+    <desc>「中視早安新聞」每天早上以最客觀的角度，最專業的主播，為觀眾報導充分且詳實的新聞、氣象和交通路況資訊。</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369324" start="20250718000000 +0000" stop="20250719000000 +0000">
+    <title lang="zh">整點新聞</title>
+    <desc>每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞</desc>
+    <date>2025-07-18</date>
+  </programme>
+<tv date="20250716142754 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/415097/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=415097&amp;date=20250716&amp;timezone=None">
   <channel id="415097">
     <display-name lang="China">台湾电视台</display-name>
     <icon src="" />
   </channel>
-<tv date="20250716092821 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369318/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369318&amp;date=20250716&amp;timezone=None">
+<tv date="20250716142754 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369318/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369318&amp;date=20250716&amp;timezone=None">
   <channel id="369318">
     <display-name lang="Taiwan">鏡電視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611152458262909_79.jpg" />
@@ -2524,7 +2524,7 @@
     <desc>我們最關心的，就是台灣各種大小事，內容涵蓋政經、生活、國際等多元面向，在早上七點和八點兩個小時，透過螢幕傳送到您眼前。</desc>
     <date>2025-07-17</date>
   </programme>
-<tv date="20250716092821 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370171/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370171&amp;date=20250716&amp;timezone=None">
+<tv date="20250716142640 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370171/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370171&amp;date=20250716&amp;timezone=None">
   <channel id="370171">
     <display-name lang="Taiwan">華視新聞</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110829650925_83.png" />
@@ -2754,7 +2754,7 @@
     <desc />
     <date>2025-07-18</date>
   </programme>
-<tv date="20250716090531 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335029/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335029&amp;date=20250716&amp;timezone=None">
+<tv date="20250716130050 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335029/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335029&amp;date=20250716&amp;timezone=None">
   <channel id="335029">
     <display-name lang="Taiwan">寰宇新聞HD</display-name>
     <icon src="" />
@@ -2999,156 +2999,11 @@
     <desc />
     <date>2025-07-17</date>
   </programme>
-<tv date="20250716074646 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369749/20250715.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369749&amp;date=20250715&amp;timezone=None">
+<tv date="20250716142755 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369749/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369749&amp;date=20250716&amp;timezone=None">
   <channel id="369749">
     <display-name lang="Singapore">CNN International (HD)</display-name>
     <icon src="" />
   </channel>
-  <programme channel="369749" start="20250715000000 +0000" stop="20250715010000 +0000">
-    <title lang="zh">Anderson Cooper 360: Monday, July 14, 2025 8PM</title>
-    <desc>Anderson Cooper takes you beyond the headlines with in-depth reporting and investigations.</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369749" start="20250715010000 +0000" stop="20250715020000 +0000">
-    <title lang="zh">The Source: Monday, July 14, 2025 9PM</title>
-    <desc>Kaitlan Collins goes straight to the source for the best reporting on the day's biggest stories.</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369749" start="20250715020000 +0000" stop="20250715030000 +0000">
-    <title lang="zh">CNN NewsNight: Monday, July 14, 2025 10PM</title>
-    <desc>Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369749" start="20250715030000 +0000" stop="20250715040000 +0000">
-    <title lang="zh">Laura Coates Live: Monday, July 14, 2025 11PM</title>
-    <desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369749" start="20250715040000 +0000" stop="20250715044500 +0000">
-    <title lang="zh">CNN Newsroom: Tuesday, July 15, 2025 12am ET</title>
-    <desc>Live context and clarity to the day's top stories from around the world.</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369749" start="20250715044500 +0000" stop="20250715050000 +0000">
-    <title lang="zh">World Sport: Tuesday, July 15, 2025 1245am ET</title>
-    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369749" start="20250715050000 +0000" stop="20250715060000 +0000">
-    <title lang="zh">CNN Newsroom: Tuesday, July 15, 2025 1am ET</title>
-    <desc>Live context and clarity to the day's top stories from around the world.</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369749" start="20250715060000 +0000" stop="20250715064500 +0000">
-    <title lang="zh">CNN Newsroom: Tuesday, July 15, 2025 2am ET</title>
-    <desc>Live context and clarity to the day's top stories from around the world.</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369749" start="20250715064500 +0000" stop="20250715070000 +0000">
-    <title lang="zh">World Sport: Tuesday, July 15, 2025 1245am ET</title>
-    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369749" start="20250715070000 +0000" stop="20250715080000 +0000">
-    <title lang="zh">CNN Newsroom: Tuesday, July 15, 2025 3am ET</title>
-    <desc>Live context and clarity to the day's top stories from around the world.</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369749" start="20250715080000 +0000" stop="20250715090000 +0000">
-    <title lang="zh">Amanpour: Monday, July 14, 2025 1pm ET</title>
-    <desc>Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369749" start="20250715090000 +0000" stop="20250715100000 +0000">
-    <title lang="zh">Early Start: Tuesday, July 15, 2025 5AM</title>
-    <desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369749" start="20250715100000 +0000" stop="20250715110000 +0000">
-    <title lang="zh">CNN This Morning: Tuesday, July 15, 2025 6AM</title>
-    <desc>Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369749" start="20250715110000 +0000" stop="20250715120000 +0000">
-    <title lang="zh">CNN News Central: Tuesday, July 15, 2025 7AM</title>
-    <desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369749" start="20250715120000 +0000" stop="20250715123000 +0000">
-    <title lang="zh">CNN News Central: Tuesday, July 15, 2025 8AM</title>
-    <desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369749" start="20250715123000 +0000" stop="20250715130000 +0000">
-    <title lang="zh">World Sport: Tuesday, July 15, 2025 830am ET</title>
-    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369749" start="20250715130000 +0000" stop="20250715134500 +0000">
-    <title lang="zh">Connect the World: Tuesday, July 15, 2025 9am ET</title>
-    <desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369749" start="20250715134500 +0000" stop="20250715140000 +0000">
-    <title lang="zh">World Sport: Tuesday, July 15, 2025 945am ET</title>
-    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369749" start="20250715140000 +0000" stop="20250715150000 +0000">
-    <title lang="zh">Connect the World: Tuesday, July 15, 2025 10am ET</title>
-    <desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369749" start="20250715150000 +0000" stop="20250715160000 +0000">
-    <title lang="zh">One World: Tuesday, July 15, 2025 11am ET</title>
-    <desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369749" start="20250715160000 +0000" stop="20250715170000 +0000">
-    <title lang="zh">One World: Tuesday, July 15, 2025 12pm ET</title>
-    <desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369749" start="20250715170000 +0000" stop="20250715180000 +0000">
-    <title lang="zh">Amanpour: Tuesday, July 15, 2025 1pm ET</title>
-    <desc>Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369749" start="20250715180000 +0000" stop="20250715190000 +0000">
-    <title lang="zh">Isa Soares Tonight: Tuesday, July 15, 2025 2pm ET</title>
-    <desc>Isa Soares deep dives into today's top stories with insightful conversations and reports from around the world.</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369749" start="20250715190000 +0000" stop="20250715200000 +0000">
-    <title lang="zh">What We Know with Max Foster: Tuesday, July 15, 2025 3pm ET</title>
-    <desc>Max Foster has a definitive roundup of the day's top stories, giving you the urgent need-to-know context, plus a deeper dive into the questions sparking debate around the world.</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369749" start="20250715200000 +0000" stop="20250715210000 +0000">
-    <title lang="zh">Quest Means Business: Tuesday, July 15, 2025 4pm ET</title>
-    <desc>Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369749" start="20250715210000 +0000" stop="20250715213000 +0000">
-    <title lang="zh">The Lead: Tuesday, July 15, 2025 5PM</title>
-    <desc>Jake Tapper covers all the day's top stories around the country and the globe, from politics to money, sports to popular culture.</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369749" start="20250715213000 +0000" stop="20250715220000 +0000">
-    <title lang="zh">World Sport: Tuesday, July 15, 2025 530pm ET</title>
-    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369749" start="20250715220000 +0000" stop="20250715230000 +0000">
-    <title lang="zh">The Brief with Jim Sciutto: Tuesday, July 15, 2025 6pm ET</title>
-    <desc>The best of CNN's reporting from correspondents across the world, to guide global audiences through the fast-paced news cycle with insight, analysis and hard-hitting interviews.</desc>
-    <date>2025-07-15</date>
-  </programme>
-  <programme channel="369749" start="20250715230000 +0000" stop="20250716000000 +0000">
-    <title lang="zh">Erin Burnett OutFront: Tuesday, July 15, 2025 7PM</title>
-    <desc>Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative.</desc>
-    <date>2025-07-15</date>
-  </programme>
   <programme channel="369749" start="20250716000000 +0000" stop="20250716010000 +0000">
     <title lang="zh">Anderson Cooper 360: Tuesday, July 15, 2025 8PM</title>
     <desc>Anderson Cooper takes you beyond the headlines with in-depth reporting and investigations.</desc>
@@ -3304,12 +3159,157 @@
     <desc>Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative.</desc>
     <date>2025-07-16</date>
   </programme>
-  <programme channel="369749" start="20250717000000 +0000" stop="20250718000000 +0000">
+  <programme channel="369749" start="20250717000000 +0000" stop="20250717010000 +0000">
     <title lang="zh">Anderson Cooper 360: Wednesday, July 16, 2025 8PM</title>
     <desc>Anderson Cooper takes you beyond the headlines with in-depth reporting and investigations.</desc>
     <date>2025-07-17</date>
   </programme>
-<tv date="20250716081001 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403819/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403819&amp;date=20250716&amp;timezone=None">
+  <programme channel="369749" start="20250717010000 +0000" stop="20250717020000 +0000">
+    <title lang="zh">The Source: Wednesday, July 16, 2025 9PM</title>
+    <desc>Kaitlan Collins goes straight to the source for the best reporting on the day's biggest stories.</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369749" start="20250717020000 +0000" stop="20250717030000 +0000">
+    <title lang="zh">CNN NewsNight: Wednesday, July 16, 2025 10PM</title>
+    <desc>Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369749" start="20250717030000 +0000" stop="20250717040000 +0000">
+    <title lang="zh">Laura Coates Live: Wednesday, July 16, 2025 11PM</title>
+    <desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369749" start="20250717040000 +0000" stop="20250717044500 +0000">
+    <title lang="zh">CNN Newsroom: Thursday, July 17, 2025 12am ET</title>
+    <desc>Live context and clarity to the day's top stories from around the world.</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369749" start="20250717044500 +0000" stop="20250717050000 +0000">
+    <title lang="zh">World Sport: Thursday, July 17, 2025 1245am ET</title>
+    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369749" start="20250717050000 +0000" stop="20250717060000 +0000">
+    <title lang="zh">CNN Newsroom: Thursday, July 17, 2025 1am ET</title>
+    <desc>Live context and clarity to the day's top stories from around the world.</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369749" start="20250717060000 +0000" stop="20250717064500 +0000">
+    <title lang="zh">CNN Newsroom: Thursday, July 17, 2025 2am ET</title>
+    <desc>Live context and clarity to the day's top stories from around the world.</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369749" start="20250717064500 +0000" stop="20250717070000 +0000">
+    <title lang="zh">World Sport: Thursday, July 17, 2025 1245am ET</title>
+    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369749" start="20250717070000 +0000" stop="20250717080000 +0000">
+    <title lang="zh">CNN Newsroom: Thursday, July 17, 2025 3am ET</title>
+    <desc>Live context and clarity to the day's top stories from around the world.</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369749" start="20250717080000 +0000" stop="20250717090000 +0000">
+    <title lang="zh">Amanpour: Wednesday, July 16, 2025 1pm ET</title>
+    <desc>Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369749" start="20250717090000 +0000" stop="20250717100000 +0000">
+    <title lang="zh">Early Start: Thursday, July 17, 2025 5AM</title>
+    <desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369749" start="20250717100000 +0000" stop="20250717110000 +0000">
+    <title lang="zh">CNN This Morning: Thursday, July 17, 2025 6AM</title>
+    <desc>Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369749" start="20250717110000 +0000" stop="20250717120000 +0000">
+    <title lang="zh">CNN News Central: Thursday, July 17, 2025 7AM</title>
+    <desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369749" start="20250717120000 +0000" stop="20250717123000 +0000">
+    <title lang="zh">CNN News Central: Thursday, July 17, 2025 8AM</title>
+    <desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369749" start="20250717123000 +0000" stop="20250717130000 +0000">
+    <title lang="zh">World Sport: Thursday, July 17, 2025 830am ET</title>
+    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369749" start="20250717130000 +0000" stop="20250717134500 +0000">
+    <title lang="zh">Connect the World: Thursday, July 17, 2025 9am ET</title>
+    <desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369749" start="20250717134500 +0000" stop="20250717140000 +0000">
+    <title lang="zh">World Sport: Thursday, July 17, 2025 945am ET</title>
+    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369749" start="20250717140000 +0000" stop="20250717150000 +0000">
+    <title lang="zh">Connect the World: Thursday, July 17, 2025 10am ET</title>
+    <desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369749" start="20250717150000 +0000" stop="20250717160000 +0000">
+    <title lang="zh">One World: Thursday, July 17, 2025 11am ET</title>
+    <desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369749" start="20250717160000 +0000" stop="20250717170000 +0000">
+    <title lang="zh">One World: Thursday, July 17, 2025 12pm ET</title>
+    <desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369749" start="20250717170000 +0000" stop="20250717180000 +0000">
+    <title lang="zh">Amanpour: Thursday, July 17, 2025 1pm ET</title>
+    <desc>Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369749" start="20250717180000 +0000" stop="20250717190000 +0000">
+    <title lang="zh">Isa Soares Tonight: Thursday, July 17, 2025 2pm ET</title>
+    <desc>Isa Soares deep dives into today's top stories with insightful conversations and reports from around the world.</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369749" start="20250717190000 +0000" stop="20250717200000 +0000">
+    <title lang="zh">What We Know with Max Foster: Thursday, July 17, 2025 3pm ET</title>
+    <desc>Max Foster has a definitive roundup of the day's top stories, giving you the urgent need-to-know context, plus a deeper dive into the questions sparking debate around the world.</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369749" start="20250717200000 +0000" stop="20250717210000 +0000">
+    <title lang="zh">Quest Means Business: Thursday, July 17, 2025 4pm ET</title>
+    <desc>Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369749" start="20250717210000 +0000" stop="20250717213000 +0000">
+    <title lang="zh">The Lead: Thursday, July 17, 2025 5PM</title>
+    <desc>Jake Tapper covers all the day's top stories around the country and the globe, from politics to money, sports to popular culture.</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369749" start="20250717213000 +0000" stop="20250717220000 +0000">
+    <title lang="zh">World Sport: Thursday, July 17, 2025 530pm ET</title>
+    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369749" start="20250717220000 +0000" stop="20250717230000 +0000">
+    <title lang="zh">The Brief with Jim Sciutto: Thursday, July 17, 2025 6pm ET</title>
+    <desc>The best of CNN's reporting from correspondents across the world, to guide global audiences through the fast-paced news cycle with insight, analysis and hard-hitting interviews.</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369749" start="20250717230000 +0000" stop="20250718000000 +0000">
+    <title lang="zh">Erin Burnett OutFront: Thursday, July 17, 2025 7PM</title>
+    <desc>Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative.</desc>
+    <date>2025-07-17</date>
+  </programme>
+  <programme channel="369749" start="20250718000000 +0000" stop="20250719000000 +0000">
+    <title lang="zh">Anderson Cooper 360: Thursday, July 17, 2025 8PM</title>
+    <desc>Anderson Cooper takes you beyond the headlines with in-depth reporting and investigations.</desc>
+    <date>2025-07-18</date>
+  </programme>
+<tv date="20250716133041 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403819/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403819&amp;date=20250716&amp;timezone=None">
   <channel id="403819">
     <display-name lang="US">CNN</display-name>
     <icon src="" />
@@ -3559,7 +3559,7 @@
     <desc>Anderson Cooper takes viewers beyond the headlines with in-depth reporting and investigations.</desc>
     <date>2025-07-18</date>
   </programme>
-<tv date="20250716091500 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/412098/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=412098&amp;date=20250716&amp;timezone=None">
+<tv date="20250716142756 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/412098/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=412098&amp;date=20250716&amp;timezone=None">
   <channel id="412098">
     <display-name lang="Singapore">BBC World News HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042100424424_78.png" />
@@ -4069,7 +4069,7 @@
     <desc>The latest news from the BBC.</desc>
     <date>2025-07-18</date>
   </programme>
-<tv date="20250716081002 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405729/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405729&amp;date=20250716&amp;timezone=None">
+<tv date="20250716141002 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405729/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405729&amp;date=20250716&amp;timezone=None">
   <channel id="405729">
     <display-name lang="US">BBC World News North America (BBCWN)</display-name>
     <icon src="" />
@@ -4659,7 +4659,7 @@
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
     <date>2025-07-18</date>
   </programme>
-<tv date="20250716090006 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410308/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410308&amp;date=20250716&amp;timezone=None">
+<tv date="20250716142756 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410308/20250716.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410308&amp;date=20250716&amp;timezone=None">
   <channel id="410308">
     <display-name lang="Hong Kong">Bloomberg Television</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128173252754492_70" />
@@ -4869,5 +4869,5 @@
     <desc>Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
     <date>2025-07-17</date>
   </programme>
-<!-- generated at 2025-07-16 01:28:22 UTC -->
+<!-- generated at 2025-07-16 06:27:56 UTC -->
 </tv>
