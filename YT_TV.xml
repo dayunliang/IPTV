@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><tv>
-<tv date="20250802090602 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410355/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410355&amp;date=20250802&amp;timezone=None">
+<tv date="20250802130022 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410355/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410355&amp;date=20250802&amp;timezone=None">
   <channel id="410355">
     <display-name lang="Hong Kong">鳳凰衛視資訊台</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/29/20250129074347363304_81" />
@@ -659,7 +659,7 @@
     <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
     <date>2025-08-04</date>
   </programme>
-<tv date="20250802080009 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20250802&amp;timezone=None">
+<tv date="20250802130947 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20250802&amp;timezone=None">
   <channel id="370177">
     <display-name lang="Taiwan">中天新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110909545808_36.png" />
@@ -909,7 +909,7 @@
     <desc />
     <date>2025-08-04</date>
   </programme>
-<tv date="20250802090518 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20250802&amp;timezone=None">
+<tv date="20250802142545 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20250802&amp;timezone=None">
   <channel id="369244">
     <display-name lang="Taiwan">TVBS 新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151638634532_69.jpg" />
@@ -1094,131 +1094,11 @@
     <desc>播報最即時完整新聞。</desc>
     <date>2025-08-03</date>
   </programme>
-<tv date="20250802070320 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370183/20250801.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370183&amp;date=20250801&amp;timezone=None">
+<tv date="20250802130548 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370183/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370183&amp;date=20250802&amp;timezone=None">
   <channel id="370183">
     <display-name lang="Taiwan">TVBS</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110950648129_24.png" />
   </channel>
-  <programme channel="370183" start="20250801000000 +0000" stop="20250801010000 +0000">
-    <title lang="zh">健康2.0</title>
-    <desc />
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="370183" start="20250801010000 +0000" stop="20250801020000 +0000">
-    <title lang="zh">地球黃金線</title>
-    <desc />
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="370183" start="20250801020000 +0000" stop="20250801030000 +0000">
-    <title lang="zh">金臨天下</title>
-    <desc />
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="370183" start="20250801030000 +0000" stop="20250801040000 +0000">
-    <title lang="zh">FOCUS國際話題</title>
-    <desc />
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="370183" start="20250801040000 +0000" stop="20250801050000 +0000">
-    <title lang="zh">FOCUS世界新聞</title>
-    <desc />
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="370183" start="20250801050000 +0000" stop="20250801060000 +0000">
-    <title lang="zh">FOCUS世界新聞</title>
-    <desc />
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="370183" start="20250801060000 +0000" stop="20250801070000 +0000">
-    <title lang="zh">新聞大白話</title>
-    <desc />
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="370183" start="20250801070000 +0000" stop="20250801080000 +0000">
-    <title lang="zh">新聞大白話</title>
-    <desc />
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="370183" start="20250801080000 +0000" stop="20250801090000 +0000">
-    <title lang="zh">新聞大白話</title>
-    <desc />
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="370183" start="20250801090000 +0000" stop="20250801100000 +0000">
-    <title lang="zh">新聞大白話</title>
-    <desc />
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="370183" start="20250801100000 +0000" stop="20250801110000 +0000">
-    <title lang="zh">國民大會</title>
-    <desc />
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="370183" start="20250801110000 +0000" stop="20250801120000 +0000">
-    <title lang="zh">FOCUS全球新聞</title>
-    <desc />
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="370183" start="20250801120000 +0000" stop="20250801130000 +0000">
-    <title lang="zh">少康戰情室</title>
-    <desc />
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="370183" start="20250801130000 +0000" stop="20250801140000 +0000">
-    <title lang="zh">少康戰情室</title>
-    <desc />
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="370183" start="20250801140000 +0000" stop="20250801150000 +0000">
-    <title lang="zh">地球黃金線</title>
-    <desc />
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="370183" start="20250801150000 +0000" stop="20250801160000 +0000">
-    <title lang="zh">金臨天下</title>
-    <desc />
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="370183" start="20250801160000 +0000" stop="20250801170000 +0000">
-    <title lang="zh">國民大會</title>
-    <desc />
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="370183" start="20250801170000 +0000" stop="20250801180000 +0000">
-    <title lang="zh">地球黃金線</title>
-    <desc />
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="370183" start="20250801180000 +0000" stop="20250801190000 +0000">
-    <title lang="zh">FOCUS全球新聞</title>
-    <desc />
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="370183" start="20250801190000 +0000" stop="20250801200000 +0000">
-    <title lang="zh">少康戰情室</title>
-    <desc />
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="370183" start="20250801200000 +0000" stop="20250801210000 +0000">
-    <title lang="zh">FOCUS國際話題</title>
-    <desc />
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="370183" start="20250801210000 +0000" stop="20250801220000 +0000">
-    <title lang="zh">一步一腳印發現新台灣</title>
-    <desc />
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="370183" start="20250801220000 +0000" stop="20250801230000 +0000">
-    <title lang="zh">FOCUS世界新聞</title>
-    <desc />
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="370183" start="20250801230000 +0000" stop="20250802000000 +0000">
-    <title lang="zh">FOCUS全球新聞</title>
-    <desc />
-    <date>2025-08-01</date>
-  </programme>
   <programme channel="370183" start="20250802000000 +0000" stop="20250802010000 +0000">
     <title lang="zh">健康2.0</title>
     <desc />
@@ -1339,12 +1219,132 @@
     <desc />
     <date>2025-08-02</date>
   </programme>
-  <programme channel="370183" start="20250803000000 +0000" stop="20250804000000 +0000">
+  <programme channel="370183" start="20250803000000 +0000" stop="20250803010000 +0000">
     <title lang="zh">健康2.0</title>
     <desc />
     <date>2025-08-03</date>
   </programme>
-<tv date="20250802080007 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20250802&amp;timezone=None">
+  <programme channel="370183" start="20250803010000 +0000" stop="20250803020000 +0000">
+    <title lang="zh">T觀點</title>
+    <desc />
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="370183" start="20250803020000 +0000" stop="20250803030000 +0000">
+    <title lang="zh">TVBS看板人物</title>
+    <desc />
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="370183" start="20250803030000 +0000" stop="20250803040000 +0000">
+    <title lang="zh">TVBS文茜的世界周報</title>
+    <desc />
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="370183" start="20250803040000 +0000" stop="20250803050000 +0000">
+    <title lang="zh">TVBS文茜的世界周報</title>
+    <desc />
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="370183" start="20250803050000 +0000" stop="20250803060000 +0000">
+    <title lang="zh">健康2.0</title>
+    <desc />
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="370183" start="20250803060000 +0000" stop="20250803070000 +0000">
+    <title lang="zh">新聞大白話特報</title>
+    <desc />
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="370183" start="20250803070000 +0000" stop="20250803080000 +0000">
+    <title lang="zh">新聞大白話特報</title>
+    <desc />
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="370183" start="20250803080000 +0000" stop="20250803090000 +0000">
+    <title lang="zh">新聞大白話特報</title>
+    <desc />
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="370183" start="20250803090000 +0000" stop="20250803100000 +0000">
+    <title lang="zh">新聞大白話特報</title>
+    <desc />
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="370183" start="20250803100000 +0000" stop="20250803110000 +0000">
+    <title lang="zh">健康2.0</title>
+    <desc />
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="370183" start="20250803110000 +0000" stop="20250803120000 +0000">
+    <title lang="zh">TVBS戰情室</title>
+    <desc />
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="370183" start="20250803120000 +0000" stop="20250803130000 +0000">
+    <title lang="zh">TVBS戰情室</title>
+    <desc />
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="370183" start="20250803130000 +0000" stop="20250803140000 +0000">
+    <title lang="zh">TVBS文茜的世界周報</title>
+    <desc />
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="370183" start="20250803140000 +0000" stop="20250803150000 +0000">
+    <title lang="zh">TVBS文茜的世界財經周報</title>
+    <desc />
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="370183" start="20250803150000 +0000" stop="20250803160000 +0000">
+    <title lang="zh">金臨天下</title>
+    <desc />
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="370183" start="20250803160000 +0000" stop="20250803170000 +0000">
+    <title lang="zh">新聞大白話特報1500</title>
+    <desc />
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="370183" start="20250803170000 +0000" stop="20250803180000 +0000">
+    <title lang="zh">TVBS文茜的世界周報</title>
+    <desc />
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="370183" start="20250803180000 +0000" stop="20250803190000 +0000">
+    <title lang="zh">TVBS文茜的世界財經周報</title>
+    <desc />
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="370183" start="20250803190000 +0000" stop="20250803200000 +0000">
+    <title lang="zh">TVBS戰情室</title>
+    <desc />
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="370183" start="20250803200000 +0000" stop="20250803210000 +0000">
+    <title lang="zh">TVBS戰情室</title>
+    <desc />
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="370183" start="20250803210000 +0000" stop="20250803220000 +0000">
+    <title lang="zh">新聞大白話特報1600</title>
+    <desc />
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="370183" start="20250803220000 +0000" stop="20250803230000 +0000">
+    <title lang="zh">TVBS文茜的世界周報</title>
+    <desc />
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="370183" start="20250803230000 +0000" stop="20250804000000 +0000">
+    <title lang="zh">TVBS文茜的世界財經周報</title>
+    <desc />
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="370183" start="20250804000000 +0000" stop="20250805000000 +0000">
+    <title lang="zh">健康2.0</title>
+    <desc />
+    <date>2025-08-04</date>
+  </programme>
+<tv date="20250802123728 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20250802&amp;timezone=None">
   <channel id="369248">
     <display-name lang="Taiwan">東森新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611151543561986_68.jpg" />
@@ -1569,7 +1569,7 @@
     <desc>為觀眾播報最新、最即時的晨間新聞</desc>
     <date>2025-08-03</date>
   </programme>
-<tv date="20250802092710 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20250802&amp;timezone=None">
+<tv date="20250802142546 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20250802&amp;timezone=None">
   <channel id="370173">
     <display-name lang="Taiwan">三立新聞iNEWS</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110842913601_69.png" />
@@ -1814,7 +1814,7 @@
     <desc />
     <date>2025-08-04</date>
   </programme>
-<tv date="20250802085637 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20250802&amp;timezone=None">
+<tv date="20250802125651 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20250802&amp;timezone=None">
   <channel id="370172">
     <display-name lang="Taiwan">民視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110836326598_60.png" />
@@ -2074,7 +2074,7 @@
     <desc />
     <date>2025-08-04</date>
   </programme>
-<tv date="20250802083237 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369324/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369324&amp;date=20250802&amp;timezone=None">
+<tv date="20250802130947 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369324/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369324&amp;date=20250802&amp;timezone=None">
   <channel id="369324">
     <display-name lang="Taiwan">中視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611154201936621_80.jpg" />
@@ -2324,8 +2324,8 @@
     <desc>每天以最客觀的角度，最專業的主播，為觀眾完整報導上午發生之重大國內外重要新聞</desc>
     <date>2025-08-04</date>
   </programme>
-<tv date="20250802092710 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/415097/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=415097&amp;date=20250802&amp;timezone=None" />
-<tv date="20250802092711 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369318/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369318&amp;date=20250802&amp;timezone=None">
+<tv date="20250802142546 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/415097/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=415097&amp;date=20250802&amp;timezone=None" />
+<tv date="20250802142547 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369318/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369318&amp;date=20250802&amp;timezone=None">
   <channel id="369318">
     <display-name lang="Taiwan">鏡電視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611152458262909_79.jpg" />
@@ -2585,7 +2585,7 @@
     <desc>我們最關心的，就是台灣各種大小事，內容涵蓋政經、生活、國際等多元面向，在早上七點和八點兩個小時，透過螢幕傳送到您眼前。</desc>
     <date>2025-08-03</date>
   </programme>
-<tv date="20250802092711 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370171/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370171&amp;date=20250802&amp;timezone=None">
+<tv date="20250802142547 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370171/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370171&amp;date=20250802&amp;timezone=None">
   <channel id="370171">
     <display-name lang="Taiwan">華視新聞</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110829650925_83.png" />
@@ -2840,7 +2840,7 @@
     <desc />
     <date>2025-08-04</date>
   </programme>
-<tv date="20250802090557 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335029/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335029&amp;date=20250802&amp;timezone=None">
+<tv date="20250802130026 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335029/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335029&amp;date=20250802&amp;timezone=None">
   <channel id="335029">
     <display-name lang="Taiwan">寰宇新聞HD</display-name>
     <icon src="" />
@@ -3085,7 +3085,7 @@
     <desc />
     <date>2025-08-03</date>
   </programme>
-<tv date="20250802082532 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369749/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369749&amp;date=20250802&amp;timezone=None">
+<tv date="20250802142537 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369749/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369749&amp;date=20250802&amp;timezone=None">
   <channel id="369749">
     <display-name lang="Singapore">CNN International (HD)</display-name>
     <icon src="" />
@@ -3435,7 +3435,7 @@
     <desc>Updates of the latest news from around the world.</desc>
     <date>2025-08-04</date>
   </programme>
-<tv date="20250802081002 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403819/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403819&amp;date=20250802&amp;timezone=None">
+<tv date="20250802142548 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403819/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403819&amp;date=20250802&amp;timezone=None">
   <channel id="403819">
     <display-name lang="US">CNN</display-name>
     <icon src="" />
@@ -3685,271 +3685,11 @@
     <desc />
     <date>2025-08-04</date>
   </programme>
-<tv date="20250802075156 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/412098/20250801.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=412098&amp;date=20250801&amp;timezone=None">
+<tv date="20250802125214 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/412098/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=412098&amp;date=20250802&amp;timezone=None">
   <channel id="412098">
     <display-name lang="Singapore">BBC World News HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042100424424_78.png" />
   </channel>
-  <programme channel="412098" start="20250801000000 +0000" stop="20250801003000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801003000 +0000" stop="20250801010000 +0000">
-    <title lang="zh">YouTubers and the Migrant Hotel Protest</title>
-    <desc>YouTuber Wesley Winter on Epping protest; Ofcom's PSB warning; AFP on Gaza; Vatican's digital strategy.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801010000 +0000" stop="20250801013000 +0000">
-    <title lang="zh">Newsday</title>
-    <desc>Live from Singapore, the latest international news from the BBC.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801013000 +0000" stop="20250801014500 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801014500 +0000" stop="20250801020000 +0000">
-    <title lang="zh">Sportsday</title>
-    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801020000 +0000" stop="20250801023000 +0000">
-    <title lang="zh">Newsday</title>
-    <desc>Live from Singapore, the latest international news from the BBC.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801023000 +0000" stop="20250801024500 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801024500 +0000" stop="20250801030000 +0000">
-    <title lang="zh">Sportsday</title>
-    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801030000 +0000" stop="20250801033000 +0000">
-    <title lang="zh">Newsday</title>
-    <desc>Live from Singapore, the latest international news from the BBC.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801033000 +0000" stop="20250801040000 +0000">
-    <title lang="zh">Irvine Welsh: The Next Chapter</title>
-    <desc>Author, Irvine Welsh says when 'the world seems full of hate' focus on love. The Scottish writer speaks to Katie Razzall ahead of the publication of the sequel to his 1990s classic, Trainspotting.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801040000 +0000" stop="20250801043000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801043000 +0000" stop="20250801050000 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801050000 +0000" stop="20250801053000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801053000 +0000" stop="20250801060000 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801060000 +0000" stop="20250801063000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801063000 +0000" stop="20250801070000 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801070000 +0000" stop="20250801073000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801073000 +0000" stop="20250801080000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801080000 +0000" stop="20250801083000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801083000 +0000" stop="20250801090000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801090000 +0000" stop="20250801093000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801093000 +0000" stop="20250801100000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801100000 +0000" stop="20250801103000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801103000 +0000" stop="20250801104500 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801104500 +0000" stop="20250801110000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801110000 +0000" stop="20250801113000 +0000">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801113000 +0000" stop="20250801120000 +0000">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801120000 +0000" stop="20250801123000 +0000">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801123000 +0000" stop="20250801130000 +0000">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801130000 +0000" stop="20250801133000 +0000">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801133000 +0000" stop="20250801134500 +0000">
-    <title lang="zh">Business Today - NYSE Opening Bell</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from New York and around the world.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801134500 +0000" stop="20250801140000 +0000">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801140000 +0000" stop="20250801143000 +0000">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801143000 +0000" stop="20250801150000 +0000">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801150000 +0000" stop="20250801153000 +0000">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801153000 +0000" stop="20250801160000 +0000">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801160000 +0000" stop="20250801163000 +0000">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801163000 +0000" stop="20250801170000 +0000">
-    <title lang="zh">Focus on Africa</title>
-    <desc>The biggest African and international stories from the BBC.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801170000 +0000" stop="20250801173000 +0000">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801173000 +0000" stop="20250801180000 +0000">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801180000 +0000" stop="20250801183000 +0000">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801183000 +0000" stop="20250801190000 +0000">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801190000 +0000" stop="20250801193000 +0000">
-    <title lang="zh">The Context</title>
-    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801193000 +0000" stop="20250801200000 +0000">
-    <title lang="zh">The Context</title>
-    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801200000 +0000" stop="20250801203000 +0000">
-    <title lang="zh">The Context USA</title>
-    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801203000 +0000" stop="20250801210000 +0000">
-    <title lang="zh">The Context USA</title>
-    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801210000 +0000" stop="20250801213000 +0000">
-    <title lang="zh">BBC World News America</title>
-    <desc>In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801213000 +0000" stop="20250801220000 +0000">
-    <title lang="zh">Newsnight</title>
-    <desc>Insights and global interviews on the crucial news stories of the day.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801220000 +0000" stop="20250801223000 +0000">
-    <title lang="zh">BBC World News America</title>
-    <desc>In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801223000 +0000" stop="20250801230000 +0000">
-    <title lang="zh">The President's Path</title>
-    <desc>Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801230000 +0000" stop="20250801233000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-08-01</date>
-  </programme>
-  <programme channel="412098" start="20250801233000 +0000" stop="20250802000000 +0000">
-    <title lang="zh">Talking Business</title>
-    <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
-    <date>2025-08-01</date>
-  </programme>
   <programme channel="412098" start="20250802000000 +0000" stop="20250802003000 +0000">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
@@ -4170,12 +3910,237 @@
     <desc>Cyberattacks are on the rise. Reporter Richard Bilton investigates the online crimewave and meets the secret agents trying to stop the hackers.</desc>
     <date>2025-08-02</date>
   </programme>
-  <programme channel="412098" start="20250803000000 +0000" stop="20250804000000 +0000">
+  <programme channel="412098" start="20250803000000 +0000" stop="20250803003000 +0000">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-08-03</date>
   </programme>
-<tv date="20250802081002 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405729/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405729&amp;date=20250802&amp;timezone=None">
+  <programme channel="412098" start="20250803003000 +0000" stop="20250803010000 +0000">
+    <title lang="zh">Rescue Roulette: Dogs From Abroad</title>
+    <desc>With some new owners finding themselves exposed to unexpected disease, vets' bills and heartache when adopting rescue dogs from abroad, is there enough oversight of the sector?</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803010000 +0000" stop="20250803013000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803013000 +0000" stop="20250803020000 +0000">
+    <title lang="zh">Ukrainecast</title>
+    <desc>In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803020000 +0000" stop="20250803023000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803023000 +0000" stop="20250803030000 +0000">
+    <title lang="zh">AI and the Future of Education</title>
+    <desc>AI Decoded looks at the potential of artificial intelligence to transform the educational environment from a traditional setting into a much more innovative and interactive learning space.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803030000 +0000" stop="20250803033000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803033000 +0000" stop="20250803040000 +0000">
+    <title lang="zh">Inside Cape Town's Gang Wars</title>
+    <desc>In just three months last year, 79 children died through gunshot wounds or stabbings on SA's Western Cape. Police reported 263 gang murders. Africa Eye investigates Cape Town gang violence.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803040000 +0000" stop="20250803043000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803043000 +0000" stop="20250803050000 +0000">
+    <title lang="zh">Tech Now</title>
+    <desc>Joe Tidy explores a controversial new research paper, which forecasts how the rise of artificial intelligence may play out - and if it could destroy humanity.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803050000 +0000" stop="20250803053000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803053000 +0000" stop="20250803060000 +0000">
+    <title lang="zh">Talking Business</title>
+    <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803060000 +0000" stop="20250803063000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803063000 +0000" stop="20250803070000 +0000">
+    <title lang="zh">Rebranding Bradford</title>
+    <desc>The Travel Show heads to Bradford, the current UK City of Culture, as it plans to host over a thousand arts and culture events throughout 2025.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803070000 +0000" stop="20250803073000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803073000 +0000" stop="20250803080000 +0000">
+    <title lang="zh">Inside Cape Town's Gang Wars</title>
+    <desc>In just three months last year, 79 children died through gunshot wounds or stabbings on SA's Western Cape. Police reported 263 gang murders. Africa Eye investigates Cape Town gang violence.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803080000 +0000" stop="20250803090000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803090000 +0000" stop="20250803093000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803093000 +0000" stop="20250803100000 +0000">
+    <title lang="zh">Rescue Roulette: Dogs From Abroad</title>
+    <desc>With some new owners finding themselves exposed to unexpected disease, vets' bills and heartache when adopting rescue dogs from abroad, is there enough oversight of the sector?</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803100000 +0000" stop="20250803103000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803103000 +0000" stop="20250803110000 +0000">
+    <title lang="zh">The President's Path</title>
+    <desc>Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803110000 +0000" stop="20250803113000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803113000 +0000" stop="20250803120000 +0000">
+    <title lang="zh">Fighting Cyber Criminals</title>
+    <desc>Cyberattacks are on the rise. Reporter Richard Bilton investigates the online crimewave and meets the secret agents trying to stop the hackers.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803120000 +0000" stop="20250803123000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803123000 +0000" stop="20250803130000 +0000">
+    <title lang="zh">Rebranding Bradford</title>
+    <desc>The Travel Show heads to Bradford, the current UK City of Culture, as it plans to host over a thousand arts and culture events throughout 2025.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803130000 +0000" stop="20250803133000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803133000 +0000" stop="20250803140000 +0000">
+    <title lang="zh">Tech Now</title>
+    <desc>Joe Tidy explores a controversial new research paper, which forecasts how the rise of artificial intelligence may play out - and if it could destroy humanity.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803140000 +0000" stop="20250803143000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803143000 +0000" stop="20250803150000 +0000">
+    <title lang="zh">Yotam Ottolenghi</title>
+    <desc>Chef Yotam Ottolenghi tells Katty Kay about his journey from academia to culinary fame, as well as the communal power of food in a divided world.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803150000 +0000" stop="20250803153000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803153000 +0000" stop="20250803160000 +0000">
+    <title lang="zh">Inside Cape Town's Gang Wars</title>
+    <desc>In just three months last year, 79 children died through gunshot wounds or stabbings on SA's Western Cape. Police reported 263 gang murders. Africa Eye investigates Cape Town gang violence.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803160000 +0000" stop="20250803170000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803170000 +0000" stop="20250803173000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803173000 +0000" stop="20250803180000 +0000">
+    <title lang="zh">Talking Business</title>
+    <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803180000 +0000" stop="20250803183000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803183000 +0000" stop="20250803190000 +0000">
+    <title lang="zh">Rescue Roulette: Dogs From Abroad</title>
+    <desc>With some new owners finding themselves exposed to unexpected disease, vets' bills and heartache when adopting rescue dogs from abroad, is there enough oversight of the sector?</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803190000 +0000" stop="20250803193000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803193000 +0000" stop="20250803200000 +0000">
+    <title lang="zh">Rolex TP52 World Championship</title>
+    <desc>Rolex TP52 World Championship brings together elite crews and committed owners for five days of dramatic competition in Cascais, Portugal.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803200000 +0000" stop="20250803210000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803210000 +0000" stop="20250803213000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803213000 +0000" stop="20250803220000 +0000">
+    <title lang="zh">Yotam Ottolenghi</title>
+    <desc>Chef Yotam Ottolenghi tells Katty Kay about his journey from academia to culinary fame, as well as the communal power of food in a divided world.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803220000 +0000" stop="20250803223000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803223000 +0000" stop="20250803230000 +0000">
+    <title lang="zh">Rescue Roulette: Dogs From Abroad</title>
+    <desc>With some new owners finding themselves exposed to unexpected disease, vets' bills and heartache when adopting rescue dogs from abroad, is there enough oversight of the sector?</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803230000 +0000" stop="20250803233000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250803233000 +0000" stop="20250804000000 +0000">
+    <title lang="zh">Inside Cape Town's Gang Wars</title>
+    <desc>In just three months last year, 79 children died through gunshot wounds or stabbings on SA's Western Cape. Police reported 263 gang murders. Africa Eye investigates Cape Town gang violence.</desc>
+    <date>2025-08-03</date>
+  </programme>
+  <programme channel="412098" start="20250804000000 +0000" stop="20250805000000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-08-04</date>
+  </programme>
+<tv date="20250802141001 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405729/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405729&amp;date=20250802&amp;timezone=None">
   <channel id="405729">
     <display-name lang="US">BBC World News North America (BBCWN)</display-name>
     <icon src="" />
@@ -4630,7 +4595,7 @@
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
     <date>2025-08-04</date>
   </programme>
-<tv date="20250802090006 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410308/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410308&amp;date=20250802&amp;timezone=None">
+<tv date="20250802142549 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410308/20250802.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410308&amp;date=20250802&amp;timezone=None">
   <channel id="410308">
     <display-name lang="Hong Kong">Bloomberg Television</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128173252754492_70" />
@@ -5055,5 +5020,5 @@
     <desc>From New York and Hong Kong, the essential stories from the close of the US markets to the open of trading across Asia.</desc>
     <date>2025-08-03</date>
   </programme>
-<!-- generated at 2025-08-02 01:27:12 UTC -->
+<!-- generated at 2025-08-02 06:25:49 UTC -->
 </tv>
