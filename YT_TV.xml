@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><tv>
-<tv date="20250924090535 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410355/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410355&amp;date=20250924&amp;timezone=None">
+<tv date="20250924130056 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410355/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410355&amp;date=20250924&amp;timezone=None">
   <channel id="410355">
     <display-name lang="Hong Kong">鳳凰衛視資訊台</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/29/20250129074347363304_81" />
@@ -639,7 +639,7 @@
     <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
     <date>2025-09-26</date>
   </programme>
-<tv date="20250924080016 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20250924&amp;timezone=None">
+<tv date="20250924135300 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20250924&amp;timezone=None">
   <channel id="370177">
     <display-name lang="Taiwan">中天新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110909545808_36.png" />
@@ -889,8 +889,8 @@
     <desc />
     <date>2025-09-26</date>
   </programme>
-<tv date="20250924091556 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20250924&amp;timezone=None" />
-<tv date="20250924082944 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370183/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370183&amp;date=20250924&amp;timezone=None">
+<tv date="20250924142523 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20250924&amp;timezone=None" />
+<tv date="20250924141110 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370183/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370183&amp;date=20250924&amp;timezone=None">
   <channel id="370183">
     <display-name lang="Taiwan">TVBS</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110950648129_24.png" />
@@ -1140,8 +1140,8 @@
     <desc />
     <date>2025-09-26</date>
   </programme>
-<tv date="20250924091556 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20250924&amp;timezone=None" />
-<tv date="20250924082801 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20250924&amp;timezone=None">
+<tv date="20250924142523 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20250924&amp;timezone=None" />
+<tv date="20250924135255 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20250924&amp;timezone=None">
   <channel id="370173">
     <display-name lang="Taiwan">三立新聞iNEWS</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110842913601_69.png" />
@@ -1366,131 +1366,11 @@
     <desc />
     <date>2025-09-26</date>
   </programme>
-<tv date="20250924074413 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20250923.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20250923&amp;timezone=None">
+<tv date="20250924114625 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20250924&amp;timezone=None">
   <channel id="370172">
     <display-name lang="Taiwan">民視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110836326598_60.png" />
   </channel>
-  <programme channel="370172" start="20250923000000 +0000" stop="20250923003000 +0000">
-    <title lang="zh">民視八點晨間新聞【普】</title>
-    <desc />
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="370172" start="20250923003000 +0000" stop="20250923010000 +0000">
-    <title lang="zh">國際早報【普】</title>
-    <desc />
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="370172" start="20250923010000 +0000" stop="20250923020000 +0000">
-    <title lang="zh">民視九點新聞【普】</title>
-    <desc />
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="370172" start="20250923020000 +0000" stop="20250923030000 +0000">
-    <title lang="zh">民視十點新聞【普】</title>
-    <desc />
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="370172" start="20250923030000 +0000" stop="20250923035000 +0000">
-    <title lang="zh">民視十一點新聞【普】</title>
-    <desc />
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="370172" start="20250923035000 +0000" stop="20250923055000 +0000">
-    <title lang="zh">民視午間新聞【普】</title>
-    <desc />
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="370172" start="20250923055000 +0000" stop="20250923080000 +0000">
-    <title lang="zh">頭家來開講【普】(E26)</title>
-    <desc />
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="370172" start="20250923080000 +0000" stop="20250923083000 +0000">
-    <title lang="zh">民視四點新聞【普】</title>
-    <desc />
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="370172" start="20250923083000 +0000" stop="20250923090000 +0000">
-    <title lang="zh">民視國際新聞【普】</title>
-    <desc />
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="370172" start="20250923090000 +0000" stop="20250923095500 +0000">
-    <title lang="zh">民視五點新聞【普】</title>
-    <desc />
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="370172" start="20250923095500 +0000" stop="20250923102500 +0000">
-    <title lang="zh">民視晚間新聞【普】</title>
-    <desc />
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="370172" start="20250923102500 +0000" stop="20250923115500 +0000">
-    <title lang="zh">民視晚間新聞【普】</title>
-    <desc />
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="370172" start="20250923115500 +0000" stop="20250923124000 +0000">
-    <title lang="zh">台灣最前線【普】(E2295)</title>
-    <desc />
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="370172" start="20250923124000 +0000" stop="20250923135500 +0000">
-    <title lang="zh">台灣最前線【普】(E2295)</title>
-    <desc />
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="370172" start="20250923135500 +0000" stop="20250923153000 +0000">
-    <title lang="zh">台灣向前行【普】(E1855)</title>
-    <desc />
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="370172" start="20250923153000 +0000" stop="20250923170000 +0000">
-    <title lang="zh">民視午夜新聞【普】</title>
-    <desc />
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="370172" start="20250923170000 +0000" stop="20250923173000 +0000">
-    <title lang="zh">民視英語新聞【普】</title>
-    <desc />
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="370172" start="20250923173000 +0000" stop="20250923183000 +0000">
-    <title lang="zh">台灣看世界【普】</title>
-    <desc />
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="370172" start="20250923183000 +0000" stop="20250923193000 +0000">
-    <title lang="zh">民視晚間新聞【普】</title>
-    <desc />
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="370172" start="20250923193000 +0000" stop="20250923201500 +0000">
-    <title lang="zh">台灣最前線【普】(E2295)</title>
-    <desc />
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="370172" start="20250923201500 +0000" stop="20250923213000 +0000">
-    <title lang="zh">台灣最前線【普】(E2295)</title>
-    <desc />
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="370172" start="20250923213000 +0000" stop="20250923220000 +0000">
-    <title lang="zh">民視午夜新聞【普】</title>
-    <desc />
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="370172" start="20250923220000 +0000" stop="20250923230000 +0000">
-    <title lang="zh">民視六點晨間新聞【普】</title>
-    <desc />
-    <date>2025-09-23</date>
-  </programme>
-  <programme channel="370172" start="20250923230000 +0000" stop="20250924000000 +0000">
-    <title lang="zh">民視七點晨間新聞【普】</title>
-    <desc />
-    <date>2025-09-23</date>
-  </programme>
   <programme channel="370172" start="20250924000000 +0000" stop="20250924003000 +0000">
     <title lang="zh">民視八點晨間新聞【普】</title>
     <desc />
@@ -1611,15 +1491,135 @@
     <desc />
     <date>2025-09-24</date>
   </programme>
-  <programme channel="370172" start="20250925000000 +0000" stop="20250926000000 +0000">
+  <programme channel="370172" start="20250925000000 +0000" stop="20250925003000 +0000">
     <title lang="zh">民視八點晨間新聞【普】</title>
     <desc />
     <date>2025-09-25</date>
   </programme>
-<tv date="20250924082230 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369324/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369324&amp;date=20250924&amp;timezone=None" />
-<tv date="20250924091557 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/415097/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=415097&amp;date=20250924&amp;timezone=None" />
-<tv date="20250924091557 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369318/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369318&amp;date=20250924&amp;timezone=None" />
-<tv date="20250924082833 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370171/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370171&amp;date=20250924&amp;timezone=None">
+  <programme channel="370172" start="20250925003000 +0000" stop="20250925010000 +0000">
+    <title lang="zh">國際早報【普】</title>
+    <desc />
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="370172" start="20250925010000 +0000" stop="20250925020000 +0000">
+    <title lang="zh">民視九點新聞【普】</title>
+    <desc />
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="370172" start="20250925020000 +0000" stop="20250925030000 +0000">
+    <title lang="zh">民視十點新聞【普】</title>
+    <desc />
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="370172" start="20250925030000 +0000" stop="20250925035000 +0000">
+    <title lang="zh">民視十一點新聞【普】</title>
+    <desc />
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="370172" start="20250925035000 +0000" stop="20250925055000 +0000">
+    <title lang="zh">民視午間新聞【普】</title>
+    <desc />
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="370172" start="20250925055000 +0000" stop="20250925080000 +0000">
+    <title lang="zh">頭家來開講【普】(E28)</title>
+    <desc />
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="370172" start="20250925080000 +0000" stop="20250925083000 +0000">
+    <title lang="zh">民視四點新聞【普】</title>
+    <desc />
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="370172" start="20250925083000 +0000" stop="20250925090000 +0000">
+    <title lang="zh">民視國際新聞【普】</title>
+    <desc />
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="370172" start="20250925090000 +0000" stop="20250925095500 +0000">
+    <title lang="zh">民視五點新聞【普】</title>
+    <desc />
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="370172" start="20250925095500 +0000" stop="20250925102500 +0000">
+    <title lang="zh">民視晚間新聞【普】</title>
+    <desc />
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="370172" start="20250925102500 +0000" stop="20250925115500 +0000">
+    <title lang="zh">民視晚間新聞【普】</title>
+    <desc />
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="370172" start="20250925115500 +0000" stop="20250925124000 +0000">
+    <title lang="zh">台灣最前線【普】(E2297)</title>
+    <desc />
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="370172" start="20250925124000 +0000" stop="20250925135500 +0000">
+    <title lang="zh">台灣最前線【普】(E2297)</title>
+    <desc />
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="370172" start="20250925135500 +0000" stop="20250925153000 +0000">
+    <title lang="zh">台灣向前行【普】(E1857)</title>
+    <desc />
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="370172" start="20250925153000 +0000" stop="20250925170000 +0000">
+    <title lang="zh">民視午夜新聞【普】</title>
+    <desc />
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="370172" start="20250925170000 +0000" stop="20250925173000 +0000">
+    <title lang="zh">民視英語新聞【普】</title>
+    <desc />
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="370172" start="20250925173000 +0000" stop="20250925183000 +0000">
+    <title lang="zh">台灣看世界【普】</title>
+    <desc />
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="370172" start="20250925183000 +0000" stop="20250925193000 +0000">
+    <title lang="zh">民視晚間新聞【普】</title>
+    <desc />
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="370172" start="20250925193000 +0000" stop="20250925201500 +0000">
+    <title lang="zh">台灣最前線【普】(E2297)</title>
+    <desc />
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="370172" start="20250925201500 +0000" stop="20250925213000 +0000">
+    <title lang="zh">台灣最前線【普】(E2297)</title>
+    <desc />
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="370172" start="20250925213000 +0000" stop="20250925220000 +0000">
+    <title lang="zh">民視午夜新聞【普】</title>
+    <desc />
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="370172" start="20250925220000 +0000" stop="20250925230000 +0000">
+    <title lang="zh">民視六點晨間新聞【普】</title>
+    <desc />
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="370172" start="20250925230000 +0000" stop="20250926000000 +0000">
+    <title lang="zh">民視七點晨間新聞【普】</title>
+    <desc />
+    <date>2025-09-25</date>
+  </programme>
+  <programme channel="370172" start="20250926000000 +0000" stop="20250927000000 +0000">
+    <title lang="zh">民視八點晨間新聞【普】</title>
+    <desc />
+    <date>2025-09-26</date>
+  </programme>
+<tv date="20250924140819 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369324/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369324&amp;date=20250924&amp;timezone=None" />
+<tv date="20250924142524 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/415097/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=415097&amp;date=20250924&amp;timezone=None" />
+<tv date="20250924142525 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369318/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369318&amp;date=20250924&amp;timezone=None" />
+<tv date="20250924135338 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370171/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370171&amp;date=20250924&amp;timezone=None">
   <channel id="370171">
     <display-name lang="Taiwan">華視新聞</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110829650925_83.png" />
@@ -1849,8 +1849,8 @@
     <desc />
     <date>2025-09-26</date>
   </programme>
-<tv date="20250924090540 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335029/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335029&amp;date=20250924&amp;timezone=None" />
-<tv date="20250924091558 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369749/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369749&amp;date=20250924&amp;timezone=None">
+<tv date="20250924130105 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335029/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335029&amp;date=20250924&amp;timezone=None" />
+<tv date="20250924142526 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369749/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369749&amp;date=20250924&amp;timezone=None">
   <channel id="369749">
     <display-name lang="Singapore">CNN International (HD)</display-name>
     <icon src="" />
@@ -2070,7 +2070,7 @@
     <desc>Anderson Cooper takes you beyond the headlines with in-depth reporting and investigations.</desc>
     <date>2025-09-26</date>
   </programme>
-<tv date="20250924081001 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403819/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403819&amp;date=20250924&amp;timezone=None">
+<tv date="20250924132925 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403819/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403819&amp;date=20250924&amp;timezone=None">
   <channel id="403819">
     <display-name lang="US">CNN</display-name>
     <icon src="" />
@@ -2320,7 +2320,7 @@
     <desc>Anderson Cooper takes viewers beyond the headlines with in-depth reporting and investigations.</desc>
     <date>2025-09-26</date>
   </programme>
-<tv date="20250924091559 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/412098/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=412098&amp;date=20250924&amp;timezone=None">
+<tv date="20250924134625 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/412098/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=412098&amp;date=20250924&amp;timezone=None">
   <channel id="412098">
     <display-name lang="Singapore">BBC World News HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042100424424_78.png" />
@@ -2860,7 +2860,7 @@
     <desc>The latest news from the BBC.</desc>
     <date>2025-09-26</date>
   </programme>
-<tv date="20250924081001 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405729/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405729&amp;date=20250924&amp;timezone=None">
+<tv date="20250924123920 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405729/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405729&amp;date=20250924&amp;timezone=None">
   <channel id="405729">
     <display-name lang="US">BBC World News North America (BBCWN)</display-name>
     <icon src="" />
@@ -3480,7 +3480,7 @@
     <desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
     <date>2025-09-26</date>
   </programme>
-<tv date="20250924091559 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410308/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410308&amp;date=20250924&amp;timezone=None">
+<tv date="20250924142527 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410308/20250924.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410308&amp;date=20250924&amp;timezone=None">
   <channel id="410308">
     <display-name lang="Hong Kong">Bloomberg Television</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128173252754492_70" />
@@ -3690,5 +3690,5 @@
     <desc>Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
     <date>2025-09-25</date>
   </programme>
-<!-- generated at 2025-09-24 01:15:59 UTC -->
+<!-- generated at 2025-09-24 06:25:27 UTC -->
 </tv>
