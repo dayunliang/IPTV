@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><tv>
-<tv date="20251018010621 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410355/20251017.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410355&amp;date=20251017&amp;timezone=None">
+<tv date="20251018075338 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410355/20251017.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410355&amp;date=20251017&amp;timezone=None">
   <channel id="410355">
     <display-name lang="Hong Kong">鳳凰衛視資訊台</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/29/20250129074347363304_81" />
@@ -654,131 +654,11 @@
     <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
     <date>2025-10-19</date>
   </programme>
-<tv date="20251018010550 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20251017.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20251017&amp;timezone=None">
+<tv date="20251018082101 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20251018.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20251018&amp;timezone=None">
   <channel id="370177">
     <display-name lang="Taiwan">中天新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110909545808_36.png" />
   </channel>
-  <programme channel="370177" start="20251017000000 +0000" stop="20251017010000 +0000">
-    <title lang="zh">08中天晨報</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370177" start="20251017010000 +0000" stop="20251017020000 +0000">
-    <title lang="zh">09中天新聞</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370177" start="20251017020000 +0000" stop="20251017030000 +0000">
-    <title lang="zh">10中天新聞</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370177" start="20251017030000 +0000" stop="20251017040000 +0000">
-    <title lang="zh">11中天新聞</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370177" start="20251017040000 +0000" stop="20251017050000 +0000">
-    <title lang="zh">12午間新聞</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370177" start="20251017050000 +0000" stop="20251017060000 +0000">
-    <title lang="zh">13午間新聞</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370177" start="20251017060000 +0000" stop="20251017070000 +0000">
-    <title lang="zh">14大新聞大爆卦</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370177" start="20251017070000 +0000" stop="20251017080000 +0000">
-    <title lang="zh">15大新聞大爆卦</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370177" start="20251017080000 +0000" stop="20251017090000 +0000">
-    <title lang="zh">16中天新聞</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370177" start="20251017090000 +0000" stop="20251017100000 +0000">
-    <title lang="zh">17中天新聞</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370177" start="20251017100000 +0000" stop="20251017110000 +0000">
-    <title lang="zh">18中天辣晚報</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370177" start="20251017110000 +0000" stop="20251017120000 +0000">
-    <title lang="zh">19中天辣晚報</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370177" start="20251017120000 +0000" stop="20251017130000 +0000">
-    <title lang="zh">20頭條開講</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370177" start="20251017130000 +0000" stop="20251017140000 +0000">
-    <title lang="zh">21頭條開講</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370177" start="20251017140000 +0000" stop="20251017150000 +0000">
-    <title lang="zh">22中天SUPER夜線</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370177" start="20251017150000 +0000" stop="20251017160000 +0000">
-    <title lang="zh">23全球大視野</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370177" start="20251017160000 +0000" stop="20251017170000 +0000">
-    <title lang="zh">18中天辣晚報</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370177" start="20251017170000 +0000" stop="20251017180000 +0000">
-    <title lang="zh">19中天辣晚報</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370177" start="20251017180000 +0000" stop="20251017190000 +0000">
-    <title lang="zh">20頭條開講</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370177" start="20251017190000 +0000" stop="20251017200000 +0000">
-    <title lang="zh">21頭條開講</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370177" start="20251017200000 +0000" stop="20251017210000 +0000">
-    <title lang="zh">22中天SUPER夜線</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370177" start="20251017210000 +0000" stop="20251017220000 +0000">
-    <title lang="zh">23全球大視野</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370177" start="20251017220000 +0000" stop="20251017230000 +0000">
-    <title lang="zh">06中天晨報</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370177" start="20251017230000 +0000" stop="20251018000000 +0000">
-    <title lang="zh">07中天晨報</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
   <programme channel="370177" start="20251018000000 +0000" stop="20251018010000 +0000">
     <title lang="zh">08中天晨報</title>
     <desc />
@@ -899,137 +779,137 @@
     <desc />
     <date>2025-10-18</date>
   </programme>
-  <programme channel="370177" start="20251019000000 +0000" stop="20251020000000 +0000">
+  <programme channel="370177" start="20251019000000 +0000" stop="20251019010000 +0000">
     <title lang="zh">08中天晨報</title>
     <desc />
     <date>2025-10-19</date>
   </programme>
-<tv date="20251018022224 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20251017.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20251017&amp;timezone=None" />
-<tv date="20251018020844 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370183/20251017.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370183&amp;date=20251017&amp;timezone=None">
+  <programme channel="370177" start="20251019010000 +0000" stop="20251019020000 +0000">
+    <title lang="zh">09中天新聞</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370177" start="20251019020000 +0000" stop="20251019030000 +0000">
+    <title lang="zh">10中天新聞</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370177" start="20251019030000 +0000" stop="20251019040000 +0000">
+    <title lang="zh">11中天新聞</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370177" start="20251019040000 +0000" stop="20251019050000 +0000">
+    <title lang="zh">12午間新聞</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370177" start="20251019050000 +0000" stop="20251019060000 +0000">
+    <title lang="zh">13午間新聞</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370177" start="20251019060000 +0000" stop="20251019070000 +0000">
+    <title lang="zh">14大新聞大爆卦周末版</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370177" start="20251019070000 +0000" stop="20251019080000 +0000">
+    <title lang="zh">15大新聞大爆卦周末版</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370177" start="20251019080000 +0000" stop="20251019090000 +0000">
+    <title lang="zh">cti talk網路論壇</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370177" start="20251019090000 +0000" stop="20251019100000 +0000">
+    <title lang="zh">17中天新聞</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370177" start="20251019100000 +0000" stop="20251019110000 +0000">
+    <title lang="zh">18中天辣晚報</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370177" start="20251019110000 +0000" stop="20251019120000 +0000">
+    <title lang="zh">19中天辣晚報</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370177" start="20251019120000 +0000" stop="20251019130000 +0000">
+    <title lang="zh">20中天新聞</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370177" start="20251019130000 +0000" stop="20251019140000 +0000">
+    <title lang="zh">21國際直球對決</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370177" start="20251019140000 +0000" stop="20251019150000 +0000">
+    <title lang="zh">22國際直球對決</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370177" start="20251019150000 +0000" stop="20251019160000 +0000">
+    <title lang="zh">琴謙天下事</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370177" start="20251019160000 +0000" stop="20251019170000 +0000">
+    <title lang="zh">18中天辣晚報</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370177" start="20251019170000 +0000" stop="20251019180000 +0000">
+    <title lang="zh">19中天辣晚報</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370177" start="20251019180000 +0000" stop="20251019190000 +0000">
+    <title lang="zh">20中天新聞</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370177" start="20251019190000 +0000" stop="20251019200000 +0000">
+    <title lang="zh">21國際直球對決</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370177" start="20251019200000 +0000" stop="20251019210000 +0000">
+    <title lang="zh">22國際直球對決</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370177" start="20251019210000 +0000" stop="20251019220000 +0000">
+    <title lang="zh">琴謙天下事</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370177" start="20251019220000 +0000" stop="20251019230000 +0000">
+    <title lang="zh">06中天晨報</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370177" start="20251019230000 +0000" stop="20251020000000 +0000">
+    <title lang="zh">07中天晨報</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370177" start="20251020000000 +0000" stop="20251021000000 +0000">
+    <title lang="zh">08中天晨報</title>
+    <desc />
+    <date>2025-10-20</date>
+  </programme>
+<tv date="20251018091344 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20251018.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20251018&amp;timezone=None" />
+<tv date="20251018082758 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370183/20251018.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370183&amp;date=20251018&amp;timezone=None">
   <channel id="370183">
     <display-name lang="Taiwan">TVBS</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110950648129_24.png" />
   </channel>
-  <programme channel="370183" start="20251017000000 +0000" stop="20251017010000 +0000">
-    <title lang="zh">健康2.0</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370183" start="20251017010000 +0000" stop="20251017020000 +0000">
-    <title lang="zh">地球黃金線</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370183" start="20251017020000 +0000" stop="20251017030000 +0000">
-    <title lang="zh">金臨天下</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370183" start="20251017030000 +0000" stop="20251017040000 +0000">
-    <title lang="zh">FOCUS國際話題</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370183" start="20251017040000 +0000" stop="20251017050000 +0000">
-    <title lang="zh">FOCUS世界新聞</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370183" start="20251017050000 +0000" stop="20251017060000 +0000">
-    <title lang="zh">FOCUS世界新聞</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370183" start="20251017060000 +0000" stop="20251017070000 +0000">
-    <title lang="zh">新聞大白話</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370183" start="20251017070000 +0000" stop="20251017080000 +0000">
-    <title lang="zh">新聞大白話</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370183" start="20251017080000 +0000" stop="20251017090000 +0000">
-    <title lang="zh">新聞大白話</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370183" start="20251017090000 +0000" stop="20251017100000 +0000">
-    <title lang="zh">新聞大白話</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370183" start="20251017100000 +0000" stop="20251017110000 +0000">
-    <title lang="zh">國民大會</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370183" start="20251017110000 +0000" stop="20251017120000 +0000">
-    <title lang="zh">FOCUS全球新聞</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370183" start="20251017120000 +0000" stop="20251017130000 +0000">
-    <title lang="zh">少康戰情室</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370183" start="20251017130000 +0000" stop="20251017140000 +0000">
-    <title lang="zh">少康戰情室</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370183" start="20251017140000 +0000" stop="20251017150000 +0000">
-    <title lang="zh">地球黃金線</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370183" start="20251017150000 +0000" stop="20251017160000 +0000">
-    <title lang="zh">財經鈔能力</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370183" start="20251017160000 +0000" stop="20251017170000 +0000">
-    <title lang="zh">國民大會</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370183" start="20251017170000 +0000" stop="20251017180000 +0000">
-    <title lang="zh">地球黃金線</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370183" start="20251017180000 +0000" stop="20251017190000 +0000">
-    <title lang="zh">FOCUS全球新聞</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370183" start="20251017190000 +0000" stop="20251017200000 +0000">
-    <title lang="zh">少康戰情室</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370183" start="20251017200000 +0000" stop="20251017210000 +0000">
-    <title lang="zh">FOCUS國際話題</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370183" start="20251017210000 +0000" stop="20251017220000 +0000">
-    <title lang="zh">一步一腳印發現新台灣</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370183" start="20251017220000 +0000" stop="20251017230000 +0000">
-    <title lang="zh">財經鈔能力</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370183" start="20251017230000 +0000" stop="20251018000000 +0000">
-    <title lang="zh">FOCUS全球新聞</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
   <programme channel="370183" start="20251018000000 +0000" stop="20251018010000 +0000">
     <title lang="zh">健康2.0</title>
     <desc />
@@ -1150,122 +1030,137 @@
     <desc />
     <date>2025-10-18</date>
   </programme>
-  <programme channel="370183" start="20251019000000 +0000" stop="20251020000000 +0000">
+  <programme channel="370183" start="20251019000000 +0000" stop="20251019010000 +0000">
     <title lang="zh">健康2.0</title>
     <desc />
     <date>2025-10-19</date>
   </programme>
-<tv date="20251018010319 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20251017.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20251017&amp;timezone=None" />
-<tv date="20251018010600 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20251017.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20251017&amp;timezone=None">
+  <programme channel="370183" start="20251019010000 +0000" stop="20251019020000 +0000">
+    <title lang="zh">T觀點</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370183" start="20251019020000 +0000" stop="20251019030000 +0000">
+    <title lang="zh">TVBS戰情室</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370183" start="20251019030000 +0000" stop="20251019040000 +0000">
+    <title lang="zh">TVBS文茜的世界周報</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370183" start="20251019040000 +0000" stop="20251019050000 +0000">
+    <title lang="zh">TVBS文茜的世界周報</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370183" start="20251019050000 +0000" stop="20251019060000 +0000">
+    <title lang="zh">健康2.0</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370183" start="20251019060000 +0000" stop="20251019070000 +0000">
+    <title lang="zh">新聞大白話特報</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370183" start="20251019070000 +0000" stop="20251019080000 +0000">
+    <title lang="zh">新聞大白話特報</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370183" start="20251019080000 +0000" stop="20251019090000 +0000">
+    <title lang="zh">新聞大白話特報</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370183" start="20251019090000 +0000" stop="20251019100000 +0000">
+    <title lang="zh">新聞大白話特報</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370183" start="20251019100000 +0000" stop="20251019110000 +0000">
+    <title lang="zh">健康2.0</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370183" start="20251019110000 +0000" stop="20251019120000 +0000">
+    <title lang="zh">TVBS戰情室</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370183" start="20251019120000 +0000" stop="20251019130000 +0000">
+    <title lang="zh">TVBS戰情室</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370183" start="20251019130000 +0000" stop="20251019140000 +0000">
+    <title lang="zh">TVBS文茜的世界周報</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370183" start="20251019140000 +0000" stop="20251019150000 +0000">
+    <title lang="zh">TVBS文茜的世界財經周報</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370183" start="20251019150000 +0000" stop="20251019160000 +0000">
+    <title lang="zh">TVBS看板人物</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370183" start="20251019160000 +0000" stop="20251019170000 +0000">
+    <title lang="zh">新聞大白話特報1500</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370183" start="20251019170000 +0000" stop="20251019180000 +0000">
+    <title lang="zh">TVBS文茜的世界周報</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370183" start="20251019180000 +0000" stop="20251019190000 +0000">
+    <title lang="zh">TVBS文茜的世界財經周報</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370183" start="20251019190000 +0000" stop="20251019200000 +0000">
+    <title lang="zh">TVBS戰情室</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370183" start="20251019200000 +0000" stop="20251019210000 +0000">
+    <title lang="zh">TVBS戰情室</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370183" start="20251019210000 +0000" stop="20251019220000 +0000">
+    <title lang="zh">新聞大白話特報1600</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370183" start="20251019220000 +0000" stop="20251019230000 +0000">
+    <title lang="zh">TVBS文茜的世界周報</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370183" start="20251019230000 +0000" stop="20251020000000 +0000">
+    <title lang="zh">TVBS文茜的世界財經周報</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370183" start="20251020000000 +0000" stop="20251021000000 +0000">
+    <title lang="zh">健康2.0</title>
+    <desc />
+    <date>2025-10-20</date>
+  </programme>
+<tv date="20251018091345 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20251018.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20251018&amp;timezone=None" />
+<tv date="20251018091345 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20251018.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20251018&amp;timezone=None">
   <channel id="370173">
     <display-name lang="Taiwan">三立新聞iNEWS</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110842913601_69.png" />
   </channel>
-  <programme channel="370173" start="20251017000000 +0000" stop="20251017010000 +0000">
-    <title lang="zh">iNEWS財經早報(普)(N)</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370173" start="20251017010000 +0000" stop="20251017015500 +0000">
-    <title lang="zh">iNEWS0900整點新聞(普)(N)</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370173" start="20251017015500 +0000" stop="20251017025500 +0000">
-    <title lang="zh">iNEWS1000整點新聞(普)(N)</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370173" start="20251017025500 +0000" stop="20251017035500 +0000">
-    <title lang="zh">iNEWS1100整點新聞(普)(N)</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370173" start="20251017035500 +0000" stop="20251017060000 +0000">
-    <title lang="zh">iNEWS財經午報(普)(N)</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370173" start="20251017060000 +0000" stop="20251017063000 +0000">
-    <title lang="zh">台股大贏家(普)(N)</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370173" start="20251017063000 +0000" stop="20251017070000 +0000">
-    <title lang="zh">iNEWS1430整點新聞(普)(N)</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370173" start="20251017070000 +0000" stop="20251017080000 +0000">
-    <title lang="zh">智富食代(重)(普)(N)</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370173" start="20251017080000 +0000" stop="20251017090000 +0000">
-    <title lang="zh">iNEWS 1600 整點新聞(普)(N)</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370173" start="20251017090000 +0000" stop="20251017100000 +0000">
-    <title lang="zh">1700iNEWS整點新聞(普)(N)</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370173" start="20251017100000 +0000" stop="20251017120000 +0000">
-    <title lang="zh">1819錢進大頭條(普)(N)</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370173" start="20251017120000 +0000" stop="20251017123000 +0000">
-    <title lang="zh">全民i彩券(首)(普)(N)</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370173" start="20251017123000 +0000" stop="20251017130000 +0000">
-    <title lang="zh">全民i彩券(首)(普)(N)</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370173" start="20251017130000 +0000" stop="20251017150000 +0000">
-    <title lang="zh">關我什麼事(首)(普)(N)</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370173" start="20251017150000 +0000" stop="20251017160000 +0000">
-    <title lang="zh">2300iNEWS財經夜世界(普)(N)</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370173" start="20251017160000 +0000" stop="20251017180000 +0000">
-    <title lang="zh">關我什麼事(重)(普)(N)</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370173" start="20251017180000 +0000" stop="20251017190000 +0000">
-    <title lang="zh">2300iNEWS財經夜世界(重)(普)(N)</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370173" start="20251017190000 +0000" stop="20251017210000 +0000">
-    <title lang="zh">1819錢進大頭條(重)(普)(N)</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370173" start="20251017210000 +0000" stop="20251017220000 +0000">
-    <title lang="zh">iNEWS 1600 整點新聞(重)(普)(N)</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370173" start="20251017220000 +0000" stop="20251017230000 +0000">
-    <title lang="zh">2300iNEWS財經夜世界(重)(普)(N)</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370173" start="20251017230000 +0000" stop="20251018000000 +0000">
-    <title lang="zh">消失的國界(iNEWS看世界)(首)(普)(N)</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
   <programme channel="370173" start="20251018000000 +0000" stop="20251018010000 +0000">
     <title lang="zh">全球新食力(重)(普)(N)</title>
     <desc />
@@ -1386,12 +1281,127 @@
     <desc />
     <date>2025-10-18</date>
   </programme>
-  <programme channel="370173" start="20251019000000 +0000" stop="20251020000000 +0000">
+  <programme channel="370173" start="20251019000000 +0000" stop="20251019010000 +0000">
     <title lang="zh">Catch大錢潮(重)(普)(N)</title>
     <desc />
     <date>2025-10-19</date>
   </programme>
-<tv date="20251018010123 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20251017.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20251017&amp;timezone=None">
+  <programme channel="370173" start="20251019010000 +0000" stop="20251019020000 +0000">
+    <title lang="zh">祝你健康(首)(普)(N)</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370173" start="20251019020000 +0000" stop="20251019030000 +0000">
+    <title lang="zh">我們一家人 閃耀新家園(首)(普)(N)</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370173" start="20251019030000 +0000" stop="20251019040000 +0000">
+    <title lang="zh">iNEWS1100整點新聞(普)(N)</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370173" start="20251019040000 +0000" stop="20251019050000 +0000">
+    <title lang="zh">iNEWS財經午報(普)(N)</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370173" start="20251019050000 +0000" stop="20251019060000 +0000">
+    <title lang="zh">好宅敲敲門(首)(普)(N)</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370173" start="20251019060000 +0000" stop="20251019070000 +0000">
+    <title lang="zh">全球新食力(首)(普)(N)</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370173" start="20251019070000 +0000" stop="20251019080000 +0000">
+    <title lang="zh">吃貨請跟上(重)(普)(N)</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370173" start="20251019080000 +0000" stop="20251019090000 +0000">
+    <title lang="zh">話時代人物(重)(普)(N)</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370173" start="20251019090000 +0000" stop="20251019100000 +0000">
+    <title lang="zh">iNEWS財經晚報(普)(N)</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370173" start="20251019100000 +0000" stop="20251019120000 +0000">
+    <title lang="zh">1819錢進大頭條(普)(N)</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370173" start="20251019120000 +0000" stop="20251019130000 +0000">
+    <title lang="zh">360大世界(首)(普)(N)</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370173" start="20251019130000 +0000" stop="20251019140000 +0000">
+    <title lang="zh">Catch大錢潮(首)(普)(N)</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370173" start="20251019140000 +0000" stop="20251019150000 +0000">
+    <title lang="zh">台灣新思路(首)(普)(N)</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370173" start="20251019150000 +0000" stop="20251019160000 +0000">
+    <title lang="zh">驚爆新聞線(首)(普)(N)</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370173" start="20251019160000 +0000" stop="20251019170000 +0000">
+    <title lang="zh">驚爆新聞線(首)(普)(N)</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370173" start="20251019170000 +0000" stop="20251019180000 +0000">
+    <title lang="zh">Catch大錢潮(重)(普)(N)</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370173" start="20251019180000 +0000" stop="20251019190000 +0000">
+    <title lang="zh">台灣新思路(重)(普)(N)</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370173" start="20251019190000 +0000" stop="20251019200000 +0000">
+    <title lang="zh">好宅敲敲門(重)(普)(N)</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370173" start="20251019200000 +0000" stop="20251019210000 +0000">
+    <title lang="zh">1819錢進大頭條(重)(普)(N)</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370173" start="20251019210000 +0000" stop="20251019220000 +0000">
+    <title lang="zh">1819錢進大頭條(重)(普)(N)</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370173" start="20251019220000 +0000" stop="20251019230000 +0000">
+    <title lang="zh">360大世界(重)(普)(N)</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370173" start="20251019230000 +0000" stop="20251020000000 +0000">
+    <title lang="zh">iNEWS財經早報(普)(N)</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370173" start="20251020000000 +0000" stop="20251021000000 +0000">
+    <title lang="zh">iNEWS財經早報(普)(N)</title>
+    <desc />
+    <date>2025-10-20</date>
+  </programme>
+<tv date="20251018070343 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20251017.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20251017&amp;timezone=None">
   <channel id="370172">
     <display-name lang="Taiwan">民視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110836326598_60.png" />
@@ -1631,124 +1641,14 @@
     <desc />
     <date>2025-10-19</date>
   </programme>
-<tv date="20251018020719 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369324/20251017.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369324&amp;date=20251017&amp;timezone=None" />
-<tv date="20251018022226 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/415097/20251017.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=415097&amp;date=20251017&amp;timezone=None" />
-<tv date="20251018022227 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369318/20251017.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369318&amp;date=20251017&amp;timezone=None" />
-<tv date="20251018010604 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370171/20251017.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370171&amp;date=20251017&amp;timezone=None">
+<tv date="20251018082101 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369324/20251018.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369324&amp;date=20251018&amp;timezone=None" />
+<tv date="20251018091346 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/415097/20251018.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=415097&amp;date=20251018&amp;timezone=None" />
+<tv date="20251018091347 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369318/20251018.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369318&amp;date=20251018&amp;timezone=None" />
+<tv date="20251018091347 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370171/20251018.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370171&amp;date=20251018&amp;timezone=None">
   <channel id="370171">
     <display-name lang="Taiwan">華視新聞</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110829650925_83.png" />
   </channel>
-  <programme channel="370171" start="20251017000000 +0000" stop="20251017010000 +0000">
-    <title lang="zh">GOOD Morning台灣</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370171" start="20251017010000 +0000" stop="20251017020000 +0000">
-    <title lang="zh">華視0900整點新聞</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370171" start="20251017020000 +0000" stop="20251017030000 +0000">
-    <title lang="zh">華視1000新聞搶先報</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370171" start="20251017030000 +0000" stop="20251017035800 +0000">
-    <title lang="zh">華視1100新聞搶先報</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370171" start="20251017035800 +0000" stop="20251017050000 +0000">
-    <title lang="zh">華視午間新聞</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370171" start="20251017050000 +0000" stop="20251017060000 +0000">
-    <title lang="zh">華視1300午間新聞</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370171" start="20251017060000 +0000" stop="20251017070000 +0000">
-    <title lang="zh">華視1400整點新聞</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370171" start="20251017070000 +0000" stop="20251017080000 +0000">
-    <title lang="zh">華視1500整點新聞</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370171" start="20251017080000 +0000" stop="20251017085300 +0000">
-    <title lang="zh">華視在地新聞</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370171" start="20251017085300 +0000" stop="20251017120000 +0000">
-    <title lang="zh">華視新聞晚報</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370171" start="20251017120000 +0000" stop="20251017130000 +0000">
-    <title lang="zh">華視2000整點新聞</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370171" start="20251017130000 +0000" stop="20251017140000 +0000">
-    <title lang="zh">World News 9</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370171" start="20251017140000 +0000" stop="20251017150000 +0000">
-    <title lang="zh">52政經點</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370171" start="20251017150000 +0000" stop="20251017155500 +0000">
-    <title lang="zh">華視夜間新聞</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370171" start="20251017155500 +0000" stop="20251017170000 +0000">
-    <title lang="zh">華視2400夜間新聞</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370171" start="20251017170000 +0000" stop="20251017180000 +0000">
-    <title lang="zh">World News 9</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370171" start="20251017180000 +0000" stop="20251017190000 +0000">
-    <title lang="zh">華視2400夜間新聞</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370171" start="20251017190000 +0000" stop="20251017200000 +0000">
-    <title lang="zh">World News 9</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370171" start="20251017200000 +0000" stop="20251017210000 +0000">
-    <title lang="zh">華視2400夜間新聞</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370171" start="20251017210000 +0000" stop="20251017220000 +0000">
-    <title lang="zh">World News 9</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370171" start="20251017220000 +0000" stop="20251017230000 +0000">
-    <title lang="zh">華視2400夜間新聞</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="370171" start="20251017230000 +0000" stop="20251018000000 +0000">
-    <title lang="zh">GOOD Morning台灣</title>
-    <desc />
-    <date>2025-10-17</date>
-  </programme>
   <programme channel="370171" start="20251018000000 +0000" stop="20251018010000 +0000">
     <title lang="zh">GOOD Morning台灣</title>
     <desc />
@@ -1869,162 +1769,137 @@
     <desc />
     <date>2025-10-18</date>
   </programme>
-  <programme channel="370171" start="20251019000000 +0000" stop="20251020000000 +0000">
+  <programme channel="370171" start="20251019000000 +0000" stop="20251019010000 +0000">
     <title lang="zh">GOOD Morning台灣</title>
     <desc />
     <date>2025-10-19</date>
   </programme>
-<tv date="20251018022228 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335029/20251017.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335029&amp;date=20251017&amp;timezone=None" />
-<tv date="20251018022228 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369749/20251017.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369749&amp;date=20251017&amp;timezone=None">
+  <programme channel="370171" start="20251019010000 +0000" stop="20251019020000 +0000">
+    <title lang="zh">華視0900整點新聞</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370171" start="20251019020000 +0000" stop="20251019030000 +0000">
+    <title lang="zh">華視1000新聞搶先報</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370171" start="20251019030000 +0000" stop="20251019035900 +0000">
+    <title lang="zh">華視1100新聞搶先報</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370171" start="20251019035900 +0000" stop="20251019045500 +0000">
+    <title lang="zh">華視午間新聞</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370171" start="20251019045500 +0000" stop="20251019060000 +0000">
+    <title lang="zh">華視1300午間新聞</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370171" start="20251019060000 +0000" stop="20251019070000 +0000">
+    <title lang="zh">華視1400整點新聞</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370171" start="20251019070000 +0000" stop="20251019080000 +0000">
+    <title lang="zh">三國演議</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370171" start="20251019080000 +0000" stop="20251019090000 +0000">
+    <title lang="zh">華視1600整點新聞</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370171" start="20251019090000 +0000" stop="20251019110000 +0000">
+    <title lang="zh">華視新聞晚報</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370171" start="20251019110000 +0000" stop="20251019120000 +0000">
+    <title lang="zh">華視晚間新聞</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370171" start="20251019120000 +0000" stop="20251019130000 +0000">
+    <title lang="zh">新聞高峰會</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370171" start="20251019130000 +0000" stop="20251019140000 +0000">
+    <title lang="zh">國際線，出發！</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370171" start="20251019140000 +0000" stop="20251019143000 +0000">
+    <title lang="zh">Top People封面人物</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370171" start="20251019143000 +0000" stop="20251019150000 +0000">
+    <title lang="zh">華視2200夜間新聞</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370171" start="20251019150000 +0000" stop="20251019160000 +0000">
+    <title lang="zh">華視夜間新聞</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370171" start="20251019160000 +0000" stop="20251019170000 +0000">
+    <title lang="zh">華視2400夜間新聞</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370171" start="20251019170000 +0000" stop="20251019180000 +0000">
+    <title lang="zh">華視夜間新聞</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370171" start="20251019180000 +0000" stop="20251019190000 +0000">
+    <title lang="zh">華視2400夜間新聞</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370171" start="20251019190000 +0000" stop="20251019200000 +0000">
+    <title lang="zh">新聞高峰會</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370171" start="20251019200000 +0000" stop="20251019210000 +0000">
+    <title lang="zh">華視2400夜間新聞</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370171" start="20251019210000 +0000" stop="20251019220000 +0000">
+    <title lang="zh">華視夜間新聞</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370171" start="20251019220000 +0000" stop="20251019230000 +0000">
+    <title lang="zh">華視2400夜間新聞</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370171" start="20251019230000 +0000" stop="20251020000000 +0000">
+    <title lang="zh">GOOD Morning台灣</title>
+    <desc />
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="370171" start="20251020000000 +0000" stop="20251021000000 +0000">
+    <title lang="zh">GOOD Morning台灣</title>
+    <desc />
+    <date>2025-10-20</date>
+  </programme>
+<tv date="20251018090532 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335029/20251018.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335029&amp;date=20251018&amp;timezone=None" />
+<tv date="20251018091348 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369749/20251018.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369749&amp;date=20251018&amp;timezone=None">
   <channel id="369749">
     <display-name lang="Singapore">CNN International (HD)</display-name>
     <icon src="" />
   </channel>
-  <programme channel="369749" start="20251017000000 +0000" stop="20251017010000 +0000">
-    <title lang="zh">Anderson Cooper 360: Thursday, October 16, 2025 8PM</title>
-    <desc>Anderson Cooper takes you beyond the headlines with in-depth reporting and investigations.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="369749" start="20251017010000 +0000" stop="20251017020000 +0000">
-    <title lang="zh">The Source with Kaitlan Collins: Thursday, October 16, 2025 9PM</title>
-    <desc>Kaitlan Collins goes straight to the source for the best reporting on the day's biggest stories.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="369749" start="20251017020000 +0000" stop="20251017030000 +0000">
-    <title lang="zh">CNN NewsNight: Thursday, October 16, 2025 10PM</title>
-    <desc>Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="369749" start="20251017030000 +0000" stop="20251017040000 +0000">
-    <title lang="zh">Laura Coates Live: Thursday, October 16, 2025 11PM</title>
-    <desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="369749" start="20251017040000 +0000" stop="20251017044500 +0000">
-    <title lang="zh">CNN Newsroom (CNNI): Friday, October 17, 2025 12am ET</title>
-    <desc>Live context and clarity to the day's top stories from around the world.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="369749" start="20251017044500 +0000" stop="20251017050000 +0000">
-    <title lang="zh">World Sport: Friday, October 17, 2025 1245am ET</title>
-    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="369749" start="20251017050000 +0000" stop="20251017060000 +0000">
-    <title lang="zh">CNN Newsroom (CNNI): Wednesday, October 15, 2025 1am ET</title>
-    <desc>Live context and clarity to the day's top stories from around the world.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="369749" start="20251017060000 +0000" stop="20251017064500 +0000">
-    <title lang="zh">CNN Newsroom (CNNI): Friday, October 17, 2025 2am ET</title>
-    <desc>Live context and clarity to the day's top stories from around the world.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="369749" start="20251017064500 +0000" stop="20251017070000 +0000">
-    <title lang="zh">World Sport: Friday, October 17, 2025 1245am ET</title>
-    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="369749" start="20251017070000 +0000" stop="20251017080000 +0000">
-    <title lang="zh">CNN Newsroom (CNNI): Friday, October 17, 2025 3am ET</title>
-    <desc>Live context and clarity to the day's top stories from around the world.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="369749" start="20251017080000 +0000" stop="20251017090000 +0000">
-    <title lang="zh">Amanpour: Thursday, October 16, 2025 1pm ET</title>
-    <desc>Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="369749" start="20251017090000 +0000" stop="20251017100000 +0000">
-    <title lang="zh">Early Start with Rahel Solomon: Friday, October 17, 2025 5AM</title>
-    <desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="369749" start="20251017100000 +0000" stop="20251017110000 +0000">
-    <title lang="zh">CNN This Morning: Friday, October 17, 2025 6AM</title>
-    <desc>Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="369749" start="20251017110000 +0000" stop="20251017120000 +0000">
-    <title lang="zh">CNN News Central: Friday, October 17, 2025 7AM</title>
-    <desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="369749" start="20251017120000 +0000" stop="20251017123000 +0000">
-    <title lang="zh">CNN News Central (AM) (30m): CNN News Central - Friday, October 17, 2025 8am ET</title>
-    <desc>The latest, up-to-date news stories from around the globe.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="369749" start="20251017123000 +0000" stop="20251017130000 +0000">
-    <title lang="zh">World Sport: Friday, October 17, 2025 730am ET</title>
-    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="369749" start="20251017130000 +0000" stop="20251017134500 +0000">
-    <title lang="zh">Connect the World: Friday, October 17, 2025 9am ET</title>
-    <desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="369749" start="20251017134500 +0000" stop="20251017140000 +0000">
-    <title lang="zh">World Sport: Friday, October 17, 2025 945am ET</title>
-    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="369749" start="20251017140000 +0000" stop="20251017150000 +0000">
-    <title lang="zh">Connect the World: Friday, October 17, 2025 10am ET</title>
-    <desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="369749" start="20251017150000 +0000" stop="20251017160000 +0000">
-    <title lang="zh">One World: Friday, October 17, 2025 11am ET</title>
-    <desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="369749" start="20251017160000 +0000" stop="20251017170000 +0000">
-    <title lang="zh">One World: Friday, October 17, 2025 12pm ET</title>
-    <desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="369749" start="20251017170000 +0000" stop="20251017180000 +0000">
-    <title lang="zh">Amanpour: Friday, October 17, 2025 1pm ET</title>
-    <desc>Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="369749" start="20251017180000 +0000" stop="20251017190000 +0000">
-    <title lang="zh">Isa Soares Tonight: Friday, October 17, 2025 2pm ET</title>
-    <desc>Isa Soares deep dives into today's top stories with insightful conversations and reports from around the world.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="369749" start="20251017190000 +0000" stop="20251017200000 +0000">
-    <title lang="zh">What We Know with Max Foster: Friday, October 17, 2025 3pm ET</title>
-    <desc>Max Foster has a definitive roundup of the day's top stories, giving you the urgent need-to-know context, plus a deeper dive into the questions sparking debate around the world.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="369749" start="20251017200000 +0000" stop="20251017210000 +0000">
-    <title lang="zh">Quest Means Business: Friday, October 17, 2025 4pm ET</title>
-    <desc>Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="369749" start="20251017210000 +0000" stop="20251017213000 +0000">
-    <title lang="zh">The Lead with Jake Tapper (30m): The Lead with Jake Tapper - Friday, October 17, 2025 5pm ET</title>
-    <desc>The latest, up-to-date news stories from around the globe.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="369749" start="20251017213000 +0000" stop="20251017220000 +0000">
-    <title lang="zh">World Sport: Friday, October 17, 2025 530pm ET</title>
-    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="369749" start="20251017220000 +0000" stop="20251017230000 +0000">
-    <title lang="zh">The Brief with Jim Sciutto: Friday, October 17, 2025 6pm ET</title>
-    <desc>The best of CNN's reporting from correspondents across the world, to guide global audiences through the fast-paced news cycle with insight, analysis and hard-hitting interviews.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="369749" start="20251017230000 +0000" stop="20251018000000 +0000">
-    <title lang="zh">Erin Burnett OutFront: Friday, October 17, 2025 7PM</title>
-    <desc>Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative.</desc>
-    <date>2025-10-17</date>
-  </programme>
   <programme channel="369749" start="20251018000000 +0000" stop="20251018010000 +0000">
     <title lang="zh">Anderson Cooper 360: Friday, October 17, 2025 8PM</title>
     <desc>Anderson Cooper takes you beyond the headlines with in-depth reporting and investigations.</desc>
@@ -2195,282 +2070,202 @@
     <desc>Updates of the latest news from around the world.</desc>
     <date>2025-10-18</date>
   </programme>
-  <programme channel="369749" start="20251019000000 +0000" stop="20251020000000 +0000">
+  <programme channel="369749" start="20251019000000 +0000" stop="20251019010000 +0000">
     <title lang="zh">Smerconish: Saturday, October 18, 2025 9AM</title>
     <desc>Michael?Smerconish tackles the American?political and news stories of the week, offering only one kind of talking points: his own.</desc>
     <date>2025-10-19</date>
   </programme>
-<tv date="20251018012843 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403819/20251017.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403819&amp;date=20251017&amp;timezone=None" />
-<tv date="20251018022229 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/412098/20251017.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=412098&amp;date=20251017&amp;timezone=None">
+  <programme channel="369749" start="20251019010000 +0000" stop="20251019013000 +0000">
+    <title lang="zh">World Sport: Saturday, October 18, 2025 5pm ET</title>
+    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019013000 +0000" stop="20251019020000 +0000">
+    <title lang="zh">Quest's World of Wonder: Quest's World of Wonder LQWW073</title>
+    <desc>Larger-than-life characters take us on a journey with Richard Quest to experience cities in a way tourists can't.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019020000 +0000" stop="20251019023000 +0000">
+    <title lang="zh">Inside Africa: Saving Malawi's Mulanje Cedar</title>
+    <desc>Rising dramatically from the plains of southern Malawi, Mount Mulanje is a soaring granite massif known as the "Island in the Sky." It is home to a fragile and unique ecosystem and at its heart stands the Mulanje cedar (Widdringtonia whytei), a tree so rare it's found nowhere else on Earth. Once covering vast slopes of the mountain, the cedar is now critically endangered. Illegal logging, wildfire</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019023000 +0000" stop="20251019030000 +0000">
+    <title lang="zh">African Voices Changemakers: African Voices Changemakers LAVCM214</title>
+    <desc>African Voices starts a new chapter as we focus on some of the Changemakers who are coming up with innovative ways to have a positive impact on their communities.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019030000 +0000" stop="20251019033000 +0000">
+    <title lang="zh">Connecting Africa: Agri Tech</title>
+    <desc>The innovative tech tools revolutionizing agriculture and how technology can drive deeper economic integration and support Africa's journey toward a self-sufficient future.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019033000 +0000" stop="20251019034500 +0000">
+    <title lang="zh">Marketplace Europe: Marketplace Europe: Europe's Film Industry</title>
+    <desc>We hit the red carpet for a look at the state of Europe's film industry, from Venice to London. In the face of economic uncertainty and rising tariffs, how will the creative industry respond? As countries like Italy and the UK replace Hollywood as the go-to destinations for on-location shooting, we speak to some of the major players in the industry to find out how Europe has catapulted itself forw</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019034500 +0000" stop="20251019040000 +0000">
+    <title lang="zh">Marketplace Asia: Marketplace Asia November 2025</title>
+    <desc>The latest, up-to-date news stories from around the globe.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019040000 +0000" stop="20251019043000 +0000">
+    <title lang="zh">CNN Newsroom (CNNI): Sunday, October 19, 2025 12am ET</title>
+    <desc>Live context and clarity to the day's top stories from around the world.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019043000 +0000" stop="20251019050000 +0000">
+    <title lang="zh">World Sport: Saturday, October 18, 2025 5pm ET</title>
+    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019050000 +0000" stop="20251019053000 +0000">
+    <title lang="zh">CNN Newsroom (CNNI): Sunday, October 19, 2025 1am ET</title>
+    <desc>Live context and clarity to the day's top stories from around the world.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019053000 +0000" stop="20251019060000 +0000">
+    <title lang="zh">Inside Africa: Saving Malawi's Mulanje Cedar</title>
+    <desc>Rising dramatically from the plains of southern Malawi, Mount Mulanje is a soaring granite massif known as the "Island in the Sky." It is home to a fragile and unique ecosystem and at its heart stands the Mulanje cedar (Widdringtonia whytei), a tree so rare it's found nowhere else on Earth. Once covering vast slopes of the mountain, the cedar is now critically endangered. Illegal logging, wildfire</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019060000 +0000" stop="20251019063000 +0000">
+    <title lang="zh">CNN Newsroom (CNNI): Sunday, October 19, 2025 2am ET</title>
+    <desc>Live context and clarity to the day's top stories from around the world.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019063000 +0000" stop="20251019064500 +0000">
+    <title lang="zh">Marketplace Europe: Marketplace Europe: Europe's Film Industry</title>
+    <desc>We hit the red carpet for a look at the state of Europe's film industry, from Venice to London. In the face of economic uncertainty and rising tariffs, how will the creative industry respond? As countries like Italy and the UK replace Hollywood as the go-to destinations for on-location shooting, we speak to some of the major players in the industry to find out how Europe has catapulted itself forw</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019064500 +0000" stop="20251019070000 +0000">
+    <title lang="zh">Marketplace Asia: Marketplace Asia November 2025</title>
+    <desc>The latest, up-to-date news stories from around the globe.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019070000 +0000" stop="20251019073000 +0000">
+    <title lang="zh">CNN Newsroom (CNNI): Sunday, October 19, 2025 3am ET</title>
+    <desc>Live context and clarity to the day's top stories from around the world.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019073000 +0000" stop="20251019080000 +0000">
+    <title lang="zh">Quest's World of Wonder: Quest's World of Wonder LQWW073</title>
+    <desc>Larger-than-life characters take us on a journey with Richard Quest to experience cities in a way tourists can't.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019080000 +0000" stop="20251019090000 +0000">
+    <title lang="zh">CNN Newsroom (CNNI): Sunday, October 19, 2025 4am ET</title>
+    <desc>Live context and clarity to the day's top stories from around the world.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019090000 +0000" stop="20251019100000 +0000">
+    <title lang="zh">CNN Newsroom (CNNI): Sunday, October 19, 2025 5am ET</title>
+    <desc>Live context and clarity to the day's top stories from around the world.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019100000 +0000" stop="20251019103000 +0000">
+    <title lang="zh">POV: POV: Edo</title>
+    <desc>Walk down the street in Tokyo, and there will be echoes of it everywhere. The subtle, sophisticated chic of iki was born during Japan's Edo period and still defines Tokyo's modern urban pulse. It's seen as a core value in Japanese taste and behavior, from the way people dress to how they express themselves. So what is iki? In its most basic form it's an aesthetic ideal: a subtle, effortless elegan</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019103000 +0000" stop="20251019110000 +0000">
+    <title lang="zh">Inside Africa: Saving Malawi's Mulanje Cedar</title>
+    <desc>Rising dramatically from the plains of southern Malawi, Mount Mulanje is a soaring granite massif known as the "Island in the Sky." It is home to a fragile and unique ecosystem and at its heart stands the Mulanje cedar (Widdringtonia whytei), a tree so rare it's found nowhere else on Earth. Once covering vast slopes of the mountain, the cedar is now critically endangered. Illegal logging, wildfire</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019110000 +0000" stop="20251019120000 +0000">
+    <title lang="zh">CNN This Morning Weekend: Sunday, October 19, 2025 7AM</title>
+    <desc>Start your day with Victor Blackwell bringing you the latest headlines and analysis.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019120000 +0000" stop="20251019130000 +0000">
+    <title lang="zh">Inside Politics With Manu Raju: Sunday, October 19, 2025 8AM</title>
+    <desc>Manu Raju leads an in-depth conversation on the week's most important political storylines, with a diverse set of analysts and news-making interviews.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019130000 +0000" stop="20251019140000 +0000">
+    <title lang="zh">State of the Union with Jake Tapper and Dana Bash: Sunday, October 19, 2025 9AM</title>
+    <desc>Jake Tapper and Dana Bash bring together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019140000 +0000" stop="20251019150000 +0000">
+    <title lang="zh">Fareed Zakaria GPS: Sunday, October 19, 2025 10AM</title>
+    <desc>Fareed Zakaria brings viewers his insights and analysis, and interviews world leaders, artists, scientists, business leaders, global affairs analysts and other cultural observers for the 'Global Public Square.'.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019150000 +0000" stop="20251019160000 +0000">
+    <title lang="zh">Inside Politics With Manu Raju: Sunday, October 19, 2025 8AM</title>
+    <desc>Manu Raju leads an in-depth conversation on the week's most important political storylines, with a diverse set of analysts and news-making interviews.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019160000 +0000" stop="20251019163000 +0000">
+    <title lang="zh">World Sport: Sunday, October 19, 2025 12pm ET</title>
+    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019163000 +0000" stop="20251019170000 +0000">
+    <title lang="zh">Inside Africa: Saving Malawi's Mulanje Cedar</title>
+    <desc>Rising dramatically from the plains of southern Malawi, Mount Mulanje is a soaring granite massif known as the "Island in the Sky." It is home to a fragile and unique ecosystem and at its heart stands the Mulanje cedar (Widdringtonia whytei), a tree so rare it's found nowhere else on Earth. Once covering vast slopes of the mountain, the cedar is now critically endangered. Illegal logging, wildfire</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019170000 +0000" stop="20251019173000 +0000">
+    <title lang="zh">African Voices Changemakers: African Voices Changemakers LAVCM214</title>
+    <desc>African Voices starts a new chapter as we focus on some of the Changemakers who are coming up with innovative ways to have a positive impact on their communities.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019173000 +0000" stop="20251019180000 +0000">
+    <title lang="zh">Blueprint: Blueprint: Mongolia</title>
+    <desc>Many people travel to Mongolia to disconnect, to escape into the vast wilderness and switch off. But for Mongolians, connectivity is everything. The country has 3.5 million people and 5 million active phone numbers. Everywhere you look in the capital city Ulaanbaatar, people are glued to their phones. A vibrant startup scene in the city is driving innovation and diversifying Mongolia's economy bey</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019180000 +0000" stop="20251019190000 +0000">
+    <title lang="zh">CNN Newsroom Sunday: Sunday, October 19, 2025 2PM</title>
+    <desc>Updates of the latest news from around the world.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019190000 +0000" stop="20251019200000 +0000">
+    <title lang="zh">CNN Newsroom Sunday: Sunday, October 19, 2025 3PM</title>
+    <desc>Updates of the latest news from around the world.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019200000 +0000" stop="20251019210000 +0000">
+    <title lang="zh">CNN Newsroom Sunday: Sunday, October 19, 2025 4PM</title>
+    <desc>Updates of the latest news from around the world.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019210000 +0000" stop="20251019213000 +0000">
+    <title lang="zh">World Sport: Sunday, October 19, 2025 5pm ET</title>
+    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019213000 +0000" stop="20251019220000 +0000">
+    <title lang="zh">Showtime: Etihad Arena</title>
+    <desc>Jennifer Lopez performed at Abu Dhabi's Etihad Arena in July, one of dozens of events that take place here every year. Stars like her regularly steal the show. But we are shifting the spotlight to the men and women that bring these performances to life. We go behind the scenes at both the JLo concert and the Arenacross World Championship, seeing firsthand how these shows make it on stage.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019220000 +0000" stop="20251019230000 +0000">
+    <title lang="zh">CNN Newsroom Sunday: Sunday, October 19, 2025 6PM</title>
+    <desc>Updates of the latest news from around the world.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251019230000 +0000" stop="20251020000000 +0000">
+    <title lang="zh">CNN Newsroom Sunday: Sunday, October 19, 2025 7PM</title>
+    <desc>Updates of the latest news from around the world.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="369749" start="20251020000000 +0000" stop="20251021000000 +0000">
+    <title lang="zh">CNN Newsroom Sunday: Sunday, October 19, 2025 8PM</title>
+    <desc>Updates of the latest news from around the world.</desc>
+    <date>2025-10-20</date>
+  </programme>
+<tv date="20251018091348 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403819/20251018.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403819&amp;date=20251018&amp;timezone=None" />
+<tv date="20251018091349 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/412098/20251018.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=412098&amp;date=20251018&amp;timezone=None">
   <channel id="412098">
     <display-name lang="Singapore">BBC World News HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042100424424_78.png" />
   </channel>
-  <programme channel="412098" start="20251017000000 +0000" stop="20251017003000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017003000 +0000" stop="20251017010000 +0000">
-    <title lang="zh">The Media Show</title>
-    <desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017010000 +0000" stop="20251017013000 +0000">
-    <title lang="zh">Newsday</title>
-    <desc>Live from Singapore, the latest international news from the BBC.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017013000 +0000" stop="20251017014500 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017014500 +0000" stop="20251017020000 +0000">
-    <title lang="zh">BBC Sport</title>
-    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017020000 +0000" stop="20251017023000 +0000">
-    <title lang="zh">Newsday</title>
-    <desc>Live from Singapore, the latest international news from the BBC.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017023000 +0000" stop="20251017024500 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017024500 +0000" stop="20251017030000 +0000">
-    <title lang="zh">BBC Sport</title>
-    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017030000 +0000" stop="20251017033000 +0000">
-    <title lang="zh">Newsday</title>
-    <desc>Live from Singapore, the latest international news from the BBC.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017033000 +0000" stop="20251017034500 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017034500 +0000" stop="20251017040000 +0000">
-    <title lang="zh">BBC Sport</title>
-    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017040000 +0000" stop="20251017043000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017043000 +0000" stop="20251017050000 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017050000 +0000" stop="20251017053000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017053000 +0000" stop="20251017060000 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017060000 +0000" stop="20251017063000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017063000 +0000" stop="20251017070000 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017070000 +0000" stop="20251017073000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017073000 +0000" stop="20251017080000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017080000 +0000" stop="20251017083000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017083000 +0000" stop="20251017090000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017090000 +0000" stop="20251017093000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017093000 +0000" stop="20251017100000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017100000 +0000" stop="20251017103000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017103000 +0000" stop="20251017104500 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017104500 +0000" stop="20251017110000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017110000 +0000" stop="20251017113000 +0000">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017113000 +0000" stop="20251017120000 +0000">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017120000 +0000" stop="20251017123000 +0000">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017123000 +0000" stop="20251017130000 +0000">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017130000 +0000" stop="20251017133000 +0000">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017133000 +0000" stop="20251017134500 +0000">
-    <title lang="zh">Business Today - NYSE Opening Bell</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from New York and around the world.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017134500 +0000" stop="20251017140000 +0000">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017140000 +0000" stop="20251017143000 +0000">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017143000 +0000" stop="20251017150000 +0000">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017150000 +0000" stop="20251017153000 +0000">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017153000 +0000" stop="20251017160000 +0000">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017160000 +0000" stop="20251017163000 +0000">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017163000 +0000" stop="20251017170000 +0000">
-    <title lang="zh">Focus on Africa</title>
-    <desc>The biggest African and international stories from the BBC.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017170000 +0000" stop="20251017173000 +0000">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017173000 +0000" stop="20251017180000 +0000">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017180000 +0000" stop="20251017183000 +0000">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017183000 +0000" stop="20251017190000 +0000">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017190000 +0000" stop="20251017193000 +0000">
-    <title lang="zh">The Context</title>
-    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017193000 +0000" stop="20251017200000 +0000">
-    <title lang="zh">The Context</title>
-    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017200000 +0000" stop="20251017203000 +0000">
-    <title lang="zh">The Context USA</title>
-    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017203000 +0000" stop="20251017210000 +0000">
-    <title lang="zh">The Context USA</title>
-    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017210000 +0000" stop="20251017213000 +0000">
-    <title lang="zh">BBC World News America</title>
-    <desc>In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017213000 +0000" stop="20251017220000 +0000">
-    <title lang="zh">Newsnight</title>
-    <desc>Insights and global interviews on the crucial news stories of the day.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017220000 +0000" stop="20251017223000 +0000">
-    <title lang="zh">BBC World News America</title>
-    <desc>In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017223000 +0000" stop="20251017230000 +0000">
-    <title lang="zh">The President's Path</title>
-    <desc>Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017230000 +0000" stop="20251017233000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="412098" start="20251017233000 +0000" stop="20251018000000 +0000">
-    <title lang="zh">Talking Business</title>
-    <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
-    <date>2025-10-17</date>
-  </programme>
   <programme channel="412098" start="20251018000000 +0000" stop="20251018003000 +0000">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
@@ -2691,107 +2486,242 @@
     <desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
     <date>2025-10-18</date>
   </programme>
-  <programme channel="412098" start="20251019000000 +0000" stop="20251020000000 +0000">
+  <programme channel="412098" start="20251019000000 +0000" stop="20251019003000 +0000">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-10-19</date>
   </programme>
-<tv date="20251018022230 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405729/20251017.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405729&amp;date=20251017&amp;timezone=None" />
-<tv date="20251018022230 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410308/20251017.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410308&amp;date=20251017&amp;timezone=None">
+  <programme channel="412098" start="20251019003000 +0000" stop="20251019010000 +0000">
+    <title lang="zh">Brian Cox</title>
+    <desc>Brian Cox, star of Succession, leads a thrilling masterclass for five young actors at a London drama school in this episode of Arts in Motion.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019010000 +0000" stop="20251019013000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019013000 +0000" stop="20251019020000 +0000">
+    <title lang="zh">Peru</title>
+    <desc>Jonny Dymond and a panel of Peruvian politicians and activists debate questions from an audience in Lima.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019020000 +0000" stop="20251019023000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019023000 +0000" stop="20251019030000 +0000">
+    <title lang="zh">Ukrainecast</title>
+    <desc>In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019030000 +0000" stop="20251019033000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019033000 +0000" stop="20251019040000 +0000">
+    <title lang="zh">Global Eye</title>
+    <desc>This week, an investigation into unlicensed opioids that have been driving a major public health crisis in West Africa, and Diyva Arya is in Indian Administered Kashmir.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019040000 +0000" stop="20251019043000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019043000 +0000" stop="20251019050000 +0000">
+    <title lang="zh">Tech Now</title>
+    <desc>Wildfires are having an impact across the world. Alasdair Keane travels to Vancouver to find out how new developments in technology are bringing hope of earlier detection and prevention.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019050000 +0000" stop="20251019053000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019053000 +0000" stop="20251019060000 +0000">
+    <title lang="zh">Talking Business</title>
+    <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019060000 +0000" stop="20251019063000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019063000 +0000" stop="20251019070000 +0000">
+    <title lang="zh">The Travel Show</title>
+    <desc>The Peak District is Britain's first National Park and is about to turn 75 years old. Roma Wells travels through its crags and rolling hills.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019070000 +0000" stop="20251019073000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019073000 +0000" stop="20251019080000 +0000">
+    <title lang="zh">Brian Cox</title>
+    <desc>Brian Cox, star of Succession, leads a thrilling masterclass for five young actors at a London drama school in this episode of Arts in Motion.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019080000 +0000" stop="20251019090000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019090000 +0000" stop="20251019093000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019093000 +0000" stop="20251019100000 +0000">
+    <title lang="zh">Peru</title>
+    <desc>Jonny Dymond and a panel of Peruvian politicians and activists debate questions from an audience in Lima.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019100000 +0000" stop="20251019103000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019103000 +0000" stop="20251019110000 +0000">
+    <title lang="zh">The President's Path</title>
+    <desc>Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019110000 +0000" stop="20251019113000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019113000 +0000" stop="20251019120000 +0000">
+    <title lang="zh">The Media Show</title>
+    <desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019120000 +0000" stop="20251019123000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019123000 +0000" stop="20251019130000 +0000">
+    <title lang="zh">The Travel Show</title>
+    <desc>The Peak District is Britain's first National Park and is about to turn 75 years old. Roma Wells travels through its crags and rolling hills.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019130000 +0000" stop="20251019133000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019133000 +0000" stop="20251019140000 +0000">
+    <title lang="zh">Tech Now</title>
+    <desc>Wildfires are having an impact across the world. Alasdair Keane travels to Vancouver to find out how new developments in technology are bringing hope of earlier detection and prevention.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019140000 +0000" stop="20251019143000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019143000 +0000" stop="20251019150000 +0000">
+    <title lang="zh">Cruising the Turquoise Coast</title>
+    <desc>Arts lover and BBC presenter Nikki Bedi travels to the south west of Turkey sailing along the Turquoise Coast and immersing herself in its culture and nature.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019150000 +0000" stop="20251019153000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019153000 +0000" stop="20251019160000 +0000">
+    <title lang="zh">Global Eye</title>
+    <desc>This week, an investigation into unlicensed opioids that have been driving a major public health crisis in West Africa, and Diyva Arya is in Indian Administered Kashmir.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019160000 +0000" stop="20251019170000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019170000 +0000" stop="20251019173000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019173000 +0000" stop="20251019180000 +0000">
+    <title lang="zh">Talking Business</title>
+    <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019180000 +0000" stop="20251019183000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019183000 +0000" stop="20251019190000 +0000">
+    <title lang="zh">Peru</title>
+    <desc>Jonny Dymond and a panel of Peruvian politicians and activists debate questions from an audience in Lima.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019190000 +0000" stop="20251019193000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019193000 +0000" stop="20251019200000 +0000">
+    <title lang="zh">Brian Cox</title>
+    <desc>Brian Cox, star of Succession, leads a thrilling masterclass for five young actors at a London drama school in this episode of Arts in Motion.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019200000 +0000" stop="20251019210000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019210000 +0000" stop="20251019213000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019213000 +0000" stop="20251019220000 +0000">
+    <title lang="zh">Cruising the Turquoise Coast</title>
+    <desc>Arts lover and BBC presenter Nikki Bedi travels to the south west of Turkey sailing along the Turquoise Coast and immersing herself in its culture and nature.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019220000 +0000" stop="20251019223000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019223000 +0000" stop="20251019230000 +0000">
+    <title lang="zh">AI Decoded</title>
+    <desc>Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019230000 +0000" stop="20251019233000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251019233000 +0000" stop="20251020000000 +0000">
+    <title lang="zh">Global Eye</title>
+    <desc>This week, an investigation into unlicensed opioids that have been driving a major public health crisis in West Africa, and Diyva Arya is in Indian Administered Kashmir.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="412098" start="20251020000000 +0000" stop="20251021000000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-10-20</date>
+  </programme>
+<tv date="20251018091349 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405729/20251018.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405729&amp;date=20251018&amp;timezone=None" />
+<tv date="20251018091350 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410308/20251018.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410308&amp;date=20251018&amp;timezone=None">
   <channel id="410308">
     <display-name lang="Hong Kong">Bloomberg Television</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128173252754492_70" />
   </channel>
-  <programme channel="410308" start="20251017010000 +0000" stop="20251017030000 +0000">
-    <title lang="zh">Bloomberg: The China Show 第1集</title>
-    <desc>Your definitive source for news and analysis on the world's second-biggest economy. Hosted by Yvonne Man and David Ingles.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="410308" start="20251017030000 +0000" stop="20251017040000 +0000">
-    <title lang="zh">Insight With Haslinda Amin</title>
-    <desc>The definitive guide for global news audiences to get the complete picture on the biggest story of the day, through probing interviews and nuanced conversations.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="410308" start="20251017040000 +0000" stop="20251017050000 +0000">
-    <title lang="zh">Bloomberg Horizons Middle East &amp; Africa</title>
-    <desc>Linking the market drivers from overnight in the US and across Asia into the region's trading day, with deep dive analysis of the top business, energy and geopolitical stories shaping decisions.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="410308" start="20251017050000 +0000" stop="20251017060000 +0000">
-    <title lang="zh">Bloomberg Daybreak: Europe</title>
-    <desc>Live from London, we catch you up with overnight markets news from the US and Asia. Plus, we'll tell you what matters for investors in Europe, giving you insight before trading begins.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="410308" start="20251017060000 +0000" stop="20251017080000 +0000">
-    <title lang="zh">Bloomberg: The Opening Trade</title>
-    <desc>Everything you need to know as markets open across Europe. We break down today's biggest stories and speak to guests with skin in the game. Hosted by Anna Edwards, Guy Johnson and Kriti Gupta.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="410308" start="20251017080000 +0000" stop="20251017090000 +0000">
-    <title lang="zh">The Pulse With Francine Lacqua 第1集</title>
-    <desc>Conversations with high profile guests in the beating heart of global business, finance and politics. We go wherever the story is, bringing you exclusive interviews and market-moving scoops.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="410308" start="20251017090000 +0000" stop="20251017100000 +0000">
-    <title lang="zh">Bloomberg Brief</title>
-    <desc>Delivering the market news, data and analysis you need to set your agenda.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="410308" start="20251017100000 +0000" stop="20251017130000 +0000">
-    <title lang="zh">Bloomberg Surveillance</title>
-    <desc>Daily conversations with leaders and decision makers from Wall Street to Washington and beyond. Hosted by Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="410308" start="20251017130000 +0000" stop="20251017150000 +0000">
-    <title lang="zh">Bloomberg Open Interest</title>
-    <desc>Bloomberg Open Interest with Matt Miller and Dani Burger - delivers the market-moving news you need to know to get a jump start on the US trading day.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="410308" start="20251017150000 +0000" stop="20251017160000 +0000">
-    <title lang="zh">Bloomberg Tech</title>
-    <desc>The only daily live technology program with a focus on breaking news, market-moving reporting and analysis of global technology companies and stories.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="410308" start="20251017160000 +0000" stop="20251017170000 +0000">
-    <title lang="zh">Bloomberg Markets: European Close</title>
-    <desc>Analysing the major market moving stories across the day in Europe, hearing from the biggest newsmakers, and showcasing the unrivalled expertise of Bloomberg News.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="410308" start="20251017170000 +0000" stop="20251017180000 +0000">
-    <title lang="zh">Bloomberg: Balance Of Power</title>
-    <desc>Bloomberg Balance of Power focuses on politics and policies on Capitol Hill, in President Trump's administration, the federal agencies and the courts.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="410308" start="20251017180000 +0000" stop="20251017183000 +0000">
-    <title lang="zh">Bloomberg Real Yield</title>
-    <desc>A weekly show on fixed income with the biggest names in the field, covering sovereign and credit markets as investors grapple with fiscal, monetary and financial factors.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="410308" start="20251017183000 +0000" stop="20251017190000 +0000">
-    <title lang="zh">Bloomberg Markets</title>
-    <desc>Bloomberg Markets is focused on bringing you the most important global business and breaking markets news and information as it happens.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="410308" start="20251017190000 +0000" stop="20251017213000 +0000">
-    <title lang="zh">Bloomberg Markets: The Close</title>
-    <desc>Romaine Bostick, Alix Steel and Scarlet Fu break down the day's top stories and trading action around the close.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="410308" start="20251017213000 +0000" stop="20251017220000 +0000">
-    <title lang="zh">Bloomberg Markets: What'd You Miss?</title>
-    <desc>Bloomberg TV's flagship markets programme, providing key insights, analysis and context at the market close. It's a highly intelligent look at the markets that misses nothing.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="410308" start="20251017220000 +0000" stop="20251017230000 +0000">
-    <title lang="zh">Bloomberg Technology</title>
-    <desc>The only daily live technology program with a focus on breaking news, market-moving reporting and analysis of global technology companies and stories.</desc>
-    <date>2025-10-17</date>
-  </programme>
-  <programme channel="410308" start="20251017230000 +0000" stop="20251018000000 +0000">
-    <title lang="zh">Bloomberg Wall Street Week</title>
-    <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
-    <date>2025-10-17</date>
-  </programme>
   <programme channel="410308" start="20251018000000 +0000" stop="20251018003000 +0000">
     <title lang="zh">Leaders With Lacqua</title>
     <desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
@@ -3007,10 +2937,210 @@
     <desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
     <date>2025-10-18</date>
   </programme>
-  <programme channel="410308" start="20251019000000 +0000" stop="20251020000000 +0000">
+  <programme channel="410308" start="20251019000000 +0000" stop="20251019003000 +0000">
     <title lang="zh">Bloomberg Studio 1.0</title>
     <desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
     <date>2025-10-19</date>
   </programme>
-<!-- generated at 2025-10-17 18:22:30 UTC -->
+  <programme channel="410308" start="20251019003000 +0000" stop="20251019010000 +0000">
+    <title lang="zh">Leaders With Lacqua</title>
+    <desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019010000 +0000" stop="20251019013000 +0000">
+    <title lang="zh">Leaders With Lacqua</title>
+    <desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019013000 +0000" stop="20251019020000 +0000">
+    <title lang="zh">Leaders With Lacqua</title>
+    <desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019020000 +0000" stop="20251019023000 +0000">
+    <title lang="zh">Bloomberg Wealth With David Rubenstein</title>
+    <desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019023000 +0000" stop="20251019030000 +0000">
+    <title lang="zh">Bloomberg Wealth With David Rubenstein</title>
+    <desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019030000 +0000" stop="20251019033000 +0000">
+    <title lang="zh">Bloomberg Studio 1.0</title>
+    <desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019033000 +0000" stop="20251019040000 +0000">
+    <title lang="zh">Bloomberg Studio 1.0</title>
+    <desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019040000 +0000" stop="20251019043000 +0000">
+    <title lang="zh">Athlete | Empire: Alex Rodriguez</title>
+    <desc>Former baseball pro Alex Rodriguez quietly built a real estate empire over 20 years. Now, after retiring from baseball, he's accelerating his transformation from former athlete to investor and owner.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019043000 +0000" stop="20251019050000 +0000">
+    <title lang="zh">Bloomberg Studio 1.0</title>
+    <desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019050000 +0000" stop="20251019060000 +0000">
+    <title lang="zh">Bloomberg Wall Street Week</title>
+    <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019060000 +0000" stop="20251019063000 +0000">
+    <title lang="zh">Leaders With Lacqua</title>
+    <desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019063000 +0000" stop="20251019070000 +0000">
+    <title lang="zh">Worldwide Business With Kathy Ireland</title>
+    <desc>Kathy Ireland, founder and CEO of her own billion-dollar brand, meets corporate leaders who offer the latest in corporate advancements, expert advice and brand strategies.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019070000 +0000" stop="20251019073000 +0000">
+    <title lang="zh">Athlete | Empire: Alex Rodriguez</title>
+    <desc>Former baseball pro Alex Rodriguez quietly built a real estate empire over 20 years. Now, after retiring from baseball, he's accelerating his transformation from former athlete to investor and owner.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019073000 +0000" stop="20251019080000 +0000">
+    <title lang="zh">Bloomberg Studio 1.0</title>
+    <desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019080000 +0000" stop="20251019083000 +0000">
+    <title lang="zh">Bloomberg Studio 1.0</title>
+    <desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019083000 +0000" stop="20251019090000 +0000">
+    <title lang="zh">Bloomberg Studio 1.0</title>
+    <desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019090000 +0000" stop="20251019100000 +0000">
+    <title lang="zh">Bloomberg Wall Street Week</title>
+    <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019100000 +0000" stop="20251019103000 +0000">
+    <title lang="zh">Leaders With Lacqua</title>
+    <desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019103000 +0000" stop="20251019110000 +0000">
+    <title lang="zh">Bloomberg Wealth With David Rubenstein</title>
+    <desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019110000 +0000" stop="20251019113000 +0000">
+    <title lang="zh">Bloomberg Green</title>
+    <desc>Climate change is the defining story of our time. Bloomberg Green brings you the news, science, and data to understand it in full. Hosted by Kailey Leinz.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019113000 +0000" stop="20251019120000 +0000">
+    <title lang="zh">Leaders With Lacqua</title>
+    <desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019120000 +0000" stop="20251019123000 +0000">
+    <title lang="zh">Athlete | Empire: Alex Rodriguez</title>
+    <desc>Former baseball pro Alex Rodriguez quietly built a real estate empire over 20 years. Now, after retiring from baseball, he's accelerating his transformation from former athlete to investor and owner.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019123000 +0000" stop="20251019130000 +0000">
+    <title lang="zh">Bloomberg Studio 1.0</title>
+    <desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019130000 +0000" stop="20251019133000 +0000">
+    <title lang="zh">Leaders With Lacqua</title>
+    <desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019133000 +0000" stop="20251019140000 +0000">
+    <title lang="zh">Leaders With Lacqua</title>
+    <desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019140000 +0000" stop="20251019150000 +0000">
+    <title lang="zh">Bloomberg Wall Street Week</title>
+    <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019150000 +0000" stop="20251019153000 +0000">
+    <title lang="zh">The David Rubenstein Show</title>
+    <desc>Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019153000 +0000" stop="20251019160000 +0000">
+    <title lang="zh">Bloomberg Green</title>
+    <desc>Climate change is the defining story of our time. Bloomberg Green brings you the news, science, and data to understand it in full. Hosted by Kailey Leinz.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019160000 +0000" stop="20251019163000 +0000">
+    <title lang="zh">Bloomberg Wealth With David Rubenstein</title>
+    <desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019163000 +0000" stop="20251019170000 +0000">
+    <title lang="zh">Leaders With Lacqua</title>
+    <desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019170000 +0000" stop="20251019180000 +0000">
+    <title lang="zh">Bloomberg Wall Street Week</title>
+    <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019180000 +0000" stop="20251019183000 +0000">
+    <title lang="zh">Leaders With Lacqua</title>
+    <desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019183000 +0000" stop="20251019190000 +0000">
+    <title lang="zh">Leaders With Lacqua</title>
+    <desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019190000 +0000" stop="20251019193000 +0000">
+    <title lang="zh">The David Rubenstein Show</title>
+    <desc>Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019193000 +0000" stop="20251019200000 +0000">
+    <title lang="zh">Bloomberg Studio 1.0</title>
+    <desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019200000 +0000" stop="20251019203000 +0000">
+    <title lang="zh">Leaders With Lacqua</title>
+    <desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019203000 +0000" stop="20251019210000 +0000">
+    <title lang="zh">Bloomberg Wealth With David Rubenstein</title>
+    <desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019210000 +0000" stop="20251019220000 +0000">
+    <title lang="zh">Bloomberg Wall Street Week</title>
+    <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019220000 +0000" stop="20251019230000 +0000">
+    <title lang="zh">Bloomberg Daybreak: Australia</title>
+    <desc>From New York and Sydney, the latest news impacting markets, business and finance around the world.</desc>
+    <date>2025-10-19</date>
+  </programme>
+  <programme channel="410308" start="20251019230000 +0000" stop="20251020000000 +0000">
+    <title lang="zh">Bloomberg Daybreak: Asia</title>
+    <desc>From New York and Hong Kong, the essential stories from the close of the US markets to the open of trading across Asia.</desc>
+    <date>2025-10-19</date>
+  </programme>
+<!-- generated at 2025-10-18 01:13:50 UTC -->
 </tv>
