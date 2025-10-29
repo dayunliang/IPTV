@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="1984" tvg-name="上海新闻综合" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海",上视新闻频道
 http://192.168.12.254:58888/udp/233.18.204.57:5140
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
-http://192.168.12.254:58888/udp/239.45.3.146:5140
+#http://192.168.12.254:58888/udp/239.45.3.146:5140
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视4K
 http://192.168.12.254:58888/udp/233.18.204.224:5140
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",上海都市频道
@@ -10,7 +10,7 @@ http://192.168.12.254:58888/udp/239.45.3.236:5140
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实人文"" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实
 http://192.168.12.254:58888/udp/239.45.3.212:5140
 #EXTINF:-1 tvg-id="1986" tvg-name="上视东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="上海",东方影视
-http://192.168.12.254:58888/udp/239.45.3.237:5140
+http://192.168.12.254:58888/udp/233.18.204.55:5140
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海",第一财经
 http://192.168.12.254:58888/udp/239.45.3.211:5140
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育频道
@@ -23,7 +23,7 @@ http://192.168.12.254:58888/udp/239.45.1.127:5140
 http://192.168.12.254:58888/udp/239.45.3.136:5140
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场
 http://192.168.12.254:58888/udp/239.45.3.196:5140
-#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",全纪实
+#EXTINF:-1 tvg-id="1976" tvg-name="乐游" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",乐游
 http://192.168.12.254:58888/udp/239.45.3.135:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="上海",动漫秀场
 http://192.168.12.254:58888/udp/239.45.3.134:5140
@@ -31,18 +31,20 @@ http://192.168.12.254:58888/udp/239.45.3.134:5140
 http://192.168.12.254:58888/udp/239.45.3.132:5140
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
 http://192.168.12.254:58888/udp/239.45.3.131:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/MAX极速汽车.png" group-title="上海",MAX极速汽车
-http://192.168.12.254:58888/udp/239.45.3.49:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/上海教育.png" group-title="上海",上海教育
 http://192.168.12.254:58888/udp/239.45.0.13:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="上海",东方财经HD
 http://192.168.12.254:58888/udp/239.45.0.17:5140#http://192.168.12.254:58888/udp/239.45.1.119:5140
 #EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海",七彩戏剧HD
-http://192.168.12.254:58888/udp/239.45.0.16:5140#http://192.168.12.254:58888/udp/239.45.3.61:5140
+http://192.168.12.254:58888/udp/239.45.0.16:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="上海",法治天地
 http://192.168.12.254:58888/udp/239.45.1.46:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dayunliang/IPTV/main/JDTV.jpeg" group-title="上海",嘉定频道
+#EXTINF:-1 tvg-id="" tvg-name="嘉定频道" tvg-logo="https://raw.githubusercontent.com/dayunliang/IPTV/main/JDTV.jpeg" group-title="上海",嘉定频道
 http://192.168.12.254:58888/udp/239.45.3.185:5140
+#EXTINF:-1 tvg-id="" tvg-name="浦东频道" tvg-logo="https://raw.githubusercontent.com/dayunliang/IPTV/main/JDTV.jpeg" group-title="上海",浦东频道
+http://192.168.12.254:58888/udp/239.45.3.185:5140
+#EXTINF:-1 tvg-id="" tvg-name="崇明频道" tvg-logo="https://raw.githubusercontent.com/dayunliang/IPTV/main/JDTV.jpeg" group-title="上海",崇明频道
+http://192.168.12.254:58888/udp/239.45.1.54:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="上海",金色学堂
 http://192.168.12.254:58888/udp/239.45.1.118:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/百事通.png" group-title="上海",百事通超级体育
@@ -57,13 +59,12 @@ http://192.168.12.254:58888/udp/239.45.1.1:5140
 http://192.168.12.254:58888/udp/239.45.0.14:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/dayunliang/IPTV/main/Covid-19.jpeg" group-title="上海",新冠病毒
 http://192.168.12.254:58888/udp/239.45.3.235:5140
-
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓
 http://192.168.12.254:58888/udp/239.45.3.12:5140
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",茶频道
 http://192.168.12.254:58888/udp/239.45.3.18:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/足球频道.png" group-title="地方",足球频道
-http://192.168.12.254:58888/udp/239.45.3.22:5140
+#EXTINF:-1 tvg-id="" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/足球频道.png" group-title="地方",风云足球
+http://192.168.12.254:58888/udp/239.45.0.43:5140:5140
 #EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",财富天下
 http://192.168.12.254:58888/udp/239.45.0.7:5140
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实
@@ -121,7 +122,9 @@ http://192.168.12.254:58888/udp/239.45.1.47:5140
 http://192.168.12.254:58888/udp/239.45.3.50:5140
 
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
-http://192.168.12.254:58888/udp/239.45.3.178:5140
+#http://192.168.12.254:58888/udp/239.45.3.178:5140
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
+http://192.168.12.254:58888/udp/233.18.204.229:5140
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://192.168.12.254:58888/udp/239.45.3.177:5140
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
