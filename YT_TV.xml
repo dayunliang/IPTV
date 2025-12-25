@@ -1,324 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><tv>
-<tv date="20251225005209 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410355/20251224.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410355&amp;date=20251224&amp;timezone=None">
+<tv date="20251225090536 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410355/20251225.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410355&amp;date=20251225&amp;timezone=None">
   <channel id="410355">
     <display-name lang="Hong Kong">鳳凰衛視資訊台</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/29/20250129074347363304_81" />
   </channel>
-  <programme channel="410355" start="20251224000000 +0000" stop="20251224005700 +0000">
-    <title lang="zh">鳳凰早班車</title>
-    <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224005700 +0000" stop="20251224010000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224010000 +0000" stop="20251224012700 +0000">
-    <title lang="zh">鳳凰正點播報 0900</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224012700 +0000" stop="20251224013000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224013000 +0000" stop="20251224020000 +0000">
-    <title lang="zh">金石財經</title>
-    <desc>《金石財經》精確對準匯股走勢, 鎖定最新金融行情, 結算每日熱門財經話題, 即日即時評論各項消息。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224020000 +0000" stop="20251224025700 +0000">
-    <title lang="zh">鳳凰正點播報 1000</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224025700 +0000" stop="20251224030000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224030000 +0000" stop="20251224032700 +0000">
-    <title lang="zh">鳳凰正點播報 1100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224032700 +0000" stop="20251224033000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224033000 +0000" stop="20251224040000 +0000">
-    <title lang="zh">總編輯時間</title>
-    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224040000 +0000" stop="20251224045500 +0000">
-    <title lang="zh">鳳凰午間專列</title>
-    <desc>《鳳凰午間專列》: 鳳凰中午的強檔新聞節目, 採取泛中華的報道態度, 關注中國內地的新聞, 也關注香港、台灣以及國際的新聞, 視野更廣闊, 話語空間亦突顯其獨特之處。節目簡潔、實事求事、快人一步, 將新聞帶給正在享用午餐的您, 讓您在休息時段毋須讀報而能輕鬆地接收全球最新出爐的新聞資訊。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224045500 +0000" stop="20251224050000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224050000 +0000" stop="20251224052700 +0000">
-    <title lang="zh">鳳凰正點播報 1300</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224052700 +0000" stop="20251224053000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224053000 +0000" stop="20251224060000 +0000">
-    <title lang="zh">金石財經</title>
-    <desc>《金石財經》精確對準匯股走勢, 鎖定最新金融行情, 結算每日熱門財經話題, 即日即時評論各項消息。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224060000 +0000" stop="20251224062700 +0000">
-    <title lang="zh">鳳凰正點播報 1400</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224062700 +0000" stop="20251224063000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224063000 +0000" stop="20251224070000 +0000">
-    <title lang="zh">總編輯時間</title>
-    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224070000 +0000" stop="20251224075700 +0000">
-    <title lang="zh">鳳凰正點播報 1500</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224075700 +0000" stop="20251224080000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224080000 +0000" stop="20251224085700 +0000">
-    <title lang="zh">鳳凰正點播報 1600</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224085700 +0000" stop="20251224090000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224090000 +0000" stop="20251224092700 +0000">
-    <title lang="zh">鳳凰正點播報 1700</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224092700 +0000" stop="20251224093000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224093000 +0000" stop="20251224100000 +0000">
-    <title lang="zh">金石財經</title>
-    <desc>《金石財經》精確對準匯股走勢, 鎖定最新金融行情, 結算每日熱門財經話題, 即日即時評論各項消息。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224100000 +0000" stop="20251224102700 +0000">
-    <title lang="zh">鳳凰焦點新聞 1800</title>
-    <desc>《鳳凰焦點新聞》: 聚焦重大時政議題, 重大社會事件和新聞熱點, 原創性挖掘更多時事與背景, 分析梳理新聞的前因後果, 人物命運, 呈現權威觀點。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224102700 +0000" stop="20251224103000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224103000 +0000" stop="20251224110000 +0000">
-    <title lang="zh">新聞今日談</title>
-    <desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224110000 +0000" stop="20251224115700 +0000">
-    <title lang="zh">華聞大直播</title>
-    <desc>《華聞大直播》: 報導兩岸三地和大中華地區的重大事件, 以及與您生活息息相關的最新資訊；第一時間直擊報導新聞時間, 關注時事和社會民生。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224115700 +0000" stop="20251224120000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224120000 +0000" stop="20251224122700 +0000">
-    <title lang="zh">鳳凰焦點新聞 2000</title>
-    <desc>《鳳凰焦點新聞》: 聚焦重大時政議題, 重大社會事件和新聞熱點, 原創性挖掘更多時事與背景, 分析梳理新聞的前因後果, 人物命運, 呈現權威觀點。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224122700 +0000" stop="20251224123000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224123000 +0000" stop="20251224130000 +0000">
-    <title lang="zh">鳳凰財經日報</title>
-    <desc>《鳳凰財經日報》每日精選當天最矚目的經濟數據, 世界各地的政經新聞, 並廣邀各方專家進行連線點評, 提供獨到精闢的見解。亦會向觀眾提供全方位的新聞視覺, 率先把握時局帶來的機遇。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224130000 +0000" stop="20251224135500 +0000">
-    <title lang="zh">時事直通車</title>
-    <desc>《時事直通車》: 節目專門網羅國際重大事件和其他集錦新聞、聚焦大陸、台灣及香港的要聞時事。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224135500 +0000" stop="20251224140000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224140000 +0000" stop="20251224143000 +0000">
-    <title lang="zh">總編輯時間</title>
-    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224143000 +0000" stop="20251224150000 +0000">
-    <title lang="zh">新聞今日談</title>
-    <desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224150000 +0000" stop="20251224152700 +0000">
-    <title lang="zh">鳳凰焦點新聞 2300</title>
-    <desc>《鳳凰焦點新聞》: 聚焦重大時政議題, 重大社會事件和新聞熱點, 原創性挖掘更多時事與背景, 分析梳理新聞的前因後果, 人物命運, 呈現權威觀點。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224152700 +0000" stop="20251224153000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224153000 +0000" stop="20251224160000 +0000">
-    <title lang="zh">總編輯時間</title>
-    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224160000 +0000" stop="20251224165700 +0000">
-    <title lang="zh">鳳凰洲際快車</title>
-    <desc>《鳳凰洲際快車》是鳳凰衛視子夜時段的新聞資訊節目, 為您帶來兩岸三地, 以及國際社會的大小新聞、最新動態和局勢發展。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224165700 +0000" stop="20251224170000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224170000 +0000" stop="20251224172700 +0000">
-    <title lang="zh">鳳凰正點播報 0100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224172700 +0000" stop="20251224173000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224173000 +0000" stop="20251224180000 +0000">
-    <title lang="zh">金石財經</title>
-    <desc>《金石財經》精確對準匯股走勢, 鎖定最新金融行情, 結算每日熱門財經話題, 即日即時評論各項消息。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224180000 +0000" stop="20251224182700 +0000">
-    <title lang="zh">鳳凰正點播報 0100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224182700 +0000" stop="20251224183000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224183000 +0000" stop="20251224190000 +0000">
-    <title lang="zh">鳳凰財經日報</title>
-    <desc>《鳳凰財經日報》每日精選當天最矚目的經濟數據, 世界各地的政經新聞, 並廣邀各方專家進行連線點評, 提供獨到精闢的見解。亦會向觀眾提供全方位的新聞視覺, 率先把握時局帶來的機遇。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224190000 +0000" stop="20251224192700 +0000">
-    <title lang="zh">鳳凰正點播報 0100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224192700 +0000" stop="20251224193000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224193000 +0000" stop="20251224200000 +0000">
-    <title lang="zh">總編輯時間</title>
-    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224200000 +0000" stop="20251224202700 +0000">
-    <title lang="zh">鳳凰正點播報 0100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224202700 +0000" stop="20251224203000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224203000 +0000" stop="20251224205700 +0000">
-    <title lang="zh">鳳凰正點播報 0100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224205700 +0000" stop="20251224210000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224210000 +0000" stop="20251224212700 +0000">
-    <title lang="zh">鳳凰正點播報 0100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224212700 +0000" stop="20251224213000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224213000 +0000" stop="20251224220000 +0000">
-    <title lang="zh">新聞今日談</title>
-    <desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224220000 +0000" stop="20251224222700 +0000">
-    <title lang="zh">鳳凰正點播報 0100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224222700 +0000" stop="20251224223000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224223000 +0000" stop="20251224230000 +0000">
-    <title lang="zh">鳳凰聚焦</title>
-    <desc>《鳳凰聚焦》: 關註重大時政選題, 重大社會事件和新聞熱點。原創性挖掘更多事實與背景。分析梳理新聞的前期後果, 人物命運, 呈現權威觀點。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224230000 +0000" stop="20251224235700 +0000">
-    <title lang="zh">鳳凰早班車</title>
-    <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410355" start="20251224235700 +0000" stop="20251225000000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
   <programme channel="410355" start="20251225000000 +0000" stop="20251225005700 +0000">
     <title lang="zh">鳳凰早班車</title>
     <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
@@ -634,136 +319,331 @@
     <desc />
     <date>2025-12-25</date>
   </programme>
-  <programme channel="410355" start="20251226000000 +0000" stop="20251227000000 +0000">
+  <programme channel="410355" start="20251226000000 +0000" stop="20251226005700 +0000">
     <title lang="zh">鳳凰早班車</title>
     <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
     <date>2025-12-26</date>
   </programme>
-<tv date="20251225020838 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20251224.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20251224&amp;timezone=None">
+  <programme channel="410355" start="20251226005700 +0000" stop="20251226010000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226010000 +0000" stop="20251226012700 +0000">
+    <title lang="zh">鳳凰正點播報 0900</title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226012700 +0000" stop="20251226013000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226013000 +0000" stop="20251226020000 +0000">
+    <title lang="zh">金石財經</title>
+    <desc>《金石財經》精確對準匯股走勢, 鎖定最新金融行情, 結算每日熱門財經話題, 即日即時評論各項消息。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226020000 +0000" stop="20251226025700 +0000">
+    <title lang="zh">鳳凰正點播報 1000</title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226025700 +0000" stop="20251226030000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226030000 +0000" stop="20251226032700 +0000">
+    <title lang="zh">鳳凰正點播報 1100</title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226032700 +0000" stop="20251226033000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226033000 +0000" stop="20251226040000 +0000">
+    <title lang="zh">總編輯時間</title>
+    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226040000 +0000" stop="20251226045500 +0000">
+    <title lang="zh">鳳凰午間專列</title>
+    <desc>《鳳凰午間專列》: 鳳凰中午的強檔新聞節目, 採取泛中華的報道態度, 關注中國內地的新聞, 也關注香港、台灣以及國際的新聞, 視野更廣闊, 話語空間亦突顯其獨特之處。節目簡潔、實事求事、快人一步, 將新聞帶給正在享用午餐的您, 讓您在休息時段毋須讀報而能輕鬆地接收全球最新出爐的新聞資訊。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226045500 +0000" stop="20251226050000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226050000 +0000" stop="20251226052700 +0000">
+    <title lang="zh">鳳凰正點播報 1300</title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226052700 +0000" stop="20251226053000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226053000 +0000" stop="20251226060000 +0000">
+    <title lang="zh">金石財經</title>
+    <desc>《金石財經》精確對準匯股走勢, 鎖定最新金融行情, 結算每日熱門財經話題, 即日即時評論各項消息。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226060000 +0000" stop="20251226062700 +0000">
+    <title lang="zh">鳳凰正點播報 1400</title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226062700 +0000" stop="20251226063000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226063000 +0000" stop="20251226070000 +0000">
+    <title lang="zh">總編輯時間</title>
+    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226070000 +0000" stop="20251226075700 +0000">
+    <title lang="zh">鳳凰正點播報 1500</title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226075700 +0000" stop="20251226080000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226080000 +0000" stop="20251226085700 +0000">
+    <title lang="zh">鳳凰正點播報 1600</title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226085700 +0000" stop="20251226090000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226090000 +0000" stop="20251226092700 +0000">
+    <title lang="zh">鳳凰正點播報 1700</title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226092700 +0000" stop="20251226093000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226093000 +0000" stop="20251226100000 +0000">
+    <title lang="zh">金石財經</title>
+    <desc>《金石財經》精確對準匯股走勢, 鎖定最新金融行情, 結算每日熱門財經話題, 即日即時評論各項消息。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226100000 +0000" stop="20251226102700 +0000">
+    <title lang="zh">鳳凰焦點新聞 1800</title>
+    <desc>《鳳凰焦點新聞》: 聚焦重大時政議題, 重大社會事件和新聞熱點, 原創性挖掘更多時事與背景, 分析梳理新聞的前因後果, 人物命運, 呈現權威觀點。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226102700 +0000" stop="20251226103000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226103000 +0000" stop="20251226110000 +0000">
+    <title lang="zh">新聞今日談</title>
+    <desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226110000 +0000" stop="20251226115700 +0000">
+    <title lang="zh">華聞大直播</title>
+    <desc>《華聞大直播》: 報導兩岸三地和大中華地區的重大事件, 以及與您生活息息相關的最新資訊；第一時間直擊報導新聞時間, 關注時事和社會民生。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226115700 +0000" stop="20251226120000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226120000 +0000" stop="20251226122700 +0000">
+    <title lang="zh">鳳凰焦點新聞 2000</title>
+    <desc>《鳳凰焦點新聞》: 聚焦重大時政議題, 重大社會事件和新聞熱點, 原創性挖掘更多時事與背景, 分析梳理新聞的前因後果, 人物命運, 呈現權威觀點。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226122700 +0000" stop="20251226123000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226123000 +0000" stop="20251226130000 +0000">
+    <title lang="zh">鳳凰財經日報</title>
+    <desc>《鳳凰財經日報》每日精選當天最矚目的經濟數據, 世界各地的政經新聞, 並廣邀各方專家進行連線點評, 提供獨到精闢的見解。亦會向觀眾提供全方位的新聞視覺, 率先把握時局帶來的機遇。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226130000 +0000" stop="20251226135500 +0000">
+    <title lang="zh">時事直通車</title>
+    <desc>《時事直通車》: 節目專門網羅國際重大事件和其他集錦新聞、聚焦大陸、台灣及香港的要聞時事。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226135500 +0000" stop="20251226140000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226140000 +0000" stop="20251226143000 +0000">
+    <title lang="zh">總編輯時間</title>
+    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226143000 +0000" stop="20251226150000 +0000">
+    <title lang="zh">新聞今日談</title>
+    <desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226150000 +0000" stop="20251226152700 +0000">
+    <title lang="zh">鳳凰焦點新聞 2300</title>
+    <desc>《鳳凰焦點新聞》: 聚焦重大時政議題, 重大社會事件和新聞熱點, 原創性挖掘更多時事與背景, 分析梳理新聞的前因後果, 人物命運, 呈現權威觀點。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226152700 +0000" stop="20251226153000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226153000 +0000" stop="20251226160000 +0000">
+    <title lang="zh">總編輯時間</title>
+    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226160000 +0000" stop="20251226165700 +0000">
+    <title lang="zh">鳳凰洲際快車</title>
+    <desc>《鳳凰洲際快車》是鳳凰衛視子夜時段的新聞資訊節目, 為您帶來兩岸三地, 以及國際社會的大小新聞、最新動態和局勢發展。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226165700 +0000" stop="20251226170000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226170000 +0000" stop="20251226172700 +0000">
+    <title lang="zh">鳳凰正點播報 0100</title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226172700 +0000" stop="20251226173000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226173000 +0000" stop="20251226180000 +0000">
+    <title lang="zh">金石財經</title>
+    <desc>《金石財經》精確對準匯股走勢, 鎖定最新金融行情, 結算每日熱門財經話題, 即日即時評論各項消息。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226180000 +0000" stop="20251226182700 +0000">
+    <title lang="zh">鳳凰正點播報 0100</title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226182700 +0000" stop="20251226183000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226183000 +0000" stop="20251226190000 +0000">
+    <title lang="zh">鳳凰財經日報</title>
+    <desc>《鳳凰財經日報》每日精選當天最矚目的經濟數據, 世界各地的政經新聞, 並廣邀各方專家進行連線點評, 提供獨到精闢的見解。亦會向觀眾提供全方位的新聞視覺, 率先把握時局帶來的機遇。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226190000 +0000" stop="20251226192700 +0000">
+    <title lang="zh">鳳凰正點播報 0100</title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226192700 +0000" stop="20251226193000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226193000 +0000" stop="20251226200000 +0000">
+    <title lang="zh">總編輯時間</title>
+    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226200000 +0000" stop="20251226202700 +0000">
+    <title lang="zh">鳳凰正點播報 0100</title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226202700 +0000" stop="20251226203000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226203000 +0000" stop="20251226205700 +0000">
+    <title lang="zh">鳳凰正點播報 0100</title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226205700 +0000" stop="20251226210000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226210000 +0000" stop="20251226212700 +0000">
+    <title lang="zh">鳳凰正點播報 0100</title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226212700 +0000" stop="20251226213000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226213000 +0000" stop="20251226220000 +0000">
+    <title lang="zh">新聞今日談</title>
+    <desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226220000 +0000" stop="20251226222700 +0000">
+    <title lang="zh">鳳凰正點播報 0100</title>
+    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226222700 +0000" stop="20251226223000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226223000 +0000" stop="20251226230000 +0000">
+    <title lang="zh">鳳凰聚焦</title>
+    <desc>《鳳凰聚焦》: 關註重大時政選題, 重大社會事件和新聞熱點。原創性挖掘更多事實與背景。分析梳理新聞的前期後果, 人物命運, 呈現權威觀點。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226230000 +0000" stop="20251226235500 +0000">
+    <title lang="zh">鳳凰早班車</title>
+    <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251226235500 +0000" stop="20251227000000 +0000">
+    <title lang="zh">鳳凰氣象站</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410355" start="20251227000000 +0000" stop="20251228000000 +0000">
+    <title lang="zh">鳳凰早班車</title>
+    <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
+    <date>2025-12-27</date>
+  </programme>
+<tv date="20251225082502 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20251225.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20251225&amp;timezone=None">
   <channel id="370177">
     <display-name lang="Taiwan">中天新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110909545808_36.png" />
   </channel>
-  <programme channel="370177" start="20251224000000 +0000" stop="20251224010000 +0000">
-    <title lang="zh">08中天晨報</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370177" start="20251224010000 +0000" stop="20251224020000 +0000">
-    <title lang="zh">09中天新聞</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370177" start="20251224020000 +0000" stop="20251224030000 +0000">
-    <title lang="zh">10中天新聞</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370177" start="20251224030000 +0000" stop="20251224040000 +0000">
-    <title lang="zh">11中天新聞</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370177" start="20251224040000 +0000" stop="20251224050000 +0000">
-    <title lang="zh">12午間新聞</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370177" start="20251224050000 +0000" stop="20251224060000 +0000">
-    <title lang="zh">13午間新聞</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370177" start="20251224060000 +0000" stop="20251224070000 +0000">
-    <title lang="zh">14大新聞大爆卦</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370177" start="20251224070000 +0000" stop="20251224080000 +0000">
-    <title lang="zh">15大新聞大爆卦</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370177" start="20251224080000 +0000" stop="20251224090000 +0000">
-    <title lang="zh">16中天新聞</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370177" start="20251224090000 +0000" stop="20251224100000 +0000">
-    <title lang="zh">17中天新聞</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370177" start="20251224100000 +0000" stop="20251224110000 +0000">
-    <title lang="zh">18中天辣晚報</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370177" start="20251224110000 +0000" stop="20251224120000 +0000">
-    <title lang="zh">19中天辣晚報</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370177" start="20251224120000 +0000" stop="20251224130000 +0000">
-    <title lang="zh">20頭條開講</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370177" start="20251224130000 +0000" stop="20251224140000 +0000">
-    <title lang="zh">21頭條開講</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370177" start="20251224140000 +0000" stop="20251224150000 +0000">
-    <title lang="zh">22中天SUPER夜線</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370177" start="20251224150000 +0000" stop="20251224160000 +0000">
-    <title lang="zh">23全球大視野</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370177" start="20251224160000 +0000" stop="20251224170000 +0000">
-    <title lang="zh">18中天辣晚報</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370177" start="20251224170000 +0000" stop="20251224180000 +0000">
-    <title lang="zh">19中天辣晚報</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370177" start="20251224180000 +0000" stop="20251224190000 +0000">
-    <title lang="zh">20頭條開講</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370177" start="20251224190000 +0000" stop="20251224200000 +0000">
-    <title lang="zh">21頭條開講</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370177" start="20251224200000 +0000" stop="20251224210000 +0000">
-    <title lang="zh">22中天SUPER夜線</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370177" start="20251224210000 +0000" stop="20251224220000 +0000">
-    <title lang="zh">23全球大視野</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370177" start="20251224220000 +0000" stop="20251224230000 +0000">
-    <title lang="zh">06中天晨報</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370177" start="20251224230000 +0000" stop="20251225000000 +0000">
-    <title lang="zh">07中天晨報</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
   <programme channel="370177" start="20251225000000 +0000" stop="20251225010000 +0000">
     <title lang="zh">08中天晨報</title>
     <desc />
@@ -884,137 +764,137 @@
     <desc />
     <date>2025-12-25</date>
   </programme>
-  <programme channel="370177" start="20251226000000 +0000" stop="20251227000000 +0000">
+  <programme channel="370177" start="20251226000000 +0000" stop="20251226010000 +0000">
     <title lang="zh">08中天晨報</title>
     <desc />
     <date>2025-12-26</date>
   </programme>
-<tv date="20251225022726 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20251224.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20251224&amp;timezone=None" />
-<tv date="20251225021109 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370183/20251224.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370183&amp;date=20251224&amp;timezone=None">
+  <programme channel="370177" start="20251226010000 +0000" stop="20251226020000 +0000">
+    <title lang="zh">09中天新聞</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370177" start="20251226020000 +0000" stop="20251226030000 +0000">
+    <title lang="zh">10中天新聞</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370177" start="20251226030000 +0000" stop="20251226040000 +0000">
+    <title lang="zh">11中天新聞</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370177" start="20251226040000 +0000" stop="20251226050000 +0000">
+    <title lang="zh">12午間新聞</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370177" start="20251226050000 +0000" stop="20251226060000 +0000">
+    <title lang="zh">13午間新聞</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370177" start="20251226060000 +0000" stop="20251226070000 +0000">
+    <title lang="zh">14大新聞大爆卦</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370177" start="20251226070000 +0000" stop="20251226080000 +0000">
+    <title lang="zh">15大新聞大爆卦</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370177" start="20251226080000 +0000" stop="20251226090000 +0000">
+    <title lang="zh">16中天新聞</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370177" start="20251226090000 +0000" stop="20251226100000 +0000">
+    <title lang="zh">17中天新聞</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370177" start="20251226100000 +0000" stop="20251226110000 +0000">
+    <title lang="zh">18中天辣晚報</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370177" start="20251226110000 +0000" stop="20251226120000 +0000">
+    <title lang="zh">19中天辣晚報</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370177" start="20251226120000 +0000" stop="20251226130000 +0000">
+    <title lang="zh">20頭條開講</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370177" start="20251226130000 +0000" stop="20251226140000 +0000">
+    <title lang="zh">21頭條開講</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370177" start="20251226140000 +0000" stop="20251226150000 +0000">
+    <title lang="zh">22中天SUPER夜線</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370177" start="20251226150000 +0000" stop="20251226160000 +0000">
+    <title lang="zh">23全球大視野</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370177" start="20251226160000 +0000" stop="20251226170000 +0000">
+    <title lang="zh">18中天辣晚報</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370177" start="20251226170000 +0000" stop="20251226180000 +0000">
+    <title lang="zh">19中天辣晚報</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370177" start="20251226180000 +0000" stop="20251226190000 +0000">
+    <title lang="zh">20頭條開講</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370177" start="20251226190000 +0000" stop="20251226200000 +0000">
+    <title lang="zh">21頭條開講</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370177" start="20251226200000 +0000" stop="20251226210000 +0000">
+    <title lang="zh">22中天SUPER夜線</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370177" start="20251226210000 +0000" stop="20251226220000 +0000">
+    <title lang="zh">23全球大視野</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370177" start="20251226220000 +0000" stop="20251226230000 +0000">
+    <title lang="zh">06中天晨報</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370177" start="20251226230000 +0000" stop="20251227000000 +0000">
+    <title lang="zh">07中天晨報</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370177" start="20251227000000 +0000" stop="20251228000000 +0000">
+    <title lang="zh">08中天晨報</title>
+    <desc />
+    <date>2025-12-27</date>
+  </programme>
+<tv date="20251225092638 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20251225.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20251225&amp;timezone=None" />
+<tv date="20251225083309 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370183/20251225.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370183&amp;date=20251225&amp;timezone=None">
   <channel id="370183">
     <display-name lang="Taiwan">TVBS</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110950648129_24.png" />
   </channel>
-  <programme channel="370183" start="20251224000000 +0000" stop="20251224010000 +0000">
-    <title lang="zh">健康2.0</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370183" start="20251224010000 +0000" stop="20251224020000 +0000">
-    <title lang="zh">地球黃金線</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370183" start="20251224020000 +0000" stop="20251224030000 +0000">
-    <title lang="zh">金臨天下</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370183" start="20251224030000 +0000" stop="20251224040000 +0000">
-    <title lang="zh">FOCUS國際話題</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370183" start="20251224040000 +0000" stop="20251224050000 +0000">
-    <title lang="zh">FOCUS世界新聞</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370183" start="20251224050000 +0000" stop="20251224060000 +0000">
-    <title lang="zh">FOCUS世界新聞</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370183" start="20251224060000 +0000" stop="20251224070000 +0000">
-    <title lang="zh">新聞大白話</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370183" start="20251224070000 +0000" stop="20251224080000 +0000">
-    <title lang="zh">新聞大白話</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370183" start="20251224080000 +0000" stop="20251224090000 +0000">
-    <title lang="zh">新聞大白話</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370183" start="20251224090000 +0000" stop="20251224100000 +0000">
-    <title lang="zh">新聞大白話</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370183" start="20251224100000 +0000" stop="20251224110000 +0000">
-    <title lang="zh">國民大會</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370183" start="20251224110000 +0000" stop="20251224120000 +0000">
-    <title lang="zh">FOCUS全球新聞</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370183" start="20251224120000 +0000" stop="20251224130000 +0000">
-    <title lang="zh">少康戰情室</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370183" start="20251224130000 +0000" stop="20251224140000 +0000">
-    <title lang="zh">少康戰情室</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370183" start="20251224140000 +0000" stop="20251224150000 +0000">
-    <title lang="zh">地球黃金線</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370183" start="20251224150000 +0000" stop="20251224160000 +0000">
-    <title lang="zh">金臨天下</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370183" start="20251224160000 +0000" stop="20251224170000 +0000">
-    <title lang="zh">國民大會</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370183" start="20251224170000 +0000" stop="20251224180000 +0000">
-    <title lang="zh">地球黃金線</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370183" start="20251224180000 +0000" stop="20251224190000 +0000">
-    <title lang="zh">FOCUS全球新聞</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370183" start="20251224190000 +0000" stop="20251224200000 +0000">
-    <title lang="zh">少康戰情室</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370183" start="20251224200000 +0000" stop="20251224210000 +0000">
-    <title lang="zh">FOCUS國際話題</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370183" start="20251224210000 +0000" stop="20251224220000 +0000">
-    <title lang="zh">FOCUS世界新聞</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370183" start="20251224220000 +0000" stop="20251224230000 +0000">
-    <title lang="zh">FOCUS世界新聞</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370183" start="20251224230000 +0000" stop="20251225000000 +0000">
-    <title lang="zh">FOCUS全球新聞</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
   <programme channel="370183" start="20251225000000 +0000" stop="20251225010000 +0000">
     <title lang="zh">健康2.0</title>
     <desc />
@@ -1135,122 +1015,137 @@
     <desc />
     <date>2025-12-25</date>
   </programme>
-  <programme channel="370183" start="20251226000000 +0000" stop="20251227000000 +0000">
+  <programme channel="370183" start="20251226000000 +0000" stop="20251226010000 +0000">
     <title lang="zh">健康2.0</title>
     <desc />
     <date>2025-12-26</date>
   </programme>
-<tv date="20251225022727 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20251224.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20251224&amp;timezone=None" />
-<tv date="20251225022727 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20251224.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20251224&amp;timezone=None">
+  <programme channel="370183" start="20251226010000 +0000" stop="20251226020000 +0000">
+    <title lang="zh">地球黃金線</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370183" start="20251226020000 +0000" stop="20251226030000 +0000">
+    <title lang="zh">金臨天下</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370183" start="20251226030000 +0000" stop="20251226040000 +0000">
+    <title lang="zh">FOCUS國際話題</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370183" start="20251226040000 +0000" stop="20251226050000 +0000">
+    <title lang="zh">FOCUS世界新聞</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370183" start="20251226050000 +0000" stop="20251226060000 +0000">
+    <title lang="zh">FOCUS世界新聞</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370183" start="20251226060000 +0000" stop="20251226070000 +0000">
+    <title lang="zh">新聞大白話</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370183" start="20251226070000 +0000" stop="20251226080000 +0000">
+    <title lang="zh">新聞大白話</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370183" start="20251226080000 +0000" stop="20251226090000 +0000">
+    <title lang="zh">新聞大白話</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370183" start="20251226090000 +0000" stop="20251226100000 +0000">
+    <title lang="zh">新聞大白話</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370183" start="20251226100000 +0000" stop="20251226110000 +0000">
+    <title lang="zh">國民大會</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370183" start="20251226110000 +0000" stop="20251226120000 +0000">
+    <title lang="zh">FOCUS全球新聞</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370183" start="20251226120000 +0000" stop="20251226130000 +0000">
+    <title lang="zh">少康戰情室</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370183" start="20251226130000 +0000" stop="20251226140000 +0000">
+    <title lang="zh">少康戰情室</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370183" start="20251226140000 +0000" stop="20251226150000 +0000">
+    <title lang="zh">地球黃金線</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370183" start="20251226150000 +0000" stop="20251226160000 +0000">
+    <title lang="zh">財經鈔能力</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370183" start="20251226160000 +0000" stop="20251226170000 +0000">
+    <title lang="zh">國民大會</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370183" start="20251226170000 +0000" stop="20251226180000 +0000">
+    <title lang="zh">地球黃金線</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370183" start="20251226180000 +0000" stop="20251226190000 +0000">
+    <title lang="zh">FOCUS全球新聞</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370183" start="20251226190000 +0000" stop="20251226200000 +0000">
+    <title lang="zh">少康戰情室</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370183" start="20251226200000 +0000" stop="20251226210000 +0000">
+    <title lang="zh">FOCUS國際話題</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370183" start="20251226210000 +0000" stop="20251226220000 +0000">
+    <title lang="zh">一步一腳印發現新台灣</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370183" start="20251226220000 +0000" stop="20251226230000 +0000">
+    <title lang="zh">財經鈔能力</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370183" start="20251226230000 +0000" stop="20251227000000 +0000">
+    <title lang="zh">FOCUS全球新聞</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370183" start="20251227000000 +0000" stop="20251228000000 +0000">
+    <title lang="zh">健康2.0</title>
+    <desc />
+    <date>2025-12-27</date>
+  </programme>
+<tv date="20251225092638 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20251225.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20251225&amp;timezone=None" />
+<tv date="20251225092639 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20251225.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20251225&amp;timezone=None">
   <channel id="370173">
     <display-name lang="Taiwan">三立新聞iNEWS</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110842913601_69.png" />
   </channel>
-  <programme channel="370173" start="20251224000000 +0000" stop="20251224010000 +0000">
-    <title lang="zh">iNEWS財經早報(普)(N)</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370173" start="20251224010000 +0000" stop="20251224015500 +0000">
-    <title lang="zh">iNEWS0900整點新聞(普)(N)</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370173" start="20251224015500 +0000" stop="20251224025500 +0000">
-    <title lang="zh">iNEWS1000整點新聞(普)(N)</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370173" start="20251224025500 +0000" stop="20251224035500 +0000">
-    <title lang="zh">iNEWS1100整點新聞(普)(N)</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370173" start="20251224035500 +0000" stop="20251224060000 +0000">
-    <title lang="zh">iNEWS財經午報(普)(N)</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370173" start="20251224060000 +0000" stop="20251224063000 +0000">
-    <title lang="zh">台股大贏家(普)(N)</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370173" start="20251224063000 +0000" stop="20251224070000 +0000">
-    <title lang="zh">iNEWS1430整點新聞(普)(N)</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370173" start="20251224070000 +0000" stop="20251224080000 +0000">
-    <title lang="zh">旅行東西軍(重)(普)(N)</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370173" start="20251224080000 +0000" stop="20251224090000 +0000">
-    <title lang="zh">iNEWS 1600 整點新聞(普)(N)</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370173" start="20251224090000 +0000" stop="20251224100000 +0000">
-    <title lang="zh">1700iNEWS整點新聞(普)(N)</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370173" start="20251224100000 +0000" stop="20251224115500 +0000">
-    <title lang="zh">1819錢進大頭條(普)(N)</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370173" start="20251224115500 +0000" stop="20251224123000 +0000">
-    <title lang="zh">iNEWS大世界(普)(N)</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370173" start="20251224123000 +0000" stop="20251224130000 +0000">
-    <title lang="zh">全民i彩券(首)(普)(N)</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370173" start="20251224130000 +0000" stop="20251224150000 +0000">
-    <title lang="zh">關我什麼事(首)(普)(N)</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370173" start="20251224150000 +0000" stop="20251224160000 +0000">
-    <title lang="zh">2300iNEWS財經夜世界(普)(N)</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370173" start="20251224160000 +0000" stop="20251224180000 +0000">
-    <title lang="zh">關我什麼事(重)(普)(N)</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370173" start="20251224180000 +0000" stop="20251224190000 +0000">
-    <title lang="zh">2300iNEWS財經夜世界(重)(普)(N)</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370173" start="20251224190000 +0000" stop="20251224210000 +0000">
-    <title lang="zh">1819錢進大頭條(重)(普)(N)</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370173" start="20251224210000 +0000" stop="20251224220000 +0000">
-    <title lang="zh">iNEWS 1600 整點新聞(重)(普)(N)</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370173" start="20251224220000 +0000" stop="20251224230000 +0000">
-    <title lang="zh">2300iNEWS財經夜世界(重)(普)(N)</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370173" start="20251224230000 +0000" stop="20251225000000 +0000">
-    <title lang="zh">iNEWS財經早報(普)(N)</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
   <programme channel="370173" start="20251225000000 +0000" stop="20251225010000 +0000">
     <title lang="zh">iNEWS財經早報(普)(N)</title>
     <desc />
@@ -1351,12 +1246,117 @@
     <desc />
     <date>2025-12-25</date>
   </programme>
-  <programme channel="370173" start="20251226000000 +0000" stop="20251227000000 +0000">
+  <programme channel="370173" start="20251226000000 +0000" stop="20251226010000 +0000">
     <title lang="zh">iNEWS財經早報(普)(N)</title>
     <desc />
     <date>2025-12-26</date>
   </programme>
-<tv date="20251225015056 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20251224.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20251224&amp;timezone=None">
+  <programme channel="370173" start="20251226010000 +0000" stop="20251226015500 +0000">
+    <title lang="zh">iNEWS0900整點新聞(普)(N)</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370173" start="20251226015500 +0000" stop="20251226025500 +0000">
+    <title lang="zh">iNEWS1000整點新聞(普)(N)</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370173" start="20251226025500 +0000" stop="20251226035500 +0000">
+    <title lang="zh">iNEWS1100整點新聞(普)(N)</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370173" start="20251226035500 +0000" stop="20251226060000 +0000">
+    <title lang="zh">iNEWS財經午報(普)(N)</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370173" start="20251226060000 +0000" stop="20251226063000 +0000">
+    <title lang="zh">台股大贏家(普)(N)</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370173" start="20251226063000 +0000" stop="20251226070000 +0000">
+    <title lang="zh">iNEWS1430整點新聞(普)(N)</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370173" start="20251226070000 +0000" stop="20251226080000 +0000">
+    <title lang="zh">旅行東西軍(重)(普)(N)</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370173" start="20251226080000 +0000" stop="20251226090000 +0000">
+    <title lang="zh">iNEWS 1600 整點新聞(普)(N)</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370173" start="20251226090000 +0000" stop="20251226100000 +0000">
+    <title lang="zh">1700iNEWS整點新聞(普)(N)</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370173" start="20251226100000 +0000" stop="20251226115500 +0000">
+    <title lang="zh">1819錢進大頭條(普)(N)</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370173" start="20251226115500 +0000" stop="20251226123000 +0000">
+    <title lang="zh">iNEWS大世界(普)(N)</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370173" start="20251226123000 +0000" stop="20251226130000 +0000">
+    <title lang="zh">全民i彩券(首)(普)(N)</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370173" start="20251226130000 +0000" stop="20251226150000 +0000">
+    <title lang="zh">關我什麼事(首)(普)(N)</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370173" start="20251226150000 +0000" stop="20251226160000 +0000">
+    <title lang="zh">2300iNEWS財經夜世界(普)(N)</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370173" start="20251226160000 +0000" stop="20251226180000 +0000">
+    <title lang="zh">關我什麼事(重)(普)(N)</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370173" start="20251226180000 +0000" stop="20251226190000 +0000">
+    <title lang="zh">2300iNEWS財經夜世界(重)(普)(N)</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370173" start="20251226190000 +0000" stop="20251226210000 +0000">
+    <title lang="zh">1819錢進大頭條(重)(普)(N)</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370173" start="20251226210000 +0000" stop="20251226220000 +0000">
+    <title lang="zh">iNEWS 1600 整點新聞(重)(普)(N)</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370173" start="20251226220000 +0000" stop="20251226230000 +0000">
+    <title lang="zh">2300iNEWS財經夜世界(重)(普)(N)</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370173" start="20251226230000 +0000" stop="20251227000000 +0000">
+    <title lang="zh">消失的國界(iNEWS看世界)(首)(普)(N)</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370173" start="20251227000000 +0000" stop="20251228000000 +0000">
+    <title lang="zh">全球新食力(重)(普)(N)</title>
+    <desc />
+    <date>2025-12-27</date>
+  </programme>
+<tv date="20251225075308 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20251224.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20251224&amp;timezone=None">
   <channel id="370172">
     <display-name lang="Taiwan">民視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110836326598_60.png" />
@@ -1606,124 +1606,14 @@
     <desc />
     <date>2025-12-26</date>
   </programme>
-<tv date="20251225020838 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369324/20251224.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369324&amp;date=20251224&amp;timezone=None" />
-<tv date="20251225022728 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/415097/20251224.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=415097&amp;date=20251224&amp;timezone=None" />
-<tv date="20251225022728 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369318/20251224.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369318&amp;date=20251224&amp;timezone=None" />
-<tv date="20251225022729 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370171/20251224.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370171&amp;date=20251224&amp;timezone=None">
+<tv date="20251225082502 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369324/20251225.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369324&amp;date=20251225&amp;timezone=None" />
+<tv date="20251225092640 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/415097/20251225.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=415097&amp;date=20251225&amp;timezone=None" />
+<tv date="20251225092640 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369318/20251225.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369318&amp;date=20251225&amp;timezone=None" />
+<tv date="20251225092640 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370171/20251225.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370171&amp;date=20251225&amp;timezone=None">
   <channel id="370171">
     <display-name lang="Taiwan">華視新聞</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110829650925_83.png" />
   </channel>
-  <programme channel="370171" start="20251224000000 +0000" stop="20251224010000 +0000">
-    <title lang="zh">GOOD Morning台灣</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370171" start="20251224010000 +0000" stop="20251224020000 +0000">
-    <title lang="zh">華視0900整點新聞</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370171" start="20251224020000 +0000" stop="20251224030000 +0000">
-    <title lang="zh">華視1000新聞搶先報</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370171" start="20251224030000 +0000" stop="20251224035800 +0000">
-    <title lang="zh">華視1100新聞搶先報</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370171" start="20251224035800 +0000" stop="20251224050000 +0000">
-    <title lang="zh">華視午間新聞</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370171" start="20251224050000 +0000" stop="20251224060000 +0000">
-    <title lang="zh">華視1300午間新聞</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370171" start="20251224060000 +0000" stop="20251224070000 +0000">
-    <title lang="zh">華視1400整點新聞</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370171" start="20251224070000 +0000" stop="20251224080000 +0000">
-    <title lang="zh">華視1500整點新聞</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370171" start="20251224080000 +0000" stop="20251224085300 +0000">
-    <title lang="zh">華視在地新聞</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370171" start="20251224085300 +0000" stop="20251224120000 +0000">
-    <title lang="zh">華視新聞晚報</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370171" start="20251224120000 +0000" stop="20251224130000 +0000">
-    <title lang="zh">華視2000整點新聞</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370171" start="20251224130000 +0000" stop="20251224140000 +0000">
-    <title lang="zh">World News 9</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370171" start="20251224140000 +0000" stop="20251224150000 +0000">
-    <title lang="zh">52政經點</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370171" start="20251224150000 +0000" stop="20251224155500 +0000">
-    <title lang="zh">華視夜間新聞</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370171" start="20251224155500 +0000" stop="20251224170000 +0000">
-    <title lang="zh">華視2400夜間新聞</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370171" start="20251224170000 +0000" stop="20251224180000 +0000">
-    <title lang="zh">World News 9</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370171" start="20251224180000 +0000" stop="20251224190000 +0000">
-    <title lang="zh">華視2400夜間新聞</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370171" start="20251224190000 +0000" stop="20251224200000 +0000">
-    <title lang="zh">World News 9</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370171" start="20251224200000 +0000" stop="20251224210000 +0000">
-    <title lang="zh">華視2400夜間新聞</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370171" start="20251224210000 +0000" stop="20251224220000 +0000">
-    <title lang="zh">World News 9</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370171" start="20251224220000 +0000" stop="20251224230000 +0000">
-    <title lang="zh">華視2400夜間新聞</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="370171" start="20251224230000 +0000" stop="20251225000000 +0000">
-    <title lang="zh">GOOD Morning台灣</title>
-    <desc />
-    <date>2025-12-24</date>
-  </programme>
   <programme channel="370171" start="20251225000000 +0000" stop="20251225010000 +0000">
     <title lang="zh">GOOD Morning台灣</title>
     <desc />
@@ -1834,147 +1724,127 @@
     <desc />
     <date>2025-12-25</date>
   </programme>
-  <programme channel="370171" start="20251226000000 +0000" stop="20251227000000 +0000">
+  <programme channel="370171" start="20251226000000 +0000" stop="20251226010000 +0000">
     <title lang="zh">GOOD Morning台灣</title>
     <desc />
     <date>2025-12-26</date>
   </programme>
-<tv date="20251225022729 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335029/20251224.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335029&amp;date=20251224&amp;timezone=None" />
-<tv date="20251225022730 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369749/20251224.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369749&amp;date=20251224&amp;timezone=None">
+  <programme channel="370171" start="20251226010000 +0000" stop="20251226020000 +0000">
+    <title lang="zh">華視0900整點新聞</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370171" start="20251226020000 +0000" stop="20251226030000 +0000">
+    <title lang="zh">華視1000新聞搶先報</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370171" start="20251226030000 +0000" stop="20251226035800 +0000">
+    <title lang="zh">華視1100新聞搶先報</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370171" start="20251226035800 +0000" stop="20251226050000 +0000">
+    <title lang="zh">華視午間新聞</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370171" start="20251226050000 +0000" stop="20251226060000 +0000">
+    <title lang="zh">華視1300午間新聞</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370171" start="20251226060000 +0000" stop="20251226070000 +0000">
+    <title lang="zh">華視1400整點新聞</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370171" start="20251226070000 +0000" stop="20251226080000 +0000">
+    <title lang="zh">華視1500整點新聞</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370171" start="20251226080000 +0000" stop="20251226085300 +0000">
+    <title lang="zh">華視在地新聞</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370171" start="20251226085300 +0000" stop="20251226120000 +0000">
+    <title lang="zh">華視新聞晚報</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370171" start="20251226120000 +0000" stop="20251226130000 +0000">
+    <title lang="zh">華視2000整點新聞</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370171" start="20251226130000 +0000" stop="20251226140000 +0000">
+    <title lang="zh">World News 9</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370171" start="20251226140000 +0000" stop="20251226150000 +0000">
+    <title lang="zh">52政經點</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370171" start="20251226150000 +0000" stop="20251226155500 +0000">
+    <title lang="zh">華視夜間新聞</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370171" start="20251226155500 +0000" stop="20251226170000 +0000">
+    <title lang="zh">華視2400夜間新聞</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370171" start="20251226170000 +0000" stop="20251226180000 +0000">
+    <title lang="zh">World News 9</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370171" start="20251226180000 +0000" stop="20251226190000 +0000">
+    <title lang="zh">華視2400夜間新聞</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370171" start="20251226190000 +0000" stop="20251226200000 +0000">
+    <title lang="zh">World News 9</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370171" start="20251226200000 +0000" stop="20251226210000 +0000">
+    <title lang="zh">華視2400夜間新聞</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370171" start="20251226210000 +0000" stop="20251226220000 +0000">
+    <title lang="zh">World News 9</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370171" start="20251226220000 +0000" stop="20251226230000 +0000">
+    <title lang="zh">華視2400夜間新聞</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370171" start="20251226230000 +0000" stop="20251227000000 +0000">
+    <title lang="zh">GOOD Morning台灣</title>
+    <desc />
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="370171" start="20251227000000 +0000" stop="20251228000000 +0000">
+    <title lang="zh">GOOD Morning台灣</title>
+    <desc />
+    <date>2025-12-27</date>
+  </programme>
+<tv date="20251225090534 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335029/20251225.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335029&amp;date=20251225&amp;timezone=None" />
+<tv date="20251225092641 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369749/20251225.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369749&amp;date=20251225&amp;timezone=None">
   <channel id="369749">
     <display-name lang="Singapore">CNN International (HD)</display-name>
     <icon src="" />
   </channel>
-  <programme channel="369749" start="20251224000000 +0000" stop="20251224010000 +0000">
-    <title lang="zh">Erin Burnett OutFront: Tuesday, December 23, 2025 7PM</title>
-    <desc>Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="369749" start="20251224010000 +0000" stop="20251224020000 +0000">
-    <title lang="zh">Anderson Cooper 360: Tuesday, December 23, 2025 8PM</title>
-    <desc>Anderson Cooper takes you beyond the headlines with in-depth reporting and investigations.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="369749" start="20251224020000 +0000" stop="20251224030000 +0000">
-    <title lang="zh">The Source with Kaitlan Collins: Tuesday, December 23, 2025 9PM</title>
-    <desc>Kaitlan Collins goes straight to the source for the best reporting on the day's biggest stories.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="369749" start="20251224030000 +0000" stop="20251224040000 +0000">
-    <title lang="zh">CNN NewsNight: Tuesday, December 23, 2025 10PM</title>
-    <desc>Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="369749" start="20251224040000 +0000" stop="20251224050000 +0000">
-    <title lang="zh">Laura Coates Live: Tuesday, December 23, 2025 11PM</title>
-    <desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="369749" start="20251224050000 +0000" stop="20251224060000 +0000">
-    <title lang="zh">The Story Is With Elex Michaelson: Wednesday, December 24, 2025 12AM</title>
-    <desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="369749" start="20251224060000 +0000" stop="20251224073000 +0000">
-    <title lang="zh">The Story Is With Elex Michaelson: Wednesday, December 24, 2025 1AM</title>
-    <desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="369749" start="20251224073000 +0000" stop="20251224083000 +0000">
-    <title lang="zh">Call to Earth: Kings of the Forest</title>
-    <desc>Dr. Gladys Kalema-Zikusoka has dedicated her life to protecting Bwindi Impenetrable National Park, building a conservation model that allows both humans and wildlife to thrive.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="369749" start="20251224083000 +0000" stop="20251224084500 +0000">
-    <title lang="zh">Marketplace Europe: Marketplace Europe December 2025</title>
-    <desc>Every month, Anna Stewart and Nina Dos Santos delve into how innovation and technology are driving Europe's great recovery, speaking to top CEOs and exploring new trends.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="369749" start="20251224084500 +0000" stop="20251224090000 +0000">
-    <title lang="zh">Marketplace Asia: Marketplace Asia DNU</title>
-    <desc>The latest, up-to-date news stories from around the globe.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="369749" start="20251224090000 +0000" stop="20251224100000 +0000">
-    <title lang="zh">Amanpour: Thant Myint; Werner Herzog; Arundhati Roy</title>
-    <desc>Christiane speaks with historian Thant Myint-U about his book "Peacemaker", documenting the life of his grandfather U Thant, who as UN Secretary-General in the 1960s became a pivotal player in resolving wars around the world. Also on the show today: legendary filmmaker Werner Herzog speaks with Christiane about his recent non-fiction book, "The Future of Truth", and Hari Sreenivasan speaks with no</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="369749" start="20251224100000 +0000" stop="20251224110000 +0000">
-    <title lang="zh">Early Start with Rahel Solomon: Wednesday, December 24, 2025 5AM</title>
-    <desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="369749" start="20251224110000 +0000" stop="20251224120000 +0000">
-    <title lang="zh">CNN News Central: Wednesday, December 24, 2025 6AM</title>
-    <desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="369749" start="20251224120000 +0000" stop="20251224130000 +0000">
-    <title lang="zh">CNN News Central: Wednesday, December 24, 2025 7AM</title>
-    <desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="369749" start="20251224130000 +0000" stop="20251224133000 +0000">
-    <title lang="zh">CNN News Central (AM) (30m): CNN News Central - Wednesday, December 24, 2025 8am ET</title>
-    <desc>The latest, up-to-date news stories from around the globe.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="369749" start="20251224133000 +0000" stop="20251224143000 +0000">
-    <title lang="zh">World Sport: Wednesday, December 24, 2025 730am ET</title>
-    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="369749" start="20251224143000 +0000" stop="20251224150000 +0000">
-    <title lang="zh">Global Perspectives: Global Perspectives: On Africa</title>
-    <desc>Hosted by Zain Asher, this special half-hour program showcases the best of CNN's inaugural "Global Perspectives: On Africa" event, featuring interviews and session highlights with high profile political and business leaders, innovators and thought-leaders.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="369749" start="20251224150000 +0000" stop="20251224163000 +0000">
-    <title lang="zh">The Situation Room: Wednesday, December 24, 2025 10AM</title>
-    <desc>Wolf Blitzer and Pamela Brown are in the command center for breaking news, politics and extraordinary reports from around the world.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="369749" start="20251224163000 +0000" stop="20251224170000 +0000">
-    <title lang="zh">By Night: Turkey</title>
-    <desc>Explore Istanbul after dark. Delve into the city's hidden gems, unique cultures, and of course, its tantalizing street food, with three characters who lead very different lives.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="369749" start="20251224170000 +0000" stop="20251224180000 +0000">
-    <title lang="zh">Inside Politics with Dana Bash: Wednesday, December 24, 2025 12PM</title>
-    <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="369749" start="20251224180000 +0000" stop="20251224200000 +0000">
-    <title lang="zh">Amanpour: Halla Tomasdottir &amp; Pamela Hogan; Gayle Young; Cory Doctorow</title>
-    <desc>Christiane speaks with Iceland's President Halla Tomasdottir and film director Pamela Hogan about the day 50 years ago when Iceland's women went on strike to demand equal treatment, and the recent documentary telling the full story. Also, CNN's former Cairo bureau chief Gayle Young speaks with Christiane about her career and recent memoir, "Update", and Hari Sreenivasan speaks with tech writer Cor</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="369749" start="20251224200000 +0000" stop="20251224213000 +0000">
-    <title lang="zh">All There Is With Anderson Cooper: Ken Burns' History With Grief</title>
-    <desc>Documentary filmmaker Ken Burns has been called "America's biographer," but in this moving conversation, he reveals how his own history has been shaped by early loss - the death of his mother Lyla when Ken was eleven years old.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="369749" start="20251224213000 +0000" stop="20251224220000 +0000">
-    <title lang="zh">Marketplace Europe: Marketplace Europe December 2025</title>
-    <desc>Every month, Anna Stewart and Nina Dos Santos delve into how innovation and technology are driving Europe's great recovery, speaking to top CEOs and exploring new trends.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="369749" start="20251224220000 +0000" stop="20251224223000 +0000">
-    <title lang="zh">Walk of Art: Walk of Art: Doha's Cultural Landscape</title>
-    <desc>We explore how art has influenced the cultural landscape of Qatar and how it can be an immersive experience for those who visit, live and work there. We meet designers and artists who reflect the country's layers of creativity, cultural diversity and modern identity. They guide us through Doha's open-air gallery, taking us to the public artwork that inspires them the most and represents a mileston</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="369749" start="20251224223000 +0000" stop="20251224230000 +0000">
-    <title lang="zh">World Sport: Wednesday, December 24, 2025 730am ET</title>
-    <desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="369749" start="20251224230000 +0000" stop="20251225000000 +0000">
-    <title lang="zh">The Whole Story with Anderson Cooper: The Wired Rainforest</title>
-    <desc>Nick Paton Walsh reports on the impact of the internet being introduced to the Amazon jungle's indigenous Kanamari community for the first time and how its people grapple with a technology that has transformed every part of Western life.</desc>
-    <date>2025-12-24</date>
-  </programme>
   <programme channel="369749" start="20251225000000 +0000" stop="20251225010000 +0000">
     <title lang="zh">The Whole Story with Anderson Cooper: Change Amplified: Live Music and the Climate Crisis</title>
     <desc>Bill Weir speaks with the biggest stars working to revolutionize the environmental impact of live music; exploring their efforts to reform an industry known for its massive energy use and waste.</desc>
@@ -2095,257 +1965,137 @@
     <desc>The Smithsonian National Zoo is set to reopen its panda exhibit. David Culver covers the arrival of the first giant pandas sent from China to the U.S. in 24 years and examines the history of panda diplomacy.</desc>
     <date>2025-12-25</date>
   </programme>
-  <programme channel="369749" start="20251226000000 +0000" stop="20251227000000 +0000">
+  <programme channel="369749" start="20251226000000 +0000" stop="20251226010000 +0000">
     <title lang="zh">The Whole Story with Anderson Cooper: Saving Venice</title>
     <desc>Erica Hill explores the future of Venice, a city threatened by rising sea levels and the more immediate threat of overwhelming tourism. She speaks with locals working to preserve the city's traditions and address climate change.</desc>
     <date>2025-12-26</date>
   </programme>
-<tv date="20251225022729 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403819/20251224.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403819&amp;date=20251224&amp;timezone=None" />
-<tv date="20251225010500 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/412098/20251224.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=412098&amp;date=20251224&amp;timezone=None">
+  <programme channel="369749" start="20251226010000 +0000" stop="20251226020000 +0000">
+    <title lang="zh">All There Is With Anderson Cooper: Luke Bryan: Grief, Faith, and Music</title>
+    <desc>Luke Bryan is one of country music's biggest stars. He's also faced great loss. In this personal and revealing conversation with Anderson, Luke shares how faith, family, and music have helped him "do what you do to get through.".</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="369749" start="20251226020000 +0000" stop="20251226030000 +0000">
+    <title lang="zh">Fareed Zakaria GPS: Fareed Zakaria GPS: Disconnected: Life in a Disruptive Digital Age</title>
+    <desc>With 20% of Americans feeling lonely every day and the number of people without close friends having quadrupled over the past 35 years, Fareed Zakaria examines how the digital age is reshaping the very fabric of human connection.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="369749" start="20251226030000 +0000" stop="20251226040000 +0000">
+    <title lang="zh">The Whole Story with Anderson Cooper: Adaptation Nation: A Climate Crisis Survival Guide</title>
+    <desc>From the hurricane-afflicted Gulf Coast to the fire-ravaged mountains of California, communities are rebuilding in the face of disaster. CNN's Bill Weir explores the lessons learned and how we can adapt to a changing climate.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="369749" start="20251226040000 +0000" stop="20251226053000 +0000">
+    <title lang="zh">Amanpour: Thant Myint; Werner Herzog; Arundhati Roy</title>
+    <desc>Christiane speaks with historian Thant Myint-U about his book "Peacemaker", documenting the life of his grandfather U Thant, who as UN Secretary-General in the 1960s became a pivotal player in resolving wars around the world. Also on the show today: legendary filmmaker Werner Herzog speaks with Christiane about his recent non-fiction book, "The Future of Truth", and Hari Sreenivasan speaks with no</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="369749" start="20251226053000 +0000" stop="20251226060000 +0000">
+    <title lang="zh">Blueprint: Blueprint: Mongolia</title>
+    <desc>Many people travel to Mongolia to disconnect, to escape into the vast wilderness and switch off. But for Mongolians, connectivity is everything. The country has 3.5 million people and 5 million active phone numbers. Everywhere you look in the capital city Ulaanbaatar, people are glued to their phones. A vibrant startup scene in the city is driving innovation and diversifying Mongolia's economy bey</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="369749" start="20251226060000 +0000" stop="20251226063000 +0000">
+    <title lang="zh">Global Perspectives: Global Perspectives: On Africa</title>
+    <desc>Hosted by Zain Asher, this special half-hour program showcases the best of CNN's inaugural "Global Perspectives: On Africa" event, featuring interviews and session highlights with high profile political and business leaders, innovators and thought-leaders.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="369749" start="20251226063000 +0000" stop="20251226073000 +0000">
+    <title lang="zh">POV: POV: Edo</title>
+    <desc>POV?travels away from well-worn tourist trails to discover the country's essence through the lens of its people. Meet those who dedicate their lives to safeguarding the culture through art, food, and more, and how these facets co-exist within modern culture today.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="369749" start="20251226073000 +0000" stop="20251226090000 +0000">
+    <title lang="zh">The Journey Matters: The Philippines</title>
+    <desc>Travel and tourism to the Philippines surpassed pre-pandemic levels in 2024. Visitors now focus on authentic and sustainable experiences that preserve traditions, the environment and support local communities.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="369749" start="20251226090000 +0000" stop="20251226100000 +0000">
+    <title lang="zh">Amanpour: Thant Myint; Werner Herzog; Arundhati Roy</title>
+    <desc>Christiane speaks with historian Thant Myint-U about his book "Peacemaker", documenting the life of his grandfather U Thant, who as UN Secretary-General in the 1960s became a pivotal player in resolving wars around the world. Also on the show today: legendary filmmaker Werner Herzog speaks with Christiane about his recent non-fiction book, "The Future of Truth", and Hari Sreenivasan speaks with no</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="369749" start="20251226100000 +0000" stop="20251226110000 +0000">
+    <title lang="zh">Early Start with Rahel Solomon: Friday, December 26, 2025 5AM</title>
+    <desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="369749" start="20251226110000 +0000" stop="20251226120000 +0000">
+    <title lang="zh">CNN This Morning: Friday, December 26, 2025 6AM</title>
+    <desc>Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="369749" start="20251226120000 +0000" stop="20251226130000 +0000">
+    <title lang="zh">CNN News Central: Friday, December 26, 2025 7AM</title>
+    <desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="369749" start="20251226130000 +0000" stop="20251226133000 +0000">
+    <title lang="zh">CNN News Central (AM) (30m): CNN News Central - Friday, December 26, 2025 8am ET</title>
+    <desc>The latest, up-to-date news stories from around the globe.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="369749" start="20251226133000 +0000" stop="20251226150000 +0000">
+    <title lang="zh">World Sport: The Stars and Stories of 2025</title>
+    <desc>It was another momentous year in the world of sport and we were there every step of the way to chronicle the triumph and tragedy, as well as hearing from the superstars who enthrall, entertain, and excite. From a joint interview with tennis aces Carlos Alcaraz and Jannik Sinner, to a blockbuster season on and off the track in Formula 1, we captured the moments. Patrick Snell takes a look back at 2</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="369749" start="20251226150000 +0000" stop="20251226163000 +0000">
+    <title lang="zh">The Situation Room: Friday, December 26, 2025 10AM</title>
+    <desc>Wolf Blitzer and Pamela Brown are in the command center for breaking news, politics and extraordinary reports from around the world.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="369749" start="20251226163000 +0000" stop="20251226170000 +0000">
+    <title lang="zh">Elite Escapes: Bodrum</title>
+    <desc>The once sleepy fishing village of Bodrum, home to some of the most exclusive hotels in Turkey, has become an internationally renowned destination for the rich, famous and glamorous.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="369749" start="20251226170000 +0000" stop="20251226180000 +0000">
+    <title lang="zh">Inside Politics with Dana Bash: Friday, December 26, 2025 12PM</title>
+    <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="369749" start="20251226180000 +0000" stop="20251226193000 +0000">
+    <title lang="zh">Amanpour: Lyse Doucet; Matthew McConaughey; Christina Cross</title>
+    <desc>Christiane sits down with the BBC's chief international correspondent Lyse Doucet to talk about Afghanistan and her new book, "The Finest Hotel in Kabul". Matthew McConaughey also joins the program to discuss his faith and how it has influenced his life, while Harvard sociologist Christina Cross speaks with Michel Martin about the impact of single-parent households, as explored in her recent book,</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="369749" start="20251226193000 +0000" stop="20251226200000 +0000">
+    <title lang="zh">Global Perspectives: Global Perspectives: On Africa</title>
+    <desc>Hosted by Zain Asher, this special half-hour program showcases the best of CNN's inaugural "Global Perspectives: On Africa" event, featuring interviews and session highlights with high profile political and business leaders, innovators and thought-leaders.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="369749" start="20251226200000 +0000" stop="20251226220000 +0000">
+    <title lang="zh">CNN News Central (PM): Friday, December 26, 2025 3PM</title>
+    <desc>The latest news from around the world live from CNN's immersive news hub with Brianna Keilar and Boris Sanchez.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="369749" start="20251226220000 +0000" stop="20251226223000 +0000">
+    <title lang="zh">The Lead with Jake Tapper (30m): The Lead with Jake Tapper - Friday, December 26, 2025 5pm ET</title>
+    <desc>The latest, up-to-date news stories from around the globe.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="369749" start="20251226223000 +0000" stop="20251226230000 +0000">
+    <title lang="zh">World Sport: The Stars and Stories of 2025</title>
+    <desc>It was another momentous year in the world of sport and we were there every step of the way to chronicle the triumph and tragedy, as well as hearing from the superstars who enthrall, entertain, and excite. From a joint interview with tennis aces Carlos Alcaraz and Jannik Sinner, to a blockbuster season on and off the track in Formula 1, we captured the moments. Patrick Snell takes a look back at 2</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="369749" start="20251226230000 +0000" stop="20251227000000 +0000">
+    <title lang="zh">The Lead with Jake Tapper: Friday, December 26, 2025 6PM</title>
+    <desc>Jake Tapper covers all the day's top stories around the country and the globe, from politics to money, sports to popular culture.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="369749" start="20251227000000 +0000" stop="20251228000000 +0000">
+    <title lang="zh">Erin Burnett OutFront: Friday, December 26, 2025 7PM</title>
+    <desc>Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative.</desc>
+    <date>2025-12-27</date>
+  </programme>
+<tv date="20251225092642 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403819/20251225.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403819&amp;date=20251225&amp;timezone=None" />
+<tv date="20251225082658 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/412098/20251225.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=412098&amp;date=20251225&amp;timezone=None">
   <channel id="412098">
     <display-name lang="Singapore">BBC World News HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042100424424_78.png" />
   </channel>
-  <programme channel="412098" start="20251224000000 +0000" stop="20251224003000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224003000 +0000" stop="20251224010000 +0000">
-    <title lang="zh">Newscast</title>
-    <desc>Lighthearted discussion of the day's news.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224010000 +0000" stop="20251224013000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224013000 +0000" stop="20251224020000 +0000">
-    <title lang="zh">Tech Now</title>
-    <desc>Alasdair Keane heads behind the scenes of a high tech studio transforming the way movie car stunts are made. Adrienne Murray visits a rare earth deposit in Greenland, home to critical minerals.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224020000 +0000" stop="20251224023000 +0000">
-    <title lang="zh">Newsday</title>
-    <desc>Live from Singapore, the latest international news from the BBC.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224023000 +0000" stop="20251224030000 +0000">
-    <title lang="zh">The Royal Year</title>
-    <desc>BBC News reflects on significant events for the royal family this year.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224030000 +0000" stop="20251224033000 +0000">
-    <title lang="zh">Newsday</title>
-    <desc>Live from Singapore, the latest international news from the BBC.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224033000 +0000" stop="20251224040000 +0000">
-    <title lang="zh">When Country Comes to Town</title>
-    <desc>Go behind the scenes as the Grand Ole Opry is live in London. For one night only, country's biggest stars, such as Luke Combs and Carly Pearce, take to the stage of the Royal Albert Hall.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224040000 +0000" stop="20251224043000 +0000">
-    <title lang="zh">Newsday</title>
-    <desc>Live from Singapore, the latest international news from the BBC.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224043000 +0000" stop="20251224050000 +0000">
-    <title lang="zh">AI and Robotics</title>
-    <desc>AI Decoded features Google DeepMind's Gemini Robotics lab where researchers use artificial intelligence to enable robots to perceive, plan, think, use tools and act to better solve complex tasks.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224050000 +0000" stop="20251224053000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224053000 +0000" stop="20251224060000 +0000">
-    <title lang="zh">The Biggest Stories</title>
-    <desc>BBC News looks back at some of the biggest stories of the year.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224060000 +0000" stop="20251224063000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224063000 +0000" stop="20251224070000 +0000">
-    <title lang="zh">Schwarzenegger: Power, Purpose &amp; The Planet</title>
-    <desc>Bodybuilder, movie star and former California Governor Arnold Schwarzenegger talks to Laura Kuenssberg about four decades in the limelight, his plan to tackle climate change - and terminate pollution.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224070000 +0000" stop="20251224073000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224073000 +0000" stop="20251224080000 +0000">
-    <title lang="zh">When Country Comes to Town</title>
-    <desc>Go behind the scenes as the Grand Ole Opry is live in London. For one night only, country's biggest stars, such as Luke Combs and Carly Pearce, take to the stage of the Royal Albert Hall.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224080000 +0000" stop="20251224083000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224083000 +0000" stop="20251224090000 +0000">
-    <title lang="zh">The Royal Year</title>
-    <desc>BBC News reflects on significant events for the royal family this year.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224090000 +0000" stop="20251224093000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224093000 +0000" stop="20251224100000 +0000">
-    <title lang="zh">The Biggest Stories</title>
-    <desc>BBC News looks back at some of the biggest stories of the year.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224100000 +0000" stop="20251224103000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224103000 +0000" stop="20251224110000 +0000">
-    <title lang="zh">Schwarzenegger: Power, Purpose &amp; The Planet</title>
-    <desc>Bodybuilder, movie star and former California Governor Arnold Schwarzenegger talks to Laura Kuenssberg about four decades in the limelight, his plan to tackle climate change - and terminate pollution.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224110000 +0000" stop="20251224113000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224113000 +0000" stop="20251224120000 +0000">
-    <title lang="zh">We Remember</title>
-    <desc>BBC News remembers some of those who have left us this year.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224120000 +0000" stop="20251224123000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224123000 +0000" stop="20251224130000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224130000 +0000" stop="20251224133000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224133000 +0000" stop="20251224140000 +0000">
-    <title lang="zh">The Royal Year</title>
-    <desc>BBC News reflects on significant events for the royal family this year.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224140000 +0000" stop="20251224143000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224143000 +0000" stop="20251224150000 +0000">
-    <title lang="zh">The Biggest Stories</title>
-    <desc>BBC News looks back at some of the biggest stories of the year.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224150000 +0000" stop="20251224153000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224153000 +0000" stop="20251224160000 +0000">
-    <title lang="zh">Schwarzenegger: Power, Purpose &amp; The Planet</title>
-    <desc>Bodybuilder, movie star and former California Governor Arnold Schwarzenegger talks to Laura Kuenssberg about four decades in the limelight, his plan to tackle climate change - and terminate pollution.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224160000 +0000" stop="20251224163000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224163000 +0000" stop="20251224170000 +0000">
-    <title lang="zh">When Country Comes to Town</title>
-    <desc>Go behind the scenes as the Grand Ole Opry is live in London. For one night only, country's biggest stars, such as Luke Combs and Carly Pearce, take to the stage of the Royal Albert Hall.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224170000 +0000" stop="20251224173000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224173000 +0000" stop="20251224180000 +0000">
-    <title lang="zh">Focus on Africa</title>
-    <desc>The biggest African and international stories from the BBC.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224180000 +0000" stop="20251224183000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224183000 +0000" stop="20251224190000 +0000">
-    <title lang="zh">A Year in Review - Part 1</title>
-    <desc>Caitríona Perry, Sumi Somaskanda, Courtney Subramanian, and Bernd Debusmann Jr. look back on US politics during the first half of 2025.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224190000 +0000" stop="20251224193000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224193000 +0000" stop="20251224200000 +0000">
-    <title lang="zh">The Royal Year</title>
-    <desc>BBC News reflects on significant events for the royal family this year.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224200000 +0000" stop="20251224203000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224203000 +0000" stop="20251224210000 +0000">
-    <title lang="zh">We Remember</title>
-    <desc>BBC News remembers some of those who have left us this year.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224210000 +0000" stop="20251224213000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224213000 +0000" stop="20251224220000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224220000 +0000" stop="20251224223000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224223000 +0000" stop="20251224230000 +0000">
-    <title lang="zh">The Royal Year</title>
-    <desc>BBC News reflects on significant events for the royal family this year.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224230000 +0000" stop="20251224233000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="412098" start="20251224233000 +0000" stop="20251225000000 +0000">
-    <title lang="zh">The Battle to Get My Child Back</title>
-    <desc>Greenlandic parents across Denmark are fighting to be reunited with their children, who were taken into care following the use of now banned 'parenting competency tests'.</desc>
-    <date>2025-12-24</date>
-  </programme>
   <programme channel="412098" start="20251225000000 +0000" stop="20251225003000 +0000">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
@@ -2601,112 +2351,257 @@
     <desc>From Port Talbot to Hollywood, Sir Anthony Hopkins talks about the craft and the characters that define his 60-year career on screen and the private struggles he has faced behind the scenes.</desc>
     <date>2025-12-25</date>
   </programme>
-  <programme channel="412098" start="20251226000000 +0000" stop="20251227000000 +0000">
+  <programme channel="412098" start="20251226000000 +0000" stop="20251226003000 +0000">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2025-12-26</date>
   </programme>
-<tv date="20251225022731 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405729/20251224.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405729&amp;date=20251224&amp;timezone=None" />
-<tv date="20251225022732 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410308/20251224.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410308&amp;date=20251224&amp;timezone=None">
+  <programme channel="412098" start="20251226003000 +0000" stop="20251226010000 +0000">
+    <title lang="zh">The Battle to Get My Child Back</title>
+    <desc>Greenlandic parents across Denmark are fighting to be reunited with their children, who were taken into care following the use of now banned 'parenting competency tests'.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226010000 +0000" stop="20251226013000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226013000 +0000" stop="20251226020000 +0000">
+    <title lang="zh">Reporting the Bondi Beach Attack</title>
+    <desc>Editorial choices after the Bondi Beach attack, Donald Trump's BBC lawsuit, and the rise of Chinese micro dramas.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226020000 +0000" stop="20251226023000 +0000">
+    <title lang="zh">Newsday</title>
+    <desc>Live from Singapore, the latest international news from the BBC.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226023000 +0000" stop="20251226030000 +0000">
+    <title lang="zh">We Remember</title>
+    <desc>BBC News remembers some of those who have left us this year.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226030000 +0000" stop="20251226033000 +0000">
+    <title lang="zh">Newsday</title>
+    <desc>Live from Singapore, the latest international news from the BBC.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226033000 +0000" stop="20251226040000 +0000">
+    <title lang="zh">The Real Strictly Come Dancing</title>
+    <desc>Sparkles, sequins and shed loads of self-tan. We're behind the scenes at the real Strictly Come Dancing as the British National Dance Championships celebrates its 50th anniversary.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226040000 +0000" stop="20251226043000 +0000">
+    <title lang="zh">Newsday</title>
+    <desc>Live from Singapore, the latest international news from the BBC.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226043000 +0000" stop="20251226050000 +0000">
+    <title lang="zh">Is AI an Existential Risk?</title>
+    <desc>AI Decoded is joined by AI Safety Guru, Connor Leahy who helps to explain and explore the unintended risks and also benefits of unregulated artificial intelligence.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226050000 +0000" stop="20251226053000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226053000 +0000" stop="20251226060000 +0000">
+    <title lang="zh">We Remember</title>
+    <desc>BBC News remembers some of those who have left us this year.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226060000 +0000" stop="20251226063000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226063000 +0000" stop="20251226070000 +0000">
+    <title lang="zh">Patti Smith: Art, Music and Love</title>
+    <desc>Patti Smith, a singer, poet, artist and activist whose extraordinary career has spanned 50 years and influenced countless artists. She talks revealingly about her life and struggles to Katie Razzall.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226070000 +0000" stop="20251226073000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226073000 +0000" stop="20251226080000 +0000">
+    <title lang="zh">The Real Strictly Come Dancing</title>
+    <desc>Sparkles, sequins and shed loads of self-tan. We're behind the scenes at the real Strictly Come Dancing as the British National Dance Championships celebrates its 50th anniversary.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226080000 +0000" stop="20251226083000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226083000 +0000" stop="20251226090000 +0000">
+    <title lang="zh">The Biggest Stories</title>
+    <desc>BBC News looks back at some of the biggest stories of the year.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226090000 +0000" stop="20251226093000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226093000 +0000" stop="20251226100000 +0000">
+    <title lang="zh">We Remember</title>
+    <desc>BBC News remembers some of those who have left us this year.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226100000 +0000" stop="20251226103000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226103000 +0000" stop="20251226110000 +0000">
+    <title lang="zh">Patti Smith: Art, Music and Love</title>
+    <desc>Patti Smith, a singer, poet, artist and activist whose extraordinary career has spanned 50 years and influenced countless artists. She talks revealingly about her life and struggles to Katie Razzall.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226110000 +0000" stop="20251226113000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226113000 +0000" stop="20251226120000 +0000">
+    <title lang="zh">The Royal Year</title>
+    <desc>BBC News reflects on significant events for the royal family this year.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226120000 +0000" stop="20251226123000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226123000 +0000" stop="20251226130000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226130000 +0000" stop="20251226133000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226133000 +0000" stop="20251226140000 +0000">
+    <title lang="zh">The Biggest Stories</title>
+    <desc>BBC News looks back at some of the biggest stories of the year.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226140000 +0000" stop="20251226143000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226143000 +0000" stop="20251226150000 +0000">
+    <title lang="zh">We Remember</title>
+    <desc>BBC News remembers some of those who have left us this year.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226150000 +0000" stop="20251226153000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226153000 +0000" stop="20251226160000 +0000">
+    <title lang="zh">Patti Smith: Art, Music and Love</title>
+    <desc>Patti Smith, a singer, poet, artist and activist whose extraordinary career has spanned 50 years and influenced countless artists. She talks revealingly about her life and struggles to Katie Razzall.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226160000 +0000" stop="20251226163000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226163000 +0000" stop="20251226170000 +0000">
+    <title lang="zh">The Real Strictly Come Dancing</title>
+    <desc>Sparkles, sequins and shed loads of self-tan. We're behind the scenes at the real Strictly Come Dancing as the British National Dance Championships celebrates its 50th anniversary.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226170000 +0000" stop="20251226173000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226173000 +0000" stop="20251226180000 +0000">
+    <title lang="zh">Focus on Africa</title>
+    <desc>The biggest African and international stories from the BBC.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226180000 +0000" stop="20251226183000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226183000 +0000" stop="20251226190000 +0000">
+    <title lang="zh">Inside the Salisbury Poisonings</title>
+    <desc>A deadly nerve agent is released in Salisbury. Sergei Skripal and his daughter Yulia are both poisoned. Dawn Sturgess, died. Hear from those who were at the centre of the story.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226190000 +0000" stop="20251226193000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226193000 +0000" stop="20251226200000 +0000">
+    <title lang="zh">Tech Now</title>
+    <desc>Alasdair Keane heads behind the scenes of a high tech studio transforming the way movie car stunts are made. Adrienne Murray visits a rare earth deposit in Greenland, home to critical minerals.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226200000 +0000" stop="20251226203000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226203000 +0000" stop="20251226210000 +0000">
+    <title lang="zh">The Biggest Stories</title>
+    <desc>BBC News looks back at some of the biggest stories of the year.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226210000 +0000" stop="20251226213000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226213000 +0000" stop="20251226220000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226220000 +0000" stop="20251226223000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226223000 +0000" stop="20251226230000 +0000">
+    <title lang="zh">Talking Business</title>
+    <desc>From the break-in at the Louvre to a pandemic of mobile phone snatching on the streets of London, Ben Thompson examines some of the global and economic forces behind the rise in theft.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226230000 +0000" stop="20251226233000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251226233000 +0000" stop="20251227000000 +0000">
+    <title lang="zh">A Year in Review - Part 2</title>
+    <desc>Caitríona Perry, Sumi Somaskanda, Courtney Subramanian, and Bernd Debusmann Jr. look back on US politics during the second half of 2025.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="412098" start="20251227000000 +0000" stop="20251228000000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2025-12-27</date>
+  </programme>
+<tv date="20251225092642 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405729/20251225.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405729&amp;date=20251225&amp;timezone=None" />
+<tv date="20251225092643 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410308/20251225.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410308&amp;date=20251225&amp;timezone=None">
   <channel id="410308">
     <display-name lang="Hong Kong">Bloomberg Television</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128173252754492_70" />
   </channel>
-  <programme channel="410308" start="20251224010000 +0000" stop="20251224030000 +0000">
-    <title lang="zh">Bloomberg: The China Show 第1集</title>
-    <desc>Your definitive source for news and analysis on the world's second-biggest economy. Hosted by Yvonne Man and David Ingles.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410308" start="20251224030000 +0000" stop="20251224050000 +0000">
-    <title lang="zh">Insight With Haslinda Amin</title>
-    <desc>The definitive guide for global news audiences to get the complete picture on the biggest story of the day, through probing interviews and nuanced conversations.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410308" start="20251224050000 +0000" stop="20251224060000 +0000">
-    <title lang="zh">Bloomberg Horizons Middle East &amp; Africa</title>
-    <desc>Linking the market drivers from overnight in the US and across Asia into the region's trading day, with deep dive analysis of the top business, energy and geopolitical stories shaping decisions.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410308" start="20251224060000 +0000" stop="20251224070000 +0000">
-    <title lang="zh">Bloomberg Daybreak: Europe</title>
-    <desc>Live from London, we catch you up with overnight markets news from the US and Asia. Plus, we'll tell you what matters for investors in Europe, giving you insight before trading begins.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410308" start="20251224070000 +0000" stop="20251224090000 +0000">
-    <title lang="zh">Bloomberg: The Opening Trade</title>
-    <desc>Everything you need to know as markets open across Europe. We break down today's biggest stories and speak to guests with skin in the game. Hosted by Anna Edwards, Guy Johnson and Kriti Gupta.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410308" start="20251224090000 +0000" stop="20251224100000 +0000">
-    <title lang="zh">The Pulse With Francine Lacqua 第1集</title>
-    <desc>Conversations with high profile guests in the beating heart of global business, finance and politics. We go wherever the story is, bringing you exclusive interviews and market-moving scoops.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410308" start="20251224100000 +0000" stop="20251224110000 +0000">
-    <title lang="zh">Bloomberg Brief</title>
-    <desc>Delivering the market news, data and analysis you need to set your agenda.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410308" start="20251224110000 +0000" stop="20251224140000 +0000">
-    <title lang="zh">Bloomberg Surveillance</title>
-    <desc>Daily conversations with leaders and decision makers from Wall Street to Washington and beyond. Hosted by Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410308" start="20251224140000 +0000" stop="20251224160000 +0000">
-    <title lang="zh">Bloomberg Open Interest</title>
-    <desc>Bloomberg Open Interest with Matt Miller and Dani Burger - delivers the market-moving news you need to know to get a jump start on the US trading day.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410308" start="20251224160000 +0000" stop="20251224170000 +0000">
-    <title lang="zh">Bloomberg Tech</title>
-    <desc>The only daily live technology program with a focus on breaking news, market-moving reporting and analysis of global technology companies and stories.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410308" start="20251224170000 +0000" stop="20251224190000 +0000">
-    <title lang="zh">Bloomberg The Close</title>
-    <desc>Romaine Bostick and Katie Greifeld break down the day's top market-moving stories and trading action around the closing bell.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410308" start="20251224190000 +0000" stop="20251224203000 +0000">
-    <title lang="zh">Can't Look Away: The Case Against Social Media</title>
-    <desc>The documentary explores the real-life cases handled by the Social Media Victims Law Center, which assists parents of children who have died as a result of harmful internet activities.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410308" start="20251224203000 +0000" stop="20251224210000 +0000">
-    <title lang="zh">Bloomberg Chief Future Officer 第5季第1集 </title>
-    <desc>BBVA CFO Luisa Gomez Bravo spearheads the Spanish bank's efforts to drive growth through digital innovation, expansion in corporate investment banking.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410308" start="20251224210000 +0000" stop="20251224213000 +0000">
-    <title lang="zh">Bloomberg Chief Future Officer 第5季第2集 </title>
-    <desc>This episode profiles Duolingo CFO Matt Skaruppa, who has the world's leading language-learning app poised for a new phase of growth powered by AI.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410308" start="20251224213000 +0000" stop="20251224220000 +0000">
-    <title lang="zh">Bloomberg Chief Future Officer 第5季第3集 </title>
-    <desc>AT&amp;T CFO Pascal Desroches has partnered with CEO John Stankey to restructure the company around a core of fibre and 5G wireless connectivity.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410308" start="20251224220000 +0000" stop="20251224223000 +0000">
-    <title lang="zh">Bloomberg Chief Future Officer 第5季第7集 </title>
-    <desc>Gina Goetter is the CFO and COO of Hasbro. She's the architect of the company's transformation, diversifying its manufacturing footprint and investing in Hasbro's video game ambitions.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410308" start="20251224223000 +0000" stop="20251224230000 +0000">
-    <title lang="zh">Bloomberg Screentime: The Business Of Pop Culture</title>
-    <desc>At Screentime, the icons and innovators behind today's entertainment revolution take the stage. The agenda: AI's creative takeover, the streaming wars, and what's next for legacy media.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410308" start="20251224230000 +0000" stop="20251224233000 +0000">
-    <title lang="zh">Bloomberg New Economy: Thriving In An Age Of Extremes</title>
-    <desc>Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
-    <date>2025-12-24</date>
-  </programme>
-  <programme channel="410308" start="20251224233000 +0000" stop="20251225000000 +0000">
-    <title lang="zh">Best Of The Bloomberg Women, Money &amp; Power Event</title>
-    <desc>Highlights of the event which brings together the most influential female voices in finance from around the world to discuss the biggest themes facing the future of business.</desc>
-    <date>2025-12-24</date>
-  </programme>
   <programme channel="410308" start="20251225000000 +0000" stop="20251225010000 +0000">
     <title lang="zh">The Deal With Alex Rodriguez And Jason Kelly 第3季第2集 </title>
     <desc>Alex and Jason sit down with Mellody Hobson, co-CEO and president of Ariel Investments, to discuss her firm's newly launched fund, 'Project Level,' devoted to investing in women's sports.</desc>
@@ -2897,5 +2792,135 @@
     <desc>The documentary explores the real-life cases handled by the Social Media Victims Law Center, which assists parents of children who have died as a result of harmful internet activities.</desc>
     <date>2025-12-25</date>
   </programme>
-<!-- generated at 2025-12-24 18:27:32 UTC -->
+  <programme channel="410308" start="20251226003000 +0000" stop="20251226010000 +0000">
+    <title lang="zh">Bloomberg Chief Future Officer 第5季第3集 </title>
+    <desc>AT&amp;T CFO Pascal Desroches has partnered with CEO John Stankey to restructure the company around a core of fibre and 5G wireless connectivity.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410308" start="20251226010000 +0000" stop="20251226013000 +0000">
+    <title lang="zh">Bloomberg Chief Future Officer 第5季第7集 </title>
+    <desc>Gina Goetter is the CFO and COO of Hasbro. She's the architect of the company's transformation, diversifying its manufacturing footprint and investing in Hasbro's video game ambitions.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410308" start="20251226013000 +0000" stop="20251226020000 +0000">
+    <title lang="zh">Bloomberg Screentime: The Business Of Pop Culture</title>
+    <desc>At Screentime, the icons and innovators behind today's entertainment revolution take the stage. The agenda: AI's creative takeover, the streaming wars, and what's next for legacy media.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410308" start="20251226020000 +0000" stop="20251226023000 +0000">
+    <title lang="zh">Bloomberg New Economy: Thriving In An Age Of Extremes</title>
+    <desc>Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410308" start="20251226023000 +0000" stop="20251226030000 +0000">
+    <title lang="zh">Best Of The Bloomberg Women, Money &amp; Power Event</title>
+    <desc>Highlights of the event which brings together the most influential female voices in finance from around the world to discuss the biggest themes facing the future of business.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410308" start="20251226030000 +0000" stop="20251226040000 +0000">
+    <title lang="zh">The Deal With Alex Rodriguez And Jason Kelly 第3季第2集 </title>
+    <desc>Alex and Jason sit down with Mellody Hobson, co-CEO and president of Ariel Investments, to discuss her firm's newly launched fund, 'Project Level,' devoted to investing in women's sports.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410308" start="20251226040000 +0000" stop="20251226050000 +0000">
+    <title lang="zh">The Deal With Alex Rodriguez And Jason Kelly 第3季第3集 </title>
+    <desc>The Commanders DC Deal with Josh Harris. 26North founder and Washington Commanders owner Josh Harris talks about the team's recent stadium deal in DC and his mindset on team ownership.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410308" start="20251226050000 +0000" stop="20251226060000 +0000">
+    <title lang="zh">The Circuit 第3季第8集 </title>
+    <desc>Meghan, the Duchess of Sussex. Meghan, the Duchess of Sussex, opens up in a wide-ranging interview about life beyond the royal spotlight and her latest ventures in business and entertainment.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410308" start="20251226060000 +0000" stop="20251226063000 +0000">
+    <title lang="zh">The Circuit 第4季第2集 </title>
+    <desc>Emily meets Snap CEO Evan Spiegel in Los Angeles for a conversation about his entrepreneurial journey, building Snap and his latest consumer hardware bet.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410308" start="20251226063000 +0000" stop="20251226070000 +0000">
+    <title lang="zh">The Circuit 第4季第3集 </title>
+    <desc>Emily Chang meets Alexis Ohanian at Athlos NYC, an annual women's track and field event. They discuss his athletics portfolio, venture career and what really happened when he left Reddit.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410308" start="20251226070000 +0000" stop="20251226073000 +0000">
+    <title lang="zh">The Circuit 第4季第4集 </title>
+    <desc>Emily meets Reese Witherspoon and the Hello Sunshine executive team to discuss the company's founding mission and what's next for Hollywood.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410308" start="20251226073000 +0000" stop="20251226080000 +0000">
+    <title lang="zh">The Circuit 第4季第5集 -Dana Walden, Disney Entertainment Co</title>
+    <desc>Emily meets Disney Entertainment Co-Chair Dana Walden and a cast of Disney stars for an inside look at the entertainment giant's global streaming and TV operations.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410308" start="20251226080000 +0000" stop="20251226093000 +0000">
+    <title lang="zh">Can't Look Away: The Case Against Social Media</title>
+    <desc>The documentary explores the real-life cases handled by the Social Media Victims Law Center, which assists parents of children who have died as a result of harmful internet activities.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410308" start="20251226093000 +0000" stop="20251226100000 +0000">
+    <title lang="zh">Bloomberg New Economy: Thriving In An Age Of Extremes</title>
+    <desc>Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410308" start="20251226100000 +0000" stop="20251226110000 +0000">
+    <title lang="zh">Is Europe Too Late To Compete In The Chip War?</title>
+    <desc>Bloomberg hosts a debate taking a close look at Europe's role in the global chip race. Hosted by Caroline Hyde. In partnership with Open to Debate.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410308" start="20251226110000 +0000" stop="20251226140000 +0000">
+    <title lang="zh">Bloomberg Surveillance</title>
+    <desc>Daily conversations with leaders and decision makers from Wall Street to Washington and beyond. Hosted by Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410308" start="20251226140000 +0000" stop="20251226160000 +0000">
+    <title lang="zh">Bloomberg Markets</title>
+    <desc>Bloomberg Markets is focused on bringing you the most important global business and breaking markets news and information as it happens.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410308" start="20251226160000 +0000" stop="20251226170000 +0000">
+    <title lang="zh">Bloomberg Markets: European Close</title>
+    <desc>Analysing the major market moving stories across the day in Europe, hearing from the biggest newsmakers, and showcasing the unrivalled expertise of Bloomberg News.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410308" start="20251226170000 +0000" stop="20251226180000 +0000">
+    <title lang="zh">Bloomberg: Balance Of Power</title>
+    <desc>Bloomberg Balance of Power focuses on politics and policies on Capitol Hill, in President Trump's administration, the federal agencies and the courts.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410308" start="20251226180000 +0000" stop="20251226183000 +0000">
+    <title lang="zh">Bloomberg Real Yield</title>
+    <desc>A weekly show on fixed income with the biggest names in the field, covering sovereign and credit markets as investors grapple with fiscal, monetary and financial factors.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410308" start="20251226183000 +0000" stop="20251226190000 +0000">
+    <title lang="zh">Bloomberg Markets</title>
+    <desc>Bloomberg Markets is focused on bringing you the most important global business and breaking markets news and information as it happens.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410308" start="20251226190000 +0000" stop="20251226213000 +0000">
+    <title lang="zh">Bloomberg Markets: The Close</title>
+    <desc>Romaine Bostick, Alix Steel and Scarlet Fu break down the day's top stories and trading action around the close.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410308" start="20251226213000 +0000" stop="20251226220000 +0000">
+    <title lang="zh">Bloomberg Markets: What'd You Miss?</title>
+    <desc>Bloomberg TV's flagship markets programme, providing key insights, analysis and context at the market close. It's a highly intelligent look at the markets that misses nothing.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410308" start="20251226220000 +0000" stop="20251226230000 +0000">
+    <title lang="zh">Bloomberg Technology</title>
+    <desc>The only daily live technology program with a focus on breaking news, market-moving reporting and analysis of global technology companies and stories.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410308" start="20251226230000 +0000" stop="20251227000000 +0000">
+    <title lang="zh">Bloomberg Wall Street Week</title>
+    <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
+    <date>2025-12-26</date>
+  </programme>
+  <programme channel="410308" start="20251227000000 +0000" stop="20251228000000 +0000">
+    <title lang="zh">Leaders With Lacqua</title>
+    <desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+    <date>2025-12-27</date>
+  </programme>
+<!-- generated at 2025-12-25 01:26:44 UTC -->
 </tv>
