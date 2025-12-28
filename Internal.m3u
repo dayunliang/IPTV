@@ -1,14 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1984" tvg-name="上海新闻综合" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海",上视新闻频道
 http://192.168.12.254:58888/udp/233.18.204.57:5140
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海 卫视",东方卫视
 #http://192.168.12.254:58888/udp/233.18.204.51:5140
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视4K
 http://192.168.12.254:58888/udp/233.18.204.224:5140
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",上海都市频道
 http://192.168.12.254:58888/udp/233.18.204.53:5140
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实人文"" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实
-http://192.168.12.254:58888/udp/239.45.3.212:5140
 #EXTINF:-1 tvg-id="1986" tvg-name="上视东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="上海",东方影视
 http://192.168.12.254:58888/udp/233.18.204.55:5140
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海",第一财经
@@ -19,8 +17,6 @@ http://192.168.12.254:58888/udp/239.45.0.17:5140#http://192.168.12.254:58888/udp
 http://192.168.12.254:58888/udp/233.18.204.65:5140
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海",哈哈炫动
 http://192.168.12.254:58888/udp/233.18.204.54:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="上海",上视外语频道
-http://192.168.12.254:58888/udp/239.45.1.127:5140
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",上海都市剧场
 http://192.168.12.254:58888/udp/233.18.204.48:5140
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场
