@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="1984" tvg-name="上海新闻综合" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海",上视新闻频道
 http://192.168.12.254:58888/udp/233.18.204.57:5140
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海",东方卫视
-#http://192.168.12.254:58888/udp/233.18.204.51:5140
+http://192.168.12.254:58888/udp/233.18.204.51:5140
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海",东方卫视4K
 http://192.168.12.254:58888/udp/233.18.204.224:5140
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",上海都市频道
