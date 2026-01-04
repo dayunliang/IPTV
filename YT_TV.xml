@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><tv>
-<tv date="20260104090529 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410355/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410355&amp;date=20260104&amp;timezone=None">
+<tv date="20260104142859 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410355/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410355&amp;date=20260104&amp;timezone=None">
   <channel id="410355">
     <display-name lang="Hong Kong">鳳凰衛視資訊台</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/29/20250129074347363304_81" />
@@ -644,7 +644,7 @@
     <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
     <date>2026-01-06</date>
   </programme>
-<tv date="20260104080018 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20260104&amp;timezone=None">
+<tv date="20260104142900 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20260104&amp;timezone=None">
   <channel id="370177">
     <display-name lang="Taiwan">中天新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110909545808_36.png" />
@@ -894,8 +894,8 @@
     <desc />
     <date>2026-01-06</date>
   </programme>
-<tv date="20260104094625 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20260104&amp;timezone=None" />
-<tv date="20260104083815 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370183/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370183&amp;date=20260104&amp;timezone=None">
+<tv date="20260104142900 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20260104&amp;timezone=None" />
+<tv date="20260104141114 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370183/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370183&amp;date=20260104&amp;timezone=None">
   <channel id="370183">
     <display-name lang="Taiwan">TVBS</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110950648129_24.png" />
@@ -1145,8 +1145,8 @@
     <desc />
     <date>2026-01-06</date>
   </programme>
-<tv date="20260104094625 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20260104&amp;timezone=None" />
-<tv date="20260104094626 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20260104&amp;timezone=None">
+<tv date="20260104133411 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20260104&amp;timezone=None" />
+<tv date="20260104142901 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20260104&amp;timezone=None">
   <channel id="370173">
     <display-name lang="Taiwan">三立新聞iNEWS</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110842913601_69.png" />
@@ -1376,7 +1376,7 @@
     <desc />
     <date>2026-01-06</date>
   </programme>
-<tv date="20260104090736 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20260104&amp;timezone=None">
+<tv date="20260104130740 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20260104&amp;timezone=None">
   <channel id="370172">
     <display-name lang="Taiwan">民視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110836326598_60.png" />
@@ -1626,10 +1626,10 @@
     <desc />
     <date>2026-01-06</date>
   </programme>
-<tv date="20260104082857 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369324/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369324&amp;date=20260104&amp;timezone=None" />
-<tv date="20260104094627 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/415097/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=415097&amp;date=20260104&amp;timezone=None" />
-<tv date="20260104094627 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369318/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369318&amp;date=20260104&amp;timezone=None" />
-<tv date="20260104094628 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370171/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370171&amp;date=20260104&amp;timezone=None">
+<tv date="20260104140836 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369324/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369324&amp;date=20260104&amp;timezone=None" />
+<tv date="20260104142902 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/415097/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=415097&amp;date=20260104&amp;timezone=None" />
+<tv date="20260104142902 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369318/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369318&amp;date=20260104&amp;timezone=None" />
+<tv date="20260104142904 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370171/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370171&amp;date=20260104&amp;timezone=None">
   <channel id="370171">
     <display-name lang="Taiwan">華視新聞</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110829650925_83.png" />
@@ -1869,234 +1869,14 @@
     <desc />
     <date>2026-01-06</date>
   </programme>
-<tv date="20260104090531 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335029/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335029&amp;date=20260104&amp;timezone=None" />
-<tv date="20260104094628 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369749/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369749&amp;date=20260104&amp;timezone=None" />
-<tv date="20260104094629 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403819/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403819&amp;date=20260104&amp;timezone=None" />
-<tv date="20260104075857 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/412098/20260103.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=412098&amp;date=20260103&amp;timezone=None">
+<tv date="20260104130033 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335029/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335029&amp;date=20260104&amp;timezone=None" />
+<tv date="20260104142905 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369749/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369749&amp;date=20260104&amp;timezone=None" />
+<tv date="20260104142905 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403819/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403819&amp;date=20260104&amp;timezone=None" />
+<tv date="20260104130952 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/412098/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=412098&amp;date=20260104&amp;timezone=None">
   <channel id="412098">
     <display-name lang="Singapore">BBC World News HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042100424424_78.png" />
   </channel>
-  <programme channel="412098" start="20260103000000 +0000" stop="20260103003000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103003000 +0000" stop="20260103010000 +0000">
-    <title lang="zh">Rising Seas: Can Tech Help Us Prepare?</title>
-    <desc>Tech Now meets the scientists on a quest to improve our predictions of global sea level rise and the impacts it could have.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103010000 +0000" stop="20260103013000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103013000 +0000" stop="20260103020000 +0000">
-    <title lang="zh">Uzbekistan: The Succulent Steppes</title>
-    <desc>Food writer Nick Kwek takes a gastronomic journey through Uzbekistan, a country steeped in Silk Road legacy and rapidly transforming.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103020000 +0000" stop="20260103023000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103023000 +0000" stop="20260103030000 +0000">
-    <title lang="zh">Shock Treatment: The Gay Therapy Scandal</title>
-    <desc>New evidence reveals how the NHS subjected hundreds of LGBT+ people to controversial electric shock therapies. Survivors now want answers on how it was allowed to happen.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103030000 +0000" stop="20260103033000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103033000 +0000" stop="20260103040000 +0000">
-    <title lang="zh">How to Make a Hit TV Show</title>
-    <desc>From The Traitors to Pointless, Hunted to Gogglebox, four top creatives reveal how the biggest unscripted TV shows get made.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103040000 +0000" stop="20260103043000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103043000 +0000" stop="20260103050000 +0000">
-    <title lang="zh">Mozambique: Gorongosa's Great Comeback - Part 1</title>
-    <desc>Emeline Nsingi Nkosi visits Gorongosa National Park in Mozambique, where a stunning recovery in animal numbers has made it a remarkable safari destination once more.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103050000 +0000" stop="20260103053000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103053000 +0000" stop="20260103060000 +0000">
-    <title lang="zh">Is AI an Existential Risk?</title>
-    <desc>AI Decoded is joined by AI Safety Guru, Connor Leahy who helps to explain and explore the unintended risks and also benefits of unregulated artificial intelligence.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103060000 +0000" stop="20260103063000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103063000 +0000" stop="20260103070000 +0000">
-    <title lang="zh">Rising Seas: Can Tech Help Us Prepare?</title>
-    <desc>Tech Now meets the scientists on a quest to improve our predictions of global sea level rise and the impacts it could have.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103070000 +0000" stop="20260103073000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103073000 +0000" stop="20260103080000 +0000">
-    <title lang="zh">Uzbekistan: The Succulent Steppes</title>
-    <desc>Food writer Nick Kwek takes a gastronomic journey through Uzbekistan, a country steeped in Silk Road legacy and rapidly transforming.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103080000 +0000" stop="20260103083000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103083000 +0000" stop="20260103090000 +0000">
-    <title lang="zh">Catapult Crime: Killing for Fun</title>
-    <desc>From child's toy to deadly weapon - footage of horrific catapult attacks on UK wildlife is being widely shared on social media. We meet the teams on the front line of catapult crime.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103090000 +0000" stop="20260103100000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103100000 +0000" stop="20260103103000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103103000 +0000" stop="20260103110000 +0000">
-    <title lang="zh">Talking Business</title>
-    <desc>As AI-generated tracks top the charts and streaming platforms are deluged with AI made music - is the industry being taken over by artificial intelligence?</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103110000 +0000" stop="20260103113000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103113000 +0000" stop="20260103120000 +0000">
-    <title lang="zh">Flying in a Storm</title>
-    <desc>Ever wondered how pilots keep so cool when landing a plane in a storm? We look at how the aviation industry handles extreme weather and turbulence, from flight simulators to keeping passengers calm.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103120000 +0000" stop="20260103123000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103123000 +0000" stop="20260103130000 +0000">
-    <title lang="zh">Margaret Atwood</title>
-    <desc>John Wilson talks to award-winning author Margaret Atwood about the experiences that shaped her writing.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103130000 +0000" stop="20260103133000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103133000 +0000" stop="20260103140000 +0000">
-    <title lang="zh">Is AI an Existential Risk?</title>
-    <desc>AI Decoded is joined by AI Safety Guru, Connor Leahy who helps to explain and explore the unintended risks and also benefits of unregulated artificial intelligence.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103140000 +0000" stop="20260103143000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103143000 +0000" stop="20260103150000 +0000">
-    <title lang="zh">How to Make a Hit TV Show</title>
-    <desc>From The Traitors to Pointless, Hunted to Gogglebox, four top creatives reveal how the biggest unscripted TV shows get made.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103150000 +0000" stop="20260103153000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103153000 +0000" stop="20260103160000 +0000">
-    <title lang="zh">Shock Treatment: The Gay Therapy Scandal</title>
-    <desc>New evidence reveals how the NHS subjected hundreds of LGBT+ people to controversial electric shock therapies. Survivors now want answers on how it was allowed to happen.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103160000 +0000" stop="20260103163000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103163000 +0000" stop="20260103170000 +0000">
-    <title lang="zh">Flying in a Storm</title>
-    <desc>Ever wondered how pilots keep so cool when landing a plane in a storm? We look at how the aviation industry handles extreme weather and turbulence, from flight simulators to keeping passengers calm.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103170000 +0000" stop="20260103180000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103180000 +0000" stop="20260103183000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103183000 +0000" stop="20260103190000 +0000">
-    <title lang="zh">Rising Seas: Can Tech Help Us Prepare?</title>
-    <desc>Tech Now meets the scientists on a quest to improve our predictions of global sea level rise and the impacts it could have.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103190000 +0000" stop="20260103193000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103193000 +0000" stop="20260103200000 +0000">
-    <title lang="zh">Mozambique: Gorongosa's Great Comeback - Part 1</title>
-    <desc>Emeline Nsingi Nkosi visits Gorongosa National Park in Mozambique, where a stunning recovery in animal numbers has made it a remarkable safari destination once more.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103200000 +0000" stop="20260103203000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103203000 +0000" stop="20260103210000 +0000">
-    <title lang="zh">Is AI an Existential Risk?</title>
-    <desc>AI Decoded is joined by AI Safety Guru, Connor Leahy who helps to explain and explore the unintended risks and also benefits of unregulated artificial intelligence.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103210000 +0000" stop="20260103220000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103220000 +0000" stop="20260103230000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103230000 +0000" stop="20260103233000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-03</date>
-  </programme>
-  <programme channel="412098" start="20260103233000 +0000" stop="20260104000000 +0000">
-    <title lang="zh">Talking Business</title>
-    <desc>As AI-generated tracks top the charts and streaming platforms are deluged with AI made music - is the industry being taken over by artificial intelligence?</desc>
-    <date>2026-01-03</date>
-  </programme>
   <programme channel="412098" start="20260104000000 +0000" stop="20260104003000 +0000">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
@@ -2322,13 +2102,278 @@
     <desc>From child's toy to deadly weapon - footage of horrific catapult attacks on UK wildlife is being widely shared on social media. We meet the teams on the front line of catapult crime.</desc>
     <date>2026-01-04</date>
   </programme>
-  <programme channel="412098" start="20260105000000 +0000" stop="20260106000000 +0000">
+  <programme channel="412098" start="20260105000000 +0000" stop="20260105003000 +0000">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2026-01-05</date>
   </programme>
-<tv date="20260104094630 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405729/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405729&amp;date=20260104&amp;timezone=None" />
-<tv date="20260104094630 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410308/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410308&amp;date=20260104&amp;timezone=None">
+  <programme channel="412098" start="20260105003000 +0000" stop="20260105010000 +0000">
+    <title lang="zh">How to Make a Hit TV Show</title>
+    <desc>From The Traitors to Pointless, Hunted to Gogglebox, four top creatives reveal how the biggest unscripted TV shows get made.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105010000 +0000" stop="20260105013000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105013000 +0000" stop="20260105020000 +0000">
+    <title lang="zh">Shock Treatment: The Gay Therapy Scandal</title>
+    <desc>New evidence reveals how the NHS subjected hundreds of LGBT+ people to controversial electric shock therapies. Survivors now want answers on how it was allowed to happen.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105020000 +0000" stop="20260105023000 +0000">
+    <title lang="zh">Newsday</title>
+    <desc>Live from Singapore, the latest international news from the BBC.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105023000 +0000" stop="20260105024500 +0000">
+    <title lang="zh">Business Today</title>
+    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105024500 +0000" stop="20260105030000 +0000">
+    <title lang="zh">BBC Sport</title>
+    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105030000 +0000" stop="20260105033000 +0000">
+    <title lang="zh">Newsday</title>
+    <desc>Live from Singapore, the latest international news from the BBC.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105033000 +0000" stop="20260105034500 +0000">
+    <title lang="zh">Business Today</title>
+    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105034500 +0000" stop="20260105040000 +0000">
+    <title lang="zh">BBC Sport</title>
+    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105040000 +0000" stop="20260105043000 +0000">
+    <title lang="zh">Newsday</title>
+    <desc>Live from Singapore, the latest international news from the BBC.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105043000 +0000" stop="20260105044500 +0000">
+    <title lang="zh">Business Today</title>
+    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105044500 +0000" stop="20260105050000 +0000">
+    <title lang="zh">BBC Sport</title>
+    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105050000 +0000" stop="20260105053000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105053000 +0000" stop="20260105060000 +0000">
+    <title lang="zh">Business Today</title>
+    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105060000 +0000" stop="20260105063000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105063000 +0000" stop="20260105070000 +0000">
+    <title lang="zh">Business Today</title>
+    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105070000 +0000" stop="20260105073000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105073000 +0000" stop="20260105080000 +0000">
+    <title lang="zh">Business Today</title>
+    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105080000 +0000" stop="20260105083000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105083000 +0000" stop="20260105090000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105090000 +0000" stop="20260105093000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105093000 +0000" stop="20260105100000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105100000 +0000" stop="20260105103000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105103000 +0000" stop="20260105110000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105110000 +0000" stop="20260105113000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105113000 +0000" stop="20260105114500 +0000">
+    <title lang="zh">Business Today</title>
+    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105114500 +0000" stop="20260105120000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105120000 +0000" stop="20260105123000 +0000">
+    <title lang="zh">BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105123000 +0000" stop="20260105130000 +0000">
+    <title lang="zh">BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105130000 +0000" stop="20260105133000 +0000">
+    <title lang="zh">BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105133000 +0000" stop="20260105140000 +0000">
+    <title lang="zh">BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105140000 +0000" stop="20260105143000 +0000">
+    <title lang="zh">BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105143000 +0000" stop="20260105144500 +0000">
+    <title lang="zh">Business Today - NYSE Opening Bell</title>
+    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from New York and around the world.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105144500 +0000" stop="20260105150000 +0000">
+    <title lang="zh">BBC News Now</title>
+    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105150000 +0000" stop="20260105153000 +0000">
+    <title lang="zh">Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105153000 +0000" stop="20260105160000 +0000">
+    <title lang="zh">Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105160000 +0000" stop="20260105163000 +0000">
+    <title lang="zh">Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105163000 +0000" stop="20260105164500 +0000">
+    <title lang="zh">Business Today</title>
+    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105164500 +0000" stop="20260105170000 +0000">
+    <title lang="zh">Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105170000 +0000" stop="20260105173000 +0000">
+    <title lang="zh">Verified Live</title>
+    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105173000 +0000" stop="20260105180000 +0000">
+    <title lang="zh">Focus on Africa</title>
+    <desc>The biggest African and international stories from the BBC.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105180000 +0000" stop="20260105183000 +0000">
+    <title lang="zh">The World Today with Maryam Moshiri</title>
+    <desc>Watch the best of the BBC's journalism from around the world.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105183000 +0000" stop="20260105190000 +0000">
+    <title lang="zh">The World Today with Maryam Moshiri</title>
+    <desc>Watch the best of the BBC's journalism from around the world.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105190000 +0000" stop="20260105193000 +0000">
+    <title lang="zh">The World Today with Maryam Moshiri</title>
+    <desc>Watch the best of the BBC's journalism from around the world.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105193000 +0000" stop="20260105200000 +0000">
+    <title lang="zh">The World Today with Maryam Moshiri</title>
+    <desc>Watch the best of the BBC's journalism from around the world.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105200000 +0000" stop="20260105203000 +0000">
+    <title lang="zh">The Context</title>
+    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105203000 +0000" stop="20260105210000 +0000">
+    <title lang="zh">The Context</title>
+    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105210000 +0000" stop="20260105213000 +0000">
+    <title lang="zh">The Context USA</title>
+    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105213000 +0000" stop="20260105220000 +0000">
+    <title lang="zh">The Context USA</title>
+    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105220000 +0000" stop="20260105223000 +0000">
+    <title lang="zh">BBC World News America</title>
+    <desc>In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105223000 +0000" stop="20260105230000 +0000">
+    <title lang="zh">Newsnight</title>
+    <desc>Insights and global interviews on the crucial news stories of the day.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260105230000 +0000" stop="20260106000000 +0000">
+    <title lang="zh">BBC World News America</title>
+    <desc>In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
+    <date>2026-01-05</date>
+  </programme>
+  <programme channel="412098" start="20260106000000 +0000" stop="20260107000000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-06</date>
+  </programme>
+<tv date="20260104142906 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405729/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405729&amp;date=20260104&amp;timezone=None" />
+<tv date="20260104142906 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410308/20260104.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410308&amp;date=20260104&amp;timezone=None">
   <channel id="410308">
     <display-name lang="Hong Kong">Bloomberg Television</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128173252754492_70" />
@@ -2613,5 +2658,5 @@
     <desc>Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
     <date>2026-01-05</date>
   </programme>
-<!-- generated at 2026-01-04 01:46:31 UTC -->
+<!-- generated at 2026-01-04 06:29:06 UTC -->
 </tv>
