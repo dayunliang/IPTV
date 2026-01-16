@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><tv>
-<tv date="20260116083738 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410355/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410355&amp;date=20260116&amp;timezone=None">
+<tv date="20260116130104 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410355/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410355&amp;date=20260116&amp;timezone=None">
   <channel id="410355">
     <display-name lang="Hong Kong">鳳凰衛視資訊台</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/29/20250129074347363304_81" />
@@ -654,131 +654,11 @@
     <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
     <date>2026-01-18</date>
   </programme>
-<tv date="20260116075342 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20260115.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20260115&amp;timezone=None">
+<tv date="20260116132142 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20260116&amp;timezone=None">
   <channel id="370177">
     <display-name lang="Taiwan">中天新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110909545808_36.png" />
   </channel>
-  <programme channel="370177" start="20260115000000 +0000" stop="20260115010000 +0000">
-    <title lang="zh">08中天晨報</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370177" start="20260115010000 +0000" stop="20260115020000 +0000">
-    <title lang="zh">09中天新聞</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370177" start="20260115020000 +0000" stop="20260115030000 +0000">
-    <title lang="zh">10中天新聞</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370177" start="20260115030000 +0000" stop="20260115040000 +0000">
-    <title lang="zh">11中天新聞</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370177" start="20260115040000 +0000" stop="20260115050000 +0000">
-    <title lang="zh">12午間新聞</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370177" start="20260115050000 +0000" stop="20260115060000 +0000">
-    <title lang="zh">13午間新聞</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370177" start="20260115060000 +0000" stop="20260115070000 +0000">
-    <title lang="zh">14大新聞大爆卦</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370177" start="20260115070000 +0000" stop="20260115080000 +0000">
-    <title lang="zh">15大新聞大爆卦</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370177" start="20260115080000 +0000" stop="20260115090000 +0000">
-    <title lang="zh">16中天新聞</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370177" start="20260115090000 +0000" stop="20260115100000 +0000">
-    <title lang="zh">17中天新聞</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370177" start="20260115100000 +0000" stop="20260115110000 +0000">
-    <title lang="zh">18中天辣晚報</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370177" start="20260115110000 +0000" stop="20260115120000 +0000">
-    <title lang="zh">19中天辣晚報</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370177" start="20260115120000 +0000" stop="20260115130000 +0000">
-    <title lang="zh">20頭條開講</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370177" start="20260115130000 +0000" stop="20260115140000 +0000">
-    <title lang="zh">21頭條開講</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370177" start="20260115140000 +0000" stop="20260115150000 +0000">
-    <title lang="zh">22中天SUPER夜線</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370177" start="20260115150000 +0000" stop="20260115160000 +0000">
-    <title lang="zh">23全球大視野</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370177" start="20260115160000 +0000" stop="20260115170000 +0000">
-    <title lang="zh">18中天辣晚報</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370177" start="20260115170000 +0000" stop="20260115180000 +0000">
-    <title lang="zh">19中天辣晚報</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370177" start="20260115180000 +0000" stop="20260115190000 +0000">
-    <title lang="zh">20頭條開講</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370177" start="20260115190000 +0000" stop="20260115200000 +0000">
-    <title lang="zh">21頭條開講</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370177" start="20260115200000 +0000" stop="20260115210000 +0000">
-    <title lang="zh">22中天SUPER夜線</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370177" start="20260115210000 +0000" stop="20260115220000 +0000">
-    <title lang="zh">23全球大視野</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370177" start="20260115220000 +0000" stop="20260115230000 +0000">
-    <title lang="zh">06中天晨報</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370177" start="20260115230000 +0000" stop="20260116000000 +0000">
-    <title lang="zh">07中天晨報</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
   <programme channel="370177" start="20260116000000 +0000" stop="20260116010000 +0000">
     <title lang="zh">08中天晨報</title>
     <desc />
@@ -899,128 +779,143 @@
     <desc />
     <date>2026-01-16</date>
   </programme>
-  <programme channel="370177" start="20260117000000 +0000" stop="20260118000000 +0000">
+  <programme channel="370177" start="20260117000000 +0000" stop="20260117010000 +0000">
     <title lang="zh">08中天晨報</title>
     <desc />
     <date>2026-01-17</date>
   </programme>
-<tv date="20260116093916 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20260116&amp;timezone=None" />
-<tv date="20260116083502 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370183/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370183&amp;date=20260116&amp;timezone=None">
+  <programme channel="370177" start="20260117010000 +0000" stop="20260117020000 +0000">
+    <title lang="zh">09中天新聞</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370177" start="20260117020000 +0000" stop="20260117030000 +0000">
+    <title lang="zh">10中天新聞</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370177" start="20260117030000 +0000" stop="20260117040000 +0000">
+    <title lang="zh">11中天新聞</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370177" start="20260117040000 +0000" stop="20260117050000 +0000">
+    <title lang="zh">12午間新聞</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370177" start="20260117050000 +0000" stop="20260117060000 +0000">
+    <title lang="zh">13午間新聞</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370177" start="20260117060000 +0000" stop="20260117070000 +0000">
+    <title lang="zh">14周末大爆卦</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370177" start="20260117070000 +0000" stop="20260117080000 +0000">
+    <title lang="zh">15周末大爆卦</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370177" start="20260117080000 +0000" stop="20260117090000 +0000">
+    <title lang="zh">16全球大爆卦</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370177" start="20260117090000 +0000" stop="20260117100000 +0000">
+    <title lang="zh">17中天新聞</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370177" start="20260117100000 +0000" stop="20260117110000 +0000">
+    <title lang="zh">18中天辣晚報</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370177" start="20260117110000 +0000" stop="20260117120000 +0000">
+    <title lang="zh">19中天辣晚報</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370177" start="20260117120000 +0000" stop="20260117130000 +0000">
+    <title lang="zh">20中天新聞</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370177" start="20260117130000 +0000" stop="20260117140000 +0000">
+    <title lang="zh">21前進戰略高地</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370177" start="20260117140000 +0000" stop="20260117150000 +0000">
+    <title lang="zh">22前進戰略高地</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370177" start="20260117150000 +0000" stop="20260117160000 +0000">
+    <title lang="zh">23cti網路論壇</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370177" start="20260117160000 +0000" stop="20260117170000 +0000">
+    <title lang="zh">18中天辣晚報</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370177" start="20260117170000 +0000" stop="20260117180000 +0000">
+    <title lang="zh">19中天辣晚報</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370177" start="20260117180000 +0000" stop="20260117190000 +0000">
+    <title lang="zh">20中天新聞</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370177" start="20260117190000 +0000" stop="20260117200000 +0000">
+    <title lang="zh">21前進戰略高地</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370177" start="20260117200000 +0000" stop="20260117210000 +0000">
+    <title lang="zh">22前進戰略高地</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370177" start="20260117210000 +0000" stop="20260117220000 +0000">
+    <title lang="zh">cti talk網路論壇</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370177" start="20260117220000 +0000" stop="20260117230000 +0000">
+    <title lang="zh">06中天晨報</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370177" start="20260117230000 +0000" stop="20260118000000 +0000">
+    <title lang="zh">07中天晨報</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370177" start="20260118000000 +0000" stop="20260119000000 +0000">
+    <title lang="zh">08中天晨報</title>
+    <desc />
+    <date>2026-01-18</date>
+  </programme>
+<tv date="20260116143138 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20260116&amp;timezone=None" />
+<tv date="20260116141243 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370183/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370183&amp;date=20260116&amp;timezone=None">
   <channel id="370183">
     <display-name lang="Taiwan">TVBS</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110950648129_24.png" />
   </channel>
-<tv date="20260116080007 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20260116&amp;timezone=None" />
-<tv date="20260116075339 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20260115.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20260115&amp;timezone=None">
+<tv date="20260116143138 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20260116&amp;timezone=None" />
+<tv date="20260116132152 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20260116&amp;timezone=None">
   <channel id="370173">
     <display-name lang="Taiwan">三立新聞iNEWS</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110842913601_69.png" />
   </channel>
-  <programme channel="370173" start="20260115000000 +0000" stop="20260115010000 +0000">
-    <title lang="zh">iNEWS財經早報(普)(N)</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370173" start="20260115010000 +0000" stop="20260115015500 +0000">
-    <title lang="zh">iNEWS0900整點新聞(普)(N)</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370173" start="20260115015500 +0000" stop="20260115025500 +0000">
-    <title lang="zh">iNEWS1000整點新聞(普)(N)</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370173" start="20260115025500 +0000" stop="20260115035500 +0000">
-    <title lang="zh">iNEWS1100整點新聞(普)(N)</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370173" start="20260115035500 +0000" stop="20260115060000 +0000">
-    <title lang="zh">iNEWS財經午報(普)(N)</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370173" start="20260115060000 +0000" stop="20260115063000 +0000">
-    <title lang="zh">台股大贏家(普)(N)</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370173" start="20260115063000 +0000" stop="20260115070000 +0000">
-    <title lang="zh">iNEWS1430整點新聞(普)(N)</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370173" start="20260115070000 +0000" stop="20260115080000 +0000">
-    <title lang="zh">智富食代(重)(普)(N)</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370173" start="20260115080000 +0000" stop="20260115090000 +0000">
-    <title lang="zh">iNEWS 1600 整點新聞(普)(N)</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370173" start="20260115090000 +0000" stop="20260115100000 +0000">
-    <title lang="zh">1700iNEWS整點新聞(普)(N)</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370173" start="20260115100000 +0000" stop="20260115115500 +0000">
-    <title lang="zh">1819錢進大頭條(普)(N)</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370173" start="20260115115500 +0000" stop="20260115123000 +0000">
-    <title lang="zh">iNEWS大世界(普)(N)</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370173" start="20260115123000 +0000" stop="20260115130000 +0000">
-    <title lang="zh">全民i彩券(首)(普)(N)</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370173" start="20260115130000 +0000" stop="20260115150000 +0000">
-    <title lang="zh">關我什麼事(首)(普)(N)</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370173" start="20260115150000 +0000" stop="20260115160000 +0000">
-    <title lang="zh">2300iNEWS財經夜世界(普)(N)</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370173" start="20260115160000 +0000" stop="20260115180000 +0000">
-    <title lang="zh">關我什麼事(重)(普)(N)</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370173" start="20260115180000 +0000" stop="20260115190000 +0000">
-    <title lang="zh">2300iNEWS財經夜世界(重)(普)(N)</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370173" start="20260115190000 +0000" stop="20260115210000 +0000">
-    <title lang="zh">1819錢進大頭條(重)(普)(N)</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370173" start="20260115210000 +0000" stop="20260115220000 +0000">
-    <title lang="zh">iNEWS 1600 整點新聞(重)(普)(N)</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370173" start="20260115220000 +0000" stop="20260115230000 +0000">
-    <title lang="zh">2300iNEWS財經夜世界(重)(普)(N)</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370173" start="20260115230000 +0000" stop="20260116000000 +0000">
-    <title lang="zh">iNEWS財經早報(普)(N)</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
   <programme channel="370173" start="20260116000000 +0000" stop="20260116010000 +0000">
     <title lang="zh">iNEWS財經早報(普)(N)</title>
     <desc />
@@ -1126,12 +1021,132 @@
     <desc />
     <date>2026-01-16</date>
   </programme>
-  <programme channel="370173" start="20260117000000 +0000" stop="20260118000000 +0000">
+  <programme channel="370173" start="20260117000000 +0000" stop="20260117010000 +0000">
     <title lang="zh">全球新食力(重)(普)(N)</title>
     <desc />
     <date>2026-01-17</date>
   </programme>
-<tv date="20260116085651 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20260116&amp;timezone=None">
+  <programme channel="370173" start="20260117010000 +0000" stop="20260117020000 +0000">
+    <title lang="zh">祝你健康(重)(普)(N)</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370173" start="20260117020000 +0000" stop="20260117030000 +0000">
+    <title lang="zh">台灣新思路(重)(普)(N)</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370173" start="20260117030000 +0000" stop="20260117035500 +0000">
+    <title lang="zh">iNEWS1100整點新聞(普)(N)</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370173" start="20260117035500 +0000" stop="20260117045500 +0000">
+    <title lang="zh">iNEWS財經午報(普)(N)</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370173" start="20260117045500 +0000" stop="20260117055500 +0000">
+    <title lang="zh">吃貨請跟上(首)(普)(N)</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370173" start="20260117055500 +0000" stop="20260117065500 +0000">
+    <title lang="zh">第54分局(重)(普)(N)</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370173" start="20260117065500 +0000" stop="20260117075500 +0000">
+    <title lang="zh">好宅敲敲門(重)(普)(N)</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370173" start="20260117075500 +0000" stop="20260117085500 +0000">
+    <title lang="zh">消失的國界(iNEWS看世界(重)(普)(N)</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370173" start="20260117085500 +0000" stop="20260117095500 +0000">
+    <title lang="zh">iNEWS財經晚報(普)(N)</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370173" start="20260117095500 +0000" stop="20260117115500 +0000">
+    <title lang="zh">1819錢進大頭條(普)(N)</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370173" start="20260117115500 +0000" stop="20260117123000 +0000">
+    <title lang="zh">iNEWS大世界(普)(N)</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370173" start="20260117123000 +0000" stop="20260117130000 +0000">
+    <title lang="zh">全民i彩券(首)(普)(N)</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370173" start="20260117130000 +0000" stop="20260117140000 +0000">
+    <title lang="zh">Catch大錢潮(首)(普)(N)</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370173" start="20260117140000 +0000" stop="20260117150000 +0000">
+    <title lang="zh">MIT趨勢先知(首)(普)(N)</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370173" start="20260117150000 +0000" stop="20260117160000 +0000">
+    <title lang="zh">驚爆新聞線(首)(普)(N)</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370173" start="20260117160000 +0000" stop="20260117170000 +0000">
+    <title lang="zh">驚爆新聞線(首)(普)(N)</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370173" start="20260117170000 +0000" stop="20260117180000 +0000">
+    <title lang="zh">Catch大錢潮(重)(普)(N)</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370173" start="20260117180000 +0000" stop="20260117190000 +0000">
+    <title lang="zh">MIT趨勢先知(重)(普)(N)</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370173" start="20260117190000 +0000" stop="20260117200000 +0000">
+    <title lang="zh">全球新食力(重)(普)(N)</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370173" start="20260117200000 +0000" stop="20260117210000 +0000">
+    <title lang="zh">1819錢進大頭條(重)(普)(N)</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370173" start="20260117210000 +0000" stop="20260117220000 +0000">
+    <title lang="zh">1819錢進大頭條(重)(普)(N)</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370173" start="20260117220000 +0000" stop="20260117230000 +0000">
+    <title lang="zh">吃貨請跟上(重)(普)(N)</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370173" start="20260117230000 +0000" stop="20260118000000 +0000">
+    <title lang="zh">台灣亮起來(重)(普)(N)</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370173" start="20260118000000 +0000" stop="20260119000000 +0000">
+    <title lang="zh">Catch大錢潮(重)(普)(N)</title>
+    <desc />
+    <date>2026-01-18</date>
+  </programme>
+<tv date="20260116130155 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20260116&amp;timezone=None">
   <channel id="370172">
     <display-name lang="Taiwan">民視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110836326598_60.png" />
@@ -1366,124 +1381,14 @@
     <desc />
     <date>2026-01-18</date>
   </programme>
-<tv date="20260116082602 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369324/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369324&amp;date=20260116&amp;timezone=None" />
-<tv date="20260116093917 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/415097/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=415097&amp;date=20260116&amp;timezone=None" />
-<tv date="20260116093918 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369318/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369318&amp;date=20260116&amp;timezone=None" />
-<tv date="20260116075414 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370171/20260115.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370171&amp;date=20260115&amp;timezone=None">
+<tv date="20260116141020 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369324/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369324&amp;date=20260116&amp;timezone=None" />
+<tv date="20260116143139 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/415097/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=415097&amp;date=20260116&amp;timezone=None" />
+<tv date="20260116143139 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369318/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369318&amp;date=20260116&amp;timezone=None" />
+<tv date="20260116132211 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370171/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370171&amp;date=20260116&amp;timezone=None">
   <channel id="370171">
     <display-name lang="Taiwan">華視新聞</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110829650925_83.png" />
   </channel>
-  <programme channel="370171" start="20260115000000 +0000" stop="20260115010000 +0000">
-    <title lang="zh">GOOD Morning台灣</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370171" start="20260115010000 +0000" stop="20260115020000 +0000">
-    <title lang="zh">華視0900整點新聞</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370171" start="20260115020000 +0000" stop="20260115030000 +0000">
-    <title lang="zh">華視1000新聞搶先報</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370171" start="20260115030000 +0000" stop="20260115035800 +0000">
-    <title lang="zh">華視1100新聞搶先報</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370171" start="20260115035800 +0000" stop="20260115050000 +0000">
-    <title lang="zh">華視午間新聞</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370171" start="20260115050000 +0000" stop="20260115060000 +0000">
-    <title lang="zh">華視1300午間新聞</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370171" start="20260115060000 +0000" stop="20260115070000 +0000">
-    <title lang="zh">華視1400整點新聞</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370171" start="20260115070000 +0000" stop="20260115080000 +0000">
-    <title lang="zh">華視1500整點新聞</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370171" start="20260115080000 +0000" stop="20260115085300 +0000">
-    <title lang="zh">華視在地新聞</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370171" start="20260115085300 +0000" stop="20260115120000 +0000">
-    <title lang="zh">華視新聞晚報</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370171" start="20260115120000 +0000" stop="20260115130000 +0000">
-    <title lang="zh">華視2000整點新聞</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370171" start="20260115130000 +0000" stop="20260115140000 +0000">
-    <title lang="zh">World News 9</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370171" start="20260115140000 +0000" stop="20260115150000 +0000">
-    <title lang="zh">52政經點</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370171" start="20260115150000 +0000" stop="20260115155500 +0000">
-    <title lang="zh">華視夜間新聞</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370171" start="20260115155500 +0000" stop="20260115170000 +0000">
-    <title lang="zh">華視2400夜間新聞</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370171" start="20260115170000 +0000" stop="20260115180000 +0000">
-    <title lang="zh">World News 9</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370171" start="20260115180000 +0000" stop="20260115190000 +0000">
-    <title lang="zh">華視2400夜間新聞</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370171" start="20260115190000 +0000" stop="20260115200000 +0000">
-    <title lang="zh">World News 9</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370171" start="20260115200000 +0000" stop="20260115210000 +0000">
-    <title lang="zh">華視2400夜間新聞</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370171" start="20260115210000 +0000" stop="20260115220000 +0000">
-    <title lang="zh">World News 9</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370171" start="20260115220000 +0000" stop="20260115230000 +0000">
-    <title lang="zh">華視2400夜間新聞</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="370171" start="20260115230000 +0000" stop="20260116000000 +0000">
-    <title lang="zh">GOOD Morning台灣</title>
-    <desc />
-    <date>2026-01-15</date>
-  </programme>
   <programme channel="370171" start="20260116000000 +0000" stop="20260116010000 +0000">
     <title lang="zh">GOOD Morning台灣</title>
     <desc />
@@ -1594,284 +1499,139 @@
     <desc />
     <date>2026-01-16</date>
   </programme>
-  <programme channel="370171" start="20260117000000 +0000" stop="20260118000000 +0000">
+  <programme channel="370171" start="20260117000000 +0000" stop="20260117010000 +0000">
     <title lang="zh">GOOD Morning台灣</title>
     <desc />
     <date>2026-01-17</date>
   </programme>
-<tv date="20260116093919 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335029/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335029&amp;date=20260116&amp;timezone=None" />
-<tv date="20260116093919 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369749/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369749&amp;date=20260116&amp;timezone=None" />
-<tv date="20260116093920 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403819/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403819&amp;date=20260116&amp;timezone=None" />
-<tv date="20260116074238 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/412098/20260115.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=412098&amp;date=20260115&amp;timezone=None">
+  <programme channel="370171" start="20260117010000 +0000" stop="20260117020000 +0000">
+    <title lang="zh">華視0900整點新聞</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370171" start="20260117020000 +0000" stop="20260117030000 +0000">
+    <title lang="zh">華視1000新聞搶先報</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370171" start="20260117030000 +0000" stop="20260117035700 +0000">
+    <title lang="zh">華視1100新聞搶先報</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370171" start="20260117035700 +0000" stop="20260117050000 +0000">
+    <title lang="zh">華視午間新聞</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370171" start="20260117050000 +0000" stop="20260117060000 +0000">
+    <title lang="zh">華視1300午間新聞</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370171" start="20260117060000 +0000" stop="20260117070000 +0000">
+    <title lang="zh">華視1400整點新聞</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370171" start="20260117070000 +0000" stop="20260117080000 +0000">
+    <title lang="zh">三國演議</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370171" start="20260117080000 +0000" stop="20260117090000 +0000">
+    <title lang="zh">華視1600整點新聞</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370171" start="20260117090000 +0000" stop="20260117110000 +0000">
+    <title lang="zh">華視新聞晚報</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370171" start="20260117110000 +0000" stop="20260117120000 +0000">
+    <title lang="zh">華視晚間新聞</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370171" start="20260117120000 +0000" stop="20260117130000 +0000">
+    <title lang="zh">華視新聞雜誌</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370171" start="20260117130000 +0000" stop="20260117140000 +0000">
+    <title lang="zh">國際線，出發！</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370171" start="20260117140000 +0000" stop="20260117143000 +0000">
+    <title lang="zh">華視2200夜間新聞</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370171" start="20260117143000 +0000" stop="20260117150000 +0000">
+    <title lang="zh">52動起來</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370171" start="20260117150000 +0000" stop="20260117160000 +0000">
+    <title lang="zh">華視夜間新聞</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370171" start="20260117160000 +0000" stop="20260117170000 +0000">
+    <title lang="zh">華視2400夜間新聞</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370171" start="20260117170000 +0000" stop="20260117180000 +0000">
+    <title lang="zh">華視夜間新聞</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370171" start="20260117180000 +0000" stop="20260117190000 +0000">
+    <title lang="zh">華視2400夜間新聞</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370171" start="20260117190000 +0000" stop="20260117200000 +0000">
+    <title lang="zh">華視新聞雜誌</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370171" start="20260117200000 +0000" stop="20260117210000 +0000">
+    <title lang="zh">華視2400夜間新聞</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370171" start="20260117210000 +0000" stop="20260117220000 +0000">
+    <title lang="zh">華視夜間新聞</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370171" start="20260117220000 +0000" stop="20260117230000 +0000">
+    <title lang="zh">華視2400夜間新聞</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370171" start="20260117230000 +0000" stop="20260118000000 +0000">
+    <title lang="zh">GOOD Morning台灣</title>
+    <desc />
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="370171" start="20260118000000 +0000" stop="20260119000000 +0000">
+    <title lang="zh">GOOD Morning台灣</title>
+    <desc />
+    <date>2026-01-18</date>
+  </programme>
+<tv date="20260116143140 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335029/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335029&amp;date=20260116&amp;timezone=None" />
+<tv date="20260116143141 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369749/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369749&amp;date=20260116&amp;timezone=None" />
+<tv date="20260116141213 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403819/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403819&amp;date=20260116&amp;timezone=None" />
+<tv date="20260116142116 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/412098/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=412098&amp;date=20260116&amp;timezone=None">
   <channel id="412098">
     <display-name lang="Singapore">BBC World News HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042100424424_78.png" />
   </channel>
-  <programme channel="412098" start="20260115000000 +0000" stop="20260115003000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115003000 +0000" stop="20260115010000 +0000">
-    <title lang="zh">Newscast</title>
-    <desc>Lighthearted discussion of the day's news.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115010000 +0000" stop="20260115013000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115013000 +0000" stop="20260115020000 +0000">
-    <title lang="zh">AI Decoded</title>
-    <desc>Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115020000 +0000" stop="20260115023000 +0000">
-    <title lang="zh">Newsday</title>
-    <desc>Live from Singapore, the latest international news from the BBC.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115023000 +0000" stop="20260115024500 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115024500 +0000" stop="20260115030000 +0000">
-    <title lang="zh">BBC Sport</title>
-    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115030000 +0000" stop="20260115033000 +0000">
-    <title lang="zh">Newsday</title>
-    <desc>Live from Singapore, the latest international news from the BBC.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115033000 +0000" stop="20260115034500 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115034500 +0000" stop="20260115040000 +0000">
-    <title lang="zh">BBC Sport</title>
-    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115040000 +0000" stop="20260115043000 +0000">
-    <title lang="zh">Newsday</title>
-    <desc>Live from Singapore, the latest international news from the BBC.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115043000 +0000" stop="20260115044500 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115044500 +0000" stop="20260115050000 +0000">
-    <title lang="zh">BBC Sport</title>
-    <desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115050000 +0000" stop="20260115053000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115053000 +0000" stop="20260115060000 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115060000 +0000" stop="20260115063000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115063000 +0000" stop="20260115070000 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115070000 +0000" stop="20260115073000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115073000 +0000" stop="20260115080000 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115080000 +0000" stop="20260115083000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115083000 +0000" stop="20260115090000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115090000 +0000" stop="20260115093000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115093000 +0000" stop="20260115100000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115100000 +0000" stop="20260115103000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115103000 +0000" stop="20260115110000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115110000 +0000" stop="20260115113000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115113000 +0000" stop="20260115114500 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115114500 +0000" stop="20260115120000 +0000">
-    <title lang="zh">BBC News</title>
-    <desc>The latest news from the BBC.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115120000 +0000" stop="20260115123000 +0000">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115123000 +0000" stop="20260115130000 +0000">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115130000 +0000" stop="20260115133000 +0000">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115133000 +0000" stop="20260115140000 +0000">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115140000 +0000" stop="20260115143000 +0000">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115143000 +0000" stop="20260115144500 +0000">
-    <title lang="zh">Business Today - NYSE Opening Bell</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from New York and around the world.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115144500 +0000" stop="20260115150000 +0000">
-    <title lang="zh">BBC News Now</title>
-    <desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115150000 +0000" stop="20260115153000 +0000">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115153000 +0000" stop="20260115160000 +0000">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115160000 +0000" stop="20260115163000 +0000">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115163000 +0000" stop="20260115164500 +0000">
-    <title lang="zh">Business Today</title>
-    <desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115164500 +0000" stop="20260115170000 +0000">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115170000 +0000" stop="20260115173000 +0000">
-    <title lang="zh">Verified Live</title>
-    <desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115173000 +0000" stop="20260115180000 +0000">
-    <title lang="zh">Focus on Africa</title>
-    <desc>The biggest African and international stories from the BBC.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115180000 +0000" stop="20260115183000 +0000">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115183000 +0000" stop="20260115190000 +0000">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115190000 +0000" stop="20260115193000 +0000">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115193000 +0000" stop="20260115200000 +0000">
-    <title lang="zh">The World Today with Maryam Moshiri</title>
-    <desc>Watch the best of the BBC's journalism from around the world.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115200000 +0000" stop="20260115203000 +0000">
-    <title lang="zh">The Context</title>
-    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115203000 +0000" stop="20260115210000 +0000">
-    <title lang="zh">The Context</title>
-    <desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115210000 +0000" stop="20260115213000 +0000">
-    <title lang="zh">The Context USA</title>
-    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115213000 +0000" stop="20260115220000 +0000">
-    <title lang="zh">The Context USA</title>
-    <desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115220000 +0000" stop="20260115223000 +0000">
-    <title lang="zh">BBC World News America</title>
-    <desc>In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115223000 +0000" stop="20260115230000 +0000">
-    <title lang="zh">Newsnight</title>
-    <desc>Insights and global interviews on the crucial news stories of the day.</desc>
-    <date>2026-01-15</date>
-  </programme>
-  <programme channel="412098" start="20260115230000 +0000" stop="20260116000000 +0000">
-    <title lang="zh">BBC World News America</title>
-    <desc>In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
-    <date>2026-01-15</date>
-  </programme>
   <programme channel="412098" start="20260116000000 +0000" stop="20260116003000 +0000">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
@@ -2137,13 +1897,233 @@
     <desc>Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
     <date>2026-01-16</date>
   </programme>
-  <programme channel="412098" start="20260117000000 +0000" stop="20260118000000 +0000">
+  <programme channel="412098" start="20260117000000 +0000" stop="20260117003000 +0000">
     <title lang="zh">BBC News</title>
     <desc>The latest news from the BBC.</desc>
     <date>2026-01-17</date>
   </programme>
-<tv date="20260116093921 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405729/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405729&amp;date=20260116&amp;timezone=None" />
-<tv date="20260116093921 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410308/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410308&amp;date=20260116&amp;timezone=None">
+  <programme channel="412098" start="20260117003000 +0000" stop="20260117010000 +0000">
+    <title lang="zh">Tech Now</title>
+    <desc>The Tech Now team is in Las Vegas checking out the latest trends and innovations at CES 2026, one of the biggest tech events of the year.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117010000 +0000" stop="20260117013000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117013000 +0000" stop="20260117020000 +0000">
+    <title lang="zh">Kingston - Jamaica</title>
+    <desc>In Jamaica's capital city, Clive learns some dancehall moves, samples Jamaican-Irish stout punch and learns why this island produces so many Olympic sprinters.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117020000 +0000" stop="20260117023000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117023000 +0000" stop="20260117030000 +0000">
+    <title lang="zh">Kevin Sinfield: 7 in 7 Together</title>
+    <desc>Inspired by the death of his friend and team mate, Rugby League legend Kevin Sinfield takes to the streets to raise money and awareness for those impacted by motor neurone disease.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117030000 +0000" stop="20260117033000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117033000 +0000" stop="20260117040000 +0000">
+    <title lang="zh">The Media Show</title>
+    <desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117040000 +0000" stop="20260117043000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117043000 +0000" stop="20260117050000 +0000">
+    <title lang="zh">Canary Islands</title>
+    <desc>Rajan Datar travels across the Canary Islands to explore how volcanic forces continue to shape both the land and its people.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117050000 +0000" stop="20260117053000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117053000 +0000" stop="20260117060000 +0000">
+    <title lang="zh">AI Decoded</title>
+    <desc>Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117060000 +0000" stop="20260117063000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117063000 +0000" stop="20260117070000 +0000">
+    <title lang="zh">Tech Now</title>
+    <desc>The Tech Now team is in Las Vegas checking out the latest trends and innovations at CES 2026, one of the biggest tech events of the year.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117070000 +0000" stop="20260117073000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117073000 +0000" stop="20260117080000 +0000">
+    <title lang="zh">Kingston - Jamaica</title>
+    <desc>In Jamaica's capital city, Clive learns some dancehall moves, samples Jamaican-Irish stout punch and learns why this island produces so many Olympic sprinters.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117080000 +0000" stop="20260117083000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117083000 +0000" stop="20260117090000 +0000">
+    <title lang="zh">Global Eye</title>
+    <desc>AI is changing everything - from how we work to how we live. Cyber correspondent Joe Tidy is in Silicon Valley, California, the beating heart of the AI revolution to report on exactly what's at stake.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117090000 +0000" stop="20260117100000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117100000 +0000" stop="20260117103000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117103000 +0000" stop="20260117110000 +0000">
+    <title lang="zh">Talking Business</title>
+    <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117110000 +0000" stop="20260117113000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117113000 +0000" stop="20260117120000 +0000">
+    <title lang="zh">Kevin Sinfield: 7 in 7 Together</title>
+    <desc>Inspired by the death of his friend and team mate, Rugby League legend Kevin Sinfield takes to the streets to raise money and awareness for those impacted by motor neurone disease.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117120000 +0000" stop="20260117123000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117123000 +0000" stop="20260117130000 +0000">
+    <title lang="zh">Karl Ove Knausgård</title>
+    <desc>Karl Ove Knausgård is a literary sensation. Rising from the confines of debilitating shame, he unveils the daily rituals that sparked breakthrough, giving him the freedom to write without restraint.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117130000 +0000" stop="20260117133000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117133000 +0000" stop="20260117140000 +0000">
+    <title lang="zh">AI Decoded</title>
+    <desc>Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117140000 +0000" stop="20260117143000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117143000 +0000" stop="20260117150000 +0000">
+    <title lang="zh">The Media Show</title>
+    <desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117150000 +0000" stop="20260117153000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117153000 +0000" stop="20260117160000 +0000">
+    <title lang="zh">Kevin Sinfield: 7 in 7 Together</title>
+    <desc>Inspired by the death of his friend and team mate, Rugby League legend Kevin Sinfield takes to the streets to raise money and awareness for those impacted by motor neurone disease.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117160000 +0000" stop="20260117163000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117163000 +0000" stop="20260117170000 +0000">
+    <title lang="zh">Flying in a Storm</title>
+    <desc>Ever wondered how pilots keep so cool when landing a plane in a storm? We look at how the aviation industry handles extreme weather and turbulence, from flight simulators to keeping passengers calm.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117170000 +0000" stop="20260117180000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117180000 +0000" stop="20260117183000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117183000 +0000" stop="20260117190000 +0000">
+    <title lang="zh">Tech Now</title>
+    <desc>The Tech Now team is in Las Vegas checking out the latest trends and innovations at CES 2026, one of the biggest tech events of the year.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117190000 +0000" stop="20260117193000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117193000 +0000" stop="20260117200000 +0000">
+    <title lang="zh">Canary Islands</title>
+    <desc>Rajan Datar travels across the Canary Islands to explore how volcanic forces continue to shape both the land and its people.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117200000 +0000" stop="20260117203000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117203000 +0000" stop="20260117210000 +0000">
+    <title lang="zh">AI Decoded</title>
+    <desc>Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117210000 +0000" stop="20260117220000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117220000 +0000" stop="20260117230000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117230000 +0000" stop="20260117233000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260117233000 +0000" stop="20260118000000 +0000">
+    <title lang="zh">Talking Business</title>
+    <desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <date>2026-01-17</date>
+  </programme>
+  <programme channel="412098" start="20260118000000 +0000" stop="20260119000000 +0000">
+    <title lang="zh">BBC News</title>
+    <desc>The latest news from the BBC.</desc>
+    <date>2026-01-18</date>
+  </programme>
+<tv date="20260116143141 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405729/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405729&amp;date=20260116&amp;timezone=None" />
+<tv date="20260116143142 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410308/20260116.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410308&amp;date=20260116&amp;timezone=None">
   <channel id="410308">
     <display-name lang="Hong Kong">Bloomberg Television</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128173252754492_70" />
@@ -2453,5 +2433,5 @@
     <desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
     <date>2026-01-18</date>
   </programme>
-<!-- generated at 2026-01-16 01:39:22 UTC -->
+<!-- generated at 2026-01-16 06:31:42 UTC -->
 </tv>
