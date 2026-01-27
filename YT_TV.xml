@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><tv>
-<tv date="20260127204515 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410355/20260127.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410355&amp;date=20260127&amp;timezone=None">
+<tv date="20260127225238 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410355/20260127.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410355&amp;date=20260127&amp;timezone=None">
   <channel id="410355">
     <display-name lang="Hong Kong">鳳凰衛視資訊台</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/29/20250129074347363304_81" />
@@ -639,7 +639,7 @@
     <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
     <date>2026-01-29</date>
   </programme>
-<tv date="20260127201133 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20260127.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20260127&amp;timezone=None">
+<tv date="20260127221546 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20260127.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20260127&amp;timezone=None">
   <channel id="370177">
     <display-name lang="Taiwan">中天新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110909545808_36.png" />
@@ -1102,7 +1102,7 @@
     <desc />
     <date>2026-01-29</date>
   </programme>
-<tv date="20260127204244 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20260127.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20260127&amp;timezone=None">
+<tv date="20260128011632 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20260127.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20260127&amp;timezone=None">
   <channel id="370172">
     <display-name lang="Taiwan">民視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110836326598_60.png" />
@@ -1588,7 +1588,7 @@
 <tv date="20260127204519 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335029/20260127.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335029&amp;date=20260127&amp;timezone=None" />
 <tv date="20260127204520 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369749/20260127.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369749&amp;date=20260127&amp;timezone=None" />
 <tv date="20260127204520 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403819/20260127.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403819&amp;date=20260127&amp;timezone=None" />
-<tv date="20260127200522 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/412098/20260127.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=412098&amp;date=20260127&amp;timezone=None">
+<tv date="20260127221752 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/412098/20260127.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=412098&amp;date=20260127&amp;timezone=None">
   <channel id="412098">
     <display-name lang="Singapore">BBC World News HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042100424424_78.png" />
@@ -2329,5 +2329,5 @@
     <desc>Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
     <date>2026-01-28</date>
   </programme>
-<!-- generated at 2026-01-27 12:45:22 UTC -->
+<!-- generated at 2026-01-27 18:42:16 UTC -->
 </tv>
