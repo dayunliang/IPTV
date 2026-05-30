@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><tv>
-<tv date="20260530211445 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410355/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410355&amp;date=20260530&amp;timezone=None">
+<tv date="20260531030417 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410355/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410355&amp;date=20260530&amp;timezone=None">
   <channel id="410355">
     <display-name lang="Hong Kong">鳳凰衛視資訊台</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/29/20250129074347363304_81" />
@@ -659,7 +659,7 @@
     <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
     <date>2026-06-01</date>
   </programme>
-<tv date="20260530200055 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20260530&amp;timezone=None">
+<tv date="20260531022739 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20260530&amp;timezone=None">
   <channel id="370177">
     <display-name lang="Taiwan">中天新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110909545808_36.png" />
@@ -909,10 +909,10 @@
     <desc />
     <date>2026-06-01</date>
   </programme>
-<tv date="20260530212435 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20260530&amp;timezone=None" />
-<tv date="20260530212436 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370183/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370183&amp;date=20260530&amp;timezone=None" />
-<tv date="20260530212437 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20260530&amp;timezone=None" />
-<tv date="20260530200052 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20260530&amp;timezone=None">
+<tv date="20260531031048 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20260530&amp;timezone=None" />
+<tv date="20260531031049 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370183/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370183&amp;date=20260530&amp;timezone=None" />
+<tv date="20260531031050 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20260530&amp;timezone=None" />
+<tv date="20260531031050 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20260530&amp;timezone=None">
   <channel id="370173">
     <display-name lang="Taiwan">三立新聞iNEWS</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110842913601_69.png" />
@@ -1157,7 +1157,7 @@
     <desc />
     <date>2026-06-01</date>
   </programme>
-<tv date="20260530201102 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20260530&amp;timezone=None">
+<tv date="20260531030102 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20260530&amp;timezone=None">
   <channel id="370172">
     <display-name lang="Taiwan">民視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110836326598_60.png" />
@@ -1387,10 +1387,10 @@
     <desc />
     <date>2026-06-01</date>
   </programme>
-<tv date="20260530203020 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369324/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369324&amp;date=20260530&amp;timezone=None" />
-<tv date="20260530212440 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/415097/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=415097&amp;date=20260530&amp;timezone=None" />
-<tv date="20260530212441 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369318/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369318&amp;date=20260530&amp;timezone=None" />
-<tv date="20260530212441 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370171/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370171&amp;date=20260530&amp;timezone=None">
+<tv date="20260531022741 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369324/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369324&amp;date=20260530&amp;timezone=None" />
+<tv date="20260531031051 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/415097/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=415097&amp;date=20260530&amp;timezone=None" />
+<tv date="20260531031051 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369318/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369318&amp;date=20260530&amp;timezone=None" />
+<tv date="20260531031052 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370171/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370171&amp;date=20260530&amp;timezone=None">
   <channel id="370171">
     <display-name lang="Taiwan">華視新聞</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110829650925_83.png" />
@@ -1640,10 +1640,10 @@
     <desc />
     <date>2026-06-01</date>
   </programme>
-<tv date="20260530212442 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335029/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335029&amp;date=20260530&amp;timezone=None" />
-<tv date="20260530212442 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369749/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369749&amp;date=20260530&amp;timezone=None" />
-<tv date="20260530212443 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403819/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403819&amp;date=20260530&amp;timezone=None" />
-<tv date="20260530212443 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/412098/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=412098&amp;date=20260530&amp;timezone=None">
+<tv date="20260531031052 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335029/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335029&amp;date=20260530&amp;timezone=None" />
+<tv date="20260531031052 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369749/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369749&amp;date=20260530&amp;timezone=None" />
+<tv date="20260531031053 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403819/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403819&amp;date=20260530&amp;timezone=None" />
+<tv date="20260531031056 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/412098/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=412098&amp;date=20260530&amp;timezone=None">
   <channel id="412098">
     <display-name lang="Singapore">BBC World News HD</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/02/12/20250212042100424424_78.png" />
@@ -2103,8 +2103,8 @@
     <desc>The latest news from the BBC.</desc>
     <date>2026-06-01</date>
   </programme>
-<tv date="20260530212443 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405729/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405729&amp;date=20260530&amp;timezone=None" />
-<tv date="20260530212444 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410308/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410308&amp;date=20260530&amp;timezone=None">
+<tv date="20260531031057 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405729/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405729&amp;date=20260530&amp;timezone=None" />
+<tv date="20260531031057 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410308/20260530.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410308&amp;date=20260530&amp;timezone=None">
   <channel id="410308">
     <display-name lang="Hong Kong">Bloomberg Television</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128173252754492_70" />
@@ -2459,5 +2459,5 @@
     <desc>Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
     <date>2026-05-31</date>
   </programme>
-<!-- generated at 2026-05-30 13:24:44 UTC -->
+<!-- generated at 2026-05-30 19:10:57 UTC -->
 </tv>
