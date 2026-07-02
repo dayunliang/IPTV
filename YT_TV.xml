@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><tv>
-<tv date="20260702211500 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410355/20260702.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410355&amp;date=20260702&amp;timezone=None">
+<tv date="20260702234759 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410355/20260702.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410355&amp;date=20260702&amp;timezone=None">
   <channel id="410355">
     <display-name lang="Hong Kong">鳳凰衛視資訊台</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/29/20250129074347363304_81" />
@@ -639,7 +639,7 @@
     <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
     <date>2026-07-04</date>
   </programme>
-<tv date="20260702202231 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20260702.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20260702&amp;timezone=None">
+<tv date="20260702231433 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20260702.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20260702&amp;timezone=None">
   <channel id="370177">
     <display-name lang="Taiwan">中天新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110909545808_36.png" />
@@ -892,7 +892,7 @@
 <tv date="20260702215416 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20260702.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20260702&amp;timezone=None" />
 <tv date="20260702215418 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370183/20260702.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370183&amp;date=20260702&amp;timezone=None" />
 <tv date="20260702215419 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20260702.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20260702&amp;timezone=None" />
-<tv date="20260702202204 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20260702.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20260702&amp;timezone=None">
+<tv date="20260702231432 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20260702.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20260702&amp;timezone=None">
   <channel id="370173">
     <display-name lang="Taiwan">三立新聞iNEWS</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110842913601_69.png" />
@@ -2344,5 +2344,5 @@
     <desc>Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
     <date>2026-07-04</date>
   </programme>
-<!-- generated at 2026-07-02 13:54:38 UTC -->
+<!-- generated at 2026-07-02 19:20:36 UTC -->
 </tv>
