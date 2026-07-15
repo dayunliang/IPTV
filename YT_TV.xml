@@ -639,7 +639,7 @@
     <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
     <date>2026-07-17</date>
   </programme>
-<tv date="20260715210427 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20260715.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20260715&amp;timezone=None">
+<tv date="20260715231445 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20260715.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20260715&amp;timezone=None">
   <channel id="370177">
     <display-name lang="Taiwan">中天新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110909545808_36.png" />
@@ -892,7 +892,7 @@
 <tv date="20260715213838 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20260715.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20260715&amp;timezone=None" />
 <tv date="20260715213845 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370183/20260715.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370183&amp;date=20260715&amp;timezone=None" />
 <tv date="20260715213851 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20260715.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20260715&amp;timezone=None" />
-<tv date="20260715210421 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20260715.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20260715&amp;timezone=None">
+<tv date="20260715231447 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20260715.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20260715&amp;timezone=None">
   <channel id="370173">
     <display-name lang="Taiwan">三立新聞iNEWS</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110842913601_69.png" />
@@ -1132,7 +1132,7 @@
     <desc />
     <date>2026-07-17</date>
   </programme>
-<tv date="20260715194654 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20260715.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20260715&amp;timezone=None">
+<tv date="20260715220444 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20260715.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20260715&amp;timezone=None">
   <channel id="370172">
     <display-name lang="Taiwan">民視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110836326598_60.png" />
@@ -2149,11 +2149,101 @@
     <date>2026-07-17</date>
   </programme>
 <tv date="20260715213936 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405729/20260715.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405729&amp;date=20260715&amp;timezone=None" />
-<tv date="20260715195152 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410308/20260715.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410308&amp;date=20260715&amp;timezone=None">
+<tv date="20260715015101 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410308/20260714.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410308&amp;date=20260714&amp;timezone=None">
   <channel id="410308">
     <display-name lang="Hong Kong">Bloomberg Television</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128173252754492_70" />
   </channel>
+  <programme channel="410308" start="20260714010000 +0000" stop="20260714030000 +0000">
+    <title lang="zh">Bloomberg: The China Show</title>
+    <desc>Your definitive source for news and analysis on the world's second-biggest economy. Hosted by Yvonne Man and David Ingles.</desc>
+    <date>2026-07-14</date>
+  </programme>
+  <programme channel="410308" start="20260714030000 +0000" stop="20260714040000 +0000">
+    <title lang="zh">Insight With Haslinda Amin</title>
+    <desc>The definitive guide for global news audiences to get the complete picture on the biggest story of the day, through probing interviews and nuanced conversations.</desc>
+    <date>2026-07-14</date>
+  </programme>
+  <programme channel="410308" start="20260714040000 +0000" stop="20260714050000 +0000">
+    <title lang="zh">Bloomberg Horizons Middle East &amp; Africa</title>
+    <desc>Linking the market drivers from overnight in the US and across Asia into the region's trading day, with deep dive analysis of the top business, energy and geopolitical stories shaping decisions.</desc>
+    <date>2026-07-14</date>
+  </programme>
+  <programme channel="410308" start="20260714050000 +0000" stop="20260714060000 +0000">
+    <title lang="zh">Bloomberg Daybreak: Europe</title>
+    <desc>Live from London, we catch you up with overnight markets news from the US and Asia. Plus, we'll tell you what matters for investors in Europe, giving you insight before trading begins.</desc>
+    <date>2026-07-14</date>
+  </programme>
+  <programme channel="410308" start="20260714060000 +0000" stop="20260714080000 +0000">
+    <title lang="zh">Bloomberg: The Opening Trade</title>
+    <desc>Everything you need to know as markets open across Europe. We break down today's biggest stories and speak to guests with skin in the game.</desc>
+    <date>2026-07-14</date>
+  </programme>
+  <programme channel="410308" start="20260714080000 +0000" stop="20260714090000 +0000">
+    <title lang="zh">The Pulse With Francine Lacqua</title>
+    <desc>Conversations with high profile guests in the beating heart of global business, finance and politics. We go wherever the story is, bringing you exclusive interviews and market-moving scoops.</desc>
+    <date>2026-07-14</date>
+  </programme>
+  <programme channel="410308" start="20260714090000 +0000" stop="20260714100000 +0000">
+    <title lang="zh">Bloomberg Brief</title>
+    <desc>Delivering the market news, data and analysis you need to set your agenda.</desc>
+    <date>2026-07-14</date>
+  </programme>
+  <programme channel="410308" start="20260714100000 +0000" stop="20260714130000 +0000">
+    <title lang="zh">Bloomberg Surveillance</title>
+    <desc>Daily conversations with leaders and decision makers from Wall Street to Washington and beyond. Hosted by Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern.</desc>
+    <date>2026-07-14</date>
+  </programme>
+  <programme channel="410308" start="20260714130000 +0000" stop="20260714150000 +0000">
+    <title lang="zh">Bloomberg Open Interest</title>
+    <desc>Bloomberg Open Interest with Matt Miller and Dani Burger - delivers the market-moving news you need to know to get a jump start on the US trading day.</desc>
+    <date>2026-07-14</date>
+  </programme>
+  <programme channel="410308" start="20260714150000 +0000" stop="20260714160000 +0000">
+    <title lang="zh">Bloomberg Tech</title>
+    <desc>The only daily live technology program with a focus on breaking news, market-moving reporting and analysis of global technology companies and stories.</desc>
+    <date>2026-07-14</date>
+  </programme>
+  <programme channel="410308" start="20260714160000 +0000" stop="20260714170000 +0000">
+    <title lang="zh">Bloomberg Crypto</title>
+    <desc>Bloomberg Crypto covers the people, transactions, and technology shaping decentralised finance. Your weekly source for the latest news, analysis and interviews with the most influential stakeholders.</desc>
+    <date>2026-07-14</date>
+  </programme>
+  <programme channel="410308" start="20260714170000 +0000" stop="20260714180000 +0000">
+    <title lang="zh">Bloomberg: Balance Of Power</title>
+    <desc>Bloomberg Balance of Power focuses on politics and policies on Capitol Hill, in President Trump's administration, the federal agencies and the courts.</desc>
+    <date>2026-07-14</date>
+  </programme>
+  <programme channel="410308" start="20260714180000 +0000" stop="20260714190000 +0000">
+    <title lang="zh">Bloomberg Businessweek Daily</title>
+    <desc>Carol Massar and Tim Stenovec bring you reporting from the magazine that helps global leaders stay ahead, plus insight on the people, companies and trends shaping today's complex economy.</desc>
+    <date>2026-07-14</date>
+  </programme>
+  <programme channel="410308" start="20260714190000 +0000" stop="20260714210000 +0000">
+    <title lang="zh">Bloomberg The Close</title>
+    <desc>Romaine Bostick and Katie Greifeld break down the day's top market-moving stories and trading action around the closing bell.</desc>
+    <date>2026-07-14</date>
+  </programme>
+  <programme channel="410308" start="20260714210000 +0000" stop="20260714220000 +0000">
+    <title lang="zh">Bloomberg: Balance Of Power</title>
+    <desc>Bloomberg Balance of Power focuses on politics and policies on Capitol Hill, in President Trump's administration, the federal agencies and the courts.</desc>
+    <date>2026-07-14</date>
+  </programme>
+  <programme channel="410308" start="20260714220000 +0000" stop="20260714223000 +0000">
+    <title lang="zh">The Deal With Alex Rodriguez And Jason Kelly</title>
+    <desc>Intimate conversations with business titans and sports champions who reveal their investment philosophies, missed opportunities and more.</desc>
+    <date>2026-07-14</date>
+  </programme>
+  <programme channel="410308" start="20260714223000 +0000" stop="20260714230000 +0000">
+    <title lang="zh">The Deal With Alex Rodriguez And Jason Kelly</title>
+    <desc>Intimate conversations with business titans and sports champions who reveal their investment philosophies, missed opportunities and more.</desc>
+    <date>2026-07-14</date>
+  </programme>
+  <programme channel="410308" start="20260714230000 +0000" stop="20260715000000 +0000">
+    <title lang="zh">Bloomberg The Asia Trade</title>
+    <desc>Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
+    <date>2026-07-14</date>
+  </programme>
   <programme channel="410308" start="20260715010000 +0000" stop="20260715030000 +0000">
     <title lang="zh">Bloomberg: The China Show</title>
     <desc>Your definitive source for news and analysis on the world's second-biggest economy. Hosted by Yvonne Man and David Ingles.</desc>
@@ -2244,110 +2334,5 @@
     <desc>Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
     <date>2026-07-15</date>
   </programme>
-  <programme channel="410308" start="20260716010000 +0000" stop="20260716030000 +0000">
-    <title lang="zh">Bloomberg: The China Show 第1集</title>
-    <desc>Your definitive source for news and analysis on the world's second-biggest economy. Hosted by Yvonne Man and David Ingles.</desc>
-    <date>2026-07-16</date>
-  </programme>
-  <programme channel="410308" start="20260716030000 +0000" stop="20260716040000 +0000">
-    <title lang="zh">Insight With Haslinda Amin</title>
-    <desc>The definitive guide for global news audiences to get the complete picture on the biggest story of the day, through probing interviews and nuanced conversations.</desc>
-    <date>2026-07-16</date>
-  </programme>
-  <programme channel="410308" start="20260716040000 +0000" stop="20260716050000 +0000">
-    <title lang="zh">Bloomberg Horizons Middle East &amp; Africa</title>
-    <desc>Linking the market drivers from overnight in the US and across Asia into the region's trading day, with deep dive analysis of the top business, energy and geopolitical stories shaping decisions.</desc>
-    <date>2026-07-16</date>
-  </programme>
-  <programme channel="410308" start="20260716050000 +0000" stop="20260716060000 +0000">
-    <title lang="zh">Bloomberg Daybreak: Europe</title>
-    <desc>Live from London, we catch you up with overnight markets news from the US and Asia. Plus, we'll tell you what matters for investors in Europe, giving you insight before trading begins.</desc>
-    <date>2026-07-16</date>
-  </programme>
-  <programme channel="410308" start="20260716060000 +0000" stop="20260716080000 +0000">
-    <title lang="zh">Bloomberg: The Opening Trade</title>
-    <desc>Everything you need to know as markets open across Europe. We break down today's biggest stories and speak to guests with skin in the game.</desc>
-    <date>2026-07-16</date>
-  </programme>
-  <programme channel="410308" start="20260716080000 +0000" stop="20260716090000 +0000">
-    <title lang="zh">The Pulse With Francine Lacqua</title>
-    <desc>Conversations with high profile guests in the beating heart of global business, finance and politics. We go wherever the story is, bringing you exclusive interviews and market-moving scoops.</desc>
-    <date>2026-07-16</date>
-  </programme>
-  <programme channel="410308" start="20260716090000 +0000" stop="20260716100000 +0000">
-    <title lang="zh">Bloomberg Brief</title>
-    <desc>Delivering the market news, data and analysis you need to set your agenda.</desc>
-    <date>2026-07-16</date>
-  </programme>
-  <programme channel="410308" start="20260716100000 +0000" stop="20260716110000 +0000">
-    <title lang="zh">Bloomberg Surveillance</title>
-    <desc>Daily conversations with leaders and decision makers from Wall Street to Washington and beyond. Hosted by Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern.</desc>
-    <date>2026-07-16</date>
-  </programme>
-  <programme channel="410308" start="20260716110000 +0000" stop="20260716113000 +0000">
-    <title lang="zh">The David Rubenstein Show 第11季第1集 </title>
-    <desc>Arthur C. Brooks, a Harvard professor who teaches a popular course on happiness, explores the science behind what makes life fulfilling.</desc>
-    <date>2026-07-16</date>
-  </programme>
-  <programme channel="410308" start="20260716113000 +0000" stop="20260716120000 +0000">
-    <title lang="zh">Bloomberg Originals</title>
-    <desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
-    <date>2026-07-16</date>
-  </programme>
-  <programme channel="410308" start="20260716120000 +0000" stop="20260716130000 +0000">
-    <title lang="zh">Bloomberg Surveillance</title>
-    <desc>Daily conversations with leaders and decision makers from Wall Street to Washington and beyond. Hosted by Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern.</desc>
-    <date>2026-07-16</date>
-  </programme>
-  <programme channel="410308" start="20260716130000 +0000" stop="20260716150000 +0000">
-    <title lang="zh">Bloomberg Open Interest</title>
-    <desc>Bloomberg Open Interest with Matt Miller and Dani Burger - delivers the market-moving news you need to know to get a jump start on the US trading day.</desc>
-    <date>2026-07-16</date>
-  </programme>
-  <programme channel="410308" start="20260716150000 +0000" stop="20260716160000 +0000">
-    <title lang="zh">Bloomberg Tech</title>
-    <desc>The only daily live technology program with a focus on breaking news, market-moving reporting and analysis of global technology companies and stories.</desc>
-    <date>2026-07-16</date>
-  </programme>
-  <programme channel="410308" start="20260716160000 +0000" stop="20260716170000 +0000">
-    <title lang="zh">Bloomberg Real Yield</title>
-    <desc>A weekly show on fixed income with the biggest names in the field, covering sovereign and credit markets as investors grapple with fiscal, monetary and financial factors.</desc>
-    <date>2026-07-16</date>
-  </programme>
-  <programme channel="410308" start="20260716170000 +0000" stop="20260716180000 +0000">
-    <title lang="zh">Bloomberg: Balance Of Power</title>
-    <desc>Bloomberg Balance of Power focuses on politics and policies on Capitol Hill, in President Trump's administration, the federal agencies and the courts.</desc>
-    <date>2026-07-16</date>
-  </programme>
-  <programme channel="410308" start="20260716180000 +0000" stop="20260716190000 +0000">
-    <title lang="zh">Bloomberg Businessweek Daily</title>
-    <desc>Carol Massar and Tim Stenovec bring you reporting from the magazine that helps global leaders stay ahead, plus insight on the people, companies and trends shaping today's complex economy.</desc>
-    <date>2026-07-16</date>
-  </programme>
-  <programme channel="410308" start="20260716190000 +0000" stop="20260716210000 +0000">
-    <title lang="zh">Bloomberg The Close</title>
-    <desc>Romaine Bostick and Katie Greifeld break down the day's top market-moving stories and trading action around the closing bell.</desc>
-    <date>2026-07-16</date>
-  </programme>
-  <programme channel="410308" start="20260716210000 +0000" stop="20260716220000 +0000">
-    <title lang="zh">Bloomberg: Balance Of Power</title>
-    <desc>Bloomberg Balance of Power focuses on politics and policies on Capitol Hill, in President Trump's administration, the federal agencies and the courts.</desc>
-    <date>2026-07-16</date>
-  </programme>
-  <programme channel="410308" start="20260716220000 +0000" stop="20260716223000 +0000">
-    <title lang="zh">Bloomberg Primer 第2季第5集 </title>
-    <desc>Flooding is rising worldwide, driving a global push for climate adaptation. From tunnels to seawalls to fly farms, can these solutions keep up with accelerating global warming?</desc>
-    <date>2026-07-16</date>
-  </programme>
-  <programme channel="410308" start="20260716223000 +0000" stop="20260716230000 +0000">
-    <title lang="zh">Bloomberg Primer 第2季第6集 </title>
-    <desc>How the Electrical Grid Is Being Rebuilt for AI. AI's rapid growth is pushing global energy demand skyward. Now, companies from China to Nigeria are investing in new tech to power the future.</desc>
-    <date>2026-07-16</date>
-  </programme>
-  <programme channel="410308" start="20260716230000 +0000" stop="20260717000000 +0000">
-    <title lang="zh">Bloomberg The Asia Trade 第1集</title>
-    <desc>Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
-    <date>2026-07-16</date>
-  </programme>
-<!-- generated at 2026-07-15 13:39:36 UTC -->
+<!-- generated at 2026-07-15 19:08:47 UTC -->
 </tv>
