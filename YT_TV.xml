@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><tv>
-<tv date="20260823022516 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410355/20260822.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410355&amp;date=20260822&amp;timezone=None">
+<tv date="20260823000133 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410355/20260822.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410355&amp;date=20260822&amp;timezone=None">
   <channel id="410355">
     <display-name lang="Hong Kong">鳳凰衛視資訊台</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/29/20250129074347363304_81" />
@@ -659,135 +659,15 @@
     <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
     <date>2026-08-24</date>
   </programme>
-<tv date="20260823022517 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20260822.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20260822&amp;timezone=None" />
-<tv date="20260823022517 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20260822.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20260822&amp;timezone=None" />
-<tv date="20260823022518 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370183/20260822.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370183&amp;date=20260822&amp;timezone=None" />
-<tv date="20260823022518 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20260822.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20260822&amp;timezone=None" />
-<tv date="20260823003242 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20260822.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20260822&amp;timezone=None">
+<tv date="20260823080012 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20260823.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20260823&amp;timezone=None" />
+<tv date="20260823091058 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20260823.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20260823&amp;timezone=None" />
+<tv date="20260823091105 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370183/20260823.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370183&amp;date=20260823&amp;timezone=None" />
+<tv date="20260823080005 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20260823.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20260823&amp;timezone=None" />
+<tv date="20260823084117 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20260823.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20260823&amp;timezone=None">
   <channel id="370173">
     <display-name lang="Taiwan">三立新聞iNEWS</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110842913601_69.png" />
   </channel>
-  <programme channel="370173" start="20260822000000 +0000" stop="20260822010000 +0000">
-    <title lang="zh">全球新食力(首)(普)(N)</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370173" start="20260822010000 +0000" stop="20260822020000 +0000">
-    <title lang="zh">新聞深一度特別報導(重)(普)(N)</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370173" start="20260822020000 +0000" stop="20260822030000 +0000">
-    <title lang="zh">台灣新思路(重)(普)(N)</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370173" start="20260822030000 +0000" stop="20260822035500 +0000">
-    <title lang="zh">iNEWS1100整點新聞(普)(N)</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370173" start="20260822035500 +0000" stop="20260822045500 +0000">
-    <title lang="zh">iNEWS財經午報(普)(N)</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370173" start="20260822045500 +0000" stop="20260822055500 +0000">
-    <title lang="zh">吃貨請跟上(首)(普)(N)</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370173" start="20260822055500 +0000" stop="20260822065500 +0000">
-    <title lang="zh">國際辯論社(重)(普)(N)</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370173" start="20260822065500 +0000" stop="20260822075500 +0000">
-    <title lang="zh">消失的國界(iNEWS看世界)(首)(普)(N)</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370173" start="20260822075500 +0000" stop="20260822085500 +0000">
-    <title lang="zh">好宅敲敲門(重)(普)(N)</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370173" start="20260822085500 +0000" stop="20260822095500 +0000">
-    <title lang="zh">iNEWS財經晚報(普)(N)</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370173" start="20260822095500 +0000" stop="20260822115500 +0000">
-    <title lang="zh">1819錢進大頭條(普)(N)</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370173" start="20260822115500 +0000" stop="20260822123000 +0000">
-    <title lang="zh">iNEWS大世界(普)(N)</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370173" start="20260822123000 +0000" stop="20260822130000 +0000">
-    <title lang="zh">全民i彩券(首)(普)(N)</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370173" start="20260822130000 +0000" stop="20260822140000 +0000">
-    <title lang="zh">Catch大錢潮(首)(普)(N)</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370173" start="20260822140000 +0000" stop="20260822150000 +0000">
-    <title lang="zh">MIT趨勢先知(首)(普)(N)</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370173" start="20260822150000 +0000" stop="20260822160000 +0000">
-    <title lang="zh">驚爆新聞線(首)(普)(N)</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370173" start="20260822160000 +0000" stop="20260822170000 +0000">
-    <title lang="zh">驚爆新聞線(首)(普)(N)</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370173" start="20260822170000 +0000" stop="20260822180000 +0000">
-    <title lang="zh">消失的國界(iNEWS看世界)(重)(普)(N)</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370173" start="20260822180000 +0000" stop="20260822190000 +0000">
-    <title lang="zh">MIT趨勢先知(重)(普)(N)</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370173" start="20260822190000 +0000" stop="20260822200000 +0000">
-    <title lang="zh">Catch大錢潮(重)(普)(N)</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370173" start="20260822200000 +0000" stop="20260822210000 +0000">
-    <title lang="zh">1819錢進大頭條(重)(普)(N)</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370173" start="20260822210000 +0000" stop="20260822220000 +0000">
-    <title lang="zh">1819錢進大頭條(重)(普)(N)</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370173" start="20260822220000 +0000" stop="20260822230000 +0000">
-    <title lang="zh">吃貨請跟上(重)(普)(N)</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370173" start="20260822230000 +0000" stop="20260823000000 +0000">
-    <title lang="zh">Catch大錢潮(重)(普)(N)</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
   <programme channel="370173" start="20260823000000 +0000" stop="20260823010000 +0000">
     <title lang="zh">台灣亮起來(重)(普)(N)</title>
     <desc />
@@ -903,12 +783,127 @@
     <desc />
     <date>2026-08-23</date>
   </programme>
-  <programme channel="370173" start="20260824000000 +0000" stop="20260825000000 +0000">
+  <programme channel="370173" start="20260824000000 +0000" stop="20260824010000 +0000">
     <title lang="zh">iNEWS財經早報(普)(N)</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
-<tv date="20260823003809 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20260822.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20260822&amp;timezone=None">
+  <programme channel="370173" start="20260824010000 +0000" stop="20260824015500 +0000">
+    <title lang="zh">iNEWS0900整點新聞(普)(N)</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370173" start="20260824015500 +0000" stop="20260824025500 +0000">
+    <title lang="zh">iNEWS1000整點新聞(普)(N)</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370173" start="20260824025500 +0000" stop="20260824035500 +0000">
+    <title lang="zh">iNEWS1100整點新聞(普)(N)</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370173" start="20260824035500 +0000" stop="20260824060000 +0000">
+    <title lang="zh">iNEWS財經午報(普)(N)</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370173" start="20260824060000 +0000" stop="20260824070000 +0000">
+    <title lang="zh">iNEWS1400整點新聞(普)(N)</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370173" start="20260824070000 +0000" stop="20260824080000 +0000">
+    <title lang="zh">全球新食力(重)(普)(N)</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370173" start="20260824080000 +0000" stop="20260824090000 +0000">
+    <title lang="zh">iNEWS 1600 整點新聞(普)(N)</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370173" start="20260824090000 +0000" stop="20260824100000 +0000">
+    <title lang="zh">1700iNEWS整點新聞(普)(N)</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370173" start="20260824100000 +0000" stop="20260824115500 +0000">
+    <title lang="zh">1819錢進大頭條(普)(N)</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370173" start="20260824115500 +0000" stop="20260824123000 +0000">
+    <title lang="zh">iNEWS大世界(普)(N)</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370173" start="20260824123000 +0000" stop="20260824130000 +0000">
+    <title lang="zh">全民i彩券(首)(普)(N)</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370173" start="20260824130000 +0000" stop="20260824140000 +0000">
+    <title lang="zh">關我什麼事2100(首)(普)(N)</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370173" start="20260824140000 +0000" stop="20260824150000 +0000">
+    <title lang="zh">關我什麼事2200(首)(普)(N)</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370173" start="20260824150000 +0000" stop="20260824160000 +0000">
+    <title lang="zh">2300iNEWS財經夜世界(普)(N)</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370173" start="20260824160000 +0000" stop="20260824170000 +0000">
+    <title lang="zh">關我什麼事2100(重)(普)(N)</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370173" start="20260824170000 +0000" stop="20260824180000 +0000">
+    <title lang="zh">關我什麼事2200(重)(普)(N)</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370173" start="20260824180000 +0000" stop="20260824190000 +0000">
+    <title lang="zh">1819錢進大頭條(重)(普)(N)</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370173" start="20260824190000 +0000" stop="20260824200000 +0000">
+    <title lang="zh">1819錢進大頭條(重)(普)(N)</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370173" start="20260824200000 +0000" stop="20260824210000 +0000">
+    <title lang="zh">關我什麼事2100(重)(普)(N)</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370173" start="20260824210000 +0000" stop="20260824220000 +0000">
+    <title lang="zh">關我什麼事2200(重)(普)(N)</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370173" start="20260824220000 +0000" stop="20260824230000 +0000">
+    <title lang="zh">2300iNEWS財經夜世界(重)(普)(N)</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370173" start="20260824230000 +0000" stop="20260825000000 +0000">
+    <title lang="zh">iNEWS財經早報(普)(N)</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370173" start="20260825000000 +0000" stop="20260826000000 +0000">
+    <title lang="zh">iNEWS財經早報(普)(N)</title>
+    <desc />
+    <date>2026-08-25</date>
+  </programme>
+<tv date="20260823074433 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20260822.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20260822&amp;timezone=None">
   <channel id="370172">
     <display-name lang="Taiwan">民視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110836326598_60.png" />
@@ -1138,134 +1133,14 @@
     <desc />
     <date>2026-08-24</date>
   </programme>
-<tv date="20260823022519 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369324/20260822.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369324&amp;date=20260822&amp;timezone=None" />
-<tv date="20260823022519 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/415097/20260822.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=415097&amp;date=20260822&amp;timezone=None" />
-<tv date="20260823022520 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369318/20260822.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369318&amp;date=20260822&amp;timezone=None" />
-<tv date="20260823022520 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370171/20260822.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370171&amp;date=20260822&amp;timezone=None">
+<tv date="20260823091106 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369324/20260823.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369324&amp;date=20260823&amp;timezone=None" />
+<tv date="20260823091108 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/415097/20260823.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=415097&amp;date=20260823&amp;timezone=None" />
+<tv date="20260823091109 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369318/20260823.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369318&amp;date=20260823&amp;timezone=None" />
+<tv date="20260823091109 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370171/20260823.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370171&amp;date=20260823&amp;timezone=None">
   <channel id="370171">
     <display-name lang="Taiwan">華視新聞</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110829650925_83.png" />
   </channel>
-  <programme channel="370171" start="20260822000000 +0000" stop="20260822010000 +0000">
-    <title lang="zh">GOOD Morning台灣</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370171" start="20260822010000 +0000" stop="20260822020000 +0000">
-    <title lang="zh">華視0900整點新聞</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370171" start="20260822020000 +0000" stop="20260822030000 +0000">
-    <title lang="zh">華視1000新聞搶先報</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370171" start="20260822030000 +0000" stop="20260822035700 +0000">
-    <title lang="zh">華視1100新聞搶先報</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370171" start="20260822035700 +0000" stop="20260822050000 +0000">
-    <title lang="zh">華視午間新聞</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370171" start="20260822050000 +0000" stop="20260822060000 +0000">
-    <title lang="zh">華視1300午間新聞</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370171" start="20260822060000 +0000" stop="20260822070000 +0000">
-    <title lang="zh">華視1400整點新聞</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370171" start="20260822070000 +0000" stop="20260822080000 +0000">
-    <title lang="zh">三國演議</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370171" start="20260822080000 +0000" stop="20260822090000 +0000">
-    <title lang="zh">華視1600整點新聞</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370171" start="20260822090000 +0000" stop="20260822110000 +0000">
-    <title lang="zh">華視新聞晚報</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370171" start="20260822110000 +0000" stop="20260822120000 +0000">
-    <title lang="zh">華視晚間新聞</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370171" start="20260822120000 +0000" stop="20260822130000 +0000">
-    <title lang="zh">華視新聞雜誌</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370171" start="20260822130000 +0000" stop="20260822140000 +0000">
-    <title lang="zh">國際線，出發！</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370171" start="20260822140000 +0000" stop="20260822143000 +0000">
-    <title lang="zh">華視2200夜間新聞</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370171" start="20260822143000 +0000" stop="20260822150000 +0000">
-    <title lang="zh">52動起來</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370171" start="20260822150000 +0000" stop="20260822160000 +0000">
-    <title lang="zh">華視夜間新聞</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370171" start="20260822160000 +0000" stop="20260822170000 +0000">
-    <title lang="zh">華視2400夜間新聞</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370171" start="20260822170000 +0000" stop="20260822180000 +0000">
-    <title lang="zh">國際線，出發！</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370171" start="20260822180000 +0000" stop="20260822190000 +0000">
-    <title lang="zh">華視2400夜間新聞</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370171" start="20260822190000 +0000" stop="20260822200000 +0000">
-    <title lang="zh">華視新聞雜誌</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370171" start="20260822200000 +0000" stop="20260822210000 +0000">
-    <title lang="zh">華視2400夜間新聞</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370171" start="20260822210000 +0000" stop="20260822220000 +0000">
-    <title lang="zh">國際線，出發！</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370171" start="20260822220000 +0000" stop="20260822230000 +0000">
-    <title lang="zh">華視2400夜間新聞</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="370171" start="20260822230000 +0000" stop="20260823000000 +0000">
-    <title lang="zh">GOOD Morning台灣</title>
-    <desc />
-    <date>2026-08-22</date>
-  </programme>
   <programme channel="370171" start="20260823000000 +0000" stop="20260823010000 +0000">
     <title lang="zh">GOOD Morning台灣</title>
     <desc />
@@ -1386,201 +1261,131 @@
     <desc />
     <date>2026-08-23</date>
   </programme>
-  <programme channel="370171" start="20260824000000 +0000" stop="20260825000000 +0000">
+  <programme channel="370171" start="20260824000000 +0000" stop="20260824010000 +0000">
     <title lang="zh">GOOD Morning台灣</title>
     <desc />
     <date>2026-08-24</date>
   </programme>
-<tv date="20260823022520 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335029/20260822.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335029&amp;date=20260822&amp;timezone=None" />
-<tv date="20260823022521 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369749/20260822.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369749&amp;date=20260822&amp;timezone=None" />
-<tv date="20260823022521 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403819/20260822.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403819&amp;date=20260822&amp;timezone=None" />
-<tv date="20260823022522 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/412098/20260822.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=412098&amp;date=20260822&amp;timezone=None" />
-<tv date="20260823022522 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405729/20260822.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405729&amp;date=20260822&amp;timezone=None" />
-<tv date="20260823011634 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410308/20260822.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410308&amp;date=20260822&amp;timezone=None">
+  <programme channel="370171" start="20260824010000 +0000" stop="20260824020000 +0000">
+    <title lang="zh">華視0900整點新聞</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370171" start="20260824020000 +0000" stop="20260824030000 +0000">
+    <title lang="zh">華視1000新聞搶先報</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370171" start="20260824030000 +0000" stop="20260824035800 +0000">
+    <title lang="zh">華視1100新聞搶先報</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370171" start="20260824035800 +0000" stop="20260824050000 +0000">
+    <title lang="zh">華視午間新聞</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370171" start="20260824050000 +0000" stop="20260824060000 +0000">
+    <title lang="zh">華視1300午間新聞</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370171" start="20260824060000 +0000" stop="20260824070000 +0000">
+    <title lang="zh">華視1400整點新聞</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370171" start="20260824070000 +0000" stop="20260824080000 +0000">
+    <title lang="zh">華視1500整點新聞</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370171" start="20260824080000 +0000" stop="20260824085300 +0000">
+    <title lang="zh">華視在地新聞</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370171" start="20260824085300 +0000" stop="20260824120000 +0000">
+    <title lang="zh">華視新聞晚報</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370171" start="20260824120000 +0000" stop="20260824130000 +0000">
+    <title lang="zh">華視2000整點新聞</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370171" start="20260824130000 +0000" stop="20260824140000 +0000">
+    <title lang="zh">World News 9</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370171" start="20260824140000 +0000" stop="20260824150000 +0000">
+    <title lang="zh">52政經點</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370171" start="20260824150000 +0000" stop="20260824155500 +0000">
+    <title lang="zh">華視夜間新聞</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370171" start="20260824155500 +0000" stop="20260824170000 +0000">
+    <title lang="zh">華視2400夜間新聞</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370171" start="20260824170000 +0000" stop="20260824180000 +0000">
+    <title lang="zh">World News 9</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370171" start="20260824180000 +0000" stop="20260824190000 +0000">
+    <title lang="zh">華視2400夜間新聞</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370171" start="20260824190000 +0000" stop="20260824200000 +0000">
+    <title lang="zh">World News 9</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370171" start="20260824200000 +0000" stop="20260824210000 +0000">
+    <title lang="zh">華視2400夜間新聞</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370171" start="20260824210000 +0000" stop="20260824220000 +0000">
+    <title lang="zh">World News 9</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370171" start="20260824220000 +0000" stop="20260824230000 +0000">
+    <title lang="zh">華視2400夜間新聞</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370171" start="20260824230000 +0000" stop="20260825000000 +0000">
+    <title lang="zh">GOOD Morning台灣</title>
+    <desc />
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="370171" start="20260825000000 +0000" stop="20260826000000 +0000">
+    <title lang="zh">GOOD Morning台灣</title>
+    <desc />
+    <date>2026-08-25</date>
+  </programme>
+<tv date="20260823091120 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335029/20260823.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335029&amp;date=20260823&amp;timezone=None" />
+<tv date="20260823091120 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369749/20260823.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369749&amp;date=20260823&amp;timezone=None" />
+<tv date="20260823091126 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403819/20260823.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403819&amp;date=20260823&amp;timezone=None" />
+<tv date="20260823091142 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/412098/20260823.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=412098&amp;date=20260823&amp;timezone=None" />
+<tv date="20260823091148 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405729/20260823.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405729&amp;date=20260823&amp;timezone=None" />
+<tv date="20260823083302 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410308/20260823.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410308&amp;date=20260823&amp;timezone=None">
   <channel id="410308">
     <display-name lang="Hong Kong">Bloomberg Television</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128173252754492_70" />
   </channel>
-  <programme channel="410308" start="20260822000000 +0000" stop="20260822003000 +0000">
-    <title lang="zh">Leaders With Francine Lacqua: The Podcast</title>
-    <desc>Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822003000 +0000" stop="20260822010000 +0000">
-    <title lang="zh">The Circuit</title>
-    <desc>A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822010000 +0000" stop="20260822013000 +0000">
-    <title lang="zh">The David Rubenstein Show</title>
-    <desc>Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822013000 +0000" stop="20260822020000 +0000">
-    <title lang="zh">Bloomberg Originals</title>
-    <desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822020000 +0000" stop="20260822030000 +0000">
-    <title lang="zh">Bloomberg Wall Street Week</title>
-    <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822030000 +0000" stop="20260822033000 +0000">
-    <title lang="zh">The Circuit</title>
-    <desc>A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822033000 +0000" stop="20260822040000 +0000">
-    <title lang="zh">Posthuman</title>
-    <desc>Technology that once seemed like science fiction is rapidly becoming reality, transforming our existence. Emily Chang unravels the future of being human in an age of unprecedented innovation.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822040000 +0000" stop="20260822050000 +0000">
-    <title lang="zh">The Deal With Alex Rodriguez And Jason Kelly</title>
-    <desc>Intimate conversations with business titans and sports champions who reveal their investment philosophies, missed opportunities and more.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822050000 +0000" stop="20260822053000 +0000">
-    <title lang="zh">Posthuman</title>
-    <desc>Technology that once seemed like science fiction is rapidly becoming reality, transforming our existence. Emily Chang unravels the future of being human in an age of unprecedented innovation.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822053000 +0000" stop="20260822060000 +0000">
-    <title lang="zh">The Circuit</title>
-    <desc>A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822060000 +0000" stop="20260822063000 +0000">
-    <title lang="zh">The Mishal Husain Show</title>
-    <desc>Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822063000 +0000" stop="20260822070000 +0000">
-    <title lang="zh">The Mishal Husain Show</title>
-    <desc>Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822070000 +0000" stop="20260822080000 +0000">
-    <title lang="zh">Bloomberg Wall Street Week</title>
-    <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822080000 +0000" stop="20260822083000 +0000">
-    <title lang="zh">Bloomberg Originals</title>
-    <desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822083000 +0000" stop="20260822090000 +0000">
-    <title lang="zh">Posthuman</title>
-    <desc>Technology that once seemed like science fiction is rapidly becoming reality, transforming our existence. Emily Chang unravels the future of being human in an age of unprecedented innovation.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822090000 +0000" stop="20260822093000 +0000">
-    <title lang="zh">Bloomberg New Economy: Thriving In An Age Of Extremes</title>
-    <desc>Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822093000 +0000" stop="20260822100000 +0000">
-    <title lang="zh">The Mishal Husain Show</title>
-    <desc>Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822100000 +0000" stop="20260822110000 +0000">
-    <title lang="zh">Bloomberg Wall Street Week</title>
-    <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822110000 +0000" stop="20260822140000 +0000">
-    <title lang="zh">Bloomberg This Weekend</title>
-    <desc>The news doesn't stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humour to the weekend's biggest headlines, live from New York.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822140000 +0000" stop="20260822150000 +0000">
-    <title lang="zh">Bloomberg Wall Street Week</title>
-    <desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822150000 +0000" stop="20260822153000 +0000">
-    <title lang="zh">The Mishal Husain Show</title>
-    <desc>Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822153000 +0000" stop="20260822160000 +0000">
-    <title lang="zh">The David Rubenstein Show</title>
-    <desc>Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822160000 +0000" stop="20260822163000 +0000">
-    <title lang="zh">Best Of Bloomberg Invest 2026</title>
-    <desc>A recap of Bloomberg Invest New York, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822163000 +0000" stop="20260822170000 +0000">
-    <title lang="zh">Bloomberg Originals</title>
-    <desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822170000 +0000" stop="20260822173000 +0000">
-    <title lang="zh">Leaders With Francine Lacqua: The Podcast</title>
-    <desc>Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822173000 +0000" stop="20260822180000 +0000">
-    <title lang="zh">The David Rubenstein Show</title>
-    <desc>Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822180000 +0000" stop="20260822183000 +0000">
-    <title lang="zh">Bloomberg Investigates</title>
-    <desc>Bloomberg Investigates takes viewers on an immersive journey to the heart of our most powerful reporting. Each investigation is recounted by award-winning journalists.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822183000 +0000" stop="20260822190000 +0000">
-    <title lang="zh">Bloomberg Primer</title>
-    <desc>This six-part, planet-spanning series offers a comprehensive look at the 'impossible' industries vying to shape our future.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822190000 +0000" stop="20260822200000 +0000">
-    <title lang="zh">Bloomberg Primer</title>
-    <desc>This six-part, planet-spanning series offers a comprehensive look at the 'impossible' industries vying to shape our future.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822200000 +0000" stop="20260822210000 +0000">
-    <title lang="zh">The Deal With Alex Rodriguez And Jason Kelly</title>
-    <desc>Intimate conversations with business titans and sports champions who reveal their investment philosophies, missed opportunities and more.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822210000 +0000" stop="20260822213000 +0000">
-    <title lang="zh">Leaders With Francine Lacqua: The Podcast</title>
-    <desc>Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822213000 +0000" stop="20260822220000 +0000">
-    <title lang="zh">The Circuit</title>
-    <desc>A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822220000 +0000" stop="20260822223000 +0000">
-    <title lang="zh">The Mishal Husain Show</title>
-    <desc>Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822223000 +0000" stop="20260822230000 +0000">
-    <title lang="zh">The Mishal Husain Show</title>
-    <desc>Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822230000 +0000" stop="20260822233000 +0000">
-    <title lang="zh">Bloomberg Investigates</title>
-    <desc>Bloomberg Investigates takes viewers on an immersive journey to the heart of our most powerful reporting. Each investigation is recounted by award-winning journalists.</desc>
-    <date>2026-08-22</date>
-  </programme>
-  <programme channel="410308" start="20260822233000 +0000" stop="20260823000000 +0000">
-    <title lang="zh">Bloomberg Originals</title>
-    <desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
-    <date>2026-08-22</date>
-  </programme>
   <programme channel="410308" start="20260823000000 +0000" stop="20260823003000 +0000">
     <title lang="zh">Best Of Bloomberg Invest 2026</title>
     <desc>A recap of Bloomberg Invest New York, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
@@ -1761,5 +1566,95 @@
     <desc>Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
     <date>2026-08-23</date>
   </programme>
-<!-- generated at 2026-08-22 18:25:23 UTC -->
+  <programme channel="410308" start="20260824010000 +0000" stop="20260824030000 +0000">
+    <title lang="zh">Bloomberg: The China Show</title>
+    <desc>Your definitive source for news and analysis on the world's second-biggest economy. Hosted by Yvonne Man and David Ingles.</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="410308" start="20260824030000 +0000" stop="20260824040000 +0000">
+    <title lang="zh">Insight With Haslinda Amin</title>
+    <desc>The definitive guide for global news audiences to get the complete picture on the biggest story of the day, through probing interviews and nuanced conversations.</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="410308" start="20260824040000 +0000" stop="20260824050000 +0000">
+    <title lang="zh">Bloomberg Horizons Middle East &amp; Africa</title>
+    <desc>Linking the market drivers from overnight in the US and across Asia into the region's trading day, with deep dive analysis of the top business, energy and geopolitical stories shaping decisions.</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="410308" start="20260824050000 +0000" stop="20260824060000 +0000">
+    <title lang="zh">Bloomberg Daybreak: Europe</title>
+    <desc>Live from London, we catch you up with overnight markets news from the US and Asia. Plus, we'll tell you what matters for investors in Europe, giving you insight before trading begins.</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="410308" start="20260824060000 +0000" stop="20260824080000 +0000">
+    <title lang="zh">Bloomberg: The Opening Trade</title>
+    <desc>Everything you need to know as markets open across Europe. We break down today's biggest stories and speak to guests with skin in the game.</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="410308" start="20260824080000 +0000" stop="20260824090000 +0000">
+    <title lang="zh">The Pulse With Francine Lacqua</title>
+    <desc>Conversations with high profile guests in the beating heart of global business, finance and politics. We go wherever the story is, bringing you exclusive interviews and market-moving scoops.</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="410308" start="20260824090000 +0000" stop="20260824100000 +0000">
+    <title lang="zh">Bloomberg Brief</title>
+    <desc>Delivering the market news, data and analysis you need to set your agenda.</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="410308" start="20260824100000 +0000" stop="20260824130000 +0000">
+    <title lang="zh">Bloomberg Surveillance</title>
+    <desc>Daily conversations with leaders and decision makers from Wall Street to Washington and beyond. Hosted by Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern.</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="410308" start="20260824130000 +0000" stop="20260824150000 +0000">
+    <title lang="zh">Bloomberg Open Interest</title>
+    <desc>Bloomberg Open Interest with Matt Miller and Dani Burger - delivers the market-moving news you need to know to get a jump start on the US trading day.</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="410308" start="20260824150000 +0000" stop="20260824160000 +0000">
+    <title lang="zh">Bloomberg Tech</title>
+    <desc>The only daily live technology program with a focus on breaking news, market-moving reporting and analysis of global technology companies and stories.</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="410308" start="20260824160000 +0000" stop="20260824170000 +0000">
+    <title lang="zh">Bloomberg Etf Iq</title>
+    <desc>Focusing on the opportunities, risks and current trends tied to the trillions of dollars in the global exchange traded funds industry. Hosted by Scarlet Fu, Katie Greifeld and Eric Balchunas.</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="410308" start="20260824170000 +0000" stop="20260824180000 +0000">
+    <title lang="zh">Bloomberg: Balance Of Power</title>
+    <desc>Bloomberg Balance of Power focuses on politics and policies on Capitol Hill, in President Trump's administration, the federal agencies and the courts.</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="410308" start="20260824180000 +0000" stop="20260824190000 +0000">
+    <title lang="zh">Bloomberg Businessweek Daily</title>
+    <desc>Carol Massar and Tim Stenovec bring you reporting from the magazine that helps global leaders stay ahead, plus insight on the people, companies and trends shaping today's complex economy.</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="410308" start="20260824190000 +0000" stop="20260824210000 +0000">
+    <title lang="zh">Bloomberg The Close</title>
+    <desc>Romaine Bostick and Katie Greifeld break down the day's top market-moving stories and trading action around the closing bell.</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="410308" start="20260824210000 +0000" stop="20260824220000 +0000">
+    <title lang="zh">Bloomberg: Balance Of Power</title>
+    <desc>Bloomberg Balance of Power focuses on politics and policies on Capitol Hill, in President Trump's administration, the federal agencies and the courts.</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="410308" start="20260824220000 +0000" stop="20260824223000 +0000">
+    <title lang="zh">Leaders With Francine Lacqua: The Podcast</title>
+    <desc>Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="410308" start="20260824223000 +0000" stop="20260824230000 +0000">
+    <title lang="zh">Leaders With Francine Lacqua: The Podcast</title>
+    <desc>Francine Lacqua speaks to chief executives and other industry leaders about what drives them and how they navigate and shape their companies amid significant change.</desc>
+    <date>2026-08-24</date>
+  </programme>
+  <programme channel="410308" start="20260824230000 +0000" stop="20260825000000 +0000">
+    <title lang="zh">Bloomberg The Asia Trade</title>
+    <desc>Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
+    <date>2026-08-24</date>
+  </programme>
+<!-- generated at 2026-08-23 01:11:49 UTC -->
 </tv>
