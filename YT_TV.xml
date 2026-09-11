@@ -908,7 +908,7 @@
     <desc />
     <date>2026-09-13</date>
   </programme>
-<tv date="20260911230354 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20260911.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20260911&amp;timezone=None">
+<tv date="20260912012318 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20260911.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20260911&amp;timezone=None">
   <channel id="370172">
     <display-name lang="Taiwan">民視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110836326598_60.png" />
@@ -1383,10 +1383,10 @@
   </programme>
 <tv date="20260911235122 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335029/20260911.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335029&amp;date=20260911&amp;timezone=None" />
 <tv date="20260911235123 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369749/20260911.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369749&amp;date=20260911&amp;timezone=None" />
-<tv date="20260911231241 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403819/20260911.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403819&amp;date=20260911&amp;timezone=None" />
+<tv date="20260912023941 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403819/20260911.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403819&amp;date=20260911&amp;timezone=None" />
 <tv date="20260911235124 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/412098/20260911.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=412098&amp;date=20260911&amp;timezone=None" />
 <tv date="20260911235124 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405729/20260911.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405729&amp;date=20260911&amp;timezone=None" />
-<tv date="20260911230814 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410308/20260911.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410308&amp;date=20260911&amp;timezone=None">
+<tv date="20260912020823 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410308/20260911.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410308&amp;date=20260911&amp;timezone=None">
   <channel id="410308">
     <display-name lang="Hong Kong">Bloomberg Television</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128173252754492_70" />
@@ -1666,5 +1666,5 @@
     <desc>A recap of Bloomberg Invest New York, featuring interviews with leaders in asset management, banking, private capital and wealth. Hosted by Dani Burger.</desc>
     <date>2026-09-13</date>
   </programme>
-<!-- generated at 2026-09-11 15:51:24 UTC -->
+<!-- generated at 2026-09-11 20:39:37 UTC -->
 </tv>
