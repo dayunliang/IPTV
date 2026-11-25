@@ -1,651 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><tv>
-<tv date="20261125001206 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410355/20261124.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410355&amp;date=20261124&amp;timezone=None">
-  <channel id="410355">
-    <display-name lang="Hong Kong">鳳凰衛視資訊台</display-name>
-    <icon src="https://epg.pw/media/images/epg/2025/01/29/20250129074347363304_81" />
-  </channel>
-  <programme channel="410355" start="20261124000000 +0000" stop="20261124005700 +0000">
-    <title lang="zh">鳳凰早班車</title>
-    <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124005700 +0000" stop="20261124010000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124010000 +0000" stop="20261124012700 +0000">
-    <title lang="zh">鳳凰正點播報 0900</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124012700 +0000" stop="20261124013000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124013000 +0000" stop="20261124020000 +0000">
-    <title lang="zh">金石財經</title>
-    <desc>《金石財經》精確對準匯股走勢, 鎖定最新金融行情, 結算每日熱門財經話題, 即日即時評論各項消息。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124020000 +0000" stop="20261124025700 +0000">
-    <title lang="zh">鳳凰正點播報 1000</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124025700 +0000" stop="20261124030000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124030000 +0000" stop="20261124032700 +0000">
-    <title lang="zh">鳳凰正點播報 1100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124032700 +0000" stop="20261124033000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124033000 +0000" stop="20261124040000 +0000">
-    <title lang="zh">總編輯時間</title>
-    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124040000 +0000" stop="20261124045500 +0000">
-    <title lang="zh">鳳凰午間專列</title>
-    <desc>《鳳凰午間專列》: 鳳凰中午的強檔新聞節目, 採取泛中華的報道態度, 關注中國內地的新聞, 也關注香港、台灣以及國際的新聞, 視野更廣闊, 話語空間亦突顯其獨特之處。節目簡潔、實事求事、快人一步, 將新聞帶給正在享用午餐的您, 讓您在休息時段毋須讀報而能輕鬆地接收全球最新出爐的新聞資訊。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124045500 +0000" stop="20261124050000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124050000 +0000" stop="20261124052700 +0000">
-    <title lang="zh">鳳凰正點播報 1300</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124052700 +0000" stop="20261124053000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124053000 +0000" stop="20261124060000 +0000">
-    <title lang="zh">金石財經</title>
-    <desc>《金石財經》精確對準匯股走勢, 鎖定最新金融行情, 結算每日熱門財經話題, 即日即時評論各項消息。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124060000 +0000" stop="20261124062700 +0000">
-    <title lang="zh">鳳凰正點播報 1400</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124062700 +0000" stop="20261124063000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124063000 +0000" stop="20261124070000 +0000">
-    <title lang="zh">總編輯時間</title>
-    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124070000 +0000" stop="20261124075700 +0000">
-    <title lang="zh">鳳凰正點播報 1500</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124075700 +0000" stop="20261124080000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124080000 +0000" stop="20261124085700 +0000">
-    <title lang="zh">鳳凰正點播報 1600</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124085700 +0000" stop="20261124090000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124090000 +0000" stop="20261124092700 +0000">
-    <title lang="zh">鳳凰正點播報 1700</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124092700 +0000" stop="20261124093000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124093000 +0000" stop="20261124100000 +0000">
-    <title lang="zh">金石財經</title>
-    <desc>《金石財經》精確對準匯股走勢, 鎖定最新金融行情, 結算每日熱門財經話題, 即日即時評論各項消息。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124100000 +0000" stop="20261124102700 +0000">
-    <title lang="zh">鳳凰焦點新聞 1800</title>
-    <desc>《鳳凰焦點新聞》: 聚焦重大時政議題, 重大社會事件和新聞熱點, 原創性挖掘更多時事與背景, 分析梳理新聞的前因後果, 人物命運, 呈現權威觀點。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124102700 +0000" stop="20261124103000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124103000 +0000" stop="20261124110000 +0000">
-    <title lang="zh">新聞今日談</title>
-    <desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124110000 +0000" stop="20261124115700 +0000">
-    <title lang="zh">華聞大直播</title>
-    <desc>《華聞大直播》: 報導兩岸三地和大中華地區的重大事件, 以及與您生活息息相關的最新資訊；第一時間直擊報導新聞時間, 關注時事和社會民生。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124115700 +0000" stop="20261124120000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124120000 +0000" stop="20261124122700 +0000">
-    <title lang="zh">鳳凰焦點新聞 2000</title>
-    <desc>《鳳凰焦點新聞》: 聚焦重大時政議題, 重大社會事件和新聞熱點, 原創性挖掘更多時事與背景, 分析梳理新聞的前因後果, 人物命運, 呈現權威觀點。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124122700 +0000" stop="20261124123000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124123000 +0000" stop="20261124130000 +0000">
-    <title lang="zh">鳳凰財經日報</title>
-    <desc>《鳳凰財經日報》每日精選當天最矚目的經濟數據, 世界各地的政經新聞, 並廣邀各方專家進行連線點評, 提供獨到精闢的見解。亦會向觀眾提供全方位的新聞視覺, 率先把握時局帶來的機遇。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124130000 +0000" stop="20261124135500 +0000">
-    <title lang="zh">時事直通車</title>
-    <desc>《時事直通車》: 節目專門網羅國際重大事件和其他集錦新聞、聚焦大陸、台灣及香港的要聞時事。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124135500 +0000" stop="20261124140000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124140000 +0000" stop="20261124143000 +0000">
-    <title lang="zh">總編輯時間</title>
-    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124143000 +0000" stop="20261124150000 +0000">
-    <title lang="zh">新聞今日談</title>
-    <desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124150000 +0000" stop="20261124152700 +0000">
-    <title lang="zh">鳳凰焦點新聞 2300</title>
-    <desc>《鳳凰焦點新聞》: 聚焦重大時政議題, 重大社會事件和新聞熱點, 原創性挖掘更多時事與背景, 分析梳理新聞的前因後果, 人物命運, 呈現權威觀點。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124152700 +0000" stop="20261124153000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124153000 +0000" stop="20261124160000 +0000">
-    <title lang="zh">總編輯時間</title>
-    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124160000 +0000" stop="20261124165700 +0000">
-    <title lang="zh">鳳凰洲際快車</title>
-    <desc>《鳳凰洲際快車》是鳳凰衛視子夜時段的新聞資訊節目, 為您帶來兩岸三地, 以及國際社會的大小新聞、最新動態和局勢發展。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124165700 +0000" stop="20261124170000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124170000 +0000" stop="20261124172700 +0000">
-    <title lang="zh">鳳凰正點播報 0100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124172700 +0000" stop="20261124173000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124173000 +0000" stop="20261124180000 +0000">
-    <title lang="zh">金石財經</title>
-    <desc>《金石財經》精確對準匯股走勢, 鎖定最新金融行情, 結算每日熱門財經話題, 即日即時評論各項消息。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124180000 +0000" stop="20261124182700 +0000">
-    <title lang="zh">鳳凰正點播報 0100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124182700 +0000" stop="20261124183000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124183000 +0000" stop="20261124190000 +0000">
-    <title lang="zh">鳳凰財經日報</title>
-    <desc>《鳳凰財經日報》每日精選當天最矚目的經濟數據, 世界各地的政經新聞, 並廣邀各方專家進行連線點評, 提供獨到精闢的見解。亦會向觀眾提供全方位的新聞視覺, 率先把握時局帶來的機遇。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124190000 +0000" stop="20261124192700 +0000">
-    <title lang="zh">鳳凰正點播報 0100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124192700 +0000" stop="20261124193000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124193000 +0000" stop="20261124200000 +0000">
-    <title lang="zh">總編輯時間</title>
-    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124200000 +0000" stop="20261124202700 +0000">
-    <title lang="zh">鳳凰正點播報 0100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124202700 +0000" stop="20261124203000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124203000 +0000" stop="20261124205700 +0000">
-    <title lang="zh">鳳凰正點播報 0100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124205700 +0000" stop="20261124210000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124210000 +0000" stop="20261124212700 +0000">
-    <title lang="zh">鳳凰正點播報 0100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124212700 +0000" stop="20261124213000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124213000 +0000" stop="20261124220000 +0000">
-    <title lang="zh">新聞今日談</title>
-    <desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124220000 +0000" stop="20261124222700 +0000">
-    <title lang="zh">鳳凰正點播報 0100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124222700 +0000" stop="20261124223000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124223000 +0000" stop="20261124230000 +0000">
-    <title lang="zh">鳳凰聚焦</title>
-    <desc>《鳳凰聚焦》: 關註重大時政選題, 重大社會事件和新聞熱點。原創性挖掘更多事實與背景。分析梳理新聞的前期後果, 人物命運, 呈現權威觀點。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124230000 +0000" stop="20261124235700 +0000">
-    <title lang="zh">鳳凰早班車</title>
-    <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261124235700 +0000" stop="20261125000000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-24</date>
-  </programme>
-  <programme channel="410355" start="20261125000000 +0000" stop="20261125005700 +0000">
-    <title lang="zh">鳳凰早班車</title>
-    <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125005700 +0000" stop="20261125010000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125010000 +0000" stop="20261125012700 +0000">
-    <title lang="zh">鳳凰正點播報 0900</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125012700 +0000" stop="20261125013000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125013000 +0000" stop="20261125020000 +0000">
-    <title lang="zh">金石財經</title>
-    <desc>《金石財經》精確對準匯股走勢, 鎖定最新金融行情, 結算每日熱門財經話題, 即日即時評論各項消息。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125020000 +0000" stop="20261125025700 +0000">
-    <title lang="zh">鳳凰正點播報 1000</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125025700 +0000" stop="20261125030000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125030000 +0000" stop="20261125032700 +0000">
-    <title lang="zh">鳳凰正點播報 1100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125032700 +0000" stop="20261125033000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125033000 +0000" stop="20261125040000 +0000">
-    <title lang="zh">總編輯時間</title>
-    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125040000 +0000" stop="20261125045500 +0000">
-    <title lang="zh">鳳凰午間專列</title>
-    <desc>《鳳凰午間專列》: 鳳凰中午的強檔新聞節目, 採取泛中華的報道態度, 關注中國內地的新聞, 也關注香港、台灣以及國際的新聞, 視野更廣闊, 話語空間亦突顯其獨特之處。節目簡潔、實事求事、快人一步, 將新聞帶給正在享用午餐的您, 讓您在休息時段毋須讀報而能輕鬆地接收全球最新出爐的新聞資訊。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125045500 +0000" stop="20261125050000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125050000 +0000" stop="20261125052700 +0000">
-    <title lang="zh">鳳凰正點播報 1300</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125052700 +0000" stop="20261125053000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125053000 +0000" stop="20261125060000 +0000">
-    <title lang="zh">金石財經</title>
-    <desc>《金石財經》精確對準匯股走勢, 鎖定最新金融行情, 結算每日熱門財經話題, 即日即時評論各項消息。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125060000 +0000" stop="20261125062700 +0000">
-    <title lang="zh">鳳凰正點播報 1400</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125062700 +0000" stop="20261125063000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125063000 +0000" stop="20261125070000 +0000">
-    <title lang="zh">總編輯時間</title>
-    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125070000 +0000" stop="20261125075700 +0000">
-    <title lang="zh">鳳凰正點播報 1500</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125075700 +0000" stop="20261125080000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125080000 +0000" stop="20261125085700 +0000">
-    <title lang="zh">鳳凰正點播報 1600</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125085700 +0000" stop="20261125090000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125090000 +0000" stop="20261125092700 +0000">
-    <title lang="zh">鳳凰正點播報 1700</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125092700 +0000" stop="20261125093000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125093000 +0000" stop="20261125100000 +0000">
-    <title lang="zh">金石財經</title>
-    <desc>《金石財經》精確對準匯股走勢, 鎖定最新金融行情, 結算每日熱門財經話題, 即日即時評論各項消息。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125100000 +0000" stop="20261125102700 +0000">
-    <title lang="zh">鳳凰焦點新聞 1800</title>
-    <desc>《鳳凰焦點新聞》: 聚焦重大時政議題, 重大社會事件和新聞熱點, 原創性挖掘更多時事與背景, 分析梳理新聞的前因後果, 人物命運, 呈現權威觀點。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125102700 +0000" stop="20261125103000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125103000 +0000" stop="20261125110000 +0000">
-    <title lang="zh">新聞今日談</title>
-    <desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125110000 +0000" stop="20261125115700 +0000">
-    <title lang="zh">華聞大直播</title>
-    <desc>《華聞大直播》: 報導兩岸三地和大中華地區的重大事件, 以及與您生活息息相關的最新資訊；第一時間直擊報導新聞時間, 關注時事和社會民生。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125115700 +0000" stop="20261125120000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125120000 +0000" stop="20261125122700 +0000">
-    <title lang="zh">鳳凰焦點新聞 2000</title>
-    <desc>《鳳凰焦點新聞》: 聚焦重大時政議題, 重大社會事件和新聞熱點, 原創性挖掘更多時事與背景, 分析梳理新聞的前因後果, 人物命運, 呈現權威觀點。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125122700 +0000" stop="20261125123000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125123000 +0000" stop="20261125130000 +0000">
-    <title lang="zh">鳳凰財經日報</title>
-    <desc>《鳳凰財經日報》每日精選當天最矚目的經濟數據, 世界各地的政經新聞, 並廣邀各方專家進行連線點評, 提供獨到精闢的見解。亦會向觀眾提供全方位的新聞視覺, 率先把握時局帶來的機遇。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125130000 +0000" stop="20261125135500 +0000">
-    <title lang="zh">時事直通車</title>
-    <desc>《時事直通車》: 節目專門網羅國際重大事件和其他集錦新聞、聚焦大陸、台灣及香港的要聞時事。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125135500 +0000" stop="20261125140000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125140000 +0000" stop="20261125143000 +0000">
-    <title lang="zh">總編輯時間</title>
-    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125143000 +0000" stop="20261125150000 +0000">
-    <title lang="zh">新聞今日談</title>
-    <desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125150000 +0000" stop="20261125152700 +0000">
-    <title lang="zh">鳳凰焦點新聞 2300</title>
-    <desc>《鳳凰焦點新聞》: 聚焦重大時政議題, 重大社會事件和新聞熱點, 原創性挖掘更多時事與背景, 分析梳理新聞的前因後果, 人物命運, 呈現權威觀點。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125152700 +0000" stop="20261125153000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125153000 +0000" stop="20261125160000 +0000">
-    <title lang="zh">總編輯時間</title>
-    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125160000 +0000" stop="20261125165700 +0000">
-    <title lang="zh">鳳凰洲際快車</title>
-    <desc>《鳳凰洲際快車》是鳳凰衛視子夜時段的新聞資訊節目, 為您帶來兩岸三地, 以及國際社會的大小新聞、最新動態和局勢發展。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125165700 +0000" stop="20261125170000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125170000 +0000" stop="20261125172700 +0000">
-    <title lang="zh">鳳凰正點播報 0100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125172700 +0000" stop="20261125173000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125173000 +0000" stop="20261125180000 +0000">
-    <title lang="zh">金石財經</title>
-    <desc>《金石財經》精確對準匯股走勢, 鎖定最新金融行情, 結算每日熱門財經話題, 即日即時評論各項消息。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125180000 +0000" stop="20261125182700 +0000">
-    <title lang="zh">鳳凰正點播報 0100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125182700 +0000" stop="20261125183000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125183000 +0000" stop="20261125190000 +0000">
-    <title lang="zh">鳳凰財經日報</title>
-    <desc>《鳳凰財經日報》每日精選當天最矚目的經濟數據, 世界各地的政經新聞, 並廣邀各方專家進行連線點評, 提供獨到精闢的見解。亦會向觀眾提供全方位的新聞視覺, 率先把握時局帶來的機遇。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125190000 +0000" stop="20261125192700 +0000">
-    <title lang="zh">鳳凰正點播報 0100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125192700 +0000" stop="20261125193000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125193000 +0000" stop="20261125200000 +0000">
-    <title lang="zh">總編輯時間</title>
-    <desc>《總編輯時間》: 鳳凰總編輯重點編選和剖析一天最值得注意的頭條新聞, 解構事情的來龍去脈, 讓觀眾以評論員的眼光看世界, 深度瞭解重點事項。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125200000 +0000" stop="20261125202700 +0000">
-    <title lang="zh">鳳凰正點播報 0100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125202700 +0000" stop="20261125203000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125203000 +0000" stop="20261125205700 +0000">
-    <title lang="zh">鳳凰正點播報 0100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125205700 +0000" stop="20261125210000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125210000 +0000" stop="20261125212700 +0000">
-    <title lang="zh">鳳凰正點播報 0100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125212700 +0000" stop="20261125213000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125213000 +0000" stop="20261125220000 +0000">
-    <title lang="zh">新聞今日談</title>
-    <desc>《新聞今日談》: 節目針對當天最熱門時事問題, 在觀眾最關注的時刻即時作出評論, 讓觀眾更洞悉事件的真相。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125220000 +0000" stop="20261125222700 +0000">
-    <title lang="zh">鳳凰正點播報 0100</title>
-    <desc>《鳳凰正點播報》: 每天全球各個角落、各個領域最有價值、新鮮熱辣的新聞大事, 《鳳凰正點播報》為你追蹤報導。第一時間為你送上, 第一時間讓你知道最新發展。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125222700 +0000" stop="20261125223000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125223000 +0000" stop="20261125230000 +0000">
-    <title lang="zh">鳳凰聚焦</title>
-    <desc>《鳳凰聚焦》: 關註重大時政選題, 重大社會事件和新聞熱點。原創性挖掘更多事實與背景。分析梳理新聞的前期後果, 人物命運, 呈現權威觀點。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125230000 +0000" stop="20261125235700 +0000">
-    <title lang="zh">鳳凰早班車</title>
-    <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261125235700 +0000" stop="20261126000000 +0000">
-    <title lang="zh">鳳凰氣象站</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="410355" start="20261126000000 +0000" stop="20261127000000 +0000">
-    <title lang="zh">鳳凰早班車</title>
-    <desc>《鳳凰早班車》: 透過鳳凰衛視龐大的報導網絡從國際各個主要通訊社獲得新聞資訊, 在早上率先向觀眾報導國際間最新發生的重大事情。</desc>
-    <date>2026-11-26</date>
-  </programme>
-<tv date="20261125005713 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20261124.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20261124&amp;timezone=None" />
-<tv date="20261125005732 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20261124.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20261124&amp;timezone=None" />
+error code: 504
+<tv date="20261125080312 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370177/20261125.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370177&amp;date=20261125&amp;timezone=None" />
+<tv date="20261123134518 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369244/20261123.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369244&amp;date=20261123&amp;timezone=None" />
 <tv date="20261125005749 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370183/20261124.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370183&amp;date=20261124&amp;timezone=None" />
-<tv date="20261125005800 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20261124.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20261124&amp;timezone=None" />
-<tv date="20261124235918 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20261124.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20261124&amp;timezone=None">
+<tv date="20261125080056 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369248/20261125.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369248&amp;date=20261125&amp;timezone=None" />
+<tv date="20261125051018 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370173/20261124.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370173&amp;date=20261124&amp;timezone=None">
   <channel id="370173">
-    <display-name lang="台灣">三立新聞iNEWS</display-name>
+    <display-name lang="Taiwan">三立新聞iNEWS</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110842913601_69.png" />
   </channel>
   <programme channel="370173" start="20261124000000 +0000" stop="20261124010000 +0000">
@@ -873,11 +234,131 @@
     <desc />
     <date>2026-11-26</date>
   </programme>
-<tv date="20261124232258 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20261124.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20261124&amp;timezone=None">
+<tv date="20261123131708 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370172/20261123.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370172&amp;date=20261123&amp;timezone=None">
   <channel id="370172">
     <display-name lang="Taiwan">民視新聞台</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110836326598_60.png" />
   </channel>
+  <programme channel="370172" start="20261123000000 +0000" stop="20261123003000 +0000">
+    <title lang="zh">民視八點晨間新聞【普】</title>
+    <desc />
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="370172" start="20261123003000 +0000" stop="20261123010000 +0000">
+    <title lang="zh">國際早報【普】</title>
+    <desc />
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="370172" start="20261123010000 +0000" stop="20261123020000 +0000">
+    <title lang="zh">民視九點新聞【普】</title>
+    <desc />
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="370172" start="20261123020000 +0000" stop="20261123025600 +0000">
+    <title lang="zh">民視十點新聞【普】</title>
+    <desc />
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="370172" start="20261123025600 +0000" stop="20261123030000 +0000">
+    <title lang="zh">飛閱文學地景XII【普】(E8)</title>
+    <desc />
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="370172" start="20261123030000 +0000" stop="20261123035000 +0000">
+    <title lang="zh">民視十一點新聞【普】</title>
+    <desc />
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="370172" start="20261123035000 +0000" stop="20261123055000 +0000">
+    <title lang="zh">民視午間新聞【普】</title>
+    <desc />
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="370172" start="20261123055000 +0000" stop="20261123080000 +0000">
+    <title lang="zh">頭家來開講【普】(E385)</title>
+    <desc />
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="370172" start="20261123080000 +0000" stop="20261123083000 +0000">
+    <title lang="zh">民視四點新聞【普】</title>
+    <desc />
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="370172" start="20261123083000 +0000" stop="20261123090000 +0000">
+    <title lang="zh">民視國際新聞【普】</title>
+    <desc />
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="370172" start="20261123090000 +0000" stop="20261123102500 +0000">
+    <title lang="zh">民視晚間新聞【普】</title>
+    <desc />
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="370172" start="20261123102500 +0000" stop="20261123115500 +0000">
+    <title lang="zh">民視晚間新聞【普】</title>
+    <desc />
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="370172" start="20261123115500 +0000" stop="20261123125500 +0000">
+    <title lang="zh">台灣最前線【普】(E2658)</title>
+    <desc />
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="370172" start="20261123125500 +0000" stop="20261123135500 +0000">
+    <title lang="zh">台灣最前線【普】(E2658)</title>
+    <desc />
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="370172" start="20261123135500 +0000" stop="20261123153000 +0000">
+    <title lang="zh">台灣向前行【普】(E2151)</title>
+    <desc />
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="370172" start="20261123153000 +0000" stop="20261123170000 +0000">
+    <title lang="zh">民視午夜新聞【普】</title>
+    <desc />
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="370172" start="20261123170000 +0000" stop="20261123173000 +0000">
+    <title lang="zh">民視英語新聞【普】</title>
+    <desc />
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="370172" start="20261123173000 +0000" stop="20261123183000 +0000">
+    <title lang="zh">台灣看世界【普】</title>
+    <desc />
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="370172" start="20261123183000 +0000" stop="20261123193000 +0000">
+    <title lang="zh">民視晚間新聞【普】</title>
+    <desc />
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="370172" start="20261123193000 +0000" stop="20261123203000 +0000">
+    <title lang="zh">台灣最前線【普】(E2658)</title>
+    <desc />
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="370172" start="20261123203000 +0000" stop="20261123213000 +0000">
+    <title lang="zh">台灣最前線【普】(E2658)</title>
+    <desc />
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="370172" start="20261123213000 +0000" stop="20261123220000 +0000">
+    <title lang="zh">民視五點晨間新聞【普】</title>
+    <desc />
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="370172" start="20261123220000 +0000" stop="20261123230000 +0000">
+    <title lang="zh">民視六點晨間新聞【普】</title>
+    <desc />
+    <date>2026-11-23</date>
+  </programme>
+  <programme channel="370172" start="20261123230000 +0000" stop="20261124000000 +0000">
+    <title lang="zh">民視七點晨間新聞【普】</title>
+    <desc />
+    <date>2026-11-23</date>
+  </programme>
   <programme channel="370172" start="20261124000000 +0000" stop="20261124003000 +0000">
     <title lang="zh">民視八點晨間新聞【普】</title>
     <desc />
@@ -993,135 +474,15 @@
     <desc />
     <date>2026-11-24</date>
   </programme>
-  <programme channel="370172" start="20261125000000 +0000" stop="20261125003000 +0000">
+  <programme channel="370172" start="20261125000000 +0000" stop="20261126000000 +0000">
     <title lang="zh">民視八點晨間新聞【普】</title>
     <desc />
     <date>2026-11-25</date>
-  </programme>
-  <programme channel="370172" start="20261125003000 +0000" stop="20261125010000 +0000">
-    <title lang="zh">國際早報【普】</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="370172" start="20261125010000 +0000" stop="20261125020000 +0000">
-    <title lang="zh">民視九點新聞【普】</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="370172" start="20261125020000 +0000" stop="20261125025600 +0000">
-    <title lang="zh">民視十點新聞【普】</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="370172" start="20261125025600 +0000" stop="20261125030000 +0000">
-    <title lang="zh">飛閱文學地景XII【普】(E8)</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="370172" start="20261125030000 +0000" stop="20261125035000 +0000">
-    <title lang="zh">民視十一點新聞【普】</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="370172" start="20261125035000 +0000" stop="20261125055000 +0000">
-    <title lang="zh">民視午間新聞【普】</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="370172" start="20261125055000 +0000" stop="20261125080000 +0000">
-    <title lang="zh">頭家來開講【普】(E387)</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="370172" start="20261125080000 +0000" stop="20261125083000 +0000">
-    <title lang="zh">民視四點新聞【普】</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="370172" start="20261125083000 +0000" stop="20261125090000 +0000">
-    <title lang="zh">民視國際新聞【普】</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="370172" start="20261125090000 +0000" stop="20261125102500 +0000">
-    <title lang="zh">民視晚間新聞【普】</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="370172" start="20261125102500 +0000" stop="20261125115500 +0000">
-    <title lang="zh">民視晚間新聞【普】</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="370172" start="20261125115500 +0000" stop="20261125125500 +0000">
-    <title lang="zh">台灣最前線【普】(E2660)</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="370172" start="20261125125500 +0000" stop="20261125135500 +0000">
-    <title lang="zh">台灣最前線【普】(E2660)</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="370172" start="20261125135500 +0000" stop="20261125153000 +0000">
-    <title lang="zh">台灣向前行【普】(E2153)</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="370172" start="20261125153000 +0000" stop="20261125170000 +0000">
-    <title lang="zh">民視午夜新聞【普】</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="370172" start="20261125170000 +0000" stop="20261125173000 +0000">
-    <title lang="zh">民視英語新聞【普】</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="370172" start="20261125173000 +0000" stop="20261125183000 +0000">
-    <title lang="zh">台灣看世界【普】</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="370172" start="20261125183000 +0000" stop="20261125193000 +0000">
-    <title lang="zh">民視晚間新聞【普】</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="370172" start="20261125193000 +0000" stop="20261125203000 +0000">
-    <title lang="zh">台灣最前線【普】(E2660)</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="370172" start="20261125203000 +0000" stop="20261125213000 +0000">
-    <title lang="zh">台灣最前線【普】(E2660)</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="370172" start="20261125213000 +0000" stop="20261125220000 +0000">
-    <title lang="zh">民視五點晨間新聞【普】</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="370172" start="20261125220000 +0000" stop="20261125230000 +0000">
-    <title lang="zh">民視六點晨間新聞【普】</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="370172" start="20261125230000 +0000" stop="20261126000000 +0000">
-    <title lang="zh">民視七點晨間新聞【普】</title>
-    <desc />
-    <date>2026-11-25</date>
-  </programme>
-  <programme channel="370172" start="20261126000000 +0000" stop="20261127000000 +0000">
-    <title lang="zh">民視八點晨間新聞【普】</title>
-    <desc />
-    <date>2026-11-26</date>
   </programme>
 <tv date="20261125005809 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369324/20261124.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369324&amp;date=20261124&amp;timezone=None" />
 <tv date="20261125005817 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/415097/20261124.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=415097&amp;date=20261124&amp;timezone=None" />
-<tv date="20261125005824 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369318/20261124.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369318&amp;date=20261124&amp;timezone=None" />
-<tv date="20261125005830 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370171/20261124.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370171&amp;date=20261124&amp;timezone=None">
+error code: 502
+<tv date="20261125051012 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/370171/20261124.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=370171&amp;date=20261124&amp;timezone=None">
   <channel id="370171">
     <display-name lang="Taiwan">華視新聞</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110829650925_83.png" />
@@ -1351,12 +712,12 @@
     <desc />
     <date>2026-11-26</date>
   </programme>
-<tv date="20261125005834 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335029/20261124.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335029&amp;date=20261124&amp;timezone=None" />
+<tv date="20261123134534 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/335029/20261123.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=335029&amp;date=20261123&amp;timezone=None" />
 <tv date="20261125005838 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/369749/20261124.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=369749&amp;date=20261124&amp;timezone=None" />
-<tv date="20261125000825 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403819/20261124.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403819&amp;date=20261124&amp;timezone=None" />
+<tv date="20261123134538 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/403819/20261123.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=403819&amp;date=20261123&amp;timezone=None" />
 <tv date="20261125005841 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/412098/20261124.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=412098&amp;date=20261124&amp;timezone=None" />
 <tv date="20261125005843 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/405729/20261124.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=405729&amp;date=20261124&amp;timezone=None" />
-<tv date="20261125003842 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410308/20261124.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410308&amp;date=20261124&amp;timezone=None">
+<tv date="20261125064258 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/410308/20261124.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=410308&amp;date=20261124&amp;timezone=None">
   <channel id="410308">
     <display-name lang="Hong Kong">Bloomberg Television</display-name>
     <icon src="https://epg.pw/media/images/epg/2025/01/28/20250128173252754492_70" />
@@ -1541,5 +902,5 @@
     <desc>Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
     <date>2026-11-25</date>
   </programme>
-<!-- generated at 2026-11-24 16:58:43 UTC -->
+<!-- generated at 2026-11-25 02:09:59 UTC -->
 </tv>
